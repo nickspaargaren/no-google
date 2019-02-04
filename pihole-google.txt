@@ -2,18 +2,71 @@
 # Curated from my own log and some more sources online.
 # Last updated: 02-04-2019
 
+0.0.0.0 android.com
+0.0.0.0 www.android.com
+0.0.0.0 apps.google.com
 0.0.0.0 accounts.google.com
+0.0.0.0 adservice.google.be
+0.0.0.0 adservice.google.co.uk
 0.0.0.0 adservice.google.com
-0.0.0.0 apis.google.com
+0.0.0.0 adservice.google.de
+0.0.0.0 adservice.google.fr
+0.0.0.0 adservice.google.nl
+0.0.0.0 adservice.google.pl
+0.0.0.0 blog.google
+0.0.0.0 security.googleblog.com
+0.0.0.0 calendar.google.com
+0.0.0.0 cloud.google.com
+0.0.0.0 googleapis.com
 0.0.0.0 ajax.googleapis.com
+0.0.0.0 storage.googleapis.com
+0.0.0.0 mannequin.storage.googleapis.com
+0.0.0.0 gsuite.google.com
+0.0.0.0 googleadservices.com
+0.0.0.0 www.googleadservices.com
+0.0.0.0 marketingplatform.google.com
+0.0.0.0 store.google.com
+0.0.0.0 support.google.com
+0.0.0.0 apis.google.com
 0.0.0.0 consent.google.com
+0.0.0.0 doubleclick.net
+0.0.0.0 fls.doubleclick.net
+0.0.0.0 google.be
+0.0.0.0 www.google.be
+0.0.0.0 google.co.uk
+0.0.0.0 www.google.co.uk
 0.0.0.0 google.com
 0.0.0.0 www.google.com
+0.0.0.0 google.de
+0.0.0.0 www.google.de
+0.0.0.0 google.fr
+0.0.0.0 www.google.fr
+0.0.0.0 google.nl
+0.0.0.0 www.google.nl
+0.0.0.0 google.org
+0.0.0.0 www.google.org
+0.0.0.0 google.pl
+0.0.0.0 www.google.pl
 0.0.0.0 gstatic.com
 0.0.0.0 www.gstatic.com
 0.0.0.0 ssl.gstatic.com
 0.0.0.0 csi.gstatic.com
+0.0.0.0 gmail.com
+0.0.0.0 mail.google.com
+0.0.0.0 maps.google.com
+0.0.0.0 myaccount.google.com
+0.0.0.0 keep.google.com
+0.0.0.0 encrypted-tbn0.gstatic.com
+0.0.0.0 encrypted-tbn1.gstatic.com
+0.0.0.0 encrypted-tbn2.gstatic.com
+0.0.0.0 encrypted-tbn3.gstatic.com
+0.0.0.0 id.google.be
+0.0.0.0 id.google.co.uk
 0.0.0.0 id.google.com
+0.0.0.0 id.google.de
+0.0.0.0 id.google.fr
+0.0.0.0 id.google.nl
+0.0.0.0 id.google.pl
 0.0.0.0 googleusercontent.com
 0.0.0.0 lh3.googleusercontent.com
 0.0.0.0 payments.google.com
@@ -22,18 +75,31 @@
 0.0.0.0 lh3.ggpht.com
 0.0.0.0 lh3.google.com
 0.0.0.0 lh3.googleusercontent.com
-
+0.0.0.0 client-channel.google.com
 0.0.0.0 cello.client-channel.google.com
 0.0.0.0 clients4.google.com
 0.0.0.0 clients6.google.com
+0.0.0.0 appspot.com
+0.0.0.0 gweb-cloudblog-publish.appspot.com
 
 # doubleclick
+0.0.0.0 doubleclick.net
+0.0.0.0 g.doubleclick.net
+0.0.0.0 cm.g.doubleclick.net
 0.0.0.0 survey.g.doubleclick.net
-0.0.0.0 googleads.g.doubleclick.net	
+0.0.0.0 googleads.g.doubleclick.net
+0.0.0.0 2507573.fls.doubleclick.net
+0.0.0.0 8522212.fls.doubleclick.net
+
 
 # Google Analytics
 0.0.0.0 google-analytics.com
 0.0.0.0 www.google-analytics.com
+0.0.0.0 ssl.google-analytics.com
+0.0.0.0 googletagmanager.com
+0.0.0.0 www.googletagmanager.com
+0.0.0.0 googletagservices.com
+0.0.0.0 www.googletagservices.com
 
 # Google Fonts
 0.0.0.0 fonts.googleapis.com
@@ -52,3 +118,6 @@
 0.0.0.0 s.ytimg.com
 0.0.0.0 yt3.ggpht.com
 0.0.0.0 googlevideo.com
+
+# Google Docs
+0.0.0.0 docs.google.com
