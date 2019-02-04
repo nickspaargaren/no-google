@@ -2,6 +2,8 @@
 # Curated from my own log and some more sources online.
 # Last updated: 02-04-2019
 
+0.0.0.0 abc.xyz
+0.0.0.0 allo.google.com	
 0.0.0.0 android.com
 0.0.0.0 www.android.com
 0.0.0.0 apps.google.com
@@ -15,10 +17,14 @@
 0.0.0.0 adservice.google.pl
 0.0.0.0 blog.google
 0.0.0.0 security.googleblog.com
+0.0.0.0 search.google.com
 0.0.0.0 calendar.google.com
 0.0.0.0 cloud.google.com
+0.0.0.0 duo.google.com
+0.0.0.0 drive.google.com
 0.0.0.0 googleapis.com
 0.0.0.0 ajax.googleapis.com
+0.0.0.0 clientservices.googleapis.com
 0.0.0.0 storage.googleapis.com
 0.0.0.0 mannequin.storage.googleapis.com
 0.0.0.0 gsuite.google.com
@@ -29,8 +35,6 @@
 0.0.0.0 support.google.com
 0.0.0.0 apis.google.com
 0.0.0.0 consent.google.com
-0.0.0.0 doubleclick.net
-0.0.0.0 fls.doubleclick.net
 0.0.0.0 google.be
 0.0.0.0 www.google.be
 0.0.0.0 google.co.uk
@@ -53,6 +57,7 @@
 0.0.0.0 csi.gstatic.com
 0.0.0.0 gmail.com
 0.0.0.0 mail.google.com
+0.0.0.0 maps.gstatic.com
 0.0.0.0 maps.google.com
 0.0.0.0 myaccount.google.com
 0.0.0.0 keep.google.com
@@ -67,30 +72,51 @@
 0.0.0.0 id.google.fr
 0.0.0.0 id.google.nl
 0.0.0.0 id.google.pl
+0.0.0.0 images.google.com
 0.0.0.0 googleusercontent.com
 0.0.0.0 lh3.googleusercontent.com
+0.0.0.0 lh5.googleusercontent.com
+0.0.0.0 gp3.googleusercontent.com
 0.0.0.0 payments.google.com
+0.0.0.0 photos.google.com
+0.0.0.0 pixel.google.com
+0.0.0.0 plus.google.com
+0.0.0.0 plus.url.google.com
 0.0.0.0 notifications.google.com
 0.0.0.0 ogs.google.com
 0.0.0.0 lh3.ggpht.com
 0.0.0.0 lh3.google.com
 0.0.0.0 lh3.googleusercontent.com
+0.0.0.0 l.google.com
+0.0.0.0 tools.l.google.com
+0.0.0.0 translate.google.com
+0.0.0.0 trends.google.com
 0.0.0.0 client-channel.google.com
 0.0.0.0 cello.client-channel.google.com
+0.0.0.0 clients2.google.com
 0.0.0.0 clients4.google.com
 0.0.0.0 clients6.google.com
 0.0.0.0 appspot.com
 0.0.0.0 gweb-cloudblog-publish.appspot.com
+0.0.0.0 fiber.google.com
+0.0.0.0 maps.googleapis.com
+0.0.0.0 userresearch.google.com
+0.0.0.0 1.bp.blogspot.com
+0.0.0.0 2.bp.blogspot.com
+0.0.0.0 3.bp.blogspot.com
+0.0.0.0 4.bp.blogspot.com
 
-# doubleclick
+# Doubleclick
 0.0.0.0 doubleclick.net
+0.0.0.0 ad.doubleclick.ne
+0.0.0.0 fls.doubleclick.nett
 0.0.0.0 g.doubleclick.net
+0.0.0.0 googleads4.g.doubleclick.net
 0.0.0.0 cm.g.doubleclick.net
 0.0.0.0 survey.g.doubleclick.net
 0.0.0.0 googleads.g.doubleclick.net
 0.0.0.0 2507573.fls.doubleclick.net
 0.0.0.0 8522212.fls.doubleclick.net
-
 
 # Google Analytics
 0.0.0.0 google-analytics.com
@@ -111,8 +137,22 @@
 
 # Youtube
 0.0.0.0 accounts.youtube.com
+0.0.0.0 youtube.be
+0.0.0.0 www.youtube.be
+0.0.0.0 youtube.co.uk
+0.0.0.0 www.youtube.co.uk
 0.0.0.0 youtube.com
 0.0.0.0 www.youtube.com
+0.0.0.0 youtube.de
+0.0.0.0 www.youtube.de
+0.0.0.0 youtube.fr
+0.0.0.0 www.youtube.fr
+0.0.0.0 youtube.nl
+0.0.0.0 www.youtube.nl
+0.0.0.0 youtube.org
+0.0.0.0 www.youtube.org
+0.0.0.0 youtube.pl
+0.0.0.0 www.youtube.pl
 0.0.0.0 c.youtube.com
 0.0.0.0 i.ytimg.com
 0.0.0.0 s.ytimg.com
