@@ -2,4 +2,53 @@
 # Curated from my own log and some more sources online.
 # Last updated: 02-04-2019
 
+0.0.0.0 accounts.google.com
+0.0.0.0 adservice.google.com
+0.0.0.0 apis.google.com
+0.0.0.0 ajax.googleapis.com
+0.0.0.0 consent.google.com
 0.0.0.0 google.com
+0.0.0.0 www.google.com
+0.0.0.0 gstatic.com
+0.0.0.0 www.gstatic.com
+0.0.0.0 ssl.gstatic.com
+0.0.0.0 csi.gstatic.com
+0.0.0.0 id.google.com
+0.0.0.0 googleusercontent.com
+0.0.0.0 lh3.googleusercontent.com
+0.0.0.0 payments.google.com
+0.0.0.0 notifications.google.com
+0.0.0.0 ogs.google.com
+0.0.0.0 lh3.ggpht.com
+0.0.0.0 lh3.google.com
+0.0.0.0 lh3.googleusercontent.com
+
+0.0.0.0 cello.client-channel.google.com
+0.0.0.0 clients4.google.com
+0.0.0.0 clients6.google.com
+
+# doubleclick
+0.0.0.0 survey.g.doubleclick.net
+0.0.0.0 googleads.g.doubleclick.net	
+
+# Google Analytics
+0.0.0.0 google-analytics.com
+0.0.0.0 www.google-analytics.com
+
+# Google Fonts
+0.0.0.0 fonts.googleapis.com
+0.0.0.0 fonts.gstatic.com
+
+# Google play
+0.0.0.0 play.google.com
+0.0.0.0 books.google.com
+
+# Youtube
+0.0.0.0 accounts.youtube.com
+0.0.0.0 youtube.com
+0.0.0.0 www.youtube.com
+0.0.0.0 c.youtube.com
+0.0.0.0 i.ytimg.com
+0.0.0.0 s.ytimg.com
+0.0.0.0 yt3.ggpht.com
+0.0.0.0 googlevideo.com
