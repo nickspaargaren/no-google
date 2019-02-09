@@ -52,6 +52,7 @@
 0.0.0.0 business.google.com
 0.0.0.0 security.googleblog.com
 0.0.0.0 search.google.com
+0.0.0.0 services.google.com
 0.0.0.0 safety.google
 0.0.0.0 santatracker.google.com
 0.0.0.0 www.safety.google
@@ -59,6 +60,7 @@
 0.0.0.0 sketchup.com
 0.0.0.0 www.sketchup.com
 0.0.0.0 sites.google.com
+0.0.0.0 suggestqueries.google.com
 0.0.0.0 calendar.google.com
 0.0.0.0 classroom.google.com
 0.0.0.0 cloud.google.com
@@ -80,6 +82,7 @@
 0.0.0.0 designguidelines.withgoogle.com
 0.0.0.0 developer.android.com
 0.0.0.0 developers.google.com
+0.0.0.0 dl.google.com
 0.0.0.0 ga-dev-tools.appspot.com
 0.0.0.0 gameoftheyear.withgoogle.com
 0.0.0.0 gsuite.google.com
@@ -87,8 +90,10 @@
 0.0.0.0 groups.google.com
 0.0.0.0 grow.google
 0.0.0.0 googleapis.com
+0.0.0.0 www.googleapis.com
 0.0.0.0 get.google.com
 0.0.0.0 gmail.com
+0.0.0.0 imap.gmail.com
 0.0.0.0 diversity.google
 0.0.0.0 drive.google.com
 0.0.0.0 dialogflow.com
@@ -100,8 +105,33 @@
 0.0.0.0 deepmind.com
 0.0.0.0 dns.google.com
 0.0.0.0 www.deepmind.com
+0.0.0.0 android.googleapis.com
 0.0.0.0 ajax.googleapis.com
+0.0.0.0 appsitemsuggest-pa.googleapis.com
 0.0.0.0 clientservices.googleapis.com
+0.0.0.0 cloudconfig.googleapis.com
+0.0.0.0 chart.googleapis.com
+0.0.0.0 chromefeedcontentsuggestions-pa.googleapis.com
+0.0.0.0 datamixer-pa.googleapis.com
+0.0.0.0 datasaver.googleapis.com
+0.0.0.0 device-provisioning.googleapis.com
+0.0.0.0 geomobileservices-pa.googleapis.com
+0.0.0.0 googlehomefoyer-pa.googleapis.com
+0.0.0.0 growth-pa.googleapis.com
+0.0.0.0 photosdata-pa.googleapis.com
+0.0.0.0 play.googleapis.com
+0.0.0.0 playatoms-pa.googleapis.com
+0.0.0.0 notifications.googleapis.com
+0.0.0.0 translate.googleapis.com
+0.0.0.0 update.googleapis.com
+0.0.0.0 mdh-pa.googleapis.com
+0.0.0.0 mclients.googleapis.com
+0.0.0.0 mobiledataplan-pa.googleapis.com
+0.0.0.0 mobilemaps-pa.googleapis.com
+0.0.0.0 iid.googleapis.com
+0.0.0.0 voledevice-pa.googleapis.com
+0.0.0.0 people-pa.googleapis.com
+0.0.0.0 instantmessaging-pa.googleapis.com
 0.0.0.0 scholar.google.be
 0.0.0.0 scholar.google.co.uk
 0.0.0.0 scholar.google.com
@@ -110,7 +140,9 @@
 0.0.0.0 scholar.google.nl
 0.0.0.0 scholar.google.pl
 0.0.0.0 safebrowsing.googleapis.com
+0.0.0.0 android-safebrowsing.google.com
 0.0.0.0 storage.googleapis.com
+0.0.0.0 steamcloud-eu-ams.storage.googleapis.com
 0.0.0.0 gcs-eu-00002.content-storage-upload.googleapis.com
 0.0.0.0 mannequin.storage.googleapis.com
 0.0.0.0 musiclab.chromeexperiments.com
@@ -511,12 +543,12 @@
 0.0.0.0 www.gstatic.com
 0.0.0.0 ssl.gstatic.com
 0.0.0.0 csi.gstatic.com
+0.0.0.0 connectivitycheck.gstatic.com
 0.0.0.0 mail.google.com
 0.0.0.0 maps.gstatic.com
 0.0.0.0 maps.google.com
 0.0.0.0 myaccount.google.com
 0.0.0.0 keep.google.com
-0.0.0.0 kids.youtube.com
 0.0.0.0 edu.google.com
 0.0.0.0 earth.google.com
 0.0.0.0 earthview.withgoogle.com
@@ -534,14 +566,22 @@
 0.0.0.0 id.google.fr
 0.0.0.0 id.google.nl
 0.0.0.0 id.google.pl
+0.0.0.0 inbox.google.com
 0.0.0.0 images.google.com
 0.0.0.0 googleusercontent.com
+0.0.0.0 apidata.googleusercontent.com
+0.0.0.0 ap2.googleusercontent.com
 0.0.0.0 lh3.googleusercontent.com
 0.0.0.0 lh4.googleusercontent.com	
 0.0.0.0 lh5.googleusercontent.com
 0.0.0.0 lh6.googleusercontent.com
 0.0.0.0 gp3.googleusercontent.com
 0.0.0.0 googlehosted.l.googleusercontent.com
+0.0.0.0 ci6.googleusercontent.com
+0.0.0.0 mua3.googleusercontent.com
+0.0.0.0 lh4.ggpht.com
+0.0.0.0 lh5.ggpht.com
+0.0.0.0 lh6.ggpht.com
 0.0.0.0 pay.google.com
 0.0.0.0 payments.google.com
 0.0.0.0 patents.google.com
@@ -563,8 +603,10 @@
 0.0.0.0 lh3.google.com
 0.0.0.0 lh3.googleusercontent.com
 0.0.0.0 l.google.com
+0.0.0.0 googleapis.l.google.com
 0.0.0.0 learndigital.withgoogle.com	
 0.0.0.0 teachercenter.withgoogle.com
+0.0.0.0 time.android.com
 0.0.0.0 tools.l.google.com
 0.0.0.0 translate.google.com
 0.0.0.0 transparencyreport.google.com
@@ -578,6 +620,8 @@
 0.0.0.0 client-channel.google.com
 0.0.0.0 7.client-channel.google.com
 0.0.0.0 cello.client-channel.google.com
+0.0.0.0 android.clients.google.com
+0.0.0.0 clients1.google.com
 0.0.0.0 clients2.google.com
 0.0.0.0 clients3.google.com
 0.0.0.0 clients4.google.com
@@ -606,6 +650,7 @@
 0.0.0.0 mobile.google.com
 0.0.0.0 meet.google.com
 0.0.0.0 music.google.com
+0.0.0.0 mtalk.google.com
 0.0.0.0 withgoogle.com
 0.0.0.0 www.withgoogle.com
 0.0.0.0 wearos.google.com
@@ -618,6 +663,17 @@
 0.0.0.0 vr.google.com
 0.0.0.0 getmdl.io
 0.0.0.0 www.getmdl.io
+0.0.0.0 googlezip.net
+0.0.0.0 www.googlezip.net
+0.0.0.0 check.googlezip.net
+0.0.0.0 compress.googlezip.net
+0.0.0.0 proxy.googlezip.net
+0.0.0.0 gvt1.com
+0.0.0.0 gcp.gvt1.com
+0.0.0.0 beacons.gcp.gvt1.com
+0.0.0.0 gvt2.com
+0.0.0.0 gcp.gvt2.com
+0.0.0.0 beacons.gcp.gvt2.com
 
 # Doubleclick
 0.0.0.0 doubleclick.net
@@ -626,6 +682,7 @@
 0.0.0.0 g.doubleclick.net
 0.0.0.0 googleads4.g.doubleclick.net
 0.0.0.0 cm.g.doubleclick.net
+0.0.0.0 securepubads.g.doubleclick.net
 0.0.0.0 survey.g.doubleclick.net
 0.0.0.0 static.doubleclick.net
 0.0.0.0 stats.g.doubleclick.net
@@ -642,6 +699,7 @@
 0.0.0.0 tagmanager.google.com
 0.0.0.0 googletagservices.com
 0.0.0.0 www.googletagservices.com
+0.0.0.0 www-googletagmanager.l.google.com
 
 # Google Fonts
 0.0.0.0 fonts.google.com
@@ -651,6 +709,7 @@
 # Google play
 0.0.0.0 play.google.com
 0.0.0.0 books.google.com
+0.0.0.0 play.googleapis.com
 
 # Youtube
 0.0.0.0 accounts.youtube.com
@@ -671,13 +730,28 @@
 0.0.0.0 www.youtube.pl
 0.0.0.0 c.youtube.com
 0.0.0.0 i.ytimg.com
+0.0.0.0 i9.ytimg.com
 0.0.0.0 img.youtube.com
 0.0.0.0 s.ytimg.com
 0.0.0.0 yt3.ggpht.com
 0.0.0.0 m.youtube.com
 0.0.0.0 googlevideo.com
+0.0.0.0 redirector.googlevideo.com
 0.0.0.0 video.google.com
 0.0.0.0 gaming.youtube.com
+0.0.0.0 youtubei.googleapis.com
+0.0.0.0 kids.youtube.com
 
 # Google Docs
 0.0.0.0 docs.google.com
+
+# Firebase
+0.0.0.0 firebase.google.com
+0.0.0.0 console.firebase.google.com
+0.0.0.0 www.console.firebase.google.com
+0.0.0.0 firebaseio.com
+0.0.0.0 www.firebaseio.com
+0.0.0.0 firebase-dot-google-developers.appspot.com
+0.0.0.0 s-usc1c-nss-200.firebaseio.com
+0.0.0.0 firebasedynamiclinks-ipv4.googleapis.com
+0.0.0.0 firebasedynamiclinks-ipv6.googleapis.com
