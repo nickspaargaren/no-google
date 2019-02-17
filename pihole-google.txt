@@ -461,6 +461,16 @@
 0.0.0.0 www.google.com.sl
 0.0.0.0 google.sm
 0.0.0.0 www.google.sm
+0.0.0.0 google.bt
+0.0.0.0 www.google.bt
+0.0.0.0 google.com.mm
+0.0.0.0 www.google.com.mm
+0.0.0.0 google.com.pg
+0.0.0.0 www.google.com.pg
+0.0.0.0 google.al
+0.0.0.0 www.google.al
+0.0.0.0 google.com
+0.0.0.0 www.google.com
 0.0.0.0 google.td
 0.0.0.0 www.google.td
 0.0.0.0 google.com.tj
