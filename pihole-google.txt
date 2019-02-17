@@ -62,6 +62,7 @@
 0.0.0.0 sites.google.com
 0.0.0.0 suggestqueries.google.com
 0.0.0.0 calendar.google.com
+0.0.0.0 cast.google.com
 0.0.0.0 classroom.google.com
 0.0.0.0 cloud.google.com
 0.0.0.0 console.actions.google.com
@@ -89,6 +90,7 @@
 0.0.0.0 googleadservices.com
 0.0.0.0 groups.google.com
 0.0.0.0 grow.google
+0.0.0.0 ghs.googlehosted.com
 0.0.0.0 googleapis.com
 0.0.0.0 www.googleapis.com
 0.0.0.0 get.google.com
@@ -753,5 +755,6 @@
 0.0.0.0 www.firebaseio.com
 0.0.0.0 firebase-dot-google-developers.appspot.com
 0.0.0.0 s-usc1c-nss-200.firebaseio.com
+0.0.0.0 s-usc1c-nss-268.firebaseio.com
 0.0.0.0 firebasedynamiclinks-ipv4.googleapis.com
 0.0.0.0 firebasedynamiclinks-ipv6.googleapis.com
