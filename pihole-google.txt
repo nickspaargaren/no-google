@@ -471,6 +471,10 @@
 0.0.0.0 www.google.al
 0.0.0.0 google.com
 0.0.0.0 www.google.com
+0.0.0.0 google.ac
+0.0.0.0 www.google.ac
+0.0.0.0 google.sr
+0.0.0.0 www.google.sr
 0.0.0.0 google.td
 0.0.0.0 www.google.td
 0.0.0.0 google.com.tj
