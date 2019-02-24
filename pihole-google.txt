@@ -59,8 +59,6 @@
 0.0.0.0 ai.google
 0.0.0.0 ai.google.com
 0.0.0.0 ajax.googleapis.com
-0.0.0.0 alerts.google.com
-0.0.0.0 allo.google.com
 0.0.0.0 alt1.aspmx.l.google.com
 0.0.0.0 alt1.google.com
 0.0.0.0 alt2.aspmx.l.google.com
@@ -451,6 +449,7 @@
 0.0.0.0 www.withgoogle.com
 
 # Google Products
+0.0.0.0 alerts.google.com
 0.0.0.0 allo.google.com
 0.0.0.0 bookmarks.google.com
 0.0.0.0 business.google.com
