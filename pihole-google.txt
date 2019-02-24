@@ -163,8 +163,12 @@
 0.0.0.0 www.google.ae
 0.0.0.0 google.com.ag
 0.0.0.0 www.google.com.ag
+0.0.0.0 google.al
+0.0.0.0 www.google.al
 0.0.0.0 google.am
 0.0.0.0 www.google.am
+0.0.0.0 google.bt
+0.0.0.0 www.google.bt
 0.0.0.0 google.co.ao
 0.0.0.0 www.google.co.ao
 0.0.0.0 google.cd
@@ -333,6 +337,8 @@
 0.0.0.0 www.google.mu
 0.0.0.0 google.mv
 0.0.0.0 www.google.mv
+0.0.0.0 google.com.mm
+0.0.0.0 www.google.com.mm
 0.0.0.0 google.mw
 0.0.0.0 www.google.mw
 0.0.0.0 google.com.mx
@@ -369,6 +375,8 @@
 0.0.0.0 www.google.com.pa
 0.0.0.0 google.com.pe
 0.0.0.0 www.google.com.pe
+0.0.0.0 google.com.pg
+0.0.0.0 www.google.com.pg
 0.0.0.0 google.com.ph
 0.0.0.0 www.google.com.ph
 0.0.0.0 google.com.pk
@@ -395,6 +403,8 @@
 0.0.0.0 www.google.si
 0.0.0.0 google.sn
 0.0.0.0 www.google.sn
+0.0.0.0 google.sr
+0.0.0.0 www.google.sr
 0.0.0.0 google.st
 0.0.0.0 www.google.st
 0.0.0.0 google.tg
