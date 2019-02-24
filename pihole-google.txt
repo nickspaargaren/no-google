@@ -2,7 +2,9 @@
 # Curated from my own log and some more sources online.
 # Last updated: 24-02-2019
 
-# Casual Sites
+# Note that this list needs to be ordered.
+
+# Google Products & Other Services
 0.0.0.0 1.bp.blogspot.com
 0.0.0.0 1e100.net
 0.0.0.0 2.bp.blogspot.com
