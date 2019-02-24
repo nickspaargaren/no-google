@@ -1,6 +1,6 @@
 # This blocklist helps Pi-hole's admin restrict access to Google and its domains.
 # Curated from my own log and some more sources online.
-# Last updated: 02-09-2019
+# Last updated: 02-24-2019
 
 0.0.0.0 abc.xyz
 0.0.0.0 aboutme.google.com
