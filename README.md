@@ -5,11 +5,6 @@ Protect yourself from Google's surveillance by using this blocklist!
 Feel free to criticize my blocklist to make it better and better.
 Suggestions are completely welcomed!
 
-This is a fork of the repository of nickspaargaren:
->https://github.com/nickspaargaren/pihole-google.
-
-Reason of this fork:  I'm young and I have free time. I wanted to be able to add domains
-by myself, in order to have a relatively complete list in the shortest time possible.
 
 # Youtube Advertisements Regex
 >_^r.+\googlevideo.com$_
