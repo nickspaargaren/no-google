@@ -20,5 +20,5 @@ since I'm trying to completely block google in my home,
 I don't care if youtube is broken.
 I'll may work on an efficient regex for this purpose.
 
-# You may want to whilelist...
+# Sites you may want to whitelist
 >0.0.0.0 recaptcha.google.com
