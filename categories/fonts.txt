@@ -1,0 +1,4 @@
+# Google Fonts
+0.0.0.0 fonts.google.com
+0.0.0.0 fonts.googleapis.com
+0.0.0.0 fonts.gstatic.com

@@ -1,0 +1,11 @@
+# Firebase
+0.0.0.0 firebase.google.com
+0.0.0.0 console.firebase.google.com
+0.0.0.0 www.console.firebase.google.com
+0.0.0.0 firebaseio.com
+0.0.0.0 www.firebaseio.com
+0.0.0.0 firebase-dot-google-developers.appspot.com
+0.0.0.0 s-usc1c-nss-200.firebaseio.com
+0.0.0.0 s-usc1c-nss-268.firebaseio.com
+0.0.0.0 firebasedynamiclinks-ipv4.googleapis.com
+0.0.0.0 firebasedynamiclinks-ipv6.googleapis.com
