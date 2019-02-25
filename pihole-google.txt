@@ -1,5 +1,6 @@
 # This blocklist helps Pi-hole's admin restrict access to Google and its domains.
 # Curated from my own log and some more sources online.
+
 # Last updated: 25-02-2019
 
 # Google Analytics
@@ -11,7 +12,9 @@
 0.0.0.0 www-googletagmanager.l.google.com
 0.0.0.0 www.google-analytics.com
 0.0.0.0 www.googletagmanager.com
-0.0.0.0 www.googletagservices.com# Google Android
+0.0.0.0 www.googletagservices.com
+
+# Google Android
 0.0.0.0 1-market.android.com
 0.0.0.0 a17-250-248-101.android.com
 0.0.0.0 a.android.com
@@ -500,7 +503,9 @@
 0.0.0.0 view.comms.doubleclick.com
 0.0.0.0 www2.doubleclick.com
 0.0.0.0 www3.doubleclick.com
-0.0.0.0 www.doubleclick.com# Firebase
+0.0.0.0 www.doubleclick.com
+
+# Firebase
 0.0.0.0 firebase.google.com
 0.0.0.0 console.firebase.google.com
 0.0.0.0 www.console.firebase.google.com
@@ -1593,7 +1598,6 @@
 0.0.0.0 goo.gl
 0.0.0.0 youtu.be
 0.0.0.0 g.co
-
 
 # Youtube
 0.0.0.0 accounts.youtube.com
