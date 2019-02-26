@@ -1,4 +1,5 @@
 # General Sites
+0.0.0.0 agoogleaday.com
 0.0.0.0 1.bp.blogspot.com
 0.0.0.0 1e100.net
 0.0.0.0 2.bp.blogspot.com
@@ -187,6 +188,7 @@
 0.0.0.0 ghs.googlehosted.com
 0.0.0.0 gmail-smtp-mas.1.google.com
 0.0.0.0 gmskiosk.corp.google.com
+0.0.0.0 google-en.collectyourprize.club
 0.0.0.0 google-public-dns-a.google.com
 0.0.0.0 googleadservices.com
 0.0.0.0 googleapis.com
@@ -301,6 +303,7 @@
 0.0.0.0 ns2.ns1.google.com
 0.0.0.0 ns4.google.com
 0.0.0.0 o-o.resolver.203.45.187.179.p6bmw3zahq27rql.metricz.l .google.com
+0.0.0.0 ocsp.pki.goog
 0.0.0.0 ogs.google.com
 0.0.0.0 one.google.com
 0.0.0.0 onetoday.google.com
@@ -328,6 +331,7 @@
 0.0.0.0 randy-phishingbotnet-maugans.you.like.here.follo.by.svc-1.google.com
 0.0.0.0 recaptcha.google.com
 0.0.0.0 research.google.com
+0.0.0.0 rtb.pixeltracking.co
 0.0.0.0 safebrowsing.clients.google.com
 0.0.0.0 safebrowsing.google.com
 0.0.0.0 safebrowsing.googleapis.com
@@ -345,6 +349,7 @@
 0.0.0.0 sleep3_1.google.com
 0.0.0.0 sleep4_1.google.com
 0.0.0.0 sleep_0.google.com
+0.0.0.0 smartypins.withgoogle.com
 0.0.0.0 spreadsheet.google.com
 0.0.0.0 spreadsheets0.google.com
 0.0.0.0 spreadsheets1.google.com
@@ -397,6 +402,7 @@
 0.0.0.0 www10.google.com
 0.0.0.0 www-google-analytics.l.google.com
 0.0.0.0 www.adwords.google.com
+0.0.0.0 www.agoogleaday.com
 0.0.0.0 www.ampproject.org
 0.0.0.0 www.appspot.com
 0.0.0.0 www.autodraw.com
