@@ -873,6 +873,7 @@
 0.0.0.0 steamcloud-eu-ams.storage.googleapis.com
 0.0.0.0 storage.googleapis.com
 0.0.0.0 store.google.com
+0.0.0.0 stun.l.google.com
 0.0.0.0 stun1.l.google.com
 0.0.0.0 suggestqueries.google.com
 0.0.0.0 support.google.com
