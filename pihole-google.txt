@@ -1527,6 +1527,9 @@
 0.0.0.0 storage.googleapis.com
 0.0.0.0 store.google.com
 0.0.0.0 stun1.l.google.com
+0.0.0.0 stun2.l.google.com
+0.0.0.0 stun3.l.google.com
+0.0.0.0 stun4.l.google.com
 0.0.0.0 suggestqueries.google.com
 0.0.0.0 support.google.com
 0.0.0.0 svc-1.google.com
