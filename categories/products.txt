@@ -36,6 +36,7 @@
 0.0.0.0 domains.google
 0.0.0.0 domains.google.com
 0.0.0.0 donate.google.com
+0.0.0.0 doodles.google.com
 0.0.0.0 drawings.google.com
 0.0.0.0 drive.google.com
 0.0.0.0 duo.google.com
