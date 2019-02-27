@@ -405,3 +405,5 @@
 0.0.0.0 www.google.com
 0.0.0.0 google.com.bd
 0.0.0.0 www.google.com.bd
+0.0.0.0 google.com/ncr
+0.0.0.0 www.google.com/ncr
