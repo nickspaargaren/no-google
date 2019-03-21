@@ -4,6 +4,7 @@
 
 # Google Analytics
 0.0.0.0 apis.googletagmanager.com
+0.0.0.0 cctldtest.google-analytics.com
 0.0.0.0 click.google-analytics.com
 0.0.0.0 htps.googletagmanager.com
 0.0.0.0 httpswww.googletagmanager.com
