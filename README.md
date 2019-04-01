@@ -18,31 +18,31 @@ I'll may work on an efficient regex for this purpose.
 # **Experimental** regexes
 >_^(.+[-_.])??google[-_.]
 
-^(.+[-_.])??gstatic[-_.]
+>_^(.+[-_.])??gstatic[-_.]
 
-^(.+[-_.])??googleapis[-_.]
+>_^(.+[-_.])??googleapis[-_.]
 
-^(.+[-_.])??withgoogle[-_.]
+>_^(.+[-_.])??withgoogle[-_.]
 
-^(.+[-_.])??googletagmanager[-_.]
+>_^(.+[-_.])??googletagmanager[-_.]
 
-^(.+[-_.])??googletagservices[-_.]
+>_^(.+[-_.])??googletagservices[-_.]
 
-^(.+[-_.])??googleusercontent[-_.]
+>_^(.+[-_.])??googleusercontent[-_.]
 
-^(.+[-_.])??googlesyndication[-_.]
+>_^(.+[-_.])??googlesyndication[-_.]
 
-^(.+[-_.])??chromeexperiments[-_.]
+>_^(.+[-_.])??chromeexperiments[-_.]
 
-^(.+[-_.])??google-analytics[-_.]
+>_^(.+[-_.])??google-analytics[-_.]
 
-^(.+[-_.])??youtube[-_.]
+>_^(.+[-_.])??youtube[-_.]
 
-^(.+[-_.])??waze[-_.]
+>_^(.+[-_.])??waze[-_.]
 
-^(.+[-_.])??doubleclick[-_.]
+>_^(.+[-_.])??doubleclick[-_.]
 
-^(.+[-_.])??firebaseio[-_.]_
+>_^(.+[-_.])??firebaseio[-_.]_
 
 These **should** block all domains like this: *.<domain>.*.
 They certainly need to be improved, for example idk if they work with domains like this: .*.<domain>.* 
