@@ -15,7 +15,7 @@ Suggestions are completely welcomed!
 >_.?googlesyndication.
 >_.?googletagmanager.
 >_.?googletagservices.
->_.?googleusercontent
+>_.?googleusercontent.
 >_.?gstatic.
 >_.?google-analytics.
 >_.?waze.
