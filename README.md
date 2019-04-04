@@ -2,11 +2,11 @@
 
 Protect yourself from Google's surveillance by using this blocklist!
 
-Feel free to criticize my blocklist to make it better and better.
+Feel free to criticize our blocklist to make it better and better.
 Suggestions are completely welcomed!
 
 
-# Youtube Advertisements Regex
+## Youtube Advertisements Regex
 >_^r.+\googlevideo.com$_
 
 NOTE: This is supposed to prevent these domains to be
@@ -15,7 +15,7 @@ since I'm trying to completely block google in my home,
 I don't care if youtube is broken.
 I'll may work on an efficient regex for this purpose.
 
-# **Experimental** regexes
+## **Experimental** regexes
 >_^(.+[-_.])??google[-_.]
 
 >_^(.+[-_.])??gstatic[-_.]
@@ -48,5 +48,5 @@ These **should** block all domains like this: *.<domain>.*.
 They certainly need to be improved, for example idk if they work with domains like this: .*.<domain>.* 
   [Regex filters made by](https://github.com/nickspaargaren/pihole-google/issues/7) [@scoobydom0](https://github.com/scoobydom0)
   
-# Sites you may want to whitelist
->0.0.0.0 recaptcha.google.com
+## Sites you may want to whitelist
+>recaptcha.google.com
