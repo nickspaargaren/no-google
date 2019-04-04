@@ -5,22 +5,6 @@ Protect yourself from Google's surveillance by using this blocklist!
 Feel free to criticize our blocklist to make it better and better.
 Suggestions are completely welcomed!
 
-# Regex filters (tested)
->_.?android.
->_.?chromeexperiments.
->_.?doubleclick.
->_.?firebaseio.
->_.?google.
->_.?googleapis.
->_.?googlesyndication.
->_.?googletagmanager.
->_.?googletagservices.
->_.?googleusercontent.
->_.?gstatic.
->_.?google-analytics.
->_.?waze.
->_.?withgoogle.
->_.?youtube.
 
 ## Youtube Advertisements Regex
 >_^r.+\googlevideo.com$_
@@ -31,38 +15,36 @@ since I'm trying to completely block google in my home,
 I don't care if youtube is broken.
 I'll may work on an efficient regex for this purpose.
 
-## **Experimental** regexes
->_^(.+[-_.])??google[-_.]
+## Regex filters
+>.?android.
 
->_^(.+[-_.])??gstatic[-_.]
+>.?chromeexperiments.
 
->_^(.+[-_.])??googleapis[-_.]
+>.?doubleclick.
 
->_^(.+[-_.])??withgoogle[-_.]
+>.?firebaseio.
 
->_^(.+[-_.])??googletagmanager[-_.]
+>.?google.
 
->_^(.+[-_.])??googletagservices[-_.]
+>.?googleapis.
 
->_^(.+[-_.])??googleusercontent[-_.]
+>.?googlesyndication.
 
->_^(.+[-_.])??googlesyndication[-_.]
+>.?googletagmanager.
 
->_^(.+[-_.])??chromeexperiments[-_.]
+>.?googletagservices.
 
->_^(.+[-_.])??google-analytics[-_.]
+>.?googleusercontent.
 
->_^(.+[-_.])??youtube[-_.]
+>.?gstatic.
 
->_^(.+[-_.])??waze[-_.]
+>.?google-analytics.
 
->_^(.+[-_.])??doubleclick[-_.]
+>.?waze.
 
->_^(.+[-_.])??firebaseio[-_.]_
+>.?withgoogle.
 
-These **should** block all domains like this: *.<domain>.*.
-They certainly need to be improved, for example idk if they work with domains like this: .*.<domain>.* 
-  [Regex filters made by](https://github.com/nickspaargaren/pihole-google/issues/7) [@scoobydom0](https://github.com/scoobydom0)
-  
+>.?youtube.  
+
 ## Sites you may want to whitelist
 >recaptcha.google.com
