@@ -5,6 +5,22 @@ Protect yourself from Google's surveillance by using this blocklist!
 Feel free to criticize our blocklist to make it better and better.
 Suggestions are completely welcomed!
 
+# Regex filters (tested)
+>_.?android.
+>_.?chromeexperiments.
+>_.?doubleclick.
+>_.?firebaseio.
+>_.?google.
+>_.?googleapis.
+>_.?googlesyndication.
+>_.?googletagmanager.
+>_.?googletagservices.
+>_.?googleusercontent
+>_.?gstatic.
+>_.?google-analytics.
+>_.?waze.
+>_.?withgoogle.
+>_.?youtube.
 
 ## Youtube Advertisements Regex
 >_^r.+\googlevideo.com$_
