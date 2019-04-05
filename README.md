@@ -1,3 +1,4 @@
+![No G](https://horobox.co.uk/u/pEP30q.png)
 # Purge Google from your network!
 
 Protect yourself from Google's surveillance by using this blocklist!
@@ -48,3 +49,37 @@ I'll may work on an efficient regex for this purpose.
 
 ## Sites you may want to whitelist
 >recaptcha.google.com
+
+## How to use it ?
+Simply go into to your blocklist settings to add either, the whole filter `https://raw.githubusercontent.com/PoorPocketsMcNewHold/pihole-google/master/pihole-google.txt`
+or either a selection of the filtered domains 
+```
+https://raw.githubusercontent.com/PoorPocketsMcNewHold/pihole-google/master/categories/youtubeparsed
+https://raw.githubusercontent.com/PoorPocketsMcNewHold/pihole-google/raw/master/categories/shortlinksparsed
+https://raw.githubusercontent.com/PoorPocketsMcNewHold/pihole-google/raw/master/categories/proxiesparsed
+https://raw.githubusercontent.com/PoorPocketsMcNewHold/pihole-google/raw/master/categories/productsparsed
+https://raw.githubusercontent.com/PoorPocketsMcNewHold/pihole-google/raw/master/categories/mailparsed
+https://raw.githubusercontent.com/PoorPocketsMcNewHold/pihole-google/raw/master/categories/generalparsed
+https://raw.githubusercontent.com/PoorPocketsMcNewHold/pihole-google/raw/master/categories/fontsparsed
+https://raw.githubusercontent.com/PoorPocketsMcNewHold/pihole-google/raw/master/categories/firebaseparsed
+https://raw.githubusercontent.com/PoorPocketsMcNewHold/pihole-google/raw/master/categories/doubleclickparsed
+https://raw.githubusercontent.com/PoorPocketsMcNewHold/pihole-google/raw/master/categories/domainsparsed
+https://raw.githubusercontent.com/PoorPocketsMcNewHold/pihole-google/raw/master/categories/dnsparsed
+https://raw.githubusercontent.com/PoorPocketsMcNewHold/pihole-google/raw/master/categories/androidparsed
+https://raw.githubusercontent.com/PoorPocketsMcNewHold/pihole-google/raw/master/categories/analyticsparsed
+```
+
+(Combining those with the main whole filter is useless and not recommended, however, feel free to combine the different smaller filters)
+
+## Can i block the other letters of GAFAM ?
+Of course, Here´s some filterlist link that have been made by other people.
+
+**A**pple : Sadly, none to be found. Feel free to let us know of the existance of one !
+
+**F**acebook : https://raw.githubusercontent.com/jmdugan/blocklists/master/corporations/facebook/all or https://raw.githubusercontent.com/anudeepND/blacklist/master/facebook.txt
+
+**A**mazon : Sadly, none to be found. Feel free to let us know of the existance of one !
+
+**M**icrosoft : https://raw.githubusercontent.com/jmdugan/blocklists/master/corporations/microsoft/all
+
+![https://gafam.info](https://ptrace.gafam.info/unofficial/img/color/lqdn-gafam-poster-en-color-5x1-2560x.png)
