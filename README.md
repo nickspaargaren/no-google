@@ -55,22 +55,22 @@ I'll may work on an efficient regex for this purpose.
 >recaptcha.google.com
 
 ## How to use it ?
-Simply go into to your blocklist settings to add either, the whole filter `https://raw.githubusercontent.com/nickspaargaren/pihole-google/master/pihole-google.txt`
+Simply go into to your blocklist settings to add either, the whole filter `https://raw.githubusercontent.com/nickspaargaren/pihole-google/master/pihole-google.txt
 or either a selection of the filtered domains 
 ```
 https://raw.githubusercontent.com/nickspaargaren/pihole-google/master/categories/youtubeparsed
-https://raw.githubusercontent.com/nickspaargaren/pihole-google/raw/master/categories/shortlinksparsed
-https://raw.githubusercontent.com/nickspaargaren/pihole-google/raw/master/categories/proxiesparsed
-https://raw.githubusercontent.com/nickspaargaren/pihole-google/raw/master/categories/productsparsed
-https://raw.githubusercontent.com/nickspaargaren/pihole-google/raw/master/categories/mailparsed
-https://raw.githubusercontent.com/nickspaargaren/pihole-google/raw/master/categories/generalparsed
-https://raw.githubusercontent.com/nickspaargaren/pihole-google/raw/master/categories/fontsparsed
-https://raw.githubusercontent.com/nickspaargaren/pihole-google/raw/master/categories/firebaseparsed
-https://raw.githubusercontent.com/nickspaargaren/pihole-google/raw/master/categories/doubleclickparsed
-https://raw.githubusercontent.com/nickspaargaren/pihole-google/raw/master/categories/domainsparsed
-https://raw.githubusercontent.com/nickspaargaren/pihole-google/raw/master/categories/dnsparsed
-https://raw.githubusercontent.com/nickspaargaren/pihole-google/raw/master/categories/androidparsed
-https://raw.githubusercontent.com/nickspaargaren/pihole-google/raw/master/categories/analyticsparsed
+https://raw.githubusercontent.com/nickspaargaren/pihole-google/master/categories/shortlinksparsed
+https://raw.githubusercontent.com/nickspaargaren/pihole-google/master/categories/proxiesparsed
+https://raw.githubusercontent.com/nickspaargaren/pihole-google/master/categories/productsparsed
+https://raw.githubusercontent.com/nickspaargaren/pihole-google/master/categories/mailparsed
+https://raw.githubusercontent.com/nickspaargaren/pihole-google/master/categories/generalparsed
+https://raw.githubusercontent.com/nickspaargaren/pihole-google/master/categories/fontsparsed
+https://raw.githubusercontent.com/nickspaargaren/pihole-google/master/categories/firebaseparsed
+https://raw.githubusercontent.com/nickspaargaren/pihole-google/master/categories/doubleclickparsed
+https://raw.githubusercontent.com/nickspaargaren/pihole-google/master/categories/domainsparsed
+https://raw.githubusercontent.com/nickspaargaren/pihole-google/master/categories/dnsparsed
+https://raw.githubusercontent.com/nickspaargaren/pihole-google/master/categories/androidparsed
+https://raw.githubusercontent.com/nickspaargaren/pihole-google/master/categories/analyticsparsed
 ```
 
 (Combining those with the main whole filter is useless and not recommended, however, feel free to combine the different smaller filters)
