@@ -21,6 +21,8 @@ I don't care if youtube is broken.
 I'll may work on an efficient regex for this purpose.
 
 ## Regex filters
+>.?ampproject.
+
 >.?android.
 
 >.?chromeexperiments.
