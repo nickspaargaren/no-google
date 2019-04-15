@@ -21,37 +21,37 @@ I don't care if youtube is broken.
 I'll may work on an efficient regex for this purpose.
 
 ## Regex filters
->(.*)\.)?ampproject\.(.*)
+>((.*)\.)?ampproject\.(.*)
 
->(.*)\.)?android\.(.*)
+>((.*)\.)?android\.(.*)
 
->(.*)\.)?chromeexperiments\.(.*)
+>((.*)\.)?chromeexperiments\.(.*)
 
->(.*)\.)?doubleclick\.(.*)
+>((.*)\.)?doubleclick\.(.*)
 
->(.*)\.)?firebaseio\.(.*)
+>((.*)\.)?firebaseio\.(.*)
 
 >((.*)\.)?google\.(.*)
 
->(.*)\.)?googleapis\.(.*)
+>((.*)\.)?googleapis\.(.*)
 
->(.*)\.)?googlesyndication\.(.*)
+>((.*)\.)?googlesyndication\.(.*)
 
->(.*)\.)?googletagmanager\.(.*)
+>((.*)\.)?googletagmanager\.(.*)
 
->(.*)\.)?googletagservices\.(.*)
+>((.*)\.)?googletagservices\.(.*)
 
->(.*)\.)?googleusercontent\.(.*)
+>((.*)\.)?googleusercontent\.(.*)
 
->(.*)\.)?gstatic\.(.*)
+>((.*)\.)?gstatic\.(.*)
 
->(.*)\.)?google-analytics\.(.*)
+>((.*)\.)?google-analytics\.(.*)
 
->(.*)\.)?waze\.(.*)
+>((.*)\.)?waze\.(.*)
 
->(.*)\.)?withgoogle\.(.*)
+>((.*)\.)?withgoogle\.(.*)
 
->(.*)\.)?youtube\.(.*)
+>((.*)\.)?youtube\.(.*)
 
 ## Sites you may want to whitelist
 >recaptcha.google.com
