@@ -1,4 +1,4 @@
-# ===== Use this list alonside regex filters =====
+# ===== Use this list alongside regex filters =====
 # Contains all non-covered domains by regex filters
 # We'll try to reduce this list as much as possible
 # What can be done:
