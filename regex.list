@@ -10,7 +10,7 @@
 ((.*)\.)?firebaseio\.(.*)
 ((.*)\.)?ggpht\.(.*)
 ((.*)\.)?gmail\.(.*)
-((.*)\.)?google\.(.*)
+((.*)\.)?google(\.(.*))?
 ((.*)\.)?googleadservices\.(.*)
 ((.*)\.)?googleapis\.(.*)
 ((.*)\.)?googlesyndication\.(.*)
@@ -19,6 +19,7 @@
 ((.*)\.)?googleusercontent\.(.*)
 ((.*)\.)?google-analytics\.(.*)
 ((.*)\.)?gstatic\.(.*)
+((.*)\.)?gv\.(.*)
 ((.*)\.)?gvt[12]\.(.*)
 ((.*)\.)?waze\.(.*)
 ((.*)\.)?withgoogle\.(.*)
