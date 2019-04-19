@@ -31,6 +31,8 @@ I'll may work on an efficient regex for this purpose.
 
 >((.*)\.)?firebaseio\.(.*)
 
+>((.*)\.)?gmail\.(.*)
+
 >((.*)\.)?google\.(.*)
 
 >((.*)\.)?googleadservices\.(.*)
