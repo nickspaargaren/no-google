@@ -21,6 +21,10 @@ I don't care if youtube is broken.
 I'll may work on an efficient regex for this purpose.
 
 ## Regex filters
+>^[1234]\.bp\.blogspot\.com
+
+>((.*)\.)?abc\.(.*)
+
 >((.*)\.)?ampproject\.(.*)
 
 >((.*)\.)?android\.(.*)
@@ -53,9 +57,11 @@ I'll may work on an efficient regex for this purpose.
 
 >((.*)\.)?googleusercontent\.(.*)
 
+>((.*)\.)?google-analytics\.(.*)
+
 >((.*)\.)?gstatic\.(.*)
 
->((.*)\.)?google-analytics\.(.*)
+>((.*)\.)?gvt[12]\.(.*)
 
 >((.*)\.)?waze\.(.*)
 
