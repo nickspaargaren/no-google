@@ -43,7 +43,7 @@ I'll may work on an efficient regex for this purpose.
 
 >((.*)\.)?gmail\.(.*)
 
->((.*)\.)?google\.(.*)
+>((.*)\.)?google(\.(.*))?
 
 >((.*)\.)?googleadservices\.(.*)
 
@@ -61,7 +61,7 @@ I'll may work on an efficient regex for this purpose.
 
 >((.*)\.)?gstatic\.(.*)
 
->((.*)\.)?gvt[12]\.(.*)
+>((.*)\.)?gv(t[12])?\.(.*)
 
 >((.*)\.)?waze\.(.*)
 
