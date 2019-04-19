@@ -25,11 +25,17 @@ I'll may work on an efficient regex for this purpose.
 
 >((.*)\.)?android\.(.*)
 
+>((.*)\.)?chrome\.(.*)
+
 >((.*)\.)?chromeexperiments\.(.*)
+
+>((.*)\.)?chromium\.(.*)
 
 >((.*)\.)?doubleclick\.(.*)
 
 >((.*)\.)?firebaseio\.(.*)
+
+>((.*)\.)?ggpht\.(.*)
 
 >((.*)\.)?gmail\.(.*)
 
@@ -56,6 +62,8 @@ I'll may work on an efficient regex for this purpose.
 >((.*)\.)?withgoogle\.(.*)
 
 >((.*)\.)?youtube\.(.*)
+
+>((.*)\.)?ytimg\.(.*)
 
 ## Sites you may want to whitelist
 >recaptcha.google.com
