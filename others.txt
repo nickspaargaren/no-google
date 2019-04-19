@@ -1,0 +1,53 @@
+# ===== Use this list alonside regex filters =====
+# Contains all non-covered domains by regex filters
+# We'll try to reduce this list as much as possible
+# What can be done:
+# cover 'gv' domains
+
+# Google DNS Servers
+8.8.8.8
+8.8.4.4
+2001:4860:4860::8888
+2001:4860:4860::8844
+
+# Short Links
+g.co
+cctldtest.g.co
+goo.gl
+youtu.be
+cctldtest.youtu.be
+m.youtu.be
+surf.youtu.be
+
+# General Sites
+1e100.net
+appspot.com
+autodraw.com
+blog.dialogflow.com
+deepmind.com
+dialogflow.com
+flutter.io
+ga-dev-tools.appspot.com
+getmdl.io
+code.getmdl.io
+gv.com
+community.gv.com
+img.gv.com
+library.gv.com
+www.library.gv.com
+v.gv.com
+gweb-cloudblog-publish.appspot.com
+material.io
+ocsp.pki.goog
+rtb.pixeltracking.co
+sketchup.com
+web.dev
+www.appspot.com
+www.autodraw.com
+www.deepmind.com
+www.dialogflow.com
+www.flutter.io
+www.getmdl.io
+www.gv.com
+www.material.io
+www.sketchup.com
