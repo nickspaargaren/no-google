@@ -30,12 +30,6 @@ flutter.io
 ga-dev-tools.appspot.com
 getmdl.io
 code.getmdl.io
-gv.com
-community.gv.com
-img.gv.com
-library.gv.com
-www.library.gv.com
-v.gv.com
 gweb-cloudblog-publish.appspot.com
 material.io
 ocsp.pki.goog
@@ -48,6 +42,5 @@ www.deepmind.com
 www.dialogflow.com
 www.flutter.io
 www.getmdl.io
-www.gv.com
 www.material.io
 www.sketchup.com
