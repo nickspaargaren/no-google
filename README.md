@@ -12,7 +12,7 @@ Suggestions are completely welcomed!
 
 
 ## Youtube Advertisements Regex
->^r[0123456789]+-{3}sn-.{8}\.googlevideo\.com$
+>^r[0123456789]+((-{3})|(\.))sn-.{8}\.googlevideo\.com$
 
 NOTE: This is supposed to prevent these domains to be
 loaded not only on youtube, but on all over the web and,
