@@ -7,5 +7,5 @@
 ((.*)\.)?doubleclick\.(.*)
 ((.*)\.)?firebaseio\.(.*)
 ((.*)\.)?waze\.(.*)
-^r[0123456789]+-{3}sn-.{8}\.googlevideo\.com$
+^r[0123456789]+((-{3})|(\.))sn-.{8}\.googlevideo\.com$
 ((.*)\.)?y((outube)|(timg))\.(.*)
