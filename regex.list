@@ -6,6 +6,6 @@
 ((.*)\.)?android\.(.*)
 ((.*)\.)?doubleclick\.(.*)
 ((.*)\.)?firebaseio\.(.*)
+((.*)\.)?googlevideo\.(.*)
 ((.*)\.)?waze\.(.*)
-^r[0123456789]+((-{3})|(\.))sn-.{8}\.googlevideo\.com$
 ((.*)\.)?y((outube)|(timg))\.(.*)
