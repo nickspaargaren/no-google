@@ -17,6 +17,10 @@ m.youtu.be
 surf.youtu.be
 
 # General Sites
+1.bp.blogspot.com
+2.bp.blogspot.com
+3.bp.blogspot.com
+4.bp.blogspot.com
 1e100.net
 appspot.com
 autodraw.com
