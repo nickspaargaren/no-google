@@ -36,6 +36,7 @@ material.io
 ocsp.pki.goog
 rtb.pixeltracking.co
 sketchup.com
+xcode.com
 web.dev
 www.appspot.com
 www.autodraw.com
@@ -45,3 +46,4 @@ www.flutter.io
 www.getmdl.io
 www.material.io
 www.sketchup.com
+www.xcode.com
