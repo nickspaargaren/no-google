@@ -463,6 +463,8 @@ www.google.com.bd
 doubleclick.com
 www.doubleclick.com
 2507573.fls.doubleclick.net
+4403916.fls.doubleclick.net
+4487826.fls.doubleclick.net
 8522212.fls.doubleclick.net
 ad.doubleclick.com
 ad.doubleclick.ne
@@ -472,6 +474,7 @@ betareportcentral.doubleclick.com
 click.comms.doubleclick.com
 cm.g.doubleclick.net
 doubleclick.net
+dart.l.doubleclick.net
 emea.doubleclick.com
 fls.doubleclick.nett
 g.doubleclick.net
