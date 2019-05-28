@@ -53,6 +53,12 @@ I'll may work on an efficient regex for this purpose.
 
 >.?youtube.  
 
+>.?1e100.
+
+>.?googlebot.
+
+>.?gmodules.
+
 ## Sites you may want to whitelist
 >recaptcha.google.com
 

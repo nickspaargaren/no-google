@@ -459,6 +459,29 @@ www.google.co.uk
 google.com.bd
 www.google.com.bd
 
+# google.net
+google.net
+www.google.net
+adwords.google.net
+alma-piroqu.google.net
+ams.google.net
+blogsearch.google.net
+bye.google.net
+cctldtest.google.net
+fft1.google.net
+groups.google.net
+images.google.net
+aspmx.l.google.net
+m.google.net
+news.google.net
+ns1.google.net
+ns2.google.net
+ns3.google.net
+ns4.google.net
+par7.google.net
+translate.google.net
+ww.google.net
+
 # Doubleclick
 doubleclick.com
 www.doubleclick.com
@@ -1959,11 +1982,37 @@ labs1.google.com
 landing.google.com
 latitude.google.com
 lh2.google.com
-lh3.ggpht.com
 lh3.google.com
+ap2.ggpht.com
+geo-staged0.ggpht.com
+geo-staged1.ggpht.com
+geo-staged2.ggpht.com
+geo-staged3.ggpht.com
+geo0.ggpht.com
+geo1.ggpht.com
+geo2.ggpht.com
+geo3.ggpht.com
+gm1.ggpht.com
+gm2.ggpht.com
+gm3.ggpht.com
+gp3.ggpht.com
+gt3.ggpht.com
+httpslh3.ggpht.com
+lh3.ggpht.com
 lh4.ggpht.com
 lh5.ggpht.com
 lh6.ggpht.com
+mua3.ggpht.com
+mua4.ggpht.com
+mua5.ggpht.com
+mua6.ggpht.com
+nt0.ggpht.com
+nt1.ggpht.com
+nt2.ggpht.com
+nt3.ggpht.com
+yt3.ggpht.com
+www.yt3.ggpht.com
+yt4.ggpht.com
 like.here.followed.by.svc-1.google.com
 local.google.com
 m.google.com
@@ -2822,6 +2871,11 @@ www.material.io
 www.sketchup.com
 www.thinkwithgoogle.com
 www.withgoogle.com
+madewithcode.com
+www.madewithcode.com
+holidays.madewithcode.com
+legacy.madewithcode.com
+ww.madewithcode.com
 
 # Others -- Googleusercontent
 googleusercontent.com
@@ -4347,6 +4401,75 @@ www.sites.google.com
 www.toolbar.google.com
 www.translate.google.com
 
+# googlemail.com
+googlemail.com
+www.googlemail.com
+.googlemail.com
+aspmx.2.googlemail.com
+aspmx.3.googlemail.com
+\032aspmx4.googlemail.com
+alt1.googlemail.com
+alt2.googlemail.com
+alt211.googlemail.com
+alt3.googlemail.com
+alt4.googlemail.com
+alt5.googlemail.com
+alt51.googlemail.com
+alt97.googlemail.com
+apsmx4.googlemail.com
+asmpx3.googlemail.com
+asmx2.googlemail.com
+aspmx.googlemail.com
+aspmx1.googlemail.com
+aspmx2.googlemail.com
+0.aspmx2.googlemail.com
+10.aspmx2.googlemail.com
+891.aspmx2.googlemail.com
+alt1.aspmx2.googlemail.com
+alt10.aspmx2.googlemail.com
+alt2.aspmx2.googlemail.com
+alt3.aspmx2.googlemail.com
+alt4.aspmx2.googlemail.com
+mailbackup.aspmx2.googlemail.com
+aspmx23.googlemail.com
+aspmx3.googlemail.com
+30.aspmx3.googlemail.com
+50.aspmx3.googlemail.com
+alt.aspmx3.googlemail.com
+alt1.aspmx3.googlemail.com
+alt10.aspmx3.googlemail.com
+alt2.aspmx3.googlemail.com
+alt3.aspmx3.googlemail.com
+alt4.aspmx3.googlemail.com
+alt5.aspmx3.googlemail.com
+mailbackup.aspmx3.googlemail.com
+aspmx4.googlemail.com
+alt.aspmx4.googlemail.com
+alt1.aspmx4.googlemail.com
+alt4.aspmx4.googlemail.com
+aspmx5.aspmx4.googlemail.com
+aspmx5.googlemail.com
+5.aspmx5.googlemail.com
+a1premium.aspmx5.googlemail.com
+alt1.aspmx5.googlemail.com
+alt2.aspmx5.googlemail.com
+aspmx7.googlemail.com
+imap.googlemail.com
+ja.googlemail.com
+aspmx.l.googlemail.com
+alt1.aspmx.l.googlemail.com
+aspmx1.l.googlemail.com
+aspmx4.l.googlemail.com
+aspmx5.l.googlemail.com
+alt.aspmx5.l.googlemail.com
+m.googlemail.com
+policy.mta-sts.googlemail.com
+pop.googlemail.com
+smtp.googlemail.com
+spmx2.googlemail.com
+aspmx2.spmx2.googlemail.com
+waspproxy.googlemail.com
+
 # Proxies
 google-proxy-64-233-172-0.google.com
 google-proxy-64-233-172-32.google.com
@@ -4679,7 +4802,6 @@ youtube.nl
 youtube.pl
 youtubei.googleapis.com
 youtubei.youtube.com
-yt3.ggpht.com
 za.youtube.com
 
 # Others -- Youtube
@@ -5234,6 +5356,10 @@ v11.lscache1.c.youtube.com
 v19.lscache1.c.youtube.com
 v20.lscache1.c.youtube.com
 v22.lscache1.c.youtube.com
+
+# youtubegaming.com
+youtubegaming.com
+www.youtubegaming.com
 
 # Others -- Googlevideo
 googlevideo.com
@@ -6393,6 +6519,15 @@ r6.sn-q5u5bgv02-3c26.googlevideo.com
 r5.sn-u2bpouxgoxu-hxaz.googlevideo.com
 r4.sn-vgqs7nez.googlevideo.com
 
+# picasa.com
+picasa.com
+www.picasa.com
+forums.picasa.com
+google.picasa.com
+readme.picasa.com
+secure.picasa.com
+stats.picasa.com
+
 # Others -- Ampproject
 ampproject.org
 www.ampproject.org
@@ -6975,3 +7110,188 @@ cdn-content.ampproject.org
 example.ampproject.org
 status.ampproject.org
 validator.ampproject.org
+
+# googlemaps.com
+googlemaps.com
+www.googlemaps.com
+google.googlemaps.com
+snake.googlemaps.com
+w.googlemaps.com
+ww.googlemaps.com
+
+# keyhole.com
+www.keyhole.com
+auth.keyhole.com
+auth-trial.keyhole.com
+bbs.keyhole.com
+gedemo.keyhole.com
+gmdemo.keyhole.com
+partners.keyhole.com
+registration.keyhole.com
+
+# googl.com
+googl.com
+www.googl.com
+accounts.googl.com
+adwords.googl.com
+books.googl.com
+desktop.googl.com
+directory.googl.com
+flights.googl.com
+groups.googl.com
+gsuite.googl.com
+images.googl.com
+labs.googl.com
+m.googl.com
+mobile.googl.com
+news.googl.com
+www.news.googl.com
+toolbar.googl.com
+translate.googl.com
+www.translate.googl.com
+w.googl.com
+ww.googl.com
+
+# googlr.com
+googlr.com
+www.googlr.com
+images.googlr.com
+m.googlr.com
+news.googlr.com
+www.news.googlr.com
+translate.googlr.com
+www.translate.googlr.com
+ww.googlr.com
+
+# googil.com
+googil.com
+www.googil.com
+ww.googil.com
+
+# googlee.com
+googlee.com
+www.googlee.com
+clients2.googlee.com
+id.googlee.com
+images.googlee.com
+news.googlee.com
+translate.googlee.com
+www.translate.googlee.com
+w.googlee.com
+ww.googlee.com
+
+# 466453.com
+466453.com
+www.466453.com
+
+# foofle.com
+foofle.com
+www.foofle.com
+news.foofle.com
+translate.foofle.com
+
+# feedburner.com
+feedburner.com
+www.feedburner.com
+api.feedburner.com
+blogs.feedburner.com
+feed.feedburner.com
+feedproxy.feedburner.com
+feeds.feedburner.com
+feeds2.feedburner.com
+forums.feedburner.com
+networks.feedburner.com
+ping.feedburner.com
+
+# googlecapital.com
+googlecapital.com
+www.googlecapital.com
+capitalg.com
+www.capitalg.com
+
+# googlecommerce.com
+googlecommerce.com
+www.googlecommerce.com
+cctldtest.googlecommerce.com
+
+# googleapps.com
+googleapps.com
+www.googleapps.com
+admin-training.googleapps.com
+admins.googleapps.com
+assistants.googleapps.com
+certification.googleapps.com
+contact.googleapps.com
+deployment.googleapps.com
+deployment-de.googleapps.com
+deployment-es.googleapps.com
+deployment-esla.googleapps.com
+deployment-fr.googleapps.com
+deployment-it.googleapps.com
+deployment-ja.googleapps.com
+deployment-nl.googleapps.com
+deployment-ptbr.googleapps.com
+developer.googleapps.com
+edu.googleapps.com
+eduguide.googleapps.com
+edutraining.googleapps.com
+go.googleapps.com
+gov.googleapps.com
+iste2011.googleapps.com
+k12guide.googleapps.com
+learn.googleapps.com
+learn-de.googleapps.com
+learn-es.googleapps.com
+learn-esla.googleapps.com
+learn-fr.googleapps.com
+learn-it.googleapps.com
+learn-ja.googleapps.com
+learn-nl.googleapps.com
+learn-ptbr.googleapps.com
+mail.googleapps.com
+postini-transition.googleapps.com
+reseller.googleapps.com
+setup.googleapps.com
+setup-de.googleapps.com
+setup-fr.googleapps.com
+setup-ja.googleapps.com
+support.googleapps.com
+toolbox.googleapps.com
+whatsnew.googleapps.com
+
+# googel.com
+googel.com
+www.googel.com
+adwords.googel.com
+docs.googel.com
+flights.googel.com
+google.googel.com
+groups.googel.com
+image.googel.com
+images.googel.com
+m.googel.com
+news.googel.com
+www.news.googel.com
+patents.googel.com
+picasa.googel.com
+support.googel.com
+translate.googel.com
+www.translate.googel.com
+w.googel.com
+ww.googel.com
+
+# goolge.com
+goolge.com
+www.goolge.com
+accounts.goolge.com
+books.goolge.com
+clients1.goolge.com
+groups.goolge.com
+image.goolge.com
+images.goolge.com
+m.goolge.com
+news.goolge.com
+translate.goolge.com
+www.translate.goolge.com
+w.goolge.com
+ww.goolge.com
