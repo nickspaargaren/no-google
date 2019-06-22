@@ -86,7 +86,7 @@ https://raw.githubusercontent.com/nickspaargaren/pihole-google/master/categories
 ## Can i block the other letters of GAFAM ?
 Of course, Here´s some filterlist link that have been made by other people.
 
-**A**pple : Sadly, none to be found. Feel free to let us know of the existance of one !
+**A**pple : https://github.com/c-edw/ios-telemetry or https://github.com/1r2/iosparanoid
 
 **F**acebook : https://raw.githubusercontent.com/jmdugan/blocklists/master/corporations/facebook/all or https://raw.githubusercontent.com/anudeepND/blacklist/master/facebook.txt
 
