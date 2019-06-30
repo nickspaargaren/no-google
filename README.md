@@ -74,7 +74,7 @@ Since browser will be exposed to presumably malicious code, appropriate counterm
 ### G APIs
 >ajax.googleapis.com
 
-Without the APIs major ammout of web sites will be broken. `Decentraleyes` browser extension could solve the issue without whitelisting the subdomain, but not for all sites.
+Without the ajax APIs major ammout of web sites will be broken. `Decentraleyes` browser extension could solve the issue without whitelisting the subdomain, but not for all sites.
 
 ### Fonts
 >fonts.gstatic.com
