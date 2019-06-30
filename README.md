@@ -60,7 +60,24 @@ I'll may work on an efficient regex for this purpose.
 >.?gmodules.
 
 ## Sites you may want to whitelist
+### Captcha
+>`www.google.com`
+
+>`www.gstatic.com`
+
 >recaptcha.google.com
+
+Note: Stock android have a data leak to `www.google.com`.
+
+Since browser will be exposed to presumably malicious code, appropriate countermeasures should be utilized, such as `privacy.firstparty.isolate`, `privacy.resistFingerprinting` and `CanvasBlocker`.
+
+### G APIs
+>ajax.googleapis.com
+
+Without the APIs major ammout of web sites will be broken. `Decentraleyes` browser extension could solve the issue without whitelisting the subdomain, but not for all sites.
+
+### Fonts
+>fonts.google.com
 
 ## How to use it ?
 Simply go into to your blocklist settings to add either, the whole filter `https://raw.githubusercontent.com/nickspaargaren/pihole-google/master/pihole-google.txt
