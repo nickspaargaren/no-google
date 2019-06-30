@@ -77,6 +77,10 @@ Since browser will be exposed to presumably malicious code, appropriate counterm
 Without the APIs major ammout of web sites will be broken. `Decentraleyes` browser extension could solve the issue without whitelisting the subdomain, but not for all sites.
 
 ### Fonts
+>fonts.gstatic.com
+
+>fonts.googleapis.com
+
 >fonts.google.com
 
 ## How to use it ?
