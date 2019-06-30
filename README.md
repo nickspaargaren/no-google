@@ -90,7 +90,7 @@ Of course, Here´s some filterlist link that have been made by other people.
 
 **F**acebook : https://raw.githubusercontent.com/jmdugan/blocklists/master/corporations/facebook/all or https://raw.githubusercontent.com/anudeepND/blacklist/master/facebook.txt
 
-**A**mazon : Sadly, none to be found. Feel free to let us know of the existance of one !
+**A**mazon : Sadly, none to be found. Feel free to let us know of the existence of one !
 
 **M**icrosoft : https://raw.githubusercontent.com/jmdugan/blocklists/master/corporations/microsoft/all
 
