@@ -1,0 +1,49 @@
+# ===== Use this list alongside regex filters =====
+# Contains all non-covered domains by regex filters
+
+# Google DNS Servers
+8.8.8.8
+8.8.4.4
+2001:4860:4860::8888
+2001:4860:4860::8844
+
+# Short Links
+g.co
+cctldtest.g.co
+goo.gl
+youtu.be
+cctldtest.youtu.be
+m.youtu.be
+surf.youtu.be
+
+# General Sites
+1.bp.blogspot.com
+2.bp.blogspot.com
+3.bp.blogspot.com
+4.bp.blogspot.com
+1e100.net
+appspot.com
+autodraw.com
+blog.dialogflow.com
+deepmind.com
+dialogflow.com
+flutter.io
+ga-dev-tools.appspot.com
+getmdl.io
+code.getmdl.io
+gweb-cloudblog-publish.appspot.com
+material.io
+ocsp.pki.goog
+rtb.pixeltracking.co
+sketchup.com
+xcode.com
+web.dev
+www.appspot.com
+www.autodraw.com
+www.deepmind.com
+www.dialogflow.com
+www.flutter.io
+www.getmdl.io
+www.material.io
+www.sketchup.com
+www.xcode.com
