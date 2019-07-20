@@ -77,8 +77,9 @@ I'll may work on an efficient regex for this purpose.
 >.?gmodules.
 
 You can also easily use the modified [pihole regex installer script](https://github.com/mmotti/pihole-regex) by [@mmoti](https://github.com/mmotti) by executing this terminal command from your raspberry Pi Pi-hole server.
->curl -sSl https://raw.githubusercontent.com/nickspaargaren/pihole-google/master/install.sh | bash
-
+```
+curl -sSl https://raw.githubusercontent.com/nickspaargaren/pihole-google/master/install.sh | bash
+```
 and then, executing it. It should add all of the above regex automatically.
 
 ## Sites you may want to whitelist
