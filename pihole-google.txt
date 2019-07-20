@@ -1,5 +1,5 @@
 # This blocklist helps Pi-hole's admin restrict access to Google and its domains.
-# Last updated: 30-05-2019
+# Last updated: 20-07-2019
 
 # Google Analytics
 www.googleanalytics.com
@@ -5455,7 +5455,10 @@ fcmatch.youtube.com
 fr.youtube.com
 gaming.youtube.com
 gdata.youtube.com
+googlevideo.com
 hk.youtube.com
+i9.ytimg.com		
+i.ytimg.com
 ie.youtube.com
 il.youtube.com
 img.youtube.com
