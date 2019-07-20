@@ -12,7 +12,7 @@ Suggestions are completely welcomed!
 
 
 ## Youtube Advertisements Regex
->_^r.+\googlevideo.com$_
+>^r[0123456789]+((-{3})|(\.))sn-.{8}\.googlevideo\.com$
 
 NOTE: This is supposed to prevent these domains to be
 loaded not only on youtube, but on all over the web and,
@@ -21,37 +21,55 @@ I don't care if youtube is broken.
 I'll may work on an efficient regex for this purpose.
 
 ## Regex filters
->.?ampproject.
+>^[1234]\.bp\.blogspot\.com
 
->.?android.
+>((.*)\.)?abc\.(.*)
 
->.?chromeexperiments.
+>((.*)\.)?ampproject\.(.*)
 
->.?doubleclick.
+>((.*)\.)?android\.(.*)
 
->.?firebaseio.
+>((.*)\.)?chrome\.(.*)
 
->.?google.
+>((.*)\.)?chromeexperiments\.(.*)
 
->.?googleapis.
+>((.*)\.)?chromium\.(.*)
 
->.?googlesyndication.
+>((.*)\.)?doubleclick\.(.*)
 
->.?googletagmanager.
+>((.*)\.)?firebaseio\.(.*)
 
->.?googletagservices.
+>((.*)\.)?ggpht\.(.*)
 
->.?googleusercontent.
+>((.*)\.)?gmail\.(.*)
 
->.?gstatic.
+>((.*)\.)?google(\.(.*))?
 
->.?google-analytics.
+>((.*)\.)?googleadservices\.(.*)
 
->.?waze.
+>((.*)\.)?googleapis\.(.*)
 
->.?withgoogle.
+>((.*)\.)?googlesyndication\.(.*)
 
->.?youtube.  
+>((.*)\.)?googletagmanager\.(.*)
+
+>((.*)\.)?googletagservices\.(.*)
+
+>((.*)\.)?googleusercontent\.(.*)
+
+>((.*)\.)?google-analytics\.(.*)
+
+>((.*)\.)?gstatic\.(.*)
+
+>((.*)\.)?gv(t[12])?\.(.*)
+
+>((.*)\.)?waze\.(.*)
+
+>((.*)\.)?withgoogle\.(.*)
+
+>((.*)\.)?youtube\.(.*)
+
+>((.*)\.)?ytimg\.(.*)
 
 >.?1e100.
 
