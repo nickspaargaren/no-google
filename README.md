@@ -10,7 +10,6 @@ Protect yourself from Google's surveillance by using this blocklist!
 Feel free to criticize our blocklist to make it better and better.
 Suggestions are completely welcomed!
 
-
 ## Youtube Advertisements Regex
 >^r[0123456789]+((-{3})|(\.))sn-.{8}\.googlevideo\.com$
 
@@ -77,8 +76,15 @@ I'll may work on an efficient regex for this purpose.
 
 >.?gmodules.
 
+You can also easily use the modified [pihole regex installer script](https://github.com/mmotti/pihole-regex) by [@mmoti](https://github.com/mmotti) by executing this terminal command from your raspberry Pi Pi-hole server.
+>curl -sSl https://raw.githubusercontent.com/nickspaargaren/pihole-google/master/install.sh | bash
+
+and then, executing it. It should add all of the above regex automatically.
+
 ## Sites you may want to whitelist
 >recaptcha.google.com
+
+(Be aware that the regex script doesn´t add it to the whitelist list by default)
 
 ## How to use it ?
 Simply go into to your blocklist settings to add either, the whole filter `https://raw.githubusercontent.com/nickspaargaren/pihole-google/master/pihole-google.txt
@@ -100,6 +106,10 @@ https://raw.githubusercontent.com/nickspaargaren/pihole-google/master/categories
 ```
 
 (Combining those with the main whole filter is useless and not recommended, however, feel free to combine the different smaller filters)
+
+## Can i use it with my other ads/domains blocker program ?
+Surely ! if it does indeed support the host or domains type of filters.
+Import it manually, or [click on this link](https://subscribe.adblockplus.org/?location=https://raw.githubusercontent.com/nickspaargaren/pihole-google/master/google-domains&title=pihole-google) if you are using a web browser extension.
 
 ## Can i block the other letters of GAFAM ?
 Of course, Here´s some filterlist link that have been made by other people.
