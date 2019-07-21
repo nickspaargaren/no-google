@@ -1,11 +1,12 @@
 #!/usr/bin/env bash
 
+#Credits goes of course to mmoti for his regex list script
 # Set variables
 db_gravity='/etc/pihole/gravity.db'
 file_pihole_regex='/etc/pihole/regex.list'
 file_mmotti_regex='/etc/pihole/mmotti-regex.list'
-file_mmotti_remote_regex='https://raw.githubusercontent.com/mmotti/pihole-regex/master/regex.list'
-installer_comment='github.com/mmotti/pihole-regex'
+file_mmotti_remote_regex='https://github.com/nickspaargaren/pihole-google/blob/master/regex.list'
+installer_comment='github.com/nickspaargaren/pihole-google'
 
 # Determine whether we are using Pi-hole DB
 if [[ -s "${db_gravity}" ]]; then
@@ -111,7 +112,7 @@ echo "[i] Fetching mmotti's regexps"
 # Fetch the remote regex file and remove comment lines
 mmotti_remote_regex=$(wget -qO - "${file_mmotti_remote_regex}" | grep '^[^#]')
 # Conditional exit if empty
-[[ -z "${mmotti_remote_regex}" ]] && { echo '[i] Failed to download mmotti regex list'; exit 1; }
+[[ -z "${mmotti_remote_regex}" ]] && { echo '[i] Failed to download pihole-google regex list'; exit 1; }
 
 echo '[i] Fetching existing regexps'
 # Conditionally fetch existing regexps depending on
@@ -214,13 +215,13 @@ else
 		# Restore config prior to previous install
 		# Keep entries only unique to pihole regex
 		if [[ -s "${file_mmotti_regex}" ]]; then
-			echo "[i] Removing mmotti's regex.list from a previous install"
+			echo "[i] Removing pihole-google regex.list from a previous install"
 			comm -23 <(sort <<< "${str_regex}") <(sort "${file_mmotti_regex}") | sudo tee $file_pihole_regex > /dev/null
 			sudo rm -f "${file_mmotti_regex}"
 		else
 			# In the event that file_mmotti_regex is not available
 			# Match against the latest remote list instead
-			echo "[i] Removing mmotti's regex.list from a previous install"
+			echo "[i] Removing pihole-google regex.list from a previous install"
 			comm -23 <(sort <<< "${str_regex}") <(sort <<< "${mmotti_remote_regex}") | sudo tee $file_pihole_regex > /dev/null
 		fi
 	fi
