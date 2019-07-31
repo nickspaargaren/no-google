@@ -112,6 +112,11 @@ https://raw.githubusercontent.com/nickspaargaren/pihole-google/master/categories
 Surely ! if it does indeed support the host or domains type of filters.
 Import it manually, or [click on this link](https://subscribe.adblockplus.org/?location=https://raw.githubusercontent.com/nickspaargaren/pihole-google/master/google-domains&title=pihole-google) if you are using a web browser extension.
 
+## Hum, Do you got any mirrors of the list ?
+Yes indeed, We have a GitLab host mirror of the repo available at this address : https://framagit.org/PoorPocketsMcNewHold/pihole-google
+Note that the main filter is being worked here, so, updates and modifications on the Gitlab source will have to be updated manually.
+Otherwise, if you do prefer to use Gitlab, feel free to use it, and even contribute to our list there instead !
+
 ## Can i block the other letters of GAFAM ?
 Of course, Here´s some filterlist link that have been made by other people.
 
