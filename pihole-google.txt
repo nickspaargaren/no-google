@@ -2097,7 +2097,10 @@ gsmtp185-2.google.com
 gstatic.com
 gstaticadssl.l.google.com
 gsuite.google.com
+googleblog.com
+android-developers.googleblog.com
 gsuiteupdates.googleblog.com
+security.googleblog.com
 gt1.google.com
 gv.com
 community.gv.com
@@ -2231,7 +2234,6 @@ safebrowsing.clients.google.com
 safebrowsing.google.com
 safety.google
 santatracker.google.com
-security.googleblog.com
 services2.google.com
 services.google.com
 sketchup.com
