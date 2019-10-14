@@ -1560,6 +1560,7 @@
 0.0.0.0 pagead2.googleadservices.com
 0.0.0.0 partner.googleadservices.com
 0.0.0.0 partnerssl.googleadservices.com
+0.0.0.0 firebaseinstallations.googleapis.com
 0.0.0.0 googleapis.com
 0.0.0.0 googleapis.l.google.com
 0.0.0.0 googlepagecreator.com
