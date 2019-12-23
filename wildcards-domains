@@ -1,690 +1,428 @@
 #This blocklist tries to shorten down the original pihole-google list by keepin only the main domains in the list, making all the linked other domains hosted on those, be blocked as well.
-#Last updated: 12-09-2019
+#Last updated: 23-12-2019
 
 #Google Analytics
-0.0.0.0 www.googleanalytics.com
-0.0.0.0 www.google-analytics.com
-0.0.0.0 google-analytics.com
+googleanalytics.com
+google-analytics.com
 
 #Google Tag Manager
-0.0.0.0 googletagmanager.com
-0.0.0.0 www.googletagmanager.com
-0.0.0.0 .googletagmanager.com
-0.0.0.0 tagmanager.google.com
-0.0.0.0 www-googletagmanager.l.google.com
+googletagmanager.com
+tagmanager.google.com
+www-googletagmanager.l.google.com
 
 #googletagservices.com
-0.0.0.0 googletagservices.com
-0.0.0.0 www.googletagservices.com
+googletagservices.com
 
 #Google Android
-0.0.0.0 android.com
-0.0.0.0 www.android.com
-0.0.0.0 android-safebrowsing.google.com
-0.0.0.0 android.clients.google.com
+android.com
+android-safebrowsing.google.com
+android.clients.google.com
 
 #Google DNS Servers
-0.0.0.0 8.8.8.8
-0.0.0.0 8.8.4.4
-0.0.0.0 2001:4860:4860::8888
-0.0.0.0 2001:4860:4860::8844
+8.8.8.8
+8.8.4.4
+2001:4860:4860::8888
+2001:4860:4860::8844
 
 #Google Domains
-0.0.0.0 google.ad
-0.0.0.0 www.google.ad
-0.0.0.0 google.ae
-0.0.0.0 www.google.ae
-0.0.0.0 google.com.ag
-0.0.0.0 www.google.com.ag
-0.0.0.0 google.al
-0.0.0.0 www.google.al
-0.0.0.0 google.am
-0.0.0.0 www.google.am
-0.0.0.0 google.bt
-0.0.0.0 www.google.bt
-0.0.0.0 google.co.ao
-0.0.0.0 www.google.co.ao
-0.0.0.0 google.cd
-0.0.0.0 www.google.cd
-0.0.0.0 google.cf
-0.0.0.0 www.google.cf
-0.0.0.0 google.cg
-0.0.0.0 www.google.cg
-0.0.0.0 google.ci
-0.0.0.0 www.google.ci
-0.0.0.0 google.co.ck
-0.0.0.0 www.google.co.ck
-0.0.0.0 google.cl
-0.0.0.0 www.google.cl
-0.0.0.0 google.cm
-0.0.0.0 www.google.cm
-0.0.0.0 google.cn
-0.0.0.0 www.google.cn
-0.0.0.0 google.com.co
-0.0.0.0 www.google.com.co
-0.0.0.0 google.co.cr
-0.0.0.0 www.google.co.cr
-0.0.0.0 google.com.cu
-0.0.0.0 www.google.com.cu
-0.0.0.0 google.cv
-0.0.0.0 www.google.cv
-0.0.0.0 google.com.cy
-0.0.0.0 www.google.com.cy
-0.0.0.0 google.cz
-0.0.0.0 www.google.cz
-0.0.0.0 google.de
-0.0.0.0 www.google.de
-0.0.0.0 google.dj
-0.0.0.0 www.google.dj
-0.0.0.0 google.dm
-0.0.0.0 www.google.dm
-0.0.0.0 google.com.do
-0.0.0.0 www.google.com.do
-0.0.0.0 google.dz
-0.0.0.0 www.google.dz
-0.0.0.0 google.com.ec
-0.0.0.0 www.google.com.ec
-0.0.0.0 google.ee
-0.0.0.0 www.google.ee
-0.0.0.0 google.com.eg
-0.0.0.0 www.google.com.eg
-0.0.0.0 google.es
-0.0.0.0 www.google.es
-0.0.0.0 google.com.et
-0.0.0.0 www.google.com.et
-0.0.0.0 google.fi
-0.0.0.0 www.google.fi
-0.0.0.0 google.com.fj
-0.0.0.0 www.google.com.fj
-0.0.0.0 google.fm
-0.0.0.0 www.google.fm
-0.0.0.0 google.fr
-0.0.0.0 www.google.fr
-0.0.0.0 google.ga
-0.0.0.0 www.google.ga
-0.0.0.0 google.ge
-0.0.0.0 www.google.ge
-0.0.0.0 google.gg
-0.0.0.0 www.google.gg
-0.0.0.0 google.com.gh
-0.0.0.0 www.google.com.gh
-0.0.0.0 google.com.gi
-0.0.0.0 www.google.com.gi
-0.0.0.0 google.gl
-0.0.0.0 www.google.gl
-0.0.0.0 google.gm
-0.0.0.0 www.google.gm
-0.0.0.0 google.gp
-0.0.0.0 www.google.gp
-0.0.0.0 google.gr
-0.0.0.0 www.google.gr
-0.0.0.0 google.com.gt
-0.0.0.0 www.google.com.gt
-0.0.0.0 google.gy
-0.0.0.0 www.google.gy
-0.0.0.0 google.com.hk
-0.0.0.0 www.google.com.hk
-0.0.0.0 google.hn
-0.0.0.0 www.google.hn
-0.0.0.0 google.ht
-0.0.0.0 www.google.ht
-0.0.0.0 google.hr
-0.0.0.0 www.google.hr
-0.0.0.0 google.hu
-0.0.0.0 www.google.hu
-0.0.0.0 google.co.id
-0.0.0.0 www.google.co.id
-0.0.0.0 google.ie
-0.0.0.0 www.google.ie
-0.0.0.0 google.co.il
-0.0.0.0 www.google.co.il
-0.0.0.0 google.im
-0.0.0.0 www.google.im
-0.0.0.0 google.co.in
-0.0.0.0 www.google.co.in
-0.0.0.0 google.iq
-0.0.0.0 www.google.iq
-0.0.0.0 google.is
-0.0.0.0 www.google.is
-0.0.0.0 google.it
-0.0.0.0 www.google.it
-0.0.0.0 google.je
-0.0.0.0 www.google.je
-0.0.0.0 google.com.jm
-0.0.0.0 www.google.com.jm
-0.0.0.0 google.jo
-0.0.0.0 www.google.jo
-0.0.0.0 google.co.jp
-0.0.0.0 www.google.co.jp
-0.0.0.0 google.co.ke
-0.0.0.0 www.google.co.ke
-0.0.0.0 google.co.kr
-0.0.0.0 www.google.co.kr
-0.0.0.0 google.com.kh
-0.0.0.0 www.google.com.kh
-0.0.0.0 google.ki
-0.0.0.0 www.google.ki
-0.0.0.0 google.kg
-0.0.0.0 www.google.kg
-0.0.0.0 google.com.kw
-0.0.0.0 www.google.com.kw
-0.0.0.0 google.kz
-0.0.0.0 www.google.kz
-0.0.0.0 google.la
-0.0.0.0 www.google.la
-0.0.0.0 google.com.lb
-0.0.0.0 www.google.com.lb
-0.0.0.0 google.li
-0.0.0.0 www.google.li
-0.0.0.0 google.lk
-0.0.0.0 www.google.lk
-0.0.0.0 google.co.ls
-0.0.0.0 www.google.co.ls
-0.0.0.0 google.lt
-0.0.0.0 www.google.lt
-0.0.0.0 google.lu
-0.0.0.0 www.google.lu
-0.0.0.0 google.lv
-0.0.0.0 www.google.lv
-0.0.0.0 google.com.ly
-0.0.0.0 www.google.com.ly
-0.0.0.0 google.co.ma
-0.0.0.0 www.google.co.ma
-0.0.0.0 google.md
-0.0.0.0 www.google.md
-0.0.0.0 google.me
-0.0.0.0 www.google.me
-0.0.0.0 google.mg
-0.0.0.0 www.google.mg
-0.0.0.0 google.mk
-0.0.0.0 www.google.mk
-0.0.0.0 google.ml
-0.0.0.0 www.google.ml
-0.0.0.0 google.mn
-0.0.0.0 www.google.mn
-0.0.0.0 google.ms
-0.0.0.0 www.google.ms
-0.0.0.0 google.com.mt
-0.0.0.0 www.google.com.mt
-0.0.0.0 google.mu
-0.0.0.0 www.google.mu
-0.0.0.0 google.mv
-0.0.0.0 www.google.mv
-0.0.0.0 google.com.mm
-0.0.0.0 www.google.com.mm
-0.0.0.0 google.mw
-0.0.0.0 www.google.mw
-0.0.0.0 google.com.mx
-0.0.0.0 www.google.com.mx
-0.0.0.0 google.com.my
-0.0.0.0 www.google.com.my
-0.0.0.0 google.co.mz
-0.0.0.0 www.google.co.mz
-0.0.0.0 google.com.na
-0.0.0.0 www.google.com.na
-0.0.0.0 google.com.nf
-0.0.0.0 www.google.com.nf
-0.0.0.0 google.com.ng
-0.0.0.0 www.google.com.ng
-0.0.0.0 google.com.ni
-0.0.0.0 www.google.com.ni
-0.0.0.0 google.ne
-0.0.0.0 www.google.ne
-0.0.0.0 google.nl
-0.0.0.0 www.google.nl
-0.0.0.0 google.no
-0.0.0.0 www.google.no
-0.0.0.0 google.com.np
-0.0.0.0 www.google.com.np
-0.0.0.0 google.nr
-0.0.0.0 www.google.nr
-0.0.0.0 google.nu
-0.0.0.0 www.google.nu
-0.0.0.0 google.co.nz
-0.0.0.0 www.google.co.nz
-0.0.0.0 google.com.om
-0.0.0.0 www.google.com.om
-0.0.0.0 google.com.pa
-0.0.0.0 www.google.com.pa
-0.0.0.0 google.com.pe
-0.0.0.0 www.google.com.pe
-0.0.0.0 google.com.pg
-0.0.0.0 www.google.com.pg
-0.0.0.0 google.com.ph
-0.0.0.0 www.google.com.ph
-0.0.0.0 google.com.pk
-0.0.0.0 www.google.com.pk
-0.0.0.0 google.pl
-0.0.0.0 www.google.pl
-0.0.0.0 google.pn
-0.0.0.0 www.google.pn
-0.0.0.0 google.com.pr
-0.0.0.0 www.google.com.pr
-0.0.0.0 google.ps
-0.0.0.0 www.google.ps
-0.0.0.0 google.pt
-0.0.0.0 www.google.pt
-0.0.0.0 google.ro
-0.0.0.0 www.google.ro
-0.0.0.0 google.com.sa
-0.0.0.0 www.google.com.sa
-0.0.0.0 google.se
-0.0.0.0 www.google.se
-0.0.0.0 google.si
-0.0.0.0 www.google.si
-0.0.0.0 google.sn
-0.0.0.0 www.google.sn
-0.0.0.0 google.sr
-0.0.0.0 www.google.sr
-0.0.0.0 google.st
-0.0.0.0 www.google.st
-0.0.0.0 google.tg
-0.0.0.0 www.google.tg
-0.0.0.0 google.tk
-0.0.0.0 www.google.tk
-0.0.0.0 google.tn
-0.0.0.0 www.google.tn
-0.0.0.0 google.tt
-0.0.0.0 www.google.tt
-0.0.0.0 google.com.ua
-0.0.0.0 www.google.com.ua
-0.0.0.0 google.com.uy
-0.0.0.0 www.google.com.uy
-0.0.0.0 google.co.ve
-0.0.0.0 www.google.co.ve
-0.0.0.0 google.rs
-0.0.0.0 www.google.rs
-0.0.0.0 google.co.zw
-0.0.0.0 www.google.co.zw
-0.0.0.0 google.com.py
-0.0.0.0 www.google.com.py
-0.0.0.0 google.com.sb
-0.0.0.0 www.google.com.sb
-0.0.0.0 google.com.sg
-0.0.0.0 www.google.com.sg
-0.0.0.0 google.sk
-0.0.0.0 www.google.sk
-0.0.0.0 google.so
-0.0.0.0 www.google.so
-0.0.0.0 google.com.sv
-0.0.0.0 www.google.com.sv
-0.0.0.0 google.co.th
-0.0.0.0 www.google.co.th
-0.0.0.0 google.tl
-0.0.0.0 www.google.tl
-0.0.0.0 google.to
-0.0.0.0 www.google.to
-0.0.0.0 google.com.tw
-0.0.0.0 www.google.com.tw
-0.0.0.0 google.co.ug
-0.0.0.0 www.google.co.ug
-0.0.0.0 google.co.uz
-0.0.0.0 www.google.co.uz
-0.0.0.0 google.vg
-0.0.0.0 www.google.vg
-0.0.0.0 google.vu
-0.0.0.0 www.google.vu
-0.0.0.0 google.co.za
-0.0.0.0 www.google.co.za
-0.0.0.0 google.cat
-0.0.0.0 www.google.cat
-0.0.0.0 google.com.qa
-0.0.0.0 www.google.com.qa
-0.0.0.0 google.ru
-0.0.0.0 www.google.ru
-0.0.0.0 google.rw
-0.0.0.0 www.google.rw
-0.0.0.0 google.sc
-0.0.0.0 www.google.sc
-0.0.0.0 google.sh
-0.0.0.0 www.google.sh
-0.0.0.0 google.com.sl
-0.0.0.0 www.google.com.sl
-0.0.0.0 google.sm
-0.0.0.0 www.google.sm
-0.0.0.0 google.com
-0.0.0.0 www.google.com
-0.0.0.0 google.ac
-0.0.0.0 www.google.ac
-0.0.0.0 google.td
-0.0.0.0 www.google.td
-0.0.0.0 google.com.tj
-0.0.0.0 www.google.com.tj
-0.0.0.0 google.tm
-0.0.0.0 www.google.tm
-0.0.0.0 google.co.tz
-0.0.0.0 www.google.co.tz
-0.0.0.0 google.com.vc
-0.0.0.0 www.google.com.vc
-0.0.0.0 google.co.vi
-0.0.0.0 www.google.co.vi
-0.0.0.0 google.com.vn
-0.0.0.0 www.google.com.vn
-0.0.0.0 google.ws
-0.0.0.0 www.google.ws
-0.0.0.0 google.co.zm
-0.0.0.0 www.google.co.zm
-0.0.0.0 google.com.ar
-0.0.0.0 www.google.com.ar
-0.0.0.0 google.co.bw
-0.0.0.0 www.google.co.bw
-0.0.0.0 google.com.bz
-0.0.0.0 www.google.com.bz
-0.0.0.0 google.as
-0.0.0.0 www.google.as
-0.0.0.0 google.at
-0.0.0.0 www.google.at
-0.0.0.0 google.com.au
-0.0.0.0 www.google.com.au
-0.0.0.0 google.az
-0.0.0.0 www.google.az
-0.0.0.0 google.ba
-0.0.0.0 www.google.ba
-0.0.0.0 google.be
-0.0.0.0 www.google.be
-0.0.0.0 google.bf
-0.0.0.0 www.google.bf
-0.0.0.0 google.bg
-0.0.0.0 www.google.bg
-0.0.0.0 google.bs
-0.0.0.0 www.google.bs
-0.0.0.0 google.by
-0.0.0.0 www.google.by
-0.0.0.0 google.ca
-0.0.0.0 www.google.ca
-0.0.0.0 google.ch
-0.0.0.0 www.google.ch
-0.0.0.0 google.dk
-0.0.0.0 www.google.dk
+google.ad
+google.ae
+google.com.ag
+google.al
+google.am
+google.bt
+google.co.ao
+google.cd
+google.cf
+google.cg
+google.ci
+google.co.ck
+google.cl
+google.cm
+google.cn
+google.com.co
+google.co.cr
+google.com.cu
+google.cv
+google.com.cy
+google.cz
+google.de
+google.dj
+google.dm
+google.com.do
+google.dz
+google.com.ec
+google.ee
+google.com.eg
+google.es
+google.com.et
+google.fi
+google.com.fj
+google.fm
+google.fr
+google.ga
+google.ge
+google.gg
+google.com.gh
+google.com.gi
+google.gl
+google.gm
+google.gp
+google.gr
+google.com.gt
+google.gy
+google.com.hk
+google.hn
+google.ht
+google.hr
+google.hu
+google.co.id
+google.ie
+google.co.il
+google.im
+google.co.in
+google.iq
+google.is
+google.it
+google.je
+google.com.jm
+google.jo
+google.co.jp
+google.co.ke
+google.co.kr
+google.com.kh
+google.ki
+google.kg
+google.com.kw
+google.kz
+google.la
+google.com.lb
+google.li
+google.lk
+google.co.ls
+google.lt
+google.lu
+google.lv
+google.com.ly
+google.co.ma
+google.md
+google.me
+google.mg
+google.mk
+google.ml
+google.mn
+google.ms
+google.com.mt
+google.mu
+google.mv
+google.com.mm
+google.mw
+google.com.mx
+google.com.my
+google.co.mz
+google.com.na
+google.com.nf
+google.com.ng
+google.com.ni
+google.ne
+google.nl
+google.no
+google.com.np
+google.nr
+google.nu
+google.co.nz
+google.com.om
+google.com.pa
+google.com.pe
+google.com.pg
+google.com.ph
+google.com.pk
+google.pl
+google.pn
+google.com.pr
+google.ps
+google.pt
+google.ro
+google.com.sa
+google.se
+google.si
+google.sn
+google.sr
+google.st
+google.tg
+google.tk
+google.tn
+google.tt
+google.com.ua
+google.com.uy
+google.co.ve
+google.rs
+google.co.zw
+google.com.py
+google.com.sb
+google.com.sg
+google.sk
+google.so
+google.com.sv
+google.co.th
+google.tl
+google.to
+google.com.tw
+google.co.ug
+google.co.uz
+google.vg
+google.vu
+google.co.za
+google.cat
+google.com.qa
+google.ru
+google.rw
+google.sc
+google.sh
+google.com.sl
+google.sm
+google.com
+google.ac
+google.td
+google.com.tj
+google.tm
+google.co.tz
+google.com.vc
+google.co.vi
+google.com.vn
+google.ws
+google.co.zm
+google.com.ar
+google.co.bw
+google.com.bz
+google.as
+google.at
+google.com.au
+google.az
+google.ba
+google.be
+google.bf
+google.bg
+google.bs
+google.by
+google.ca
+google.ch
+google.dk
 
 #google.org
-0.0.0.0 google.org
-0.0.0.0 www.google.org
-0.0.0.0 ww.google.org
+google.org
 
 #google.net
-0.0.0.0 google.net
-0.0.0.0 www.google.net
-0.0.0.0 ww.google.net
+google.net
 
 #Doubleclick
-0.0.0.0 doubleclick.com
-0.0.0.0 www.doubleclick.com
-0.0.0.0 doubleclick.net
+doubleclick.com
+doubleclick.net
 
 #admob.com
-0.0.0.0 admob.com
-0.0.0.0 www.admob.com
+admob.com
 
 #Firebase
-0.0.0.0 firebaseio.com
+firebaseio.com
 
 #Google Fonts
-0.0.0.0 fonts.google.com
-0.0.0.0 fonts.gstatic.com
+#Already blocked because provided trough gstatic or their main domain
 
 #General Sites
-0.0.0.0 agoogleaday.com
-0.0.0.0 abc.xyz
-0.0.0.0 www.abc.xyz
-0.0.0.0 ai.google
-0.0.0.0 appspot.com
-0.0.0.0 autodraw.com
-0.0.0.0 beacons.gcp.gvt1.com
-0.0.0.0 beacons.gcp.gvt2.com
-0.0.0.0 blog.dialogflow.com
-0.0.0.0 blog.google
-0.0.0.0 blogsearch.google.com
-0.0.0.0 can.type.whatever.you.like.here.followed.by.svc-1.google.com
+agoogleaday.com
+abc.xyz
+ai.google
+appspot.com
+autodraw.com
+beacons.gcp.gvt1.com
+beacons.gcp.gvt2.com
+blog.dialogflow.com
+blog.google
+blogsearch.google.com
+can.type.whatever.you.like.here.followed.by.svc-1.google.com
 #Yes, That one is real
-0.0.0.0 check.googlezip.net
-0.0.0.0 cobrasearch.com
-0.0.0.0 chromeexperiments.com
-0.0.0.0 fe0.google.com
-0.0.0.0 flutter.io
-0.0.0.0 ga-dev-tools.appspot.com
-0.0.0.0 gcp.gvt1.com
-0.0.0.0 gcp.gvt2.com
-0.0.0.0 getmdl.io
-0.0.0.0 googleadservices.com
-0.0.0.0 googleapis.com
-0.0.0.0 googlepagecreator.com
-0.0.0.0 googlesciencefair.com
-0.0.0.0 googlezip.net
-0.0.0.0 grow.google
-0.0.0.0 gstatic.com
-0.0.0.0 gv.com
-0.0.0.0 library.gv.com
-0.0.0.0 www.library.gv.com
-0.0.0.0 gvt1.com
-0.0.0.0 gvt2.com
-0.0.0.0 material.io
-0.0.0.0 rtb.pixeltracking.co
-0.0.0.0 ssl.gstatic.com
-0.0.0.0 web.dev
-0.0.0.0 withgoogle.com
-0.0.0.0 www.agoogleaday.com
-0.0.0.0 www.appspot.com
-0.0.0.0 www.autodraw.com
-0.0.0.0 www.blog.google
-0.0.0.0 www.chromeexperiments.com
-0.0.0.0 www.deepmind.com
-0.0.0.0 www.dialogflow.com
-0.0.0.0 www.drive.google.com
-0.0.0.0 www.flutter.io
-0.0.0.0 www.froogle.google.com
-0.0.0.0 www.getmdl.io
-0.0.0.0 www.googleadservices.com
-0.0.0.0 www.googlesciencefair.com
-0.0.0.0 www.googlezip.net
-0.0.0.0 www.gstatic.com
-0.0.0.0 www.gv.com
-0.0.0.0 www.material.io
-0.0.0.0 www.sketchup.com
-0.0.0.0 www.thinkwithgoogle.com
-0.0.0.0 www.withgoogle.com
-0.0.0.0 madewithcode.com
-0.0.0.0 www.madewithcode.com
+check.googlezip.net
+cobrasearch.com
+chromeexperiments.com
+fe0.google.com
+flutter.io
+ga-dev-tools.appspot.com
+gcp.gvt1.com
+gcp.gvt2.com
+getmdl.io
+googleadservices.com
+googleapis.com
+googlepagecreator.com
+googlesciencefair.com
+googlezip.net
+grow.google
+gstatic.com
+gv.com
+library.gv.com
+gvt1.com
+gvt2.com
+rtb.pixeltracking.co
+ssl.gstatic.com
+web.dev
+agoogleaday.com
+appspot.com
+autodraw.com
+blog.google
+chromeexperiments.com
+deepmind.com
+dialogflow.com
+flutter.io
+getmdl.io
+googleadservices.com
+googlesciencefair.com
+googlezip.net
+gstatic.com
+gv.com
+material.io
+sketchup.com
+thinkwithgoogle.com
+withgoogle.com
+madewithcode.com
 
 #Others -- Googleusercontent
-0.0.0.0 googleusercontent.com
-0.0.0.0 mailgoogleusercontent.com
+googleusercontent.com
+mailgoogleusercontent.com
 
 #Google Products
-0.0.0.0 gmail.com
-0.0.0.0 www.gmail.com
-0.0.0.0 waze.com
-0.0.0.0 www.waze.com
-0.0.0.0 www.safety.google
+gmail.com
+waze.com
 
 #googletranslate.com
-0.0.0.0 googletranslate.com
-0.0.0.0 www.googletranslate.com
-0.0.0.0 w.googletranslate.com
-0.0.0.0 ww.googletranslate.com
-0.0.0.0 wwww.googletranslate.com
+googletranslate.com
 
 #googlemail.com
-0.0.0.0 googlemail.com
-0.0.0.0 www.googlemail.com
-0.0.0.0 .googlemail.com
+googlemail.com
 
 #Short Links
-0.0.0.0 g.co
-0.0.0.0 cctldtest.g.co
-0.0.0.0 goo.gl
-0.0.0.0 youtu.be
-0.0.0.0 cctldtest.youtu.be
-0.0.0.0 m.youtu.be
-0.0.0.0 surf.youtu.be
-0.0.0.0 yt.be
-0.0.0.0 www.yt.be
+g.co
+goo.gl
+youtu.be
+yt.be
 
 #Youtube
-0.0.0.0 www.youtube.be
-0.0.0.0 www.youtube.co.uk
-0.0.0.0 www.youtube.com
-0.0.0.0 www.youtube.de
-0.0.0.0 www.youtube.fr
-0.0.0.0 www.youtube.nl
-0.0.0.0 www.youtube.pl
-0.0.0.0 youtube.be
-0.0.0.0 youtube.co.uk
-0.0.0.0 youtube.com
-0.0.0.0 youtube.de
-0.0.0.0 youtube.fr
-0.0.0.0 youtube.nl
-0.0.0.0 youtube.pl
-0.0.0.0 youtube-nocookie.com
-0.0.0.0 www.youtube-nocookie.com
-0.0.0.0 youtubeeducation.com
-0.0.0.0 www.youtubeeducation.com
-0.0.0.0 .youtubeeducation.com
+youtube.be
+youtube.co.uk
+youtube.com
+youtube.de
+youtube.fr
+youtube.nl
+youtube.pl
+youtube-nocookie.com
+youtubeeducation.com
 
 #ytimg.com
-0.0.0.0 ytimg.com
-0.0.0.0 \i.ytimg.com
+ytimg.com
+i.ytimg.com
 
 #youtubegaming.com
-0.0.0.0 youtubegaming.com
-0.0.0.0 www.youtubegaming.com
+youtubegaming.com
 
 #Others -- Googlevideo
-0.0.0.0 googlevideo.com
-0.0.0.0 ww.googlevideo.com
-0.0.0.0 www.googlevideo.com
+googlevideo.com
 
 #picasa.com
-0.0.0.0 picasa.com
-0.0.0.0 www.picasa.com
+picasa.com
 
 #Others -- Ampproject
-0.0.0.0 ampproject.org
-0.0.0.0 www.ampproject.org
+ampproject.org
 
 #googlemaps.com
-0.0.0.0 googlemaps.com
-0.0.0.0 www.googlemaps.com
+googlemaps.com
 
 #googlearth.com
-0.0.0.0 googlearth.com
-0.0.0.0 www.googlearth.com
+googlearth.com
 
 #googleearth.com
-0.0.0.0 googleearth.com
-0.0.0.0 www.googleearth.com
+googleearth.com
 
 #keyhole.com
-0.0.0.0 www.keyhole.com
-0.0.0.0 auth.keyhole.com
+auth.keyhole.com
 
 #adsense.com
-0.0.0.0 adsense.com
-0.0.0.0 www.adsense.com
+adsense.com
 
 #adwords.com
-0.0.0.0 adwords.com
-0.0.0.0 www.adwords.com
+adwords.com
 
 #googl.com
-0.0.0.0 googl.com
-0.0.0.0 www.googl.com
+googl.com
 
 #googlr.com
-0.0.0.0 googlr.com
-0.0.0.0 www.googlr.com
+googlr.com
 
 #googil.com
-0.0.0.0 googil.com
-0.0.0.0 www.googil.com
-0.0.0.0 ww.googil.com
+googil.com
 
 #googlee.com
-0.0.0.0 googlee.com
-0.0.0.0 www.googlee.com
+googlee.com
 
 #466453.com
-0.0.0.0 466453.com
-0.0.0.0 www.466453.com
+466453.com
 
 #foofle.com
-0.0.0.0 foofle.com
-0.0.0.0 www.foofle.com
+foofle.com
 
 #feedburner.com
-0.0.0.0 feedburner.com
-0.0.0.0 www.feedburner.com
+feedburner.com
 
 #googlecapital.com
-0.0.0.0 googlecapital.com
-0.0.0.0 www.googlecapital.com
-0.0.0.0 capitalg.com
-0.0.0.0 www.capitalg.com
+googlecapital.com
+capitalg.com
 
 #googlecommerce.com
-0.0.0.0 googlecommerce.com
-0.0.0.0 www.googlecommerce.com
+googlecommerce.com
 
 #googleapps.com
-0.0.0.0 googleapps.com
-0.0.0.0 www.googleapps.com
+googleapps.com
 
 #froogle.com
-0.0.0.0 froogle.com
-0.0.0.0 www.froogle.com
-0.0.0.0 wml.froogle.com
+froogle.com
+wml.froogle.com
 
 #googel.com
-0.0.0.0 googel.com
-0.0.0.0 www.googel.com
+googel.com
 
 #goolge.com
-0.0.0.0 goolge.com
-0.0.0.0 www.goolge.com
+goolge.com
 
 #gooogle.com
-0.0.0.0 gooogle.com
-0.0.0.0 www.gooogle.com
+gooogle.com
 
 #gogole.com
-0.0.0.0 gogole.com
-0.0.0.0 www.gogole.com
+gogole.com
 
 #ggoogle.com
-0.0.0.0 ggoogle.com
-0.0.0.0 www.ggoogle.com
+ggoogle.com
 
 #gogle.com
-0.0.0.0 gogle.com
+gogle.com
 
 #like.com
-0.0.0.0 like.com
-0.0.0.0 www.like.com
+like.com
 
 #urchin.com
-0.0.0.0 www.urchin.com
+urchin.com
 
 #chromium.org
-0.0.0.0 chromium.org
-0.0.0.0 www.chromium.org
+chromium.org
 
 #chrome.com
-0.0.0.0 chrome.com
-0.0.0.0 www.chrome.com
+chrome.com
 
 #chromebook.com
-0.0.0.0 chromebook.com
-0.0.0.0 www.chromebook.com
+chromebook.com
 
 #googlesource.com
-0.0.0.0 www.googlesource.com
-0.0.0.0 googlesource.com
+googlesource.com
 
 #googlescholar.com
-0.0.0.0 googlescholar.com
-0.0.0.0 www.googlescholar.com
-0.0.0.0 ww.googlescholar.com
+googlescholar.com
+ww.googlescholar.com
 
 #panoramio.com
-0.0.0.0 panoramio.com
-0.0.0.0 www.panoramio.com
+panoramio.com
