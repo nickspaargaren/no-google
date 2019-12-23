@@ -13,11 +13,7 @@ Suggestions are completely welcomed!
 ## Youtube Advertisements Regex
 >^r[0123456789]+((-{3})|(\.))sn-.{8}\.googlevideo\.com$
 
-NOTE: This is supposed to prevent these domains to be
-loaded not only on youtube, but on all over the web and,
-since I'm trying to completely block google in my home,
-I don't care if youtube is broken.
-I'll may work on an efficient regex for this purpose.
+NOTE: Youtube advertisements are pretty difficult to block trough DNS, as they mainly use a couple of domains for delivering advertisements, but they may also use those same domains for delivering other types of contents that you might not want to block.
 
 ## Regex filters
 >^[1234]\.bp\.blogspot\.com
@@ -82,12 +78,7 @@ curl -sSl https://raw.githubusercontent.com/nickspaargaren/pihole-google/master/
 ```
 and then, executing it. It should add all of the above regex automatically.
 
-## Sites you may want to whitelist
->recaptcha.google.com
-
-(Be aware that the regex script doesn´t add it to the whitelist list by default)
-
-## How to use it ?
+## How to use it on my pihole ?
 Simply go into to your blocklist settings to add either, the whole filter `https://raw.githubusercontent.com/nickspaargaren/pihole-google/master/pihole-google.txt
 or either a selection of the filtered domains 
 ```
@@ -108,9 +99,16 @@ https://raw.githubusercontent.com/nickspaargaren/pihole-google/master/categories
 
 (Combining those with the main whole filter is useless and not recommended, however, feel free to combine the different smaller filters)
 
+## Can i use it with [nextdns.io](NextDNS) ?
+Yep ! It is available in their selection of domains list, labeled as ¨No G¨.
+NextDNS is using the wildcard-domains format, so you will have to manually wishlist some specific services, as it will block everything Google related.
+
 ## Can i use it with my other ads/domains blocker program ?
 Surely ! if it does indeed support the host or domains type of filters.
 Import it manually, or [click on this link](https://subscribe.adblockplus.org/?location=https://raw.githubusercontent.com/nickspaargaren/pihole-google/master/google-domains&title=pihole-google) if you are using a web browser extension.
+
+## Can i use it with anything else ?
+Sure thing, the No G list is declined into multiples formats types, as an host format, domains/urls format and a wildcard format.
 
 ## Hum, Do you got any mirrors of the list ?
 Yes indeed, We have a GitLab host mirror of the repo available at this address : https://framagit.org/PoorPocketsMcNewHold/pihole-google
@@ -120,12 +118,12 @@ Otherwise, if you do prefer to use Gitlab, feel free to use it, and even contrib
 ## Can i block the other letters of GAFAM ?
 Of course, Here´s some filterlist link that have been made by other people.
 
-**A**pple : https://github.com/c-edw/ios-telemetry or https://github.com/1r2/iosparanoid
+**A**pple : https://github.com/c-edw/ios-telemetry, https://github.com/1r2/iosparanoid or https://gitlab.com/CHEF-KOCH/cks-filterlist/blob/master/Anti-Corp/filters/apple.txt
 
-**F**acebook : https://raw.githubusercontent.com/jmdugan/blocklists/master/corporations/facebook/all or https://raw.githubusercontent.com/anudeepND/blacklist/master/facebook.txt
+**F**acebook : https://raw.githubusercontent.com/jmdugan/blocklists/master/corporations/facebook/all, https://raw.githubusercontent.com/anudeepND/blacklist/master/facebook.txt or https://gitlab.com/CHEF-KOCH/cks-filterlist/blob/master/Anti-Corp/filters/facebook.txt
 
 **A**mazon : Sadly, none to be found. Feel free to let us know of the existence of one !
 
-**M**icrosoft : https://raw.githubusercontent.com/jmdugan/blocklists/master/corporations/microsoft/all
+**M**icrosoft : https://raw.githubusercontent.com/jmdugan/blocklists/master/corporations/microsoft/all or https://gitlab.com/CHEF-KOCH/cks-filterlist/blob/master/Anti-Corp/filters/microsoft.txt
 
 [![https://gafam.info](https://ptrace.gafam.info/unofficial/img/color/lqdn-gafam-poster-en-color-5x1-2560x.png)](https://gafam.info)
