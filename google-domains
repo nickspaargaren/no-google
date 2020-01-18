@@ -1,5 +1,5 @@
 #This blocklist helps Pi-hole's admin restrict access to Google and its domains.
-#Last updated: 20-07-2019
+#Last updated: 18-01-2020
 
 #Google Analytics
 0.0.0.0 www.googleanalytics.com
