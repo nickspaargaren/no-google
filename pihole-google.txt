@@ -1689,6 +1689,8 @@
 0.0.0.0 followed.by.svc-1.google.com
 0.0.0.0 forcesafesearch.google.com
 0.0.0.0 forms.google.com
+0.0.0.0 forms.gle
+0.0.0.0 www.forms.gle
 0.0.0.0 froogle.google.com
 0.0.0.0 fundingchoicesmessages.google.com
 0.0.0.0 fusion.google.com
