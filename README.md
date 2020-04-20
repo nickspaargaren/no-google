@@ -99,8 +99,8 @@ https://raw.githubusercontent.com/nickspaargaren/no-google/master/categories/ana
 
 (Combining those with the main whole filter is useless and not recommended, however, feel free to combine the different smaller filters)
 
-## Can i use it with [NextDNS](nextdns.io) ?
-Yep ! It is available in their selection of domains list, labeled as ¨No G¨.
+## Can i use it with [NextDNS](https://nextdns.io/) ?
+Yep ! It is available in their selection of domains list, labeled as ¨No Google¨.
 NextDNS is using the wildcard-domains format, so you will have to manually wishlist some specific services, as it will block everything Google related.
 
 ## Can i use it with my other ads/domains blocker program ?
