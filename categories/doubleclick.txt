@@ -4,7 +4,7 @@
 0.0.0.0 4487826.fls.doubleclick.net
 0.0.0.0 8522212.fls.doubleclick.net
 0.0.0.0 ad.doubleclick.com
-0.0.0.0 ad.doubleclick.ne
+0.0.0.0 ad.doubleclick.net
 0.0.0.0 advertisers.doubleclick.com
 0.0.0.0 advertisersapitest.doubleclick.com
 0.0.0.0 betareportcentral.doubleclick.com
@@ -13,7 +13,7 @@
 0.0.0.0 doubleclick.net
 0.0.0.0 dart.l.doubleclick.net
 0.0.0.0 emea.doubleclick.com
-0.0.0.0 fls.doubleclick.nett
+0.0.0.0 fls.doubleclick.net
 0.0.0.0 g.doubleclick.net
 0.0.0.0 googleads4.g.doubleclick.net
 0.0.0.0 googleads.g.doubleclick.net
@@ -39,3 +39,9 @@
 0.0.0.0 www2.doubleclick.com
 0.0.0.0 www3.doubleclick.com
 0.0.0.0 www.doubleclick.com
+0.0.0.0 adclick.g.doubleclick.net
+0.0.0.0 googleads2.g.doubleclick.net
+0.0.0.0 feedads.g.doubleclick.net
+0.0.0.0 pubads.g.doubleclick.net
+0.0.0.0 adx.g.doubleclick.net
+0.0.0.0 vodads.g.doubleclick.net
