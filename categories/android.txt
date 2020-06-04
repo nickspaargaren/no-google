@@ -1,7 +1,7 @@
 # Google Android
 0.0.0.0 1-market.android.com
-0.0.0.0 a17-250-248-101.android.com
 0.0.0.0 a.android.com
+0.0.0.0 a17-250-248-101.android.com
 0.0.0.0 accessories.android.com
 0.0.0.0 accounts.partner.android.com
 0.0.0.0 android-review.googlesource.com

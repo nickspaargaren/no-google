@@ -1,11 +1,11 @@
 # Google Analytics
 0.0.0.0 apis.googletagmanager.com
 0.0.0.0 click.google-analytics.com
-0.0.0.0 htps.googletagmanager.com
-0.0.0.0 httpswww.googletagmanager.com
 0.0.0.0 google-analytics.com
 0.0.0.0 googletagmanager.com
 0.0.0.0 googletagservices.com
+0.0.0.0 htps.googletagmanager.com
+0.0.0.0 httpswww.googletagmanager.com
 0.0.0.0 qs11.googletagmanager.com
 0.0.0.0 sandbox.google-analytics.com
 0.0.0.0 ssl.google-analytics.com
