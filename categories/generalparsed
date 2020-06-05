@@ -137,6 +137,7 @@ console.developers.google.com
 contacts.google.com
 contributor.google.com
 cpuid_0.google.com
+cryptauthenrollment.googleapis.com
 cse.google.com
 cse.google.com/cse/
 csi.gstatic.com
@@ -175,8 +176,10 @@ fcmatch.google.com
 fe0.google.com
 feedburner.google.com
 feedproxy.google.com
+firebaseremoteconfig.googleapis.com
 flutter.io
 followed.by.svc-1.google.com
+footprints-pa.googleapis.com
 forcesafesearch.google.com
 forms.google.com
 froogle.google.com
@@ -260,6 +263,7 @@ labs1.google.com
 landing.google.com
 latitude.google.com
 learndigital.withgoogle.com
+lens-storage.storage.googleapis.com
 lh2.google.com
 lh3.ggpht.com
 lh3.google.com
@@ -311,7 +315,7 @@ ns1.google.com
 ns1.ns1.google.com
 ns2.ns1.google.com
 ns4.google.com
-o-o.resolver.203.45.187.179.p6bmw3zahq27rql.metricz.l .google.com
+o-o.resolver.203.45.187.179.p6bmw3zahq27rql.metricz.l.google.com
 ocsp.pki.goog
 ogs.google.com
 one.google.com
@@ -338,6 +342,7 @@ productforums.google.com
 proxy.googlezip.net
 quickdraw.withgoogle.com
 randy-phishingbotnet-maugans.you.like.here.follo.by.svc-1.google.com
+realtimesupport.clients6.google.com
 recaptcha.google.com
 research.google.com
 rtb.pixeltracking.co

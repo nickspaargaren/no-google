@@ -137,6 +137,7 @@
 0.0.0.0 contacts.google.com
 0.0.0.0 contributor.google.com
 0.0.0.0 cpuid_0.google.com
+0.0.0.0 cryptauthenrollment.googleapis.com
 0.0.0.0 cse.google.com
 0.0.0.0 cse.google.com/cse/
 0.0.0.0 csi.gstatic.com
@@ -175,8 +176,10 @@
 0.0.0.0 fe0.google.com
 0.0.0.0 feedburner.google.com
 0.0.0.0 feedproxy.google.com
+0.0.0.0 firebaseremoteconfig.googleapis.com
 0.0.0.0 flutter.io
 0.0.0.0 followed.by.svc-1.google.com
+0.0.0.0 footprints-pa.googleapis.com
 0.0.0.0 forcesafesearch.google.com
 0.0.0.0 forms.google.com
 0.0.0.0 froogle.google.com
@@ -260,6 +263,7 @@
 0.0.0.0 landing.google.com
 0.0.0.0 latitude.google.com
 0.0.0.0 learndigital.withgoogle.com
+0.0.0.0 lens-storage.storage.googleapis.com
 0.0.0.0 lh2.google.com
 0.0.0.0 lh3.ggpht.com
 0.0.0.0 lh3.google.com
@@ -311,7 +315,7 @@
 0.0.0.0 ns1.ns1.google.com
 0.0.0.0 ns2.ns1.google.com
 0.0.0.0 ns4.google.com
-0.0.0.0 o-o.resolver.203.45.187.179.p6bmw3zahq27rql.metricz.l .google.com
+0.0.0.0 o-o.resolver.203.45.187.179.p6bmw3zahq27rql.metricz.l.google.com
 0.0.0.0 ocsp.pki.goog
 0.0.0.0 ogs.google.com
 0.0.0.0 one.google.com
@@ -338,6 +342,7 @@
 0.0.0.0 proxy.googlezip.net
 0.0.0.0 quickdraw.withgoogle.com
 0.0.0.0 randy-phishingbotnet-maugans.you.like.here.follo.by.svc-1.google.com
+0.0.0.0 realtimesupport.clients6.google.com
 0.0.0.0 recaptcha.google.com
 0.0.0.0 research.google.com
 0.0.0.0 rtb.pixeltracking.co

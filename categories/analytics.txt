@@ -17,3 +17,5 @@
 0.0.0.0 www.googletagmanager.com
 0.0.0.0 www.googletagservices.com
 0.0.0.0 wwwctp.googletagmanager.com
+0.0.0.0 crashlytics.com
+0.0.0.0 settings.crashlytics.com
