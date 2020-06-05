@@ -1,5 +1,5 @@
 #This blocklist helps Pi-hole's admin restrict access to Google and its domains.
-#Last updated: 04-06-2020
+#Last updated: 05-06-2020
 
 # Google Analytics
 0.0.0.0 apis.googletagmanager.com
@@ -20,6 +20,8 @@
 0.0.0.0 www.googletagmanager.com
 0.0.0.0 www.googletagservices.com
 0.0.0.0 wwwctp.googletagmanager.com
+0.0.0.0 crashlytics.com
+0.0.0.0 settings.crashlytics.com
 # Google Android
 0.0.0.0 1-market.android.com
 0.0.0.0 a.android.com
@@ -63,7 +65,7 @@
 0.0.0.0 2001:4860:4860::8888
 0.0.0.0 2001:4860:4860::8844
 # DoT Google domains
-0.0.0.0 0c27d4c0-dnsotls-ds.metric.gstatic.com.lan
+0.0.0.0 0c27d4c0-dnsotls-ds.metric.gstatic.com
 0.0.0.0 0cce3ccd-dnsotls-ds.metric.gstatic.com
 0.0.0.0 1jz49v-dnsotls-ds.metric.gstatic.com
 0.0.0.0 2ae2cd8b-dnsotls-ds.metric.gstatic.com
@@ -1463,6 +1465,7 @@
 0.0.0.0 contacts.google.com
 0.0.0.0 contributor.google.com
 0.0.0.0 cpuid_0.google.com
+0.0.0.0 cryptauthenrollment.googleapis.com
 0.0.0.0 cse.google.com
 0.0.0.0 cse.google.com/cse/
 0.0.0.0 csi.gstatic.com
@@ -1501,8 +1504,10 @@
 0.0.0.0 fe0.google.com
 0.0.0.0 feedburner.google.com
 0.0.0.0 feedproxy.google.com
+0.0.0.0 firebaseremoteconfig.googleapis.com
 0.0.0.0 flutter.io
 0.0.0.0 followed.by.svc-1.google.com
+0.0.0.0 footprints-pa.googleapis.com
 0.0.0.0 forcesafesearch.google.com
 0.0.0.0 forms.google.com
 0.0.0.0 froogle.google.com
@@ -1586,6 +1591,7 @@
 0.0.0.0 landing.google.com
 0.0.0.0 latitude.google.com
 0.0.0.0 learndigital.withgoogle.com
+0.0.0.0 lens-storage.storage.googleapis.com
 0.0.0.0 lh2.google.com
 0.0.0.0 lh3.ggpht.com
 0.0.0.0 lh3.google.com
@@ -1637,7 +1643,7 @@
 0.0.0.0 ns1.ns1.google.com
 0.0.0.0 ns2.ns1.google.com
 0.0.0.0 ns4.google.com
-0.0.0.0 o-o.resolver.203.45.187.179.p6bmw3zahq27rql.metricz.l .google.com
+0.0.0.0 o-o.resolver.203.45.187.179.p6bmw3zahq27rql.metricz.l.google.com
 0.0.0.0 ocsp.pki.goog
 0.0.0.0 ogs.google.com
 0.0.0.0 one.google.com
@@ -1664,6 +1670,7 @@
 0.0.0.0 proxy.googlezip.net
 0.0.0.0 quickdraw.withgoogle.com
 0.0.0.0 randy-phishingbotnet-maugans.you.like.here.follo.by.svc-1.google.com
+0.0.0.0 realtimesupport.clients6.google.com
 0.0.0.0 recaptcha.google.com
 0.0.0.0 research.google.com
 0.0.0.0 rtb.pixeltracking.co

@@ -4,21 +4,21 @@
 2001:4860:4860::8888
 2001:4860:4860::8844
 # DoT Google domains
-0c27d4c0-dnsotls-ds.metric.gstatic.com.lan
+0c27d4c0-dnsotls-ds.metric.gstatic.com
 0cce3ccd-dnsotls-ds.metric.gstatic.com
 1jz49v-dnsotls-ds.metric.gstatic.com
 2ae2cd8b-dnsotls-ds.metric.gstatic.com
 2bmhql-dnsotls-ds.metric.gstatic.com
-3b8faf8a-dnsotls-ds.metric.gstatic.com 
+3b8faf8a-dnsotls-ds.metric.gstatic.com
 3e5ec238-dnsotls-ds.metric.gstatic.com
 3oel6p-dnsotls-ds.metric.gstatic.com
 4cirl3-dnsotls-ds.metric.gstatic.com
 4e0ikb-dnsotls-ds.metric.gstatic.com
 4ove1z-dnsotls-ds.metric.gstatic.com
-5a219419-dnsotls-ds.metric.gstatic.com 
+5a219419-dnsotls-ds.metric.gstatic.com
 05ead28d-dnsotls-ds.metric.gstatic.com
 6ca89986-dnsotls-ds.metric.gstatic.com
-6d3ec626-dnsotls-ds.metric.gstatic.com 
+6d3ec626-dnsotls-ds.metric.gstatic.com
 6d743ce3-dnsotls-ds.metric.gstatic.com
 7a37b6d8-dnsotls-ds.metric.gstatic.com
 7e0e19d9-dnsotls-ds.metric.gstatic.com
@@ -54,7 +54,7 @@
 3671c395-dnsotls-ds.metric.gstatic.com
 06371c1a-dnsotls-ds.metric.gstatic.com
 21368ea8-dnsotls-ds.metric.gstatic.com
-34624fd4-dnsotls-ds.metric.gstatic.com 
+34624fd4-dnsotls-ds.metric.gstatic.com
 442847fd-dnsotls-ds.metric.gstatic.com
 519612aa-dnsotls-ds.metric.gstatic.com
 770368e7-dnsotls-ds.metric.gstatic.com
@@ -63,7 +63,7 @@
 12559529-dnsotls-ds.metric.gstatic.com
 a3c35da6-dnsotls-ds.metric.gstatic.com
 a5e55fa0-dnsotls-ds.metric.gstatic.com
-a998bbef-dnsotls-ds.metric.gstatic.com 
+a998bbef-dnsotls-ds.metric.gstatic.com
 ab687936-dnsotls-ds.metric.gstatic.com
 ad2afa9e-dnsotls-ds.metric.gstatic.com
 an08in-dnsotls-ds.metric.gstatic.com
@@ -81,7 +81,7 @@ c7b7e4c5-dnsotls-ds.metric.gstatic.com
 c3938f55-dnsotls-ds.metric.gstatic.com
 c55534a4-dnsotls-ds.metric.gstatic.com
 c62032ad-dnsotls-ds.metric.gstatic.com
-ca5ykn-dnsotls-ds.metric.gstatic.com 
+ca5ykn-dnsotls-ds.metric.gstatic.com
 cccqfh-dnsotls-ds.metric.gstatic.com
 cd3a924a-dnsotls-ds.metric.gstatic.com
 cnwqx0-dnsotls-ds.metric.gstatic.com
@@ -98,9 +98,9 @@ e68c63fa-dnsotls-ds.metric.gstatic.com
 e90bbf14-dnsotls-ds.metric.gstatic.com
 e750c052-dnsotls-ds.metric.gstatic.com
 e844af24-dnsotls-ds.metric.gstatic.com
-e16209bf-dnsotls-ds.metric.gstatic.com 
+e16209bf-dnsotls-ds.metric.gstatic.com
 e269533d-dnsotls-ds.metric.gstatic.com
-efb6aea0-dnsotls-ds.metric.gstatic.com 
+efb6aea0-dnsotls-ds.metric.gstatic.com
 efmnh0-dnsotls-ds.metric.gstatic.com
 elxjwp-dnsotls-ds.metric.gstatic.com
 f1stuc-dnsotls-ds.metric.gstatic.com
@@ -120,7 +120,7 @@ k0fxmr-dnsotls-ds.metric.gstatic.com
 kemedp-dnsotls-ds.metric.gstatic.com
 kzkwqp-dnsotls-ds.metric.gstatic.com
 lud771-dnsotls-ds.metric.gstatic.com
-lvhpve-dnsotls-ds.metric.gstatic.com 
+lvhpve-dnsotls-ds.metric.gstatic.com
 miudkh-dnsotls-ds.metric.gstatic.com
 mwmeoo-dnsotls-ds.metric.gstatic.com
 ok6cmj-dnsotls-ds.metric.gstatic.com
@@ -133,7 +133,7 @@ pxima5-dnsotls-ds.metric.gstatic.com
 qhumz2-dnsotls-ds.metric.gstatic.com
 qnrq65-dnsotls-ds.metric.gstatic.com
 qxebfi-dnsotls-ds.metric.gstatic.com
-qzbu8w-dnsotls-ds.metric.gstatic.com 
+qzbu8w-dnsotls-ds.metric.gstatic.com
 r3ahpv-dnsotls-ds.metric.gstatic.com
 rdasv5-dnsotls-ds.metric.gstatic.com
 rdrzfs-dnsotls-ds.metric.gstatic.com

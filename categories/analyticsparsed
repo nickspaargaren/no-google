@@ -1,6 +1,7 @@
 # Google Analytics
 apis.googletagmanager.com
 click.google-analytics.com
+crashlytics.com
 google-analytics.com
 googletagmanager.com
 googletagservices.com
@@ -8,6 +9,7 @@ htps.googletagmanager.com
 httpswww.googletagmanager.com
 qs11.googletagmanager.com
 sandbox.google-analytics.com
+settings.crashlytics.com
 ssl.google-analytics.com
 tagmanager.google.com
 test-web.googletagmanager.com
