@@ -1,3 +1,5 @@
+#This blocklist helps Pi-hole's admin restrict access to Google and its domains.
+#Last updated: 06-06-2020
 # Others -- Mail
 mail-bk0-f41.google.com
 mail-bk0-f42.google.com
