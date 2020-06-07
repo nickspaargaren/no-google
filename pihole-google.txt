@@ -22,6 +22,7 @@ www.google-analytics.com
 www.googletagmanager.com
 www.googletagservices.com
 wwwctp.googletagmanager.com
+
 # Google Android
 1-market.android.com
 a.android.com
@@ -59,11 +60,13 @@ time.android.com
 tools.android.com
 wear.android.com
 www.android.com
+
 # Google DNS Servers
 8.8.8.8
 8.8.4.4
 2001:4860:4860::8888
 2001:4860:4860::8844
+
 # DoT Google domains
 0c27d4c0-dnsotls-ds.metric.gstatic.com
 0cce3ccd-dnsotls-ds.metric.gstatic.com
@@ -220,6 +223,7 @@ xrfn-dnsotls-ds.metric.gstatic.com
 yfnaw9-dnsotls-ds.metric.gstatic.com
 yuq6xm-dnsotls-ds.metric.gstatic.com
 yvqo1t-dnsotls-ds.metric.gstatic.com
+
 # Google Domains
 google.ac
 google.ad
@@ -629,6 +633,7 @@ www.google.tt
 www.google.vg
 www.google.vu
 www.google.ws
+
 # Doubleclick
 2507573.fls.doubleclick.net
 4403916.fls.doubleclick.net
@@ -684,6 +689,7 @@ vodads.g.doubleclick.net
 www.doubleclick.com
 www2.doubleclick.com
 www3.doubleclick.com
+
 # Firebase
 0.firebaseio.com
 00.firebaseio.com
@@ -1330,10 +1336,12 @@ ys-tactics-5a050.firebaseio.com
 zeta-period-845-typing-feedback-001.firebaseio.com
 zizounihalldev.firebaseio.com
 zoomtorino.firebaseio.com
+
 # Google Fonts
 fonts.google.com
 fonts.googleapis.com
 fonts.gstatic.com
+
 # General Sites
 1.bp.blogspot.com
 1e100.net
@@ -1775,6 +1783,7 @@ www.thinkwithgoogle.com
 www.withgoogle.com
 Www1.google.com
 www10.google.com
+
 # Others -- Mail
 mail-bk0-f41.google.com
 mail-bk0-f42.google.com
@@ -2060,6 +2069,7 @@ mail-yw1-f52.google.com
 mail-yw1-f62.google.com
 mail-yw1-f72.google.com
 mail-yw1-f100.google.com
+
 # page.link
 0utlookmxupdates1.page.link
 0utlookmxverification1.page.link
@@ -2692,6 +2702,7 @@ www.sites.google.com
 www.toolbar.google.com
 www.translate.google.com
 www.waze.com
+
 # Proxies
 google-proxy-64-233-172-0.google.com
 google-proxy-64-233-172-32.google.com
@@ -2924,6 +2935,7 @@ rate-limited-proxy-203-208-38-200.google.com
 rate-limited-proxy-209-85-238-0.google.com
 rate-limited-proxy-209-85-238-100.google.com
 rate-limited-proxy-209-85-238-200.google.com
+
 # Short Links
 cctldtest.g.co
 cctldtest.youtu.be
@@ -2934,6 +2946,7 @@ surf.youtu.be
 www.yt.be
 youtu.be
 yt.be
+
 # Youtube
 .youtubeeducation.com
 accounts.youtube.com
