@@ -1,6 +1,63 @@
 #This blocklist helps Pi-hole's admin restrict access to Google and its domains.
 #Last updated: 06-06-2020
 
+#Google Fiber
+speedtest.googlefiber.net
+austin.speed.googlefiber.net
+nashville.speed.googlefiber.net
+kansas.speed.googlefiber.net
+stanford.speed.googlefiber.net
+charlotte.speed.googlefiber.net
+raleigh.speed.googlefiber.net
+atlanta.speed.googlefiber.net
+
+#Google Apis
+auditrecording-pa.googleapis.com
+lens-pa.googleapis.com
+phonedeviceverification-pa.googleapis.com
+clientauthconfig.googleapis.com
+notifications-pa.googleapis.com
+firebaseinstallations.googleapis.com
+crowdcompute-pa.googleapis.com
+firebasestorage.googleapis.com
+firestore.googleapis.com
+visionkit-pa.googleapis.com
+crowdsource-pa.googleapis.com
+highlightauthoring-pa.googleapis.com
+telephonyspamprotect-pa.googleapis.com
+podcastsservice-pa.googleapis.com
+playbooks-pa.googleapis.com
+cloudcastportale-pa.googleapis.com
+cloudcastportalfe-pa.googleapis.com
+clientauthconfig.googleapis.com
+
+#Firebase
+include-release.firebaseio.com
+s-usc1c-nss-226.firebaseio.com
+
+#No Idea
+pagead2.googlesyndication.com
+messages.google.com
+about.google
+kstatic.googleusercontent.com
+gsuite.google.co.uk
+cps.withgoogle.com
+signaler-pa.clients6.google.com
+aa.google.com
+projectstream.google.com
+firebaseperusertopics-pa.clients6.google.com
+us-central1-events-d07ac.cloudfunctions.net
+redirector.gvt1.com
+inputtools.google.com
+appassets.androidplatform.net
+stun.l.google.com
+us-central1-events-d07ac.cloudfunctions.net
+r3---sn-8pgbpohxqp5-ac5e.gvt1.com
+r4---sn-8pgbpohxqp5-ac5e.gvt1.com
+inputtools.google.com
+
+---------------------------------
+
 # Google Analytics
 apis.googletagmanager.com
 click.google-analytics.com
@@ -2571,6 +2628,7 @@ zavarwin2020.page.link
 zdgg2n2.page.link
 zfreebonusopros20.page.link
 zzzfreebonusopros20.page.link
+
 # Google Products
 accounts.google.com
 actions.google.com
