@@ -1,5 +1,5 @@
 #This blocklist helps Pi-hole's admin restrict access to Google and its domains.
-#Last updated: 06-06-2020
+#Last updated: 08-06-2020
 
 #Google Fiber
 speedtest.googlefiber.net
@@ -51,8 +51,6 @@ appassets.androidplatform.net
 stun.l.google.com
 r3---sn-8pgbpohxqp5-ac5e.gvt1.com
 r4---sn-8pgbpohxqp5-ac5e.gvt1.com
-
----------------------------------
 
 # Google Analytics
 apis.googletagmanager.com
