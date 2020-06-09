@@ -1,6 +1,5 @@
 #This blocklist helps Pi-hole's admin restrict access to Google and its domains.
-#Last updated: 06-06-2020
-
+#Last updated: 09-06-2020
 # Google Analytics
 0.0.0.0 apis.googletagmanager.com
 0.0.0.0 click.google-analytics.com
@@ -684,7 +683,17 @@
 0.0.0.0 www.doubleclick.com
 0.0.0.0 www2.doubleclick.com
 0.0.0.0 www3.doubleclick.com
-# Firebase
+#Google Fiber
+0.0.0.0 speedtest.googlefiber.net
+0.0.0.0 austin.speed.googlefiber.net
+0.0.0.0 nashville.speed.googlefiber.net
+0.0.0.0 kansas.speed.googlefiber.net
+0.0.0.0 stanford.speed.googlefiber.net
+0.0.0.0 charlotte.speed.googlefiber.net
+0.0.0.0 raleigh.speed.googlefiber.net
+0.0.0.0 atlanta.speed.googlefiber.net
+0.0.0.0 googlefiber.net
+#Firebase.
 0.0.0.0 0.firebaseio.com
 0.0.0.0 00.firebaseio.com
 0.0.0.0 2.firebaseio.com
@@ -963,6 +972,7 @@
 0.0.0.0 iceprod1.firebaseio.com
 0.0.0.0 ideapp-ea122.firebaseio.com
 0.0.0.0 iery-torch-2122-893f1.firebaseio.com
+0.0.0.0 include-release.firebaseio.com
 0.0.0.0 incredible-india1.firebaseio.com
 0.0.0.0 infoneige1.firebaseio.com
 0.0.0.0 inolocator.firebaseio.com
@@ -1175,6 +1185,7 @@
 0.0.0.0 s-usc1c-nss-220.firebaseio.com
 0.0.0.0 s-usc1c-nss-221.firebaseio.com
 0.0.0.0 s-usc1c-nss-222.firebaseio.com
+0.0.0.0 s-usc1c-nss-226.firebaseio.com
 0.0.0.0 s-usc1c-nss-230.firebaseio.com
 0.0.0.0 s-usc1c-nss-231.firebaseio.com
 0.0.0.0 s-usc1c-nss-236.firebaseio.com
@@ -1334,7 +1345,7 @@
 0.0.0.0 fonts.google.com
 0.0.0.0 fonts.googleapis.com
 0.0.0.0 fonts.gstatic.com
-# General Sites
+#General Sites.
 0.0.0.0 1.bp.blogspot.com
 0.0.0.0 1e100.net
 0.0.0.0 2.bp.blogspot.com
@@ -1355,7 +1366,9 @@
 0.0.0.0 900.drive.google.com
 0.0.0.0 3984.drive.google.com
 0.0.0.0 42176.drive.google.com
+0.0.0.0 aa.google.com
 0.0.0.0 abc.xyz
+0.0.0.0 about.google
 0.0.0.0 aboutme.google.com
 0.0.0.0 accelerate.withgoogle.com
 0.0.0.0 adsense.google.com
@@ -1406,12 +1419,14 @@
 0.0.0.0 api.google.com
 0.0.0.0 apidata.googleusercontent.com
 0.0.0.0 app-measurement.com
+0.0.0.0 appassets.androidplatform.net
 0.0.0.0 appmaker.corp.google.com
 0.0.0.0 appsitemsuggest-pa.googleapis.com
 0.0.0.0 appspot.com
 0.0.0.0 area120.google.com
 0.0.0.0 artsandculture.google.com
 0.0.0.0 aspmx.l.google.com
+0.0.0.0 auditrecording-pa.googleapis.com
 0.0.0.0 autodraw.com
 0.0.0.0 beacons.gcp.gvt1.com
 0.0.0.0 beacons.gcp.gvt2.com
@@ -1447,6 +1462,7 @@
 0.0.0.0 client-channel.google.com
 0.0.0.0 client.1.google.com
 0.0.0.0 client1.google.com
+0.0.0.0 clientauthconfig.googleapis.com
 0.0.0.0 clients.1.google.com
 0.0.0.0 clients1.google.com
 0.0.0.0 clients2.google.com
@@ -1456,6 +1472,7 @@
 0.0.0.0 clients6.google.com
 0.0.0.0 clientservices.googleapis.com
 0.0.0.0 clock_0.google.com
+0.0.0.0 cloudcastportale-pa.googleapis.com
 0.0.0.0 cloudconfig.googleapis.com
 0.0.0.0 cloudsearch.google.com
 0.0.0.0 cloudusersettings-pa.clients6.google.com
@@ -1472,7 +1489,10 @@
 0.0.0.0 console.developers.google.com
 0.0.0.0 contacts.google.com
 0.0.0.0 contributor.google.com
+0.0.0.0 cps.withgoogle.com
 0.0.0.0 cpuid_0.google.com
+0.0.0.0 crowdcompute-pa.googleapis.com
+0.0.0.0 crowdsource-pa.googleapis.com
 0.0.0.0 cryptauthenrollment.googleapis.com
 0.0.0.0 cse.google.com
 0.0.0.0 cse.google.com/cse/
@@ -1512,7 +1532,11 @@
 0.0.0.0 fe0.google.com
 0.0.0.0 feedburner.google.com
 0.0.0.0 feedproxy.google.com
+0.0.0.0 firebaseinstallations.googleapis.com
+0.0.0.0 firebaseperusertopics-pa.clients6.google.com
 0.0.0.0 firebaseremoteconfig.googleapis.com
+0.0.0.0 firebasestorage.googleapis.com
+0.0.0.0 firestore.googleapis.com
 0.0.0.0 flutter.io
 0.0.0.0 followed.by.svc-1.google.com
 0.0.0.0 footprints-pa.googleapis.com
@@ -1557,6 +1581,7 @@
 0.0.0.0 gsmtp185-2.google.com
 0.0.0.0 gstatic.com
 0.0.0.0 gstaticadssl.l.google.com
+0.0.0.0 gsuite.google.co.uk
 0.0.0.0 gsuite.google.com
 0.0.0.0 gsuiteupdates.googleblog.com
 0.0.0.0 gt1.google.com
@@ -1567,6 +1592,7 @@
 0.0.0.0 hedns1.google.com
 0.0.0.0 helpouts.google.com
 0.0.0.0 here.followed.by.svc-1.google.com
+0.0.0.0 highlightauthoring-pa.googleapis.com
 0.0.0.0 id.google.be
 0.0.0.0 id.google.co.uk
 0.0.0.0 id.google.com
@@ -1576,6 +1602,7 @@
 0.0.0.0 id.google.pl
 0.0.0.0 iid.googleapis.com
 0.0.0.0 imap.gmail.com
+0.0.0.0 inputtools.google.com
 0.0.0.0 instantmessaging-pa.googleapis.com
 0.0.0.0 ipv4.google.com
 0.0.0.0 ipv6test.google.com
@@ -1594,11 +1621,13 @@
 0.0.0.0 khms1.google.com
 0.0.0.0 khms2.google.com
 0.0.0.0 knol.google.com
+0.0.0.0 kstatic.googleusercontent.com
 0.0.0.0 l.google.com
 0.0.0.0 labs1.google.com
 0.0.0.0 landing.google.com
 0.0.0.0 latitude.google.com
 0.0.0.0 learndigital.withgoogle.com
+0.0.0.0 lens-pa.googleapis.com
 0.0.0.0 lens-storage.storage.googleapis.com
 0.0.0.0 lh2.google.com
 0.0.0.0 lh3.ggpht.com
@@ -1626,6 +1655,7 @@
 0.0.0.0 mclients.googleapis.com
 0.0.0.0 mdh-pa.googleapis.com
 0.0.0.0 measurementpartners.google.com
+0.0.0.0 messages.google.com
 0.0.0.0 misc-anycast.1.google.com
 0.0.0.0 mobiledataplan-pa.googleapis.com
 0.0.0.0 mobilemaps-pa.googleapis.com
@@ -1645,6 +1675,7 @@
 0.0.0.0 mybusiness.google.com
 0.0.0.0 mymaps.google.com
 0.0.0.0 mystuff.corp.google.com
+0.0.0.0 notifications-pa.googleapis.com
 0.0.0.0 notifications.google.com
 0.0.0.0 notifications.googleapis.com
 0.0.0.0 ns1.google.com
@@ -1659,9 +1690,11 @@
 0.0.0.0 opensource.google.com
 0.0.0.0 optimize.google.com
 0.0.0.0 orkut.google.com
+0.0.0.0 pagead2.googlesyndication.com
 0.0.0.0 partnerissuetracker.corp.google.com
 0.0.0.0 partnerpage.google.com
 0.0.0.0 people-pa.googleapis.com
+0.0.0.0 phonedeviceverification-pa.googleapis.com
 0.0.0.0 photosdata-pa.googleapis.com
 0.0.0.0 picasa.google.com
 0.0.0.0 picasaweb.google.com
@@ -1670,16 +1703,22 @@
 0.0.0.0 places.google.com
 0.0.0.0 play.googleapis.com
 0.0.0.0 playatoms-pa.googleapis.com
+0.0.0.0 playbooks-pa.googleapis.com
 0.0.0.0 plus.url.google.com
+0.0.0.0 podcastsservice-pa.googleapis.com
 0.0.0.0 policies.google.com
 0.0.0.0 poly.google.com
 0.0.0.0 postmaster.google.com
 0.0.0.0 productforums.google.com
+0.0.0.0 projectstream.google.com
 0.0.0.0 proxy.googlezip.net
 0.0.0.0 quickdraw.withgoogle.com
+0.0.0.0 r3---sn-8pgbpohxqp5-ac5e.gvt1.com
+0.0.0.0 r4---sn-8pgbpohxqp5-ac5e.gvt1.com
 0.0.0.0 randy-phishingbotnet-maugans.you.like.here.follo.by.svc-1.google.com
 0.0.0.0 realtimesupport.clients6.google.com
 0.0.0.0 recaptcha.google.com
+0.0.0.0 redirector.gvt1.com
 0.0.0.0 research.google.com
 0.0.0.0 rtb.pixeltracking.co
 0.0.0.0 safebrowsing.clients.google.com
@@ -1690,6 +1729,7 @@
 0.0.0.0 security.googleblog.com
 0.0.0.0 services.google.com
 0.0.0.0 services2.google.com
+0.0.0.0 signaler-pa.clients6.google.com
 0.0.0.0 sketchup.com
 0.0.0.0 sketchup.google.com
 0.0.0.0 sky.google.com
@@ -1709,6 +1749,7 @@
 0.0.0.0 steamcloud-eu-ams.storage.googleapis.com
 0.0.0.0 storage.googleapis.com
 0.0.0.0 store.google.com
+0.0.0.0 stun.l.google.com
 0.0.0.0 stun1.l.google.com
 0.0.0.0 suggestqueries.google.com
 0.0.0.0 support.google.com
@@ -1720,6 +1761,7 @@
 0.0.0.0 tbn1.google.com
 0.0.0.0 tbn2.google.com
 0.0.0.0 teachercenter.withgoogle.com
+0.0.0.0 telephonyspamprotect-pa.googleapis.com
 0.0.0.0 testmysite.withgoogle.com
 0.0.0.0 thinkwithgoogle.com
 0.0.0.0 time.google.com
@@ -1735,7 +1777,9 @@
 0.0.0.0 type.whatever.you.like.here.followed.by.svc-1.google.com
 0.0.0.0 type.whatever.you.want.here.followed.by.svc-1.google.com
 0.0.0.0 update.googleapis.com
+0.0.0.0 us-central1-events-d07ac.cloudfunctions.net
 0.0.0.0 userresearch.google.com
+0.0.0.0 visionkit-pa.googleapis.com
 0.0.0.0 vm_0.google.com
 0.0.0.0 voledevice-pa.googleapis.com
 0.0.0.0 vr.google.com
@@ -3036,7 +3080,6 @@
 0.0.0.0 youtubei.youtube.com
 0.0.0.0 yt3.ggpht.com
 0.0.0.0 za.youtube.com
-
 # Others -- Youtube
 0.0.0.0 o-o---preferred---lax04s14---v2---lscache1.c.youtube.com
 0.0.0.0 o-o---preferred---lvlt-iad1---v13---lscache1.c.youtube.com
@@ -3589,7 +3632,6 @@
 0.0.0.0 v19.lscache1.c.youtube.com
 0.0.0.0 v20.lscache1.c.youtube.com
 0.0.0.0 v22.lscache1.c.youtube.com
-
 # ytimg.com
 0.0.0.0 ai.ytimg.com
 0.0.0.0 data.ytimg.com
@@ -3602,11 +3644,9 @@
 0.0.0.0 play-ti.ytimg.com
 0.0.0.0 s.ytimg.com
 0.0.0.0 ytimg.com
-
 # youtubegaming.com
 0.0.0.0 www.youtubegaming.com
 0.0.0.0 youtubegaming.com
-
 # Others -- Googlevideo
 0.0.0.0 0.0-78-194.cache.googlevideo.com
 0.0.0.0 0.99-78-194.cache.googlevideo.com

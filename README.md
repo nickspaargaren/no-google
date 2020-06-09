@@ -49,28 +49,29 @@ https://raw.githubusercontent.com/nickspaargaren/no-google/master/categories/dom
 https://raw.githubusercontent.com/nickspaargaren/no-google/master/categories/dnsparsed
 https://raw.githubusercontent.com/nickspaargaren/no-google/master/categories/androidparsed
 https://raw.githubusercontent.com/nickspaargaren/no-google/master/categories/analyticsparsed
+https://raw.githubusercontent.com/nickspaargaren/no-google/master/categories/fiberparsed
 ```
 
 (Combining those with the main whole filter is useless and not recommended, however, feel free to combine the different smaller filters)
 
-## Can i use it with [NextDNS](https://nextdns.io/) ?
+## Can I use it with [NextDNS](https://nextdns.io/) ?
 Yep ! It is available in their selection of domains list, labeled as ¨No Google¨.
 NextDNS is using the wildcard-domains format, so you will have to manually wishlist some specific services, as it will block everything Google related.
 
-## Can i use it with my other ads/domains blocker program ?
-Surely ! if it does indeed support the host or domains type of filters.
+## Can I use it with my other ads/domains blocker program ?
+Surely ! If it does indeed support the host or domains type of filters.
 Import it manually, or [click on this link](https://subscribe.adblockplus.org/?location=https://raw.githubusercontent.com/nickspaargaren/no-google/master/google-domains&title=no-google) if you are using a web browser extension.
 
-## Can i use it with anything else ?
+## Can I use it with anything else ?
 Sure thing, the No G list is declined into multiples formats types, as an host format, domains/urls format and a wildcard format.
 
-## Hum, Do you got any mirrors of the list ?
+## Hum, do you got any mirrors of the list ?
 Yes indeed, We have a GitLab host mirror of the repo available at this address : https://framagit.org/PoorPocketsMcNewHold/no-google
 Note that the main filter is being worked here, so, updates and modifications on the Gitlab source will have to be updated manually.
 Otherwise, if you do prefer to use Gitlab, feel free to use it, and even contribute to our list there instead !
 
 ## Can i block the other letters of GAFAM ?
-Of course, Here´s some filterlists that should help you accomplish that.
+Of course, here’s some filterlists that should help you accomplish that.
 
 **A**pple : https://github.com/c-edw/ios-telemetry, https://github.com/1r2/iosparanoid or https://gitlab.com/CHEF-KOCH/cks-filterlist/blob/master/Anti-Corp/filters/apple.txt
 

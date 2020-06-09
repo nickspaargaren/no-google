@@ -1,6 +1,6 @@
 #This blocklist helps Pi-hole's admin restrict access to Google and its domains.
-#Last updated: 06-06-2020
-# General Sites
+#Last updated: 08-06-2020
+# General Sites.
 1.bp.blogspot.com
 1e100.net
 2.bp.blogspot.com
@@ -21,7 +21,9 @@
 900.drive.google.com
 3984.drive.google.com
 42176.drive.google.com
+aa.google.com
 abc.xyz
+about.google
 aboutme.google.com
 accelerate.withgoogle.com
 adsense.google.com
@@ -72,12 +74,14 @@ ap2.googleusercontent.com
 api.google.com
 apidata.googleusercontent.com
 app-measurement.com
+appassets.androidplatform.net
 appmaker.corp.google.com
 appsitemsuggest-pa.googleapis.com
 appspot.com
 area120.google.com
 artsandculture.google.com
 aspmx.l.google.com
+auditrecording-pa.googleapis.com
 autodraw.com
 beacons.gcp.gvt1.com
 beacons.gcp.gvt2.com
@@ -113,6 +117,7 @@ Cliens-2.google.com
 client-channel.google.com
 client.1.google.com
 client1.google.com
+clientauthconfig.googleapis.com
 clients.1.google.com
 clients1.google.com
 clients2.google.com
@@ -122,6 +127,7 @@ clients5.google.com
 clients6.google.com
 clientservices.googleapis.com
 clock_0.google.com
+cloudcastportale-pa.googleapis.com
 cloudconfig.googleapis.com
 cloudsearch.google.com
 cloudusersettings-pa.clients6.google.com
@@ -138,7 +144,10 @@ console.developer.google.com
 console.developers.google.com
 contacts.google.com
 contributor.google.com
+cps.withgoogle.com
 cpuid_0.google.com
+crowdcompute-pa.googleapis.com
+crowdsource-pa.googleapis.com
 cryptauthenrollment.googleapis.com
 cse.google.com
 cse.google.com/cse/
@@ -178,7 +187,11 @@ fcmatch.google.com
 fe0.google.com
 feedburner.google.com
 feedproxy.google.com
+firebaseinstallations.googleapis.com
+firebaseperusertopics-pa.clients6.google.com
 firebaseremoteconfig.googleapis.com
+firebasestorage.googleapis.com
+firestore.googleapis.com
 flutter.io
 followed.by.svc-1.google.com
 footprints-pa.googleapis.com
@@ -223,6 +236,7 @@ growth-pa.googleapis.com
 gsmtp185-2.google.com
 gstatic.com
 gstaticadssl.l.google.com
+gsuite.google.co.uk
 gsuite.google.com
 gsuiteupdates.googleblog.com
 gt1.google.com
@@ -233,6 +247,7 @@ gweb-cloudblog-publish.appspot.com
 hedns1.google.com
 helpouts.google.com
 here.followed.by.svc-1.google.com
+highlightauthoring-pa.googleapis.com
 id.google.be
 id.google.co.uk
 id.google.com
@@ -242,6 +257,7 @@ id.google.nl
 id.google.pl
 iid.googleapis.com
 imap.gmail.com
+inputtools.google.com
 instantmessaging-pa.googleapis.com
 ipv4.google.com
 ipv6test.google.com
@@ -260,11 +276,13 @@ khms0.google.com
 khms1.google.com
 khms2.google.com
 knol.google.com
+kstatic.googleusercontent.com
 l.google.com
 labs1.google.com
 landing.google.com
 latitude.google.com
 learndigital.withgoogle.com
+lens-pa.googleapis.com
 lens-storage.storage.googleapis.com
 lh2.google.com
 lh3.ggpht.com
@@ -292,6 +310,7 @@ material.io
 mclients.googleapis.com
 mdh-pa.googleapis.com
 measurementpartners.google.com
+messages.google.com
 misc-anycast.1.google.com
 mobiledataplan-pa.googleapis.com
 mobilemaps-pa.googleapis.com
@@ -311,6 +330,7 @@ myactivity.google.com
 mybusiness.google.com
 mymaps.google.com
 mystuff.corp.google.com
+notifications-pa.googleapis.com
 notifications.google.com
 notifications.googleapis.com
 ns1.google.com
@@ -325,9 +345,11 @@ onetoday.google.com
 opensource.google.com
 optimize.google.com
 orkut.google.com
+pagead2.googlesyndication.com
 partnerissuetracker.corp.google.com
 partnerpage.google.com
 people-pa.googleapis.com
+phonedeviceverification-pa.googleapis.com
 photosdata-pa.googleapis.com
 picasa.google.com
 picasaweb.google.com
@@ -336,16 +358,22 @@ pki.google.com
 places.google.com
 play.googleapis.com
 playatoms-pa.googleapis.com
+playbooks-pa.googleapis.com
 plus.url.google.com
+podcastsservice-pa.googleapis.com
 policies.google.com
 poly.google.com
 postmaster.google.com
 productforums.google.com
+projectstream.google.com
 proxy.googlezip.net
 quickdraw.withgoogle.com
+r3---sn-8pgbpohxqp5-ac5e.gvt1.com
+r4---sn-8pgbpohxqp5-ac5e.gvt1.com
 randy-phishingbotnet-maugans.you.like.here.follo.by.svc-1.google.com
 realtimesupport.clients6.google.com
 recaptcha.google.com
+redirector.gvt1.com
 research.google.com
 rtb.pixeltracking.co
 safebrowsing.clients.google.com
@@ -356,6 +384,7 @@ santatracker.google.com
 security.googleblog.com
 services.google.com
 services2.google.com
+signaler-pa.clients6.google.com
 sketchup.com
 sketchup.google.com
 sky.google.com
@@ -375,6 +404,7 @@ ssl.gstatic.com
 steamcloud-eu-ams.storage.googleapis.com
 storage.googleapis.com
 store.google.com
+stun.l.google.com
 stun1.l.google.com
 suggestqueries.google.com
 support.google.com
@@ -386,6 +416,7 @@ tbn0.google.com
 tbn1.google.com
 tbn2.google.com
 teachercenter.withgoogle.com
+telephonyspamprotect-pa.googleapis.com
 testmysite.withgoogle.com
 thinkwithgoogle.com
 time.google.com
@@ -401,7 +432,9 @@ tv576.drive.google.com
 type.whatever.you.like.here.followed.by.svc-1.google.com
 type.whatever.you.want.here.followed.by.svc-1.google.com
 update.googleapis.com
+us-central1-events-d07ac.cloudfunctions.net
 userresearch.google.com
+visionkit-pa.googleapis.com
 vm_0.google.com
 voledevice-pa.googleapis.com
 vr.google.com
@@ -439,5 +472,5 @@ www.material.io
 www.sketchup.com
 www.thinkwithgoogle.com
 www.withgoogle.com
-Www1.google.com
+www1.google.com
 www10.google.com

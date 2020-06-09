@@ -1,6 +1,6 @@
 #This blocklist helps Pi-hole's admin restrict access to Google and its domains.
-#Last updated: 06-06-2020
-# Firebase
+#Last updated: 09-06-2020
+#Firebase.
 0.0.0.0 0.firebaseio.com
 0.0.0.0 00.firebaseio.com
 0.0.0.0 2.firebaseio.com
@@ -279,6 +279,7 @@
 0.0.0.0 iceprod1.firebaseio.com
 0.0.0.0 ideapp-ea122.firebaseio.com
 0.0.0.0 iery-torch-2122-893f1.firebaseio.com
+0.0.0.0 include-release.firebaseio.com
 0.0.0.0 incredible-india1.firebaseio.com
 0.0.0.0 infoneige1.firebaseio.com
 0.0.0.0 inolocator.firebaseio.com
@@ -491,6 +492,7 @@
 0.0.0.0 s-usc1c-nss-220.firebaseio.com
 0.0.0.0 s-usc1c-nss-221.firebaseio.com
 0.0.0.0 s-usc1c-nss-222.firebaseio.com
+0.0.0.0 s-usc1c-nss-226.firebaseio.com
 0.0.0.0 s-usc1c-nss-230.firebaseio.com
 0.0.0.0 s-usc1c-nss-231.firebaseio.com
 0.0.0.0 s-usc1c-nss-236.firebaseio.com

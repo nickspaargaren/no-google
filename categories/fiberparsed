@@ -1,0 +1,12 @@
+#This blocklist helps Pi-hole's admin restrict access to Google and its domains.
+#Last updated: 08-06-2020
+#Google Fiber
+speedtest.googlefiber.net
+austin.speed.googlefiber.net
+nashville.speed.googlefiber.net
+kansas.speed.googlefiber.net
+stanford.speed.googlefiber.net
+charlotte.speed.googlefiber.net
+raleigh.speed.googlefiber.net
+atlanta.speed.googlefiber.net
+googlefiber.net
