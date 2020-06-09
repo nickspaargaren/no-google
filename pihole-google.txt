@@ -1,57 +1,5 @@
 #This blocklist helps Pi-hole's admin restrict access to Google and its domains.
-#Last updated: 08-06-2020
-
-#Google Fiber
-speedtest.googlefiber.net
-austin.speed.googlefiber.net
-nashville.speed.googlefiber.net
-kansas.speed.googlefiber.net
-stanford.speed.googlefiber.net
-charlotte.speed.googlefiber.net
-raleigh.speed.googlefiber.net
-atlanta.speed.googlefiber.net
-
-#Google Apis
-auditrecording-pa.googleapis.com
-lens-pa.googleapis.com
-phonedeviceverification-pa.googleapis.com
-clientauthconfig.googleapis.com
-notifications-pa.googleapis.com
-firebaseinstallations.googleapis.com
-crowdcompute-pa.googleapis.com
-firebasestorage.googleapis.com
-firestore.googleapis.com
-visionkit-pa.googleapis.com
-crowdsource-pa.googleapis.com
-highlightauthoring-pa.googleapis.com
-telephonyspamprotect-pa.googleapis.com
-podcastsservice-pa.googleapis.com
-playbooks-pa.googleapis.com
-cloudcastportale-pa.googleapis.com
-
-#Firebase
-include-release.firebaseio.com
-s-usc1c-nss-226.firebaseio.com
-
-#No Idea
-pagead2.googlesyndication.com
-messages.google.com
-about.google
-kstatic.googleusercontent.com
-gsuite.google.co.uk
-cps.withgoogle.com
-signaler-pa.clients6.google.com
-aa.google.com
-projectstream.google.com
-firebaseperusertopics-pa.clients6.google.com
-us-central1-events-d07ac.cloudfunctions.net
-redirector.gvt1.com
-inputtools.google.com
-appassets.androidplatform.net
-stun.l.google.com
-r3---sn-8pgbpohxqp5-ac5e.gvt1.com
-r4---sn-8pgbpohxqp5-ac5e.gvt1.com
-
+#Last updated: 09-06-2020
 # Google Analytics
 apis.googletagmanager.com
 click.google-analytics.com
@@ -73,7 +21,6 @@ www.google-analytics.com
 www.googletagmanager.com
 www.googletagservices.com
 wwwctp.googletagmanager.com
-
 # Google Android
 1-market.android.com
 a.android.com
@@ -111,13 +58,11 @@ time.android.com
 tools.android.com
 wear.android.com
 www.android.com
-
 # Google DNS Servers
 8.8.8.8
 8.8.4.4
 2001:4860:4860::8888
 2001:4860:4860::8844
-
 # DoT Google domains
 0c27d4c0-dnsotls-ds.metric.gstatic.com
 0cce3ccd-dnsotls-ds.metric.gstatic.com
@@ -274,7 +219,6 @@ xrfn-dnsotls-ds.metric.gstatic.com
 yfnaw9-dnsotls-ds.metric.gstatic.com
 yuq6xm-dnsotls-ds.metric.gstatic.com
 yvqo1t-dnsotls-ds.metric.gstatic.com
-
 # Google Domains
 google.ac
 google.ad
@@ -684,7 +628,6 @@ www.google.tt
 www.google.vg
 www.google.vu
 www.google.ws
-
 # Doubleclick
 2507573.fls.doubleclick.net
 4403916.fls.doubleclick.net
@@ -740,8 +683,17 @@ vodads.g.doubleclick.net
 www.doubleclick.com
 www2.doubleclick.com
 www3.doubleclick.com
-
-# Firebase
+#Google Fiber
+speedtest.googlefiber.net
+austin.speed.googlefiber.net
+nashville.speed.googlefiber.net
+kansas.speed.googlefiber.net
+stanford.speed.googlefiber.net
+charlotte.speed.googlefiber.net
+raleigh.speed.googlefiber.net
+atlanta.speed.googlefiber.net
+googlefiber.net
+#Firebase
 0.firebaseio.com
 00.firebaseio.com
 2.firebaseio.com
@@ -1020,6 +972,7 @@ i-code-c5e41.firebaseio.com
 iceprod1.firebaseio.com
 ideapp-ea122.firebaseio.com
 iery-torch-2122-893f1.firebaseio.com
+include-release.firebaseio.com
 incredible-india1.firebaseio.com
 infoneige1.firebaseio.com
 inolocator.firebaseio.com
@@ -1232,6 +1185,7 @@ s-usc1c-nss-212.firebaseio.com
 s-usc1c-nss-220.firebaseio.com
 s-usc1c-nss-221.firebaseio.com
 s-usc1c-nss-222.firebaseio.com
+s-usc1c-nss-226.firebaseio.com
 s-usc1c-nss-230.firebaseio.com
 s-usc1c-nss-231.firebaseio.com
 s-usc1c-nss-236.firebaseio.com
@@ -1387,13 +1341,11 @@ ys-tactics-5a050.firebaseio.com
 zeta-period-845-typing-feedback-001.firebaseio.com
 zizounihalldev.firebaseio.com
 zoomtorino.firebaseio.com
-
 # Google Fonts
 fonts.google.com
 fonts.googleapis.com
 fonts.gstatic.com
-
-# General Sites
+# General Sites.
 1.bp.blogspot.com
 1e100.net
 2.bp.blogspot.com
@@ -1414,7 +1366,9 @@ fonts.gstatic.com
 900.drive.google.com
 3984.drive.google.com
 42176.drive.google.com
+aa.google.com
 abc.xyz
+about.google
 aboutme.google.com
 accelerate.withgoogle.com
 adsense.google.com
@@ -1465,12 +1419,14 @@ ap2.googleusercontent.com
 api.google.com
 apidata.googleusercontent.com
 app-measurement.com
+appassets.androidplatform.net
 appmaker.corp.google.com
 appsitemsuggest-pa.googleapis.com
 appspot.com
 area120.google.com
 artsandculture.google.com
 aspmx.l.google.com
+auditrecording-pa.googleapis.com
 autodraw.com
 beacons.gcp.gvt1.com
 beacons.gcp.gvt2.com
@@ -1502,10 +1458,11 @@ chromefeedcontentsuggestions-pa.googleapis.com
 chromium.org
 ci6.googleusercontent.com
 classroom.google.com
-Cliens-2.google.com
+cliens-2.google.com
 client-channel.google.com
 client.1.google.com
 client1.google.com
+clientauthconfig.googleapis.com
 clients.1.google.com
 clients1.google.com
 clients2.google.com
@@ -1515,6 +1472,7 @@ clients5.google.com
 clients6.google.com
 clientservices.googleapis.com
 clock_0.google.com
+cloudcastportale-pa.googleapis.com
 cloudconfig.googleapis.com
 cloudsearch.google.com
 cloudusersettings-pa.clients6.google.com
@@ -1531,7 +1489,10 @@ console.developer.google.com
 console.developers.google.com
 contacts.google.com
 contributor.google.com
+cps.withgoogle.com
 cpuid_0.google.com
+crowdcompute-pa.googleapis.com
+crowdsource-pa.googleapis.com
 cryptauthenrollment.googleapis.com
 cse.google.com
 cse.google.com/cse/
@@ -1571,7 +1532,11 @@ fcmatch.google.com
 fe0.google.com
 feedburner.google.com
 feedproxy.google.com
+firebaseinstallations.googleapis.com
+firebaseperusertopics-pa.clients6.google.com
 firebaseremoteconfig.googleapis.com
+firebasestorage.googleapis.com
+firestore.googleapis.com
 flutter.io
 followed.by.svc-1.google.com
 footprints-pa.googleapis.com
@@ -1616,6 +1581,7 @@ growth-pa.googleapis.com
 gsmtp185-2.google.com
 gstatic.com
 gstaticadssl.l.google.com
+gsuite.google.co.uk
 gsuite.google.com
 gsuiteupdates.googleblog.com
 gt1.google.com
@@ -1626,6 +1592,7 @@ gweb-cloudblog-publish.appspot.com
 hedns1.google.com
 helpouts.google.com
 here.followed.by.svc-1.google.com
+highlightauthoring-pa.googleapis.com
 id.google.be
 id.google.co.uk
 id.google.com
@@ -1635,6 +1602,7 @@ id.google.nl
 id.google.pl
 iid.googleapis.com
 imap.gmail.com
+inputtools.google.com
 instantmessaging-pa.googleapis.com
 ipv4.google.com
 ipv6test.google.com
@@ -1653,11 +1621,13 @@ khms0.google.com
 khms1.google.com
 khms2.google.com
 knol.google.com
+kstatic.googleusercontent.com
 l.google.com
 labs1.google.com
 landing.google.com
 latitude.google.com
 learndigital.withgoogle.com
+lens-pa.googleapis.com
 lens-storage.storage.googleapis.com
 lh2.google.com
 lh3.ggpht.com
@@ -1685,6 +1655,7 @@ material.io
 mclients.googleapis.com
 mdh-pa.googleapis.com
 measurementpartners.google.com
+messages.google.com
 misc-anycast.1.google.com
 mobiledataplan-pa.googleapis.com
 mobilemaps-pa.googleapis.com
@@ -1704,6 +1675,7 @@ myactivity.google.com
 mybusiness.google.com
 mymaps.google.com
 mystuff.corp.google.com
+notifications-pa.googleapis.com
 notifications.google.com
 notifications.googleapis.com
 ns1.google.com
@@ -1718,9 +1690,11 @@ onetoday.google.com
 opensource.google.com
 optimize.google.com
 orkut.google.com
+pagead2.googlesyndication.com
 partnerissuetracker.corp.google.com
 partnerpage.google.com
 people-pa.googleapis.com
+phonedeviceverification-pa.googleapis.com
 photosdata-pa.googleapis.com
 picasa.google.com
 picasaweb.google.com
@@ -1729,16 +1703,22 @@ pki.google.com
 places.google.com
 play.googleapis.com
 playatoms-pa.googleapis.com
+playbooks-pa.googleapis.com
 plus.url.google.com
+podcastsservice-pa.googleapis.com
 policies.google.com
 poly.google.com
 postmaster.google.com
 productforums.google.com
+projectstream.google.com
 proxy.googlezip.net
 quickdraw.withgoogle.com
+r3---sn-8pgbpohxqp5-ac5e.gvt1.com
+r4---sn-8pgbpohxqp5-ac5e.gvt1.com
 randy-phishingbotnet-maugans.you.like.here.follo.by.svc-1.google.com
 realtimesupport.clients6.google.com
 recaptcha.google.com
+redirector.gvt1.com
 research.google.com
 rtb.pixeltracking.co
 safebrowsing.clients.google.com
@@ -1749,6 +1729,7 @@ santatracker.google.com
 security.googleblog.com
 services.google.com
 services2.google.com
+signaler-pa.clients6.google.com
 sketchup.com
 sketchup.google.com
 sky.google.com
@@ -1768,6 +1749,7 @@ ssl.gstatic.com
 steamcloud-eu-ams.storage.googleapis.com
 storage.googleapis.com
 store.google.com
+stun.l.google.com
 stun1.l.google.com
 suggestqueries.google.com
 support.google.com
@@ -1779,6 +1761,7 @@ tbn0.google.com
 tbn1.google.com
 tbn2.google.com
 teachercenter.withgoogle.com
+telephonyspamprotect-pa.googleapis.com
 testmysite.withgoogle.com
 thinkwithgoogle.com
 time.google.com
@@ -1794,7 +1777,9 @@ tv576.drive.google.com
 type.whatever.you.like.here.followed.by.svc-1.google.com
 type.whatever.you.want.here.followed.by.svc-1.google.com
 update.googleapis.com
+us-central1-events-d07ac.cloudfunctions.net
 userresearch.google.com
+visionkit-pa.googleapis.com
 vm_0.google.com
 voledevice-pa.googleapis.com
 vr.google.com
@@ -1832,9 +1817,8 @@ www.material.io
 www.sketchup.com
 www.thinkwithgoogle.com
 www.withgoogle.com
-Www1.google.com
+www1.google.com
 www10.google.com
-
 # Others -- Mail
 mail-bk0-f41.google.com
 mail-bk0-f42.google.com
@@ -2120,7 +2104,6 @@ mail-yw1-f52.google.com
 mail-yw1-f62.google.com
 mail-yw1-f72.google.com
 mail-yw1-f100.google.com
-
 # page.link
 0utlookmxupdates1.page.link
 0utlookmxverification1.page.link
@@ -2622,7 +2605,6 @@ zavarwin2020.page.link
 zdgg2n2.page.link
 zfreebonusopros20.page.link
 zzzfreebonusopros20.page.link
-
 # Google Products
 accounts.google.com
 actions.google.com
@@ -2754,7 +2736,6 @@ www.sites.google.com
 www.toolbar.google.com
 www.translate.google.com
 www.waze.com
-
 # Proxies
 google-proxy-64-233-172-0.google.com
 google-proxy-64-233-172-32.google.com
@@ -2987,7 +2968,6 @@ rate-limited-proxy-203-208-38-200.google.com
 rate-limited-proxy-209-85-238-0.google.com
 rate-limited-proxy-209-85-238-100.google.com
 rate-limited-proxy-209-85-238-200.google.com
-
 # Short Links
 cctldtest.g.co
 cctldtest.youtu.be
@@ -2998,7 +2978,6 @@ surf.youtu.be
 www.yt.be
 youtu.be
 yt.be
-
 # Youtube
 .youtubeeducation.com
 accounts.youtube.com
@@ -3101,7 +3080,6 @@ youtubei.googleapis.com
 youtubei.youtube.com
 yt3.ggpht.com
 za.youtube.com
-
 # Others -- Youtube
 o-o---preferred---lax04s14---v2---lscache1.c.youtube.com
 o-o---preferred---lvlt-iad1---v13---lscache1.c.youtube.com
@@ -3654,7 +3632,6 @@ v11.lscache1.c.youtube.com
 v19.lscache1.c.youtube.com
 v20.lscache1.c.youtube.com
 v22.lscache1.c.youtube.com
-
 # ytimg.com
 ai.ytimg.com
 data.ytimg.com
@@ -3667,11 +3644,9 @@ i9.ytimg.com
 play-ti.ytimg.com
 s.ytimg.com
 ytimg.com
-
 # youtubegaming.com
 www.youtubegaming.com
 youtubegaming.com
-
 # Others -- Googlevideo
 0.0-78-194.cache.googlevideo.com
 0.99-78-194.cache.googlevideo.com

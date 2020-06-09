@@ -102,7 +102,6 @@
 0.0.0.0 youtubei.youtube.com
 0.0.0.0 yt3.ggpht.com
 0.0.0.0 za.youtube.com
-
 # Others -- Youtube
 0.0.0.0 o-o---preferred---lax04s14---v2---lscache1.c.youtube.com
 0.0.0.0 o-o---preferred---lvlt-iad1---v13---lscache1.c.youtube.com
@@ -655,7 +654,6 @@
 0.0.0.0 v19.lscache1.c.youtube.com
 0.0.0.0 v20.lscache1.c.youtube.com
 0.0.0.0 v22.lscache1.c.youtube.com
-
 # ytimg.com
 0.0.0.0 ai.ytimg.com
 0.0.0.0 data.ytimg.com
@@ -668,11 +666,9 @@
 0.0.0.0 play-ti.ytimg.com
 0.0.0.0 s.ytimg.com
 0.0.0.0 ytimg.com
-
 # youtubegaming.com
 0.0.0.0 www.youtubegaming.com
 0.0.0.0 youtubegaming.com
-
 # Others -- Googlevideo
 0.0.0.0 0.0-78-194.cache.googlevideo.com
 0.0.0.0 0.99-78-194.cache.googlevideo.com
