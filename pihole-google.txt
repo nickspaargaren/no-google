@@ -2968,6 +2968,9 @@ rate-limited-proxy-203-208-38-200.google.com
 rate-limited-proxy-209-85-238-0.google.com
 rate-limited-proxy-209-85-238-100.google.com
 rate-limited-proxy-209-85-238-200.google.com
+# Staykeen
+staykeen.com
+www.staykeen.com
 # Short Links
 cctldtest.g.co
 cctldtest.youtu.be
