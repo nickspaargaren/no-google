@@ -1,5 +1,5 @@
 #This blocklist helps Pi-hole's admin restrict access to Google and its domains.
-#Last updated: 09-06-2020
+#Last updated: 24-06-2020
 # Google Analytics
 apis.googletagmanager.com
 click.google-analytics.com
@@ -58,6 +58,16 @@ time.android.com
 tools.android.com
 wear.android.com
 www.android.com
+# Area120
+staykeen.com
+www.staykeen.com
+storysavant.appspot.com
+tangi.co
+www.tangi.co
+rivet.area120.com
+www.rivet.area120.com
+kormo.com
+www.kormo.com
 # Google DNS Servers
 8.8.8.8
 8.8.4.4
@@ -1458,7 +1468,7 @@ chromefeedcontentsuggestions-pa.googleapis.com
 chromium.org
 ci6.googleusercontent.com
 classroom.google.com
-cliens-2.google.com
+Cliens-2.google.com
 client-channel.google.com
 client.1.google.com
 client1.google.com
@@ -2968,16 +2978,6 @@ rate-limited-proxy-203-208-38-200.google.com
 rate-limited-proxy-209-85-238-0.google.com
 rate-limited-proxy-209-85-238-100.google.com
 rate-limited-proxy-209-85-238-200.google.com
-# Area120
-staykeen.com
-www.staykeen.com
-storysavant.appspot.com
-tangi.co
-www.tangi.co
-rivet.area120.com
-www.rivet.area120.com
-kormo.com
-www.kormo.com
 # Short Links
 cctldtest.g.co
 cctldtest.youtu.be
