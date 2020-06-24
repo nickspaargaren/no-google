@@ -1,0 +1,12 @@
+#This blocklist helps Pi-hole's admin restrict access to Google and its domains.
+#Last updated: 24-06-2020
+# Area120
+0.0.0.0 staykeen.com
+0.0.0.0 www.staykeen.com
+0.0.0.0 storysavant.appspot.com
+0.0.0.0 tangi.co
+0.0.0.0 www.tangi.co
+0.0.0.0 rivet.area120.com
+0.0.0.0 www.rivet.area120.com
+0.0.0.0 kormo.com
+0.0.0.0 www.kormo.com
