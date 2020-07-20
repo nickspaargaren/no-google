@@ -70,7 +70,7 @@ Yes indeed, We have a GitLab host mirror of the repo available at this address :
 Note that the main filter is being worked here, so, updates and modifications on the Gitlab source will have to be updated manually.
 Otherwise, if you do prefer to use Gitlab, feel free to use it, and even contribute to our list there instead !
 
-## Can i block the other letters of GAFAM ?
+## Can I block the other letters of GAFAM ?
 Of course, here’s some filterlists that should help you accomplish that.
 
 **A**pple : https://github.com/c-edw/ios-telemetry, https://github.com/1r2/iosparanoid or https://gitlab.com/CHEF-KOCH/cks-filterlist/blob/master/Anti-Corp/filters/apple.txt
