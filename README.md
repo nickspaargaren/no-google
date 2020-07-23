@@ -5,10 +5,33 @@
 
 # Purge Google from your network!
 
-Protect yourself from Google's surveillance by using this blocklist!
+Protect yourself from Google's surveillance by using this blocklist! Feel free to criticize our blocklist to make it better and better. Suggestions are welcome!
 
-Feel free to criticize our blocklist to make it better and better.
-Suggestions are completely welcomed!
+## How to use it on my Pi-hole?
+Simply go into to your blocklist settings to add:
+```
+https://raw.githubusercontent.com/nickspaargaren/no-google/master/pihole-google.txt
+```
+Or a selection of the domains :
+```
+https://raw.githubusercontent.com/nickspaargaren/no-google/master/categories/youtubeparsed
+https://raw.githubusercontent.com/nickspaargaren/no-google/master/categories/shortlinksparsed
+https://raw.githubusercontent.com/nickspaargaren/no-google/master/categories/proxiesparsed
+https://raw.githubusercontent.com/nickspaargaren/no-google/master/categories/productsparsed
+https://raw.githubusercontent.com/nickspaargaren/no-google/master/categories/mailparsed
+https://raw.githubusercontent.com/nickspaargaren/no-google/master/categories/generalparsed
+https://raw.githubusercontent.com/nickspaargaren/no-google/master/categories/fontsparsed
+https://raw.githubusercontent.com/nickspaargaren/no-google/master/categories/firebaseparsed
+https://raw.githubusercontent.com/nickspaargaren/no-google/master/categories/doubleclickparsed
+https://raw.githubusercontent.com/nickspaargaren/no-google/master/categories/domainsparsed
+https://raw.githubusercontent.com/nickspaargaren/no-google/master/categories/dnsparsed
+https://raw.githubusercontent.com/nickspaargaren/no-google/master/categories/androidparsed
+https://raw.githubusercontent.com/nickspaargaren/no-google/master/categories/analyticsparsed
+https://raw.githubusercontent.com/nickspaargaren/no-google/master/categories/fiberparsed
+```
+
+(Combining those with the main whole filter is useless and not recommended, however, feel free to combine the different smaller filters)
+
 
 ## Youtube Advertisements Regex
 >^r[0123456789]+((-{3})|(\.))sn-.{8}\.googlevideo\.com$
@@ -32,43 +55,30 @@ curl -sSl https://raw.githubusercontent.com/nickspaargaren/no-google/master/inst
 ```
 and then, executing it. It should add all of the above regex automatically.
 
-## How to use it on my pihole ?
-Simply go into to your blocklist settings to add either, the whole filter `https://raw.githubusercontent.com/nickspaargaren/no-google/master/pihole-google.txt
-or either a selection of the filtered domains 
-```
-https://raw.githubusercontent.com/nickspaargaren/no-google/master/categories/youtubeparsed
-https://raw.githubusercontent.com/nickspaargaren/no-google/master/categories/shortlinksparsed
-https://raw.githubusercontent.com/nickspaargaren/no-google/master/categories/proxiesparsed
-https://raw.githubusercontent.com/nickspaargaren/no-google/master/categories/productsparsed
-https://raw.githubusercontent.com/nickspaargaren/no-google/master/categories/mailparsed
-https://raw.githubusercontent.com/nickspaargaren/no-google/master/categories/generalparsed
-https://raw.githubusercontent.com/nickspaargaren/no-google/master/categories/fontsparsed
-https://raw.githubusercontent.com/nickspaargaren/no-google/master/categories/firebaseparsed
-https://raw.githubusercontent.com/nickspaargaren/no-google/master/categories/doubleclickparsed
-https://raw.githubusercontent.com/nickspaargaren/no-google/master/categories/domainsparsed
-https://raw.githubusercontent.com/nickspaargaren/no-google/master/categories/dnsparsed
-https://raw.githubusercontent.com/nickspaargaren/no-google/master/categories/androidparsed
-https://raw.githubusercontent.com/nickspaargaren/no-google/master/categories/analyticsparsed
-https://raw.githubusercontent.com/nickspaargaren/no-google/master/categories/fiberparsed
-```
 
-(Combining those with the main whole filter is useless and not recommended, however, feel free to combine the different smaller filters)
+## FAQ
 
-## Can I use it with [NextDNS](https://nextdns.io/) ?
-Yep ! It is available in their selection of domains list, labeled as ¨No Google¨.
-NextDNS is using the wildcard-domains format, so you will have to manually wishlist some specific services, as it will block everything Google related.
+<details>
+  <summary>Can I use it with [NextDNS](https://nextdns.io/)?</summary>
+  <p>Yep ! It is available in their selection of domains list, labeled as ¨No Google¨. NextDNS is using the wildcard-domains format, so you will have to manually wishlist some specific services, as it will block everything Google related.</p>
+</details>
 
-## Can I use it with my other ads/domains blocker program ?
-Surely ! If it does indeed support the host or domains type of filters.
-Import it manually, or [click on this link](https://subscribe.adblockplus.org/?location=https://raw.githubusercontent.com/nickspaargaren/no-google/master/google-domains&title=no-google) if you are using a web browser extension.
+<details>
+  <summary>Can I use it with my other ads/domains blocker program ?</summary>
+  <p>Surely! If it does indeed support the host or domains type of filters. Import it manually, or [click on this link](https://subscribe.adblockplus.org/?location=https://raw.githubusercontent.com/nickspaargaren/no-google/master/google-domains&title=no-google) if you are using a web browser extension.</p>
+</details>
 
-## Can I use it with anything else ?
-Sure thing, the No G list is declined into multiples formats types, as an host format, domains/urls format and a wildcard format.
+<details>
+  <summary>Can I use it with anything other than Pi-hole?</summary>
+  <p>Sure thing, the No Google list is declined into multiples formats types, as an host format, domains/urls format and a wildcard format.</p>
+</details>
 
-## Hum, do you got any mirrors of the list ?
-Yes indeed, We have a GitLab host mirror of the repo available at this address : https://framagit.org/PoorPocketsMcNewHold/no-google
+<details>
+  <summary>Hum, do you got any mirrors of the list ?</summary>
+  <p>Yes indeed, We have a GitLab host mirror of the repo available at this address : https://framagit.org/PoorPocketsMcNewHold/no-google
 Note that the main filter is being worked here, so, updates and modifications on the Gitlab source will have to be updated manually.
-Otherwise, if you do prefer to use Gitlab, feel free to use it, and even contribute to our list there instead !
+Otherwise, if you do prefer to use Gitlab, feel free to use it, and even contribute to our list there instead!</p>
+</details>
 
 ## Can I block the other letters of GAFAM ?
 Of course, here’s some filterlists that should help you accomplish that.
