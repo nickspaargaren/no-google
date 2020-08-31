@@ -60,7 +60,7 @@ and then, executing it. It should add all of the above regex automatically.
 
 <details>
   <summary>Can I use it with [NextDNS](https://nextdns.io/)?</summary>
-  <p>Yep ! It is available in their selection of domains list, labeled as ¨No Google¨. NextDNS is using the wildcard-domains format, so you will have to manually wishlist some specific services, as it will block everything Google related.</p>
+  <p>Yep ! It is available in their selection of domains list, labeled as ¨No Google¨. NextDNS is using the wildcard-domains format, so you will have to manually whitelist some specific services, as it will block everything Google related.</p>
 </details>
 
 <details>
