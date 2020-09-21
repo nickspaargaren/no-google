@@ -32,10 +32,7 @@
 0.0.0.0 fr.youtube.com
 0.0.0.0 gaming.youtube.com
 0.0.0.0 gdata.youtube.com
-0.0.0.0 googlevideo.com
 0.0.0.0 hk.youtube.com
-0.0.0.0 i.ytimg.com
-0.0.0.0 i9.ytimg.com		
 0.0.0.0 ie.youtube.com
 0.0.0.0 il.youtube.com
 0.0.0.0 img.youtube.com
@@ -56,12 +53,10 @@
 0.0.0.0 payments.youtube.com
 0.0.0.0 pl.youtube.com
 0.0.0.0 redirector.c.youtube.com
-0.0.0.0 redirector.googlevideo.com
 0.0.0.0 restrict.youtube.com
 0.0.0.0 ru.youtube.com
 0.0.0.0 s.youtube.com
 0.0.0.0 s.youtubeeducation.com
-0.0.0.0 s.ytimg.com
 0.0.0.0 s2.youtube.com
 0.0.0.0 se.youtube.com
 0.0.0.0 stage.gdata.youtube.com
