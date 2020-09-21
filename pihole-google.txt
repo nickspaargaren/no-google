@@ -3434,9 +3434,7 @@ fr.youtube.com
 gaming.youtube.com
 gdata.youtube.com
 googlevideo.com
-hk.youtube.com
-i.ytimg.com
-i9.ytimg.com		
+hk.youtube.com		
 ie.youtube.com
 il.youtube.com
 img.youtube.com
@@ -3462,7 +3460,6 @@ restrict.youtube.com
 ru.youtube.com
 s.youtube.com
 s.youtubeeducation.com
-s.ytimg.com
 s2.youtube.com
 se.youtube.com
 stage.gdata.youtube.com
@@ -4057,11 +4054,13 @@ v22.lscache1.c.youtube.com
 # ytimg.com
 ai.ytimg.com
 data.ytimg.com
+i.ytimg.com
 i1.ytimg.com
 i2.ytimg.com
 i3.ytimg.com
 i4.ytimg.com
 i9.ytimg.com
+s.ytimg.com
 play-ti.ytimg.com
 ytimg.com
 # youtubegaming.com
