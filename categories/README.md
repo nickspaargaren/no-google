@@ -3,9 +3,9 @@ In order to narrow down the blocklist on your network or device, we´ve decided 
 
 <details>
 <summary>
-<img src="https://upload.wikimedia.org/wikipedia/commons/4/46/Google_Analytics_Logo_2015.png">
+ <img src="https://<i></i>upload.wikimedia.org/wikipedia/commons/thumb/7/77/GAnalytics.svg/800px-GAnalytics.svg.png" width="48">
 
-- Analytics
+- Analytics 
 
 </summary>
 <br>
