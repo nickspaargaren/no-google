@@ -4,6 +4,7 @@ In order to narrow down the blocklist on your network or device, we´ve decided 
 <details>
 <summary>
 <img src="https://upload.wikimedia.org/wikipedia/commons/4/46/Google_Analytics_Logo_2015.png">
+
 - Analytics
 
 </summary>
