@@ -1,4 +1,3 @@
-[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal)](https://github.com/piyushsuthar/github-readme-quotes)
 # Description of the different categories :
 In order to narrow down the blocklist on your network or device, we´ve decided to separate the filterlist into different entries.
 
