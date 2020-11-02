@@ -20,7 +20,7 @@ In order to narrow down the blocklist on your network or device, we´ve decided 
 <summary>Android <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Android_robot_2014.svg/204px-Android_robot_2014.svg.png" width="18"></summary>
 <br>
  
- > Android is a mobile operating system based on a modified version of the GNU/Linux kernel and other open source software, designed primarily for touchscreen mobile devices such as smartphones and tablets.
+ > Android is a mobile operating system based on a modified version of the Linux kernel and other open source software, designed primarily for touchscreen mobile devices such as smartphones and tablets.
  
 Google own mobile operating system. Extremely bloated with telemetry on most distributions of it. This will blacklist domains specificelly contacted by android phones.
 ### Note that it could cause your phone to either think it have no connection, or/and is limited due to contacting google.com at quite an high rate, in order to check for connectivity.
