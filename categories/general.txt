@@ -817,6 +817,7 @@
 0.0.0.0 vm_0.google.com
 0.0.0.0 vok1cbukr5.com
 0.0.0.0 voledevice-pa.googleapis.com
+0.0.0.0 infinitedata-pa.googleapis.com
 0.0.0.0 vpnmxkwcj0.com
 0.0.0.0 vr.google.com
 0.0.0.0 vvo6gk1ckd.com
