@@ -1,5 +1,3 @@
-#This blocklist helps Pi-hole's admin restrict access to Google and its domains.
-#Last updated: 31-08-2020
 # Google Analytics
 apis.googletagmanager.com
 click.google-analytics.com
@@ -1346,7 +1344,7 @@ zoomtorino.firebaseio.com
 fonts.google.com
 fonts.googleapis.com
 fonts.gstatic.com
-# General Sites.
+# General Sites
 00hrf5vjtk.com
 01seifw7uv.com
 08jjhe3a9g.com
