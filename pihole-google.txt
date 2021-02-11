@@ -347,7 +347,6 @@ google.com.ua
 google.com.uy
 google.com.vc
 google.com.vn
-google.com/ncr
 google.cv
 google.cz
 google.de
@@ -543,7 +542,6 @@ www.google.com.ua
 www.google.com.uy
 www.google.com.vc
 www.google.com.vn
-www.google.com/ncr
 www.google.cv
 www.google.cz
 www.google.de
@@ -1648,7 +1646,6 @@ crr0kvp1vv.com
 crvkqnmovj.com
 cryptauthenrollment.googleapis.com
 cse.google.com
-cse.google.com/cse/
 csi.gstatic.com
 cy0n3rjf69.com
 cyr26nkbef.com
