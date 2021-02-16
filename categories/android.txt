@@ -37,3 +37,8 @@
 0.0.0.0 tools.android.com
 0.0.0.0 wear.android.com
 0.0.0.0 www.android.com
+0.0.0.0 regioinfo-pa.googleapis.com
+0.0.0.0 geller-pa.googleapis.com
+0.0.0.0 deviceintegritytokens-pa.googleapis.com
+0.0.0.0 mobilemaps.googleapis.com
+0.0.0.0 mobilemaps-pa-gz.googleapis.com

@@ -69,6 +69,7 @@
 0.0.0.0 images.google.com
 0.0.0.0 inbox.google.com
 0.0.0.0 mail.google.com
+0.0.0.0 mail-ads.google.com
 0.0.0.0 maps.google.com
 0.0.0.0 mars.google.com
 0.0.0.0 meet.google.com
@@ -86,7 +87,6 @@
 0.0.0.0 photo.google.com
 0.0.0.0 photos.google.com
 0.0.0.0 play.google.com
-0.0.0.0 play.googleapis.com
 0.0.0.0 plus.google.com
 0.0.0.0 print.google.com
 0.0.0.0 profiles.google.com

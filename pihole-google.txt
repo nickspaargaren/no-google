@@ -4210,7 +4210,6 @@ admin-dev.youtube.com
 gr.youtube.com
 news.youtube.com
 p.youtube.com
-# Others - Youtube
 o-o---preferred---lax04s14---v2---lscache1.c.youtube.com
 o-o---preferred---lvlt-iad1---v13---lscache1.c.youtube.com
 o-o---preferred---sn-5hn7sb76---v17---lscache1.c.youtube.com
