@@ -627,6 +627,49 @@ www.google.tt
 www.google.vg
 www.google.vu
 www.google.ws
+com.google
+foofle.com
+froogle.com
+g.cn
+ggoogle.com
+ggpht.com
+gmodules.com
+gogle.com
+gogole.com
+googel.com
+googil.com
+googl.com
+google.cc
+google.com.lc
+google.gf
+google.io
+google.net
+googleadapis.l.google.com
+googleanalytics.com
+googleapps.com
+googlearth.com
+googleblog.com
+googlebot.com
+googlecode.com
+googlecommerce.com
+googledrive.com
+googlee.com
+googleearth.com
+googlegroups.com
+googlemail.com
+googlemaps.com
+googlepagecreator.com
+googlescholar.com
+googlesyndication.com
+googletranslate.com
+googleweblight.com
+googlr.com
+goolge.com
+gooogle.com
+gstatic.org
+gvt3.com
+igoogle.com
+imasdk.googleapis.com
 # Doubleclick
 2507573.fls.doubleclick.net
 4403916.fls.doubleclick.net
@@ -1344,7 +1387,7 @@ zoomtorino.firebaseio.com
 fonts.google.com
 fonts.googleapis.com
 fonts.gstatic.com
-# General Sites.
+# General Sites
 00hrf5vjtk.com
 01seifw7uv.com
 08jjhe3a9g.com
@@ -1495,6 +1538,7 @@ abc.xyz
 about.google
 aboutme.google.com
 accelerate.withgoogle.com
+adsense.com
 adsense.google.com
 adservice.google.be
 adservice.google.bs
@@ -1905,6 +1949,7 @@ m5qn1sk10t.com
 m80fg.com
 m9dpopwtfu.com
 madeby.google.com
+madewithcode.com
 mannequin.storage.googleapis.com
 map.google.com
 mapmaker.google.com
@@ -2000,6 +2045,7 @@ people-pa.googleapis.com
 phonedeviceverification-pa.googleapis.com
 photosdata-pa.googleapis.com
 phpjo3qe79.com
+picasa.com
 picasa.google.com
 picasaweb.google.com
 pixel.google.com
@@ -2010,6 +2056,9 @@ play.googleapis.com
 playatoms-pa.googleapis.com
 playbooks-pa.googleapis.com
 plus.url.google.com
+plus.l.google.com
+plus.sandbox.google.com
+plusone.google.com
 pnagolh5kv.com
 podcastsservice-pa.googleapis.com
 policies.google.com
@@ -2249,7 +2298,25 @@ zscd1uddcy.com
 zwh5vlqtb4.com
 zx2nndxnz8.com
 zyvwtasyon.com
-# Others -- Mail
+466453.com
+admob.com
+adwords.com
+blogger.com
+blogspot.com
+chromebook.com
+cobrasearch.com
+doubleclick.com
+feedburner.com
+firehunt.com
+keyhole.com
+like.com
+localhost.com
+metric.gstatic.com
+panoramio.com
+pki.google
+urchin.com
+whatbrowser.org
+# Others - Mail
 mail-bk0-f41.google.com
 mail-bk0-f42.google.com
 mail-bk0-f51.google.com
@@ -3104,6 +3171,7 @@ image.google.com
 images.google.com
 inbox.google.com
 mail.google.com
+mail-ads.google.com
 maps.google.com
 mars.google.com
 meet.google.com
@@ -3504,7 +3572,11 @@ youtubei.googleapis.com
 youtubei.youtube.com
 yt3.ggpht.com
 za.youtube.com
-# Others -- Youtube
+admin-dev.youtube.com
+gr.youtube.com
+news.youtube.com
+p.youtube.com
+# Others - Youtube
 o-o---preferred---lax04s14---v2---lscache1.c.youtube.com
 o-o---preferred---lvlt-iad1---v13---lscache1.c.youtube.com
 o-o---preferred---sn-5hn7sb76---v17---lscache1.c.youtube.com
@@ -4071,7 +4143,7 @@ ytimg.com
 # youtubegaming.com
 www.youtubegaming.com
 youtubegaming.com
-# Others -- Googlevideo
+# Others - Googlevideo
 0.0-78-194.cache.googlevideo.com
 0.99-78-194.cache.googlevideo.com
 2.0-78-194.cache.googlevideo.com
