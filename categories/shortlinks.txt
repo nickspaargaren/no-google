@@ -3,7 +3,6 @@
 # Short Links
 0.0.0.0 cctldtest.g.co
 0.0.0.0 cctldtest.youtu.be
-0.0.0.0 g.co
 0.0.0.0 goo.gl
 0.0.0.0 m.youtu.be
 0.0.0.0 surf.youtu.be

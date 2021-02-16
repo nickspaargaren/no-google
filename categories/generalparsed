@@ -1,6 +1,6 @@
 #This blocklist helps Pi-hole's admin restrict access to Google and its domains.
 #Last updated: 16-02-2021
-# General Sites.
+# General Sites
 00hrf5vjtk.com
 01seifw7uv.com
 08jjhe3a9g.com
@@ -1562,5 +1562,4 @@ test.gvt2.com
 beacons5.gvt3.com
 beacons6.gvt3.com
 beacons.gvt9.com
-beacons5.gvt9.com
 beacons5.gvt9.com
