@@ -63,6 +63,11 @@
 0.0.0.0 deviceintegritytokens-pa.googleapis.com
 0.0.0.0 mobilemaps.googleapis.com
 0.0.0.0 mobilemaps-pa-gz.googleapis.com
+0.0.0.0 lamssettings-pa.googleapis.com
+0.0.0.0 content-autofill.googleapis.com
+0.0.0.0 stun2.l.google.com
+0.0.0.0 regioninfo-pa.googleapis.com
+0.0.0.0 ulp1p-pa.googleapis.com
 # Area120
 0.0.0.0 staykeen.com
 0.0.0.0 www.staykeen.com
