@@ -47,3 +47,4 @@
 0.0.0.0 stun2.l.google.com
 0.0.0.0 regioninfo-pa.googleapis.com
 0.0.0.0 ulp1p-pa.googleapis.com
+0.0.0.0 mobilenetworkscoring-pa.googleapis.com
