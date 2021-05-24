@@ -683,6 +683,7 @@
 0.0.0.0 projectstream.google.com
 0.0.0.0 proxy.googlezip.net
 0.0.0.0 puyroytflq.com
+0.0.0.0 pubsub.googleapis.com
 0.0.0.0 pvy2rdmnsp.com
 0.0.0.0 pz3jakyva3.com
 0.0.0.0 q4lek0j0sa.com
