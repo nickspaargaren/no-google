@@ -2755,7 +2755,6 @@
 0.0.0.0 r9---sn-ni57dn76.gvt1.com
 0.0.0.0 r9---sn-nwj7km76.gvt1.com
 0.0.0.0 r9---sn-vgqs7n76.gvt1.com
-0.0.0.0 redirector.gvt1.com
 0.0.0.0 captive.redirector.gvt1.com
 0.0.0.0 R1.sn-2a0noxu-ajt1.gvt1.com
 0.0.0.0 r3.sn-2uuxa3vh-cuie.gvt1.com
@@ -2934,8 +2933,6 @@
 0.0.0.0 beacons8.gvt2.com
 0.0.0.0 beacons99.gvt2.com
 0.0.0.0 beacons999.gvt2.com
-0.0.0.0 gcp.gvt2.com
-0.0.0.0 beacons.gcp.gvt2.com
 0.0.0.0 beacons-blackholed.gcp.gvt2.com
 0.0.0.0 beacons-handoff.gcp.gvt2.com
 0.0.0.0 e2clock.gcp.gvt2.com
