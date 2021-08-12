@@ -1,6 +1,4 @@
-#This blocklist helps Pi-hole's admin restrict access to Google and its domains.
-#Last updated: 16-02-2021
-# Google Analytics
+# Analytics
 apis.googletagmanager.com
 click.google-analytics.com
 crashlytics.com
@@ -21,7 +19,7 @@ www.google-analytics.com
 www.googletagmanager.com
 www.googletagservices.com
 wwwctp.googletagmanager.com
-# Google Android
+# Android
 1-market.android.com
 a.android.com
 a17-250-248-101.android.com
@@ -79,12 +77,11 @@ rivet.area120.com
 www.rivet.area120.com
 kormo.com
 www.kormo.com
-# Google DNS Servers
+# DNS
 8.8.8.8
 8.8.4.4
 2001:4860:4860::8888
 2001:4860:4860::8844
-# DoT Google domains
 0c27d4c0-dnsotls-ds.metric.gstatic.com
 0cce3ccd-dnsotls-ds.metric.gstatic.com
 1jz49v-dnsotls-ds.metric.gstatic.com
@@ -242,7 +239,7 @@ yuq6xm-dnsotls-ds.metric.gstatic.com
 yvqo1t-dnsotls-ds.metric.gstatic.com
 d338e197-dnsotls-ds.metric.gstatic.com
 pmrsvh-dnsotls-ds.metric.gstatic.com
-# Google Domains
+# Domains
 google.ac
 google.ad
 google.ae
@@ -731,7 +728,7 @@ vodads.g.doubleclick.net
 www.doubleclick.com
 www2.doubleclick.com
 www3.doubleclick.com
-#Google Fiber
+# Fiber
 speedtest.googlefiber.net
 austin.speed.googlefiber.net
 nashville.speed.googlefiber.net
@@ -741,7 +738,7 @@ charlotte.speed.googlefiber.net
 raleigh.speed.googlefiber.net
 atlanta.speed.googlefiber.net
 googlefiber.net
-#Firebase
+# Firebase
 0.firebaseio.com
 00.firebaseio.com
 2.firebaseio.com
@@ -1389,11 +1386,11 @@ ys-tactics-5a050.firebaseio.com
 zeta-period-845-typing-feedback-001.firebaseio.com
 zizounihalldev.firebaseio.com
 zoomtorino.firebaseio.com
-# Google Fonts
+# Fonts
 fonts.google.com
 fonts.googleapis.com
 fonts.gstatic.com
-# General Sites
+# General
 00hrf5vjtk.com
 01seifw7uv.com
 08jjhe3a9g.com
@@ -2954,7 +2951,7 @@ beacons5.gvt3.com
 beacons6.gvt3.com
 beacons.gvt9.com
 beacons5.gvt9.com
-# Others - Mail
+# Mail
 mail-bk0-f41.google.com
 mail-bk0-f42.google.com
 mail-bk0-f51.google.com
@@ -3239,7 +3236,7 @@ mail-yw1-f52.google.com
 mail-yw1-f62.google.com
 mail-yw1-f72.google.com
 mail-yw1-f100.google.com
-# page.link
+# Pagelink
 0utlookmxupdates1.page.link
 0utlookmxverification1.page.link
 0utlookmxverification2.page.link
@@ -3740,7 +3737,7 @@ zavarwin2020.page.link
 zdgg2n2.page.link
 zfreebonusopros20.page.link
 zzzfreebonusopros20.page.link
-# Google Products
+# Products
 accounts.google.com
 actions.google.com
 admanager.google.com
@@ -4765,7 +4762,6 @@ v11.lscache1.c.youtube.com
 v19.lscache1.c.youtube.com
 v20.lscache1.c.youtube.com
 v22.lscache1.c.youtube.com
-# ytimg.com
 ai.ytimg.com
 data.ytimg.com
 i.ytimg.com
@@ -4777,10 +4773,9 @@ i9.ytimg.com
 s.ytimg.com
 play-ti.ytimg.com
 ytimg.com
-# youtubegaming.com
 www.youtubegaming.com
 youtubegaming.com
-# Others - Googlevideo
+# Googlevideo
 0.0-78-194.cache.googlevideo.com
 0.99-78-194.cache.googlevideo.com
 2.0-78-194.cache.googlevideo.com
