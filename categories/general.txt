@@ -1,6 +1,7 @@
 #This blocklist helps Pi-hole's admin restrict access to Google and its domains.
-#Last updated: 16-02-2021
-# General Sites
+#Last updated: 12-08-2021
+# General
+
 0.0.0.0 00hrf5vjtk.com
 0.0.0.0 01seifw7uv.com
 0.0.0.0 08jjhe3a9g.com
@@ -1362,7 +1363,6 @@
 0.0.0.0 r9---sn-ni57dn76.gvt1.com
 0.0.0.0 r9---sn-nwj7km76.gvt1.com
 0.0.0.0 r9---sn-vgqs7n76.gvt1.com
-0.0.0.0 redirector.gvt1.com
 0.0.0.0 captive.redirector.gvt1.com
 0.0.0.0 R1.sn-2a0noxu-ajt1.gvt1.com
 0.0.0.0 r3.sn-2uuxa3vh-cuie.gvt1.com
@@ -1541,8 +1541,6 @@
 0.0.0.0 beacons8.gvt2.com
 0.0.0.0 beacons99.gvt2.com
 0.0.0.0 beacons999.gvt2.com
-0.0.0.0 gcp.gvt2.com
-0.0.0.0 beacons.gcp.gvt2.com
 0.0.0.0 beacons-blackholed.gcp.gvt2.com
 0.0.0.0 beacons-handoff.gcp.gvt2.com
 0.0.0.0 e2clock.gcp.gvt2.com

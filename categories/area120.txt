@@ -1,6 +1,7 @@
 #This blocklist helps Pi-hole's admin restrict access to Google and its domains.
-#Last updated: 24-06-2020
+#Last updated: 12-08-2021
 # Area120
+
 0.0.0.0 staykeen.com
 0.0.0.0 www.staykeen.com
 0.0.0.0 storysavant.appspot.com
