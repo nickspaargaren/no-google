@@ -161,3 +161,5 @@
 0.0.0.0 yfnaw9-dnsotls-ds.metric.gstatic.com
 0.0.0.0 yuq6xm-dnsotls-ds.metric.gstatic.com
 0.0.0.0 yvqo1t-dnsotls-ds.metric.gstatic.com
+0.0.0.0 d338e197-dnsotls-ds.metric.gstatic.com
+0.0.0.0 pmrsvh-dnsotls-ds.metric.gstatic.com

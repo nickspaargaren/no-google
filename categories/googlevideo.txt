@@ -1,0 +1,6 @@
+#This blocklist helps Pi-hole's admin restrict access to Google and its domains.
+#Last updated: 12-08-2021
+# Googlevideo
+
+0.0.0.0 www.youtubegaming.com
+0.0.0.0 youtubegaming.com
