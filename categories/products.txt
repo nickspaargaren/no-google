@@ -1,6 +1,7 @@
 #This blocklist helps Pi-hole's admin restrict access to Google and its domains.
-#Last updated: 06-06-2020
-# Google Products
+#Last updated: 12-08-2021
+# Products
+
 0.0.0.0 accounts.google.com
 0.0.0.0 actions.google.com
 0.0.0.0 admanager.google.com

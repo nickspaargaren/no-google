@@ -1,11 +1,11 @@
 #This blocklist helps Pi-hole's admin restrict access to Google and its domains.
-#Last updated: 06-06-2020
-# Google DNS Servers
+#Last updated: 12-08-2021
+# DNS
+
 0.0.0.0 8.8.8.8
 0.0.0.0 8.8.4.4
 0.0.0.0 2001:4860:4860::8888
 0.0.0.0 2001:4860:4860::8844
-# DoT Google domains
 0.0.0.0 0c27d4c0-dnsotls-ds.metric.gstatic.com
 0.0.0.0 0cce3ccd-dnsotls-ds.metric.gstatic.com
 0.0.0.0 1jz49v-dnsotls-ds.metric.gstatic.com

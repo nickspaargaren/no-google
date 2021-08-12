@@ -17,26 +17,18 @@ def Create(title, categories):
     newfile.write('0.0.0.0 ' + url + '\n')
 
 
-
 with open('pihole-google.txt', 'r') as main:
 
   for line in main:
-    
-    if '#' in line: # start
-      # print(temporary.title)
-      # print(temporary.categories)
+
+    if '#' in line:
 
       if temporary.title and temporary.categories:
-        Create(temporary.title, temporary.categories)
-        # break
-
-      temporary.title = line
-
-      if temporary.categories:
         Create(temporary.title, temporary.categories)
         temporary.title = ''
         temporary.categories = []
 
+      temporary.title = line
 
     elif not '#' in line:
       temporary.categories.append(line.rstrip('\n'))

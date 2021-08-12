@@ -1,6 +1,7 @@
 #This blocklist helps Pi-hole's admin restrict access to Google and its domains.
-#Last updated: 06-06-2020
+#Last updated: 12-08-2021
 # Youtube
+
 0.0.0.0 .youtubeeducation.com
 0.0.0.0 accounts.youtube.com
 0.0.0.0 admin-green-qa.youtube.com
@@ -653,3 +654,16 @@
 0.0.0.0 v19.lscache1.c.youtube.com
 0.0.0.0 v20.lscache1.c.youtube.com
 0.0.0.0 v22.lscache1.c.youtube.com
+0.0.0.0 ai.ytimg.com
+0.0.0.0 data.ytimg.com
+0.0.0.0 i.ytimg.com
+0.0.0.0 i1.ytimg.com
+0.0.0.0 i2.ytimg.com
+0.0.0.0 i3.ytimg.com
+0.0.0.0 i4.ytimg.com
+0.0.0.0 i9.ytimg.com
+0.0.0.0 s.ytimg.com
+0.0.0.0 play-ti.ytimg.com
+0.0.0.0 ytimg.com
+0.0.0.0 www.youtubegaming.com
+0.0.0.0 youtubegaming.com
