@@ -1,0 +1,8 @@
+repos:
+-   repo: local
+    hooks:
+    -   id: automate_categories
+        name: Automate categories
+        entry: python no-google-files.py
+        language: system
+        always_run: true
