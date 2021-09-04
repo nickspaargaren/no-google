@@ -1,5 +1,5 @@
 #This blocklist helps Pi-hole's admin restrict access to Google and its domains.
-#Last updated: 13-08-2021
+#Last updated: 04-09-2021
 # Googlevideo
 
 0.0.0.0 0.0-78-194.cache.googlevideo.com
@@ -575,6 +575,7 @@
 0.0.0.0 r1---sn-gvnuxaxjvh-3046.googlevideo.com
 0.0.0.0 r1---sn-gvnuxaxjvh-c356.googlevideo.com
 0.0.0.0 r1---sn-gvnuxaxjvh-n8vk.googlevideo.com
+0.0.0.0 r1---sn-i3b7knsd.googlevideo.com
 0.0.0.0 r1---sn-nco-c336.googlevideo.com
 0.0.0.0 r1---sn-ntqe6n76.googlevideo.com
 0.0.0.0 r1---sn-nwj7km76.googlevideo.com
@@ -596,6 +597,7 @@
 0.0.0.0 r1---sn-q4fl6n76.googlevideo.com
 0.0.0.0 r1---sn-q5u5bgv02-3c26.googlevideo.com
 0.0.0.0 r1---sn-ugpva5o-ig36.googlevideo.com
+0.0.0.0 r1---sn-un57en7e.googlevideo.com
 0.0.0.0 r1---sn-un57sn7s.googlevideo.com
 0.0.0.0 r1---sn-uvu-c336.googlevideo.com
 0.0.0.0 r1.sn-4g5e6n76.googlevideo.com
