@@ -1,5 +1,5 @@
 #This blocklist helps Pi-hole's admin restrict access to Google and its domains.
-#Last updated: 06-06-2020
+#Last updated: 04-09-2020
 # Youtube
 .youtubeeducation.com
 accounts.youtube.com
@@ -1239,6 +1239,7 @@ r1---sn-gvhuxax-cc06.googlevideo.com
 r1---sn-gvnuxaxjvh-3046.googlevideo.com
 r1---sn-gvnuxaxjvh-c356.googlevideo.com
 r1---sn-gvnuxaxjvh-n8vk.googlevideo.com
+r1---sn-i3b7knsd.googlevideo.com
 r1---sn-nco-c336.googlevideo.com
 r1---sn-ntqe6n76.googlevideo.com
 r1---sn-nwj7km76.googlevideo.com
