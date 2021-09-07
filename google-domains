@@ -21,6 +21,10 @@
 0.0.0.0 www.googletagmanager.com
 0.0.0.0 www.googletagservices.com
 0.0.0.0 wwwctp.googletagmanager.com
+0.0.0.0 www.googleoptimize.com
+0.0.0.0 dr-mobiweb.googleoptimize.com
+0.0.0.0 mail.googleoptimize.com
+0.0.0.0 phonemasking-stage.googleoptimize.com
 # Google Android
 0.0.0.0 1-market.android.com
 0.0.0.0 a.android.com
