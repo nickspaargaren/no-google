@@ -19,6 +19,10 @@ www.google-analytics.com
 www.googletagmanager.com
 www.googletagservices.com
 wwwctp.googletagmanager.com
+www.googleoptimize.com
+dr-mobiweb.googleoptimize.com
+mail.googleoptimize.com
+phonemasking-stage.googleoptimize.com
 # Android
 1-market.android.com
 a.android.com
