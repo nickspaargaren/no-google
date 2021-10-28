@@ -1545,6 +1545,7 @@ abc.xyz
 about.google
 aboutme.google.com
 accelerate.withgoogle.com
+accountcapabilities-pa.googleapis.com
 adsense.com
 adsense.google.com
 adservice.google.be
@@ -1633,6 +1634,7 @@ byvkqw3se6.com
 c4l1sj5he7.com
 ca.svc-1.google.com
 caadr2cfxy.com
+calendarsuggest.googleapis.com
 can.type.whatever.you.like.here.followed.by.svc-1.google.com
 careers.google.com
 cast.google.com
@@ -1679,6 +1681,7 @@ cnaiezv38i.com
 codein.withgoogle.com
 codelabs.developers.google.com
 colab.research.google.com
+contactsui-pa.googleapis.com
 compress.googlezip.net
 compsci.ca.svc-1.google.com
 connectivitycheck.gstatic.com
@@ -1767,10 +1770,12 @@ fe0.google.com
 feedburner.google.com
 feedproxy.google.com
 firebaseinstallations.googleapis.com
+firebaselogging-pa.googleapis.com
 firebaseperusertopics-pa.clients6.google.com
 firebaseremoteconfig.googleapis.com
 firebasestorage.googleapis.com
 firestore.googleapis.com
+fcmtoken.googleapis.com
 fl04oiwlyp.com
 flutter.io
 followed.by.svc-1.google.com
@@ -1856,6 +1861,7 @@ hdlb3pdwb2.com
 hedns1.google.com
 helpouts.google.com
 here.followed.by.svc-1.google.com
+homecloudcastsdk-pa.googleapis.com
 hfn5env09w.com
 hhjnkjnnqy.com
 highlightauthoring-pa.googleapis.com
@@ -2025,6 +2031,7 @@ nsk6ee6764.com
 nvds6yqjm4.com
 nwf07zk49q.com
 o-o.resolver.203.45.187.179.p6bmw3zahq27rql.metricz.l.google.com
+oauthaccountmanager.googleapis.com
 o3qa061rry.com
 o7afh004vh.com
 oa9lvjhuw3.com
@@ -2096,6 +2103,7 @@ rec4gno8he.com
 recaptcha.google.com
 redirector.gvt1.com
 research.google.com
+reminders-pa.googleapis.com
 rjscu4as3k.com
 rlfqaqqhzg.com
 rosmagdo66.com
