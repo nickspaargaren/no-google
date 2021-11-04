@@ -1,5 +1,8 @@
 name: Update categories
-on: push
+on:
+  push:
+    paths:
+      - 'pihole-google.txt'
 jobs:
   update:
     runs-on: ubuntu-latest
