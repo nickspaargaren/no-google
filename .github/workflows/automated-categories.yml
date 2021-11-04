@@ -3,6 +3,9 @@ on: push
 jobs:
   update:
     runs-on: ubuntu-latest
+    defaults:
+      run:
+        working-directory: ./categories
     steps:
     - uses: actions/checkout@v2
       name: Python setup
