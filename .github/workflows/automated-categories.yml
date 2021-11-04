@@ -6,7 +6,7 @@ jobs:
     defaults:
       run:
         working-directory: ./categories
-    allow-failure: true
+    continue-on-error: true
     steps:
     - uses: actions/checkout@v2
       name: Python setup
