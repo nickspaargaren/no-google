@@ -1,0 +1,27 @@
+name: Update categories
+on:
+  push:
+    paths:
+      - 'pihole-google.txt'
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    defaults:
+      run:
+        working-directory: ./categories
+    continue-on-error: true
+    steps:
+    - uses: actions/checkout@v2
+      name: Python setup
+    - uses: actions/setup-python@v2
+      with:
+        python-version: 3.8
+    - name: Run Python script
+      run: |
+        python no-google-files.py
+    - name: Commit categories
+      run: |
+        git config --global user.name 'Nick Spaargaren'
+        git config --global user.email 'nickspaargaren@users.noreply.github.com'
+        git commit -am "Automated categories update"
+        git push
