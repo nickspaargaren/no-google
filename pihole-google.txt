@@ -1824,6 +1824,7 @@ googleapis.com
 googleapis.l.google.com
 googlehomefoyer-pa.googleapis.com
 googlehosted.l.googleusercontent.com
+partner.googleadservices.com
 photos-ugc.l.googleusercontent.com
 googlesciencefair.com
 googlesource.com
