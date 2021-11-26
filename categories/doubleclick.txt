@@ -1,5 +1,5 @@
 #This blocklist helps Pi-hole's admin restrict access to Google and its domains.
-#Last updated: 05-11-2021
+#Last updated: 26-11-2021
 # Doubleclick
 
 0.0.0.0 2507573.fls.doubleclick.net

@@ -1,29 +1,29 @@
 #This blocklist helps Pi-hole's admin restrict access to Google and its domains.
-#Last updated: 05-11-2021
+#Last updated: 26-11-2021
 # Firebase
 
 0.0.0.0 0.firebaseio.com
 0.0.0.0 00.firebaseio.com
-0.0.0.0 2.firebaseio.com
-0.0.0.0 2e4a0.firebaseio.com
-0.0.0.0 4c381.firebaseio.com
-0.0.0.0 44f31.firebaseio.com
-0.0.0.0 93bc1.firebaseio.com
-0.0.0.0 99e50.firebaseio.com
-0.0.0.0 303a0.firebaseio.com
-0.0.0.0 412.firebaseio.com
 0.0.0.0 0702.firebaseio.com
-0.0.0.0 3461.firebaseio.com
-0.0.0.0 30490.firebaseio.com
-0.0.0.0 178522.firebaseio.com
-0.0.0.0 28475021.firebaseio.com
-0.0.0.0 4069160390.firebaseio.com
-0.0.0.0 6836841961.firebaseio.com
 0.0.0.0 1497962702590.firebaseio.com
 0.0.0.0 1509986864091.firebaseio.com
+0.0.0.0 178522.firebaseio.com
+0.0.0.0 2.firebaseio.com
+0.0.0.0 28475021.firebaseio.com
+0.0.0.0 2e4a0.firebaseio.com
+0.0.0.0 303a0.firebaseio.com
+0.0.0.0 30490.firebaseio.com
+0.0.0.0 3461.firebaseio.com
+0.0.0.0 4069160390.firebaseio.com
+0.0.0.0 412.firebaseio.com
+0.0.0.0 44f31.firebaseio.com
+0.0.0.0 4c381.firebaseio.com
+0.0.0.0 6836841961.firebaseio.com
 0.0.0.0 9118623467923216370.firebaseio.com
-0.0.0.0 a91d0.firebaseio.com
+0.0.0.0 93bc1.firebaseio.com
+0.0.0.0 99e50.firebaseio.com
 0.0.0.0 a6851.firebaseio.com
+0.0.0.0 a91d0.firebaseio.com
 0.0.0.0 accelerator-tool-2.firebaseio.com
 0.0.0.0 accountingflashcardfree.firebaseio.com
 0.0.0.0 admob-app-id-1864963202.firebaseio.com
@@ -48,7 +48,6 @@
 0.0.0.0 android-chat-app-e711d.firebaseio.com
 0.0.0.0 android-full-time-task.firebaseio.com
 0.0.0.0 android-video-merge.firebaseio.com
-0.0.0.0 api-project-99912877880.firebaseio.com
 0.0.0.0 api-project-255162406420.firebaseio.com
 0.0.0.0 api-project-431765977501.firebaseio.com
 0.0.0.0 api-project-450598502151.firebaseio.com
@@ -58,6 +57,9 @@
 0.0.0.0 api-project-841415684880.firebaseio.com
 0.0.0.0 api-project-859153957109.firebaseio.com
 0.0.0.0 api-project-992373329751.firebaseio.com
+0.0.0.0 api-project-99912877880.firebaseio.com
+0.0.0.0 s-usc1c-nss-219.firebaseio.com
+0.0.0.0 s-usc1c-nss-301.firebaseio.com
 0.0.0.0 apotek-1.firebaseio.com
 0.0.0.0 appliste-24740.firebaseio.com
 0.0.0.0 applock-6f6a1.firebaseio.com
@@ -217,10 +219,12 @@
 0.0.0.0 final-project-recording.firebaseio.com
 0.0.0.0 findplanking3321.firebaseio.com
 0.0.0.0 firebase-dot-google-developers.appspot.com
+0.0.0.0 firebase-settings.crashlytics.com
 0.0.0.0 firebase.google.com
 0.0.0.0 firebasedynamiclinks-ipv4.googleapis.com
 0.0.0.0 firebasedynamiclinks-ipv6.googleapis.com
 0.0.0.0 firebaseio.com
+0.0.0.0 firebaselogging.googleapis.com
 0.0.0.0 firetest-a1d61.firebaseio.com
 0.0.0.0 firework-fever-2.firebaseio.com
 0.0.0.0 firisoft-44d02.firebaseio.com

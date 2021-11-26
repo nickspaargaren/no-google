@@ -1,5 +1,5 @@
 #This blocklist helps Pi-hole's admin restrict access to Google and its domains.
-#Last updated: 05-11-2021
+#Last updated: 26-11-2021
 # Domains
 
 0.0.0.0 google.ac
@@ -426,6 +426,7 @@
 0.0.0.0 googlepagecreator.com
 0.0.0.0 googlescholar.com
 0.0.0.0 googlesyndication.com
+0.0.0.0 tpc.googlesyndication.com
 0.0.0.0 googletranslate.com
 0.0.0.0 googleweblight.com
 0.0.0.0 googlr.com
@@ -435,3 +436,4 @@
 0.0.0.0 gvt3.com
 0.0.0.0 igoogle.com
 0.0.0.0 imasdk.googleapis.com
+0.0.0.0 ocsp.pki.goog

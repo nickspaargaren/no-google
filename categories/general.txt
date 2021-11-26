@@ -1,5 +1,5 @@
 #This blocklist helps Pi-hole's admin restrict access to Google and its domains.
-#Last updated: 05-11-2021
+#Last updated: 26-11-2021
 # General
 
 0.0.0.0 00hrf5vjtk.com
@@ -153,6 +153,7 @@
 0.0.0.0 aboutme.google.com
 0.0.0.0 accelerate.withgoogle.com
 0.0.0.0 accountcapabilities-pa.googleapis.com
+0.0.0.0 accountsettingsmobile-pa.googleapis.com
 0.0.0.0 adsense.com
 0.0.0.0 adsense.google.com
 0.0.0.0 adservice.google.be
@@ -242,6 +243,7 @@
 0.0.0.0 ca.svc-1.google.com
 0.0.0.0 caadr2cfxy.com
 0.0.0.0 calendarsuggest.googleapis.com
+0.0.0.0 calendarsync-pa.googleapis.com
 0.0.0.0 can.type.whatever.you.like.here.followed.by.svc-1.google.com
 0.0.0.0 careers.google.com
 0.0.0.0 cast.google.com
@@ -262,6 +264,9 @@
 0.0.0.0 chromeexperiments.com
 0.0.0.0 chromefeedcontentsuggestions-pa.googleapis.com
 0.0.0.0 chromium.org
+0.0.0.0 ci3.googleusercontent.com
+0.0.0.0 ci4.googleusercontent.com
+0.0.0.0 ci5.googleusercontent.com
 0.0.0.0 ci6.googleusercontent.com
 0.0.0.0 ciu4squ6qg.com
 0.0.0.0 ck9d5ok0ww.com
@@ -281,14 +286,15 @@
 0.0.0.0 clientservices.googleapis.com
 0.0.0.0 clock_0.google.com
 0.0.0.0 cloudcastportale-pa.googleapis.com
+0.0.0.0 cloudcastportalfe-pa.googleapis.com
 0.0.0.0 cloudconfig.googleapis.com
+0.0.0.0 cloudidentity.googleapis.com
 0.0.0.0 cloudsearch.google.com
 0.0.0.0 cloudusersettings-pa.clients6.google.com
 0.0.0.0 cnaiezv38i.com
 0.0.0.0 codein.withgoogle.com
 0.0.0.0 codelabs.developers.google.com
 0.0.0.0 colab.research.google.com
-0.0.0.0 contactsui-pa.googleapis.com
 0.0.0.0 compress.googlezip.net
 0.0.0.0 compsci.ca.svc-1.google.com
 0.0.0.0 connectivitycheck.gstatic.com
@@ -298,6 +304,7 @@
 0.0.0.0 console.developer.google.com
 0.0.0.0 console.developers.google.com
 0.0.0.0 contacts.google.com
+0.0.0.0 contactsui-pa.googleapis.com
 0.0.0.0 contributor.google.com
 0.0.0.0 cps.withgoogle.com
 0.0.0.0 cpuid_0.google.com
@@ -373,16 +380,17 @@
 0.0.0.0 f1lip1zgkt.com
 0.0.0.0 f4b7xaxmah.com
 0.0.0.0 fcmatch.google.com
+0.0.0.0 fcmtoken.googleapis.com
 0.0.0.0 fe0.google.com
 0.0.0.0 feedburner.google.com
 0.0.0.0 feedproxy.google.com
+0.0.0.0 firebaseinappmessaging.googleapis.com
 0.0.0.0 firebaseinstallations.googleapis.com
 0.0.0.0 firebaselogging-pa.googleapis.com
 0.0.0.0 firebaseperusertopics-pa.clients6.google.com
 0.0.0.0 firebaseremoteconfig.googleapis.com
 0.0.0.0 firebasestorage.googleapis.com
 0.0.0.0 firestore.googleapis.com
-0.0.0.0 fcmtoken.googleapis.com
 0.0.0.0 fl04oiwlyp.com
 0.0.0.0 flutter.io
 0.0.0.0 followed.by.svc-1.google.com
@@ -663,6 +671,7 @@
 0.0.0.0 pagead2.googlesyndication.com
 0.0.0.0 partnerissuetracker.corp.google.com
 0.0.0.0 partnerpage.google.com
+0.0.0.0 peoplestack-pa.googleapis.com
 0.0.0.0 people-pa.googleapis.com
 0.0.0.0 phonedeviceverification-pa.googleapis.com
 0.0.0.0 photosdata-pa.googleapis.com
@@ -772,6 +781,7 @@
 0.0.0.0 t6g9bjnn5i.com
 0.0.0.0 takeout.google.com
 0.0.0.0 talk.google.com
+0.0.0.0 tasks-pa.googleapis.com
 0.0.0.0 tbn0.google.com
 0.0.0.0 tbn1.google.com
 0.0.0.0 tbn2.google.com
