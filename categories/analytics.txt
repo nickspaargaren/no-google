@@ -1,10 +1,11 @@
 #This blocklist helps Pi-hole's admin restrict access to Google and its domains.
-#Last updated: 05-11-2021
+#Last updated: 26-11-2021
 # Analytics
 
 0.0.0.0 apis.googletagmanager.com
 0.0.0.0 click.google-analytics.com
 0.0.0.0 crashlytics.com
+0.0.0.0 crashlyticsreports-pa.googleapis.com
 0.0.0.0 google-analytics.com
 0.0.0.0 googletagmanager.com
 0.0.0.0 googletagservices.com
