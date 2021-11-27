@@ -1,4 +1,4 @@
-name: Update AdGuard list
+name: Update automated lists
 on:
   push:
     paths:
@@ -13,14 +13,21 @@ jobs:
     - uses: actions/setup-python@v2
       with:
         python-version: 3.8
-    - name: Run Python script
+    - name: Update categories
+      run: |
+        cd scripts
+        python no-google-files.py
+    - name: Commit categories
+      run: |
+        git config --global user.name 'Nick Spaargaren'
+        git config --global user.email 'nickspaargaren@users.noreply.github.com'
+        git commit -am "Automated categories update"
+        git push
+    - name: Update AdGuard list
       run: |
         cd scripts
         python adguard.py
     - name: Commit AdGuard list
       run: |
-        git config --global user.name 'Nick Spaargaren'
-        git config --global user.email 'nickspaargaren@users.noreply.github.com'
-        git pull origin ${GITHUB_REF##*/}
         git commit -am "Automated AdGuard list update"
         git push
