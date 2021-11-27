@@ -15,6 +15,7 @@ jobs:
         python-version: 3.8
     - name: Run Python script
       run: |
+        cd scripts
         python adguard.py
     - name: Commit AdGuard list
       run: |
