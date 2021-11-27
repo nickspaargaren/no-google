@@ -436,4 +436,3 @@
 0.0.0.0 gvt3.com
 0.0.0.0 igoogle.com
 0.0.0.0 imasdk.googleapis.com
-0.0.0.0 ocsp.pki.goog
