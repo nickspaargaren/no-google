@@ -682,7 +682,6 @@
 ||gvt3.com^
 ||igoogle.com^
 ||imasdk.googleapis.com^
-||ocsp.pki.goog^
 ! Doubleclick
 ||2507573.fls.doubleclick.net^
 ||4403916.fls.doubleclick.net^
