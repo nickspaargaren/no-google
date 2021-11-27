@@ -8,7 +8,7 @@ class temporary:
 def Create(title, categories):
   file_name = title.strip('#').rstrip('\n').replace(' ', '').lower()
 
-  newfile = open(file_name + '.txt', 'w')
+  newfile = open('./categories/' + file_name + '.txt', 'w')
   newfile.write('#This blocklist helps Pi-hole\'s admin restrict access to Google and its domains.'+'\n')
   newfile.write('#Last updated: ' + today.strftime('%d-%m-%Y') +'\n')
   newfile.write(title +'\n')
@@ -17,7 +17,7 @@ def Create(title, categories):
     newfile.write('0.0.0.0 ' + url + '\n')
 
 
-with open('../pihole-google.txt', 'r') as main:
+with open('./pihole-google.txt', 'r') as main:
 
   for line in main:
 
