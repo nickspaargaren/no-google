@@ -25,6 +25,7 @@ jobs:
         git push
     - name: Update AdGuard list
       run: |
+        cd scripts
         python adguard.py
     - name: Commit AdGuard list
       run: |
