@@ -2172,7 +2172,6 @@ steamcloud-eu-ams.storage.googleapis.com
 stjp98c3hu.com
 storage.googleapis.com
 store.google.com
-testgoogletestdomain.com
 stun.l.google.com
 stun1.l.google.com
 su4xxf9ea6.com
