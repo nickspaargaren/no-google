@@ -1,4 +1,4 @@
-name: Update categories
+name: Update AdGuard list
 on:
   push:
     paths:
@@ -6,9 +6,6 @@ on:
 jobs:
   update:
     runs-on: ubuntu-latest
-    defaults:
-      run:
-        working-directory: ./categories
     continue-on-error: true
     steps:
     - uses: actions/checkout@v2
@@ -18,11 +15,11 @@ jobs:
         python-version: 3.8
     - name: Run Python script
       run: |
-        python no-google-files.py
-    - name: Commit categories
+        python adguard.py
+    - name: Commit AdGuard list
       run: |
         git config --global user.name 'Nick Spaargaren'
         git config --global user.email 'nickspaargaren@users.noreply.github.com'
         git pull origin ${GITHUB_REF##*/}
-        git commit -am "Automated categories update"
+        git commit -am "Automated AdGuard list update"
         git push
