@@ -240,6 +240,10 @@
 0.0.0.0 gvt3.com
 0.0.0.0 igoogle.com
 0.0.0.0 imasdk.googleapis.com
+0.0.0.0 pagead.googlesyndication.com
+0.0.0.0 pagead1.googlesyndication.com
+0.0.0.0 pagead2.googlesyndication.com
+0.0.0.0 pagead3.googlesyndication.com 
 0.0.0.0 tpc.googlesyndication.com
 0.0.0.0 www.google.ac
 0.0.0.0 www.google.ad
