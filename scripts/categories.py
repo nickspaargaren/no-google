@@ -9,8 +9,8 @@ def Create(title, categories):
   file_name = title.strip('#').rstrip('\n').replace(' ', '').lower()
 
   newfile = open('../categories/' + file_name + '.txt', 'w')
-  newfile.write('#This blocklist helps Pi-hole\'s admin restrict access to Google and its domains.'+'\n')
-  newfile.write('#Last updated: ' + today.strftime('%d-%m-%Y') +'\n')
+  newfile.write('# This blocklist helps Pi-hole\'s admin restrict access to Google and its domains.'+'\n')
+  newfile.write('# Last updated: ' + today.strftime('%d-%m-%Y') +'\n')
   newfile.write(title +'\n')
 
   for url in categories:
