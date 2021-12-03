@@ -43,6 +43,7 @@
 0.0.0.0 cctldtest.android.com
 0.0.0.0 ci.android.com
 0.0.0.0 connectivitycheck.android.com
+0.0.0.0 connectivitycheck.android.com
 0.0.0.0 content-autofill.googleapis.com
 0.0.0.0 d.android.com
 0.0.0.0 dev.android.com
@@ -70,6 +71,15 @@
 0.0.0.0 source.android.com
 0.0.0.0 stun2.l.google.com
 0.0.0.0 time.android.com
+0.0.0.0 time1.android.com
+0.0.0.0 time2.android.com
+0.0.0.0 time3.android.com
+0.0.0.0 time4.android.com
+0.0.0.0 time5.android.com
+0.0.0.0 time6.android.com
+0.0.0.0 time7.android.com
+0.0.0.0 time8.android.com
+0.0.0.0 time9.android.com
 0.0.0.0 tools.android.com
 0.0.0.0 ulp1p-pa.googleapis.com
 0.0.0.0 wear.android.com
@@ -486,6 +496,10 @@
 0.0.0.0 gvt3.com
 0.0.0.0 igoogle.com
 0.0.0.0 imasdk.googleapis.com
+0.0.0.0 pagead.googlesyndication.com
+0.0.0.0 pagead1.googlesyndication.com
+0.0.0.0 pagead2.googlesyndication.com
+0.0.0.0 pagead3.googlesyndication.com 
 0.0.0.0 tpc.googlesyndication.com
 0.0.0.0 www.google.ac
 0.0.0.0 www.google.ad
@@ -1725,6 +1739,8 @@
 0.0.0.0 colab.research.google.com
 0.0.0.0 compress.googlezip.net
 0.0.0.0 compsci.ca.svc-1.google.com
+0.0.0.0 connectivitycheck.google.com
+0.0.0.0 connectivitycheck.gstatic.com
 0.0.0.0 connectivitycheck.gstatic.com
 0.0.0.0 consent.google.com
 0.0.0.0 console.actions.google.com
@@ -2795,6 +2811,7 @@
 0.0.0.0 stun1.l.google.com
 0.0.0.0 su4xxf9ea6.com
 0.0.0.0 suggestqueries.google.com
+0.0.0.0 supl.google.com
 0.0.0.0 support.google.com
 0.0.0.0 svc-1.google.com
 0.0.0.0 t0wu1fqv4l.com
@@ -2816,6 +2833,12 @@
 0.0.0.0 time1.google.com
 0.0.0.0 time2.google.com
 0.0.0.0 time3.google.com
+0.0.0.0 time4.google.com
+0.0.0.0 time5.google.com
+0.0.0.0 time6.google.com
+0.0.0.0 time7.google.com
+0.0.0.0 time8.google.com
+0.0.0.0 time9.google.com
 0.0.0.0 tkzzb68bgu.com
 0.0.0.0 tmqds12u18.com
 0.0.0.0 toolbar.google.com
