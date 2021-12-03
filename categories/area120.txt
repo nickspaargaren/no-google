@@ -2,12 +2,12 @@
 # Last updated: 03-12-2021
 # Area120
 
+0.0.0.0 kormo.com
+0.0.0.0 rivet.area120.com
 0.0.0.0 staykeen.com
-0.0.0.0 www.staykeen.com
 0.0.0.0 storysavant.appspot.com
 0.0.0.0 tangi.co
-0.0.0.0 www.tangi.co
-0.0.0.0 rivet.area120.com
-0.0.0.0 www.rivet.area120.com
-0.0.0.0 kormo.com
 0.0.0.0 www.kormo.com
+0.0.0.0 www.rivet.area120.com
+0.0.0.0 www.staykeen.com
+0.0.0.0 www.tangi.co

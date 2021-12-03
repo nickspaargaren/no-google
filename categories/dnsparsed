@@ -2,10 +2,6 @@
 # Last updated: 03-12-2021
 # DNS
 
-8.8.8.8
-8.8.4.4
-2001:4860:4860::8888
-2001:4860:4860::8844
 014dcb18-dnsotls-ds.metric.gstatic.com
 01546dba-dnsotls-ds.metric.gstatic.com
 05ead28d-dnsotls-ds.metric.gstatic.com
@@ -19,6 +15,8 @@
 1883fb82-dnsotls-ds.metric.gstatic.com
 196f4d48-dnsotls-ds.metric.gstatic.com
 1jz49v-dnsotls-ds.metric.gstatic.com
+2001:4860:4860::8844
+2001:4860:4860::8888
 202c6a4a-dnsotls-ds.metric.gstatic.com
 20f51301-dnsotls-ds.metric.gstatic.com
 21368ea8-dnsotls-ds.metric.gstatic.com
@@ -57,6 +55,8 @@
 7a37b6d8-dnsotls-ds.metric.gstatic.com
 7e0e19d9-dnsotls-ds.metric.gstatic.com
 7u3cfo-dnsotls-ds.metric.gstatic.com
+8.8.4.4
+8.8.8.8
 851f8b26-dnsotls-ds.metric.gstatic.com
 872edec3-dnsotls-ds.metric.gstatic.com
 895238a3-dnsotls-ds.metric.gstatic.com
