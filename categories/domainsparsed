@@ -1,6 +1,7 @@
-#This blocklist helps Pi-hole's admin restrict access to Google and its domains.
-#Last updated: 06-06-2020
-# Google Domains
+# This blocklist helps Pi-hole's admin restrict access to Google and its domains.
+# Last updated: 03-12-2021
+# Domains
+
 google.ac
 google.ad
 google.ae
@@ -425,6 +426,7 @@ googlemaps.com
 googlepagecreator.com
 googlescholar.com
 googlesyndication.com
+tpc.googlesyndication.com
 googletranslate.com
 googleweblight.com
 googlr.com

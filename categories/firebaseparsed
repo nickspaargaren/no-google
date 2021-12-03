@@ -1,28 +1,29 @@
-#This blocklist helps Pi-hole's admin restrict access to Google and its domains.
-#Last updated: 09-06-2020
-#Firebase
+# This blocklist helps Pi-hole's admin restrict access to Google and its domains.
+# Last updated: 03-12-2021
+# Firebase
+
 0.firebaseio.com
 00.firebaseio.com
-2.firebaseio.com
-2e4a0.firebaseio.com
-4c381.firebaseio.com
-44f31.firebaseio.com
-93bc1.firebaseio.com
-99e50.firebaseio.com
-303a0.firebaseio.com
-412.firebaseio.com
 0702.firebaseio.com
-3461.firebaseio.com
-30490.firebaseio.com
-178522.firebaseio.com
-28475021.firebaseio.com
-4069160390.firebaseio.com
-6836841961.firebaseio.com
 1497962702590.firebaseio.com
 1509986864091.firebaseio.com
+178522.firebaseio.com
+2.firebaseio.com
+28475021.firebaseio.com
+2e4a0.firebaseio.com
+303a0.firebaseio.com
+30490.firebaseio.com
+3461.firebaseio.com
+4069160390.firebaseio.com
+412.firebaseio.com
+44f31.firebaseio.com
+4c381.firebaseio.com
+6836841961.firebaseio.com
 9118623467923216370.firebaseio.com
-a91d0.firebaseio.com
+93bc1.firebaseio.com
+99e50.firebaseio.com
 a6851.firebaseio.com
+a91d0.firebaseio.com
 accelerator-tool-2.firebaseio.com
 accountingflashcardfree.firebaseio.com
 admob-app-id-1864963202.firebaseio.com
@@ -47,7 +48,6 @@ andrig-efd41.firebaseio.com
 android-chat-app-e711d.firebaseio.com
 android-full-time-task.firebaseio.com
 android-video-merge.firebaseio.com
-api-project-99912877880.firebaseio.com
 api-project-255162406420.firebaseio.com
 api-project-431765977501.firebaseio.com
 api-project-450598502151.firebaseio.com
@@ -57,6 +57,9 @@ api-project-769125352380.firebaseio.com
 api-project-841415684880.firebaseio.com
 api-project-859153957109.firebaseio.com
 api-project-992373329751.firebaseio.com
+api-project-99912877880.firebaseio.com
+s-usc1c-nss-219.firebaseio.com
+s-usc1c-nss-301.firebaseio.com
 apotek-1.firebaseio.com
 appliste-24740.firebaseio.com
 applock-6f6a1.firebaseio.com
@@ -216,10 +219,12 @@ film-f4330.firebaseio.com
 final-project-recording.firebaseio.com
 findplanking3321.firebaseio.com
 firebase-dot-google-developers.appspot.com
+firebase-settings.crashlytics.com
 firebase.google.com
 firebasedynamiclinks-ipv4.googleapis.com
 firebasedynamiclinks-ipv6.googleapis.com
 firebaseio.com
+firebaselogging.googleapis.com
 firetest-a1d61.firebaseio.com
 firework-fever-2.firebaseio.com
 firisoft-44d02.firebaseio.com

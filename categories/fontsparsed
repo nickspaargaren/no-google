@@ -1,6 +1,7 @@
-#This blocklist helps Pi-hole's admin restrict access to Google and its domains.
-#Last updated: 06-06-2020
-# Google Fonts
+# This blocklist helps Pi-hole's admin restrict access to Google and its domains.
+# Last updated: 03-12-2021
+# Fonts
+
 fonts.google.com
 fonts.googleapis.com
 fonts.gstatic.com
