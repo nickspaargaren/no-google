@@ -31,3 +31,11 @@ jobs:
       run: |
         git commit -am "Automated AdGuard list update"
         git push
+    - name: Update parsed list
+      run: |
+        cd scripts
+        python parsed.py
+    - name: Commit parsed list
+      run: |
+        git commit -am "Automated parsed list update"
+        git push
