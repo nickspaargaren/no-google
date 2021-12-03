@@ -18,6 +18,7 @@
 0.0.0.0 cctldtest.android.com
 0.0.0.0 ci.android.com
 0.0.0.0 connectivitycheck.android.com
+0.0.0.0 connectivitycheck.android.com
 0.0.0.0 content-autofill.googleapis.com
 0.0.0.0 d.android.com
 0.0.0.0 dev.android.com
@@ -45,6 +46,15 @@
 0.0.0.0 source.android.com
 0.0.0.0 stun2.l.google.com
 0.0.0.0 time.android.com
+0.0.0.0 time1.android.com
+0.0.0.0 time2.android.com
+0.0.0.0 time3.android.com
+0.0.0.0 time4.android.com
+0.0.0.0 time5.android.com
+0.0.0.0 time6.android.com
+0.0.0.0 time7.android.com
+0.0.0.0 time8.android.com
+0.0.0.0 time9.android.com
 0.0.0.0 tools.android.com
 0.0.0.0 ulp1p-pa.googleapis.com
 0.0.0.0 wear.android.com

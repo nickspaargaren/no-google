@@ -18,6 +18,7 @@ bluetooth.android.com
 cctldtest.android.com
 ci.android.com
 connectivitycheck.android.com
+connectivitycheck.android.com
 content-autofill.googleapis.com
 d.android.com
 dev.android.com
@@ -45,6 +46,15 @@ schemas.android.com
 source.android.com
 stun2.l.google.com
 time.android.com
+time1.android.com
+time2.android.com
+time3.android.com
+time4.android.com
+time5.android.com
+time6.android.com
+time7.android.com
+time8.android.com
+time9.android.com
 tools.android.com
 ulp1p-pa.googleapis.com
 wear.android.com
