@@ -16,7 +16,7 @@ jobs:
     - name: Update categories
       run: |
         cd scripts
-        python no-google-files.py
+        python categories.py
     - name: Commit categories
       run: |
         git config --global user.name 'Nick Spaargaren'
