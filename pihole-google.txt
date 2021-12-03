@@ -41,6 +41,7 @@ bluetooth.android.com
 cctldtest.android.com
 ci.android.com
 connectivitycheck.android.com
+connectivitycheck.android.com
 content-autofill.googleapis.com
 d.android.com
 dev.android.com
@@ -68,6 +69,15 @@ schemas.android.com
 source.android.com
 stun2.l.google.com
 time.android.com
+time1.android.com
+time2.android.com
+time3.android.com
+time4.android.com
+time5.android.com
+time6.android.com
+time7.android.com
+time8.android.com
+time9.android.com
 tools.android.com
 ulp1p-pa.googleapis.com
 wear.android.com
@@ -484,6 +494,10 @@ gstatic.org
 gvt3.com
 igoogle.com
 imasdk.googleapis.com
+pagead.googlesyndication.com
+pagead1.googlesyndication.com
+pagead2.googlesyndication.com
+pagead3.googlesyndication.com 
 tpc.googlesyndication.com
 www.google.ac
 www.google.ad
@@ -1723,6 +1737,8 @@ codelabs.developers.google.com
 colab.research.google.com
 compress.googlezip.net
 compsci.ca.svc-1.google.com
+connectivitycheck.google.com
+connectivitycheck.gstatic.com
 connectivitycheck.gstatic.com
 consent.google.com
 console.actions.google.com
@@ -2793,6 +2809,7 @@ stun.l.google.com
 stun1.l.google.com
 su4xxf9ea6.com
 suggestqueries.google.com
+supl.google.com
 support.google.com
 svc-1.google.com
 t0wu1fqv4l.com
@@ -2814,6 +2831,12 @@ time.google.com
 time1.google.com
 time2.google.com
 time3.google.com
+time4.google.com
+time5.google.com
+time6.google.com
+time7.google.com
+time8.google.com
+time9.google.com
 tkzzb68bgu.com
 tmqds12u18.com
 toolbar.google.com
