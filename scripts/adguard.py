@@ -1,9 +1,7 @@
 from datetime import date
 today = date.today()
 
-file_name = 'pihole-google-adguard'
-
-newfile = open('../' + file_name + '.txt', 'w')
+newfile = open('../pihole-google-adguard.txt', 'w')
 newfile.write('! This blocklist helps Pi-hole\'s admin restrict access to Google and its domains.'+'\n')
 newfile.write('! Last updated: ' + today.strftime('%d-%m-%Y') +'\n')
 
