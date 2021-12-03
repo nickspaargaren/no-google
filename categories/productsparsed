@@ -1,6 +1,7 @@
-#This blocklist helps Pi-hole's admin restrict access to Google and its domains.
-#Last updated: 06-06-2020
-# Google Products
+# This blocklist helps Pi-hole's admin restrict access to Google and its domains.
+# Last updated: 03-12-2021
+# Products
+
 accounts.google.com
 actions.google.com
 admanager.google.com
@@ -73,6 +74,7 @@ mail-ads.google.com
 maps.google.com
 mars.google.com
 meet.google.com
+meetings.googleapis.com
 merchants.google.com
 mobile.google.com
 moon.google.com

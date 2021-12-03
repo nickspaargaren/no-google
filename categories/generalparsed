@@ -1,6 +1,7 @@
-#This blocklist helps Pi-hole's admin restrict access to Google and its domains.
-#Last updated: 16-02-2021
-# General Sites
+# This blocklist helps Pi-hole's admin restrict access to Google and its domains.
+# Last updated: 03-12-2021
+# General
+
 00hrf5vjtk.com
 01seifw7uv.com
 08jjhe3a9g.com
@@ -151,6 +152,8 @@ abc.xyz
 about.google
 aboutme.google.com
 accelerate.withgoogle.com
+accountcapabilities-pa.googleapis.com
+accountsettingsmobile-pa.googleapis.com
 adsense.com
 adsense.google.com
 adservice.google.be
@@ -239,6 +242,8 @@ byvkqw3se6.com
 c4l1sj5he7.com
 ca.svc-1.google.com
 caadr2cfxy.com
+calendarsuggest.googleapis.com
+calendarsync-pa.googleapis.com
 can.type.whatever.you.like.here.followed.by.svc-1.google.com
 careers.google.com
 cast.google.com
@@ -259,6 +264,9 @@ chromedriver.chromium.org
 chromeexperiments.com
 chromefeedcontentsuggestions-pa.googleapis.com
 chromium.org
+ci3.googleusercontent.com
+ci4.googleusercontent.com
+ci5.googleusercontent.com
 ci6.googleusercontent.com
 ciu4squ6qg.com
 ck9d5ok0ww.com
@@ -278,7 +286,9 @@ clients6.google.com
 clientservices.googleapis.com
 clock_0.google.com
 cloudcastportale-pa.googleapis.com
+cloudcastportalfe-pa.googleapis.com
 cloudconfig.googleapis.com
+cloudidentity.googleapis.com
 cloudsearch.google.com
 cloudusersettings-pa.clients6.google.com
 cnaiezv38i.com
@@ -294,6 +304,7 @@ console.cloud.google.com
 console.developer.google.com
 console.developers.google.com
 contacts.google.com
+contactsui-pa.googleapis.com
 contributor.google.com
 cps.withgoogle.com
 cpuid_0.google.com
@@ -369,10 +380,13 @@ f1kq6f6o4k.com
 f1lip1zgkt.com
 f4b7xaxmah.com
 fcmatch.google.com
+fcmtoken.googleapis.com
 fe0.google.com
 feedburner.google.com
 feedproxy.google.com
+firebaseinappmessaging.googleapis.com
 firebaseinstallations.googleapis.com
+firebaselogging-pa.googleapis.com
 firebaseperusertopics-pa.clients6.google.com
 firebaseremoteconfig.googleapis.com
 firebasestorage.googleapis.com
@@ -425,6 +439,7 @@ googleapis.com
 googleapis.l.google.com
 googlehomefoyer-pa.googleapis.com
 googlehosted.l.googleusercontent.com
+partner.googleadservices.com
 photos-ugc.l.googleusercontent.com
 googlesciencefair.com
 googlesource.com
@@ -462,6 +477,7 @@ hdlb3pdwb2.com
 hedns1.google.com
 helpouts.google.com
 here.followed.by.svc-1.google.com
+homecloudcastsdk-pa.googleapis.com
 hfn5env09w.com
 hhjnkjnnqy.com
 highlightauthoring-pa.googleapis.com
@@ -631,6 +647,7 @@ nsk6ee6764.com
 nvds6yqjm4.com
 nwf07zk49q.com
 o-o.resolver.203.45.187.179.p6bmw3zahq27rql.metricz.l.google.com
+oauthaccountmanager.googleapis.com
 o3qa061rry.com
 o7afh004vh.com
 oa9lvjhuw3.com
@@ -654,6 +671,7 @@ p98vobrqwd.com
 pagead2.googlesyndication.com
 partnerissuetracker.corp.google.com
 partnerpage.google.com
+peoplestack-pa.googleapis.com
 people-pa.googleapis.com
 phonedeviceverification-pa.googleapis.com
 photosdata-pa.googleapis.com
@@ -702,6 +720,7 @@ rec4gno8he.com
 recaptcha.google.com
 redirector.gvt1.com
 research.google.com
+reminders-pa.googleapis.com
 rjscu4as3k.com
 rlfqaqqhzg.com
 rosmagdo66.com
@@ -762,6 +781,7 @@ t0wu1fqv4l.com
 t6g9bjnn5i.com
 takeout.google.com
 talk.google.com
+tasks-pa.googleapis.com
 tbn0.google.com
 tbn1.google.com
 tbn2.google.com

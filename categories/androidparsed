@@ -1,6 +1,7 @@
-#This blocklist helps Pi-hole's admin restrict access to Google and its domains.
-#Last updated: 06-06-2020
-# Google Android
+# This blocklist helps Pi-hole's admin restrict access to Google and its domains.
+# Last updated: 03-12-2021
+# Android
+
 1-market.android.com
 a.android.com
 a17-250-248-101.android.com
