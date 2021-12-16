@@ -1,5 +1,5 @@
 # This blocklist helps Pi-hole's admin restrict access to Google and its domains.
-# Last updated: 13-12-2021
+# Last updated: 16-12-2021
 # Android
 
 0.0.0.0 1-market.android.com
@@ -17,7 +17,6 @@
 0.0.0.0 bluetooth.android.com
 0.0.0.0 cctldtest.android.com
 0.0.0.0 ci.android.com
-0.0.0.0 connectivitycheck.android.com
 0.0.0.0 connectivitycheck.android.com
 0.0.0.0 content-autofill.googleapis.com
 0.0.0.0 d.android.com
