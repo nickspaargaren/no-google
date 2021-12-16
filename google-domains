@@ -1,5 +1,5 @@
 # This blocklist helps Pi-hole's admin restrict access to Google and its domains.
-# Last updated: 13-12-2021
+# Last updated: 16-12-2021
 # Analytics
 0.0.0.0 apis.googletagmanager.com
 0.0.0.0 click.google-analytics.com
@@ -42,7 +42,6 @@
 0.0.0.0 bluetooth.android.com
 0.0.0.0 cctldtest.android.com
 0.0.0.0 ci.android.com
-0.0.0.0 connectivitycheck.android.com
 0.0.0.0 connectivitycheck.android.com
 0.0.0.0 content-autofill.googleapis.com
 0.0.0.0 d.android.com
@@ -1742,7 +1741,6 @@
 0.0.0.0 compsci.ca.svc-1.google.com
 0.0.0.0 connectivitycheck.google.com
 0.0.0.0 connectivitycheck.gstatic.com
-0.0.0.0 connectivitycheck.gstatic.com
 0.0.0.0 consent.google.com
 0.0.0.0 console.actions.google.com
 0.0.0.0 console.cloud.google.com
@@ -2130,7 +2128,6 @@
 0.0.0.0 p1xjhr2ipa.com
 0.0.0.0 p698ke6uwk.com
 0.0.0.0 p98vobrqwd.com
-0.0.0.0 pagead2.googlesyndication.com
 0.0.0.0 panoramio.com
 0.0.0.0 partner.googleadservices.com
 0.0.0.0 partnerissuetracker.corp.google.com
