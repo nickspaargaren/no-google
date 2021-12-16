@@ -1,5 +1,5 @@
 # This blocklist helps Pi-hole's admin restrict access to Google and its domains.
-# Last updated: 13-12-2021
+# Last updated: 16-12-2021
 # General
 
 00hrf5vjtk.com
@@ -325,7 +325,6 @@ colab.research.google.com
 compress.googlezip.net
 compsci.ca.svc-1.google.com
 connectivitycheck.google.com
-connectivitycheck.gstatic.com
 connectivitycheck.gstatic.com
 consent.google.com
 console.actions.google.com
@@ -714,7 +713,6 @@ orkut.google.com
 p1xjhr2ipa.com
 p698ke6uwk.com
 p98vobrqwd.com
-pagead2.googlesyndication.com
 panoramio.com
 partner.googleadservices.com
 partnerissuetracker.corp.google.com
