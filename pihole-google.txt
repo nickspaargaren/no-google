@@ -7117,9 +7117,7 @@ www.vps.store-au.fitbit.com
 www.wiki.fitbit.com
 www.windchill.fitbit.com
 wwwinternal.fitbit.com
-
 # More
-
 settings.crashlytics.com
 pagead2.googleadservices.com
 googleads.g.doubleclick.net
