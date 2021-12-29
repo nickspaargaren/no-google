@@ -2,6 +2,10 @@
 # Last updated: 29-12-2021
 # Domains
 
+0.0.0.0 3ded44bd838404a6a3f3d7333aa65498.safeframe.googlesyndication.com
+0.0.0.0 ade.googlesyndication.com
+0.0.0.0 buttons.googlesyndication.com
+0.0.0.0 c.googlesyndication.com
 0.0.0.0 com.google
 0.0.0.0 foofle.com
 0.0.0.0 froogle.com
@@ -228,6 +232,7 @@
 0.0.0.0 googlegroups.com
 0.0.0.0 googlemail.com
 0.0.0.0 googlemaps.com
+0.0.0.0 googlemapsupport.com
 0.0.0.0 googlepagecreator.com
 0.0.0.0 googlescholar.com
 0.0.0.0 googlesyndication.com
@@ -244,7 +249,14 @@
 0.0.0.0 pagead1.googlesyndication.com
 0.0.0.0 pagead2.googlesyndication.com
 0.0.0.0 pagead3.googlesyndication.com 
+0.0.0.0 pagead46.googlesyndication.com
+0.0.0.0 redirector.c.googlesyndication.com
+0.0.0.0 safeframe.googlesyndication.com
+0.0.0.0 tic.googlesyndication.com
 0.0.0.0 tpc.googlesyndication.com
+0.0.0.0 tpc.googlesyndication.com.proxy.c9w.net
+0.0.0.0 tpcnc.googlesyndication.com
+0.0.0.0 video-ad-stats.googlesyndication.com
 0.0.0.0 www.google.ac
 0.0.0.0 www.google.ad
 0.0.0.0 www.google.ae
