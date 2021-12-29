@@ -43,8 +43,6 @@
 0.0.0.0 script.google.com
 0.0.0.0 themes.googleusercontent.com
 0.0.0.0 ytimg.l.google.com
-0.0.0.0 https://www.youtube.com/redirect?event=video_description&redir_token=
-0.0.0.0 https://www.youtube.com/redirect?event=video_description&redir_token
 # Android
 0.0.0.0 1-market.android.com
 0.0.0.0 a.android.com
