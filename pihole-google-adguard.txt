@@ -2,7 +2,6 @@
 ! Last updated: 29-12-2021
 ! Analytics
 ||adsettings.google.com^
-||analytic-google.com^
 ||api.crashlytics.com^
 ||apis.googletagmanager.com^
 ||chart.googleapis.com^
@@ -19,9 +18,7 @@
 ||ghs.google.com^
 ||ghs.googlehosted.com^
 ||gmbmobile-pa.googleapis.com^
-||googlanalyticss.club^
 ||google-analytics.com^
-||googleads.github.io^
 ||googlehosted.com^
 ||googlehosted.l.googleusercontent.com^
 ||googleoptimize.com^
@@ -60,7 +57,6 @@
 ||acceleratedmobilepageurl.googleapis.com^
 ||accessories.android.com^
 ||accounts.partner.android.com^
-||admobsphere.com^
 ||android-review.googlesource.com^
 ||android-safebrowsing.google.com^
 ||android.clients.google.com^
@@ -551,7 +547,6 @@
 ||googlegroups.com^
 ||googlemail.com^
 ||googlemaps.com^
-||googlemapsupport.com^
 ||googlepagecreator.com^
 ||googlescholar.com^
 ||googlesyndication.com^
@@ -573,7 +568,6 @@
 ||safeframe.googlesyndication.com^
 ||tic.googlesyndication.com^
 ||tpc.googlesyndication.com^
-||tpc.googlesyndication.com.proxy.c9w.net^
 ||tpcnc.googlesyndication.com^
 ||video-ad-stats.googlesyndication.com^
 ||www.google.ac^
@@ -3169,7 +3163,6 @@
 ||ww.google.com^
 ||www-google-analytics.l.google.com^
 ||www.admob.com^
-||www.admob.com.akadns.net^
 ||www.adwords.google.com^
 ||www.agoogleaday.com^
 ||www.ampproject.org^
@@ -7397,10 +7390,5 @@
 ||9600015f-dnsotls-ds.metric.gstatic.com^
 ||admob.mobi^
 ||c122004c-dnsotls-ds.metric.gstatic.com^
-||pixel.admobclick.com^
 ||s-v6exp1-ds.metric.gstatic.com^
 ||static.googleadsserving.cn^
-||tracking.admobsphere.com^
-||autopush.prod.mozaws.net^
-||push.services.mozilla.com^
-||0-google.com^
