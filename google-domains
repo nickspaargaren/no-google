@@ -1,10 +1,13 @@
 # This blocklist helps Pi-hole's admin restrict access to Google and its domains.
 # Last updated: 29-12-2021
 # Analytics
+0.0.0.0 adgoogle.net
 0.0.0.0 adsettings.google.com
+0.0.0.0 android-safebrowsing.googleapis.com
 0.0.0.0 androidauto-pa.googleapis.com
 0.0.0.0 api.crashlytics.com
 0.0.0.0 apis.googletagmanager.com
+0.0.0.0 autofill.googleapis.com
 0.0.0.0 chart.googleapis.com
 0.0.0.0 click.google-analytics.com
 0.0.0.0 cm.crashlytics.com
@@ -1955,6 +1958,7 @@
 0.0.0.0 client1.google.com
 0.0.0.0 clientauthconfig.googleapis.com
 0.0.0.0 clients.1.google.com
+0.0.0.0 clients.google.com
 0.0.0.0 clients1.google.com
 0.0.0.0 clients2.google.com
 0.0.0.0 clients3.google.com
@@ -3030,6 +3034,7 @@
 0.0.0.0 safebrowsing.google.com
 0.0.0.0 safety.google
 0.0.0.0 santatracker.google.com
+0.0.0.0 sb-ssl.google.com
 0.0.0.0 sc1.admob.com
 0.0.0.0 sc9.admob.com
 0.0.0.0 se2n4u1r13.com
