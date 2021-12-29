@@ -16,10 +16,16 @@ fundingchoicesmessages.google.com
 ghs.google.com
 ghs.googlehosted.com
 gmbmobile-pa.googleapis.com
+google-analytics-cn.com
 google-analytics.com
+googleadapis-cn.com
+googleadservices-cn.com
 googlehosted.com
 googlehosted.l.googleusercontent.com
+googleoptimize-cn.com
 googleoptimize.com
+googlesyndication-cn.com
+googletagmanager-cn.com
 googletagmanager.com
 googletagservices.com
 htps.googletagmanager.com
@@ -41,6 +47,7 @@ test-web.googletagmanager.com
 themes.googleusercontent.com
 wp.googletagmanager.com
 www-googletagmanager.l.google.com
+www.adgoogle.net
 www.google-analytics.com
 www.googleanalytics.com
 www.googleoptimize.com
@@ -3226,6 +3233,7 @@ www1.google.com
 www10.google.com
 www2.doubleclick.net
 www3.doubleclick.net
+www3.l.google.com
 x.admob.com
 x6mh5eo6jr.com
 x706fc7pqy.com
