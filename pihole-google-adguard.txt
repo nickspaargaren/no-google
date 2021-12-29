@@ -2,6 +2,7 @@
 ! Last updated: 29-12-2021
 ! Analytics
 ||adsettings.google.com^
+||androidauto-pa.googleapis.com^
 ||api.crashlytics.com^
 ||apis.googletagmanager.com^
 ||chart.googleapis.com^
@@ -12,6 +13,8 @@
 ||crashlyticsreports-pa.googleapis.com^
 ||cse.google.com^
 ||csp.withgoogle.com^
+||dataprep.googleapis.com^
+||discover-pa.googleapis.com^
 ||dr-mobiweb.googleoptimize.com^
 ||e.crashlytics.com^
 ||fundingchoicesmessages.google.com^
