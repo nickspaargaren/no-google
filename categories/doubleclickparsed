@@ -1,5 +1,5 @@
 # This blocklist helps Pi-hole's admin restrict access to Google and its domains.
-# Last updated: 16-12-2021
+# Last updated: 29-12-2021
 # Doubleclick
 
 2507573.fls.doubleclick.net
@@ -21,16 +21,21 @@ dart.l.doubleclick.net
 doubleclick.net
 emea.doubleclick.com
 feedads.g.doubleclick.net
+ff.doubleclick.net
 fls.doubleclick.net
 g.doubleclick.net
+gan.doubleclick.net
 googleads.g.doubleclick.net
 googleads2.g.doubleclick.net
+googleads3.g.doubleclick.net
 googleads4.g.doubleclick.net
 help.doubleclick.com
 image.comms.doubleclick.com
+l.doubleclick.net
 learn.doubleclick.com
 logincrc.doubleclick.com
 m.doubleclick.com
+m.doubleclick.net
 mediavisor.doubleclick.com
 mobile-displayads-uk.l.doubleclick.net
 mobile-displayads.l.doubleclick.net
@@ -39,9 +44,11 @@ pagead.l.doubleclick.net
 pagead46.l.doubleclick.net
 partnerad.l.doubleclick.net
 pubads.g.doubleclick.net
+rd.intl.doubleclick.net
 reportcentral.doubleclick.com
 reports.doubleclick.com
 rich-media-dynamic-ads-api.l.doubleclick.net
+s0.doubleclick.net
 search.doubleclick.com
 securepubads.g.doubleclick.net
 static.doubleclick.com
