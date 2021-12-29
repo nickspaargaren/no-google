@@ -1731,6 +1731,7 @@
 0.0.0.0 www10.google.com
 0.0.0.0 www2.doubleclick.net
 0.0.0.0 www3.doubleclick.net
+0.0.0.0 www3.l.google.com
 0.0.0.0 x.admob.com
 0.0.0.0 x6mh5eo6jr.com
 0.0.0.0 x706fc7pqy.com
