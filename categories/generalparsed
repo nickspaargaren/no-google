@@ -448,6 +448,7 @@ client.1.google.com
 client1.google.com
 clientauthconfig.googleapis.com
 clients.1.google.com
+clients.google.com
 clients1.google.com
 clients2.google.com
 clients3.google.com
@@ -1523,6 +1524,7 @@ safebrowsing.clients.google.com
 safebrowsing.google.com
 safety.google
 santatracker.google.com
+sb-ssl.google.com
 sc1.admob.com
 sc9.admob.com
 se2n4u1r13.com

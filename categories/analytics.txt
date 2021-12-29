@@ -2,10 +2,13 @@
 # Last updated: 29-12-2021
 # Analytics
 
+0.0.0.0 adgoogle.net
 0.0.0.0 adsettings.google.com
+0.0.0.0 android-safebrowsing.googleapis.com
 0.0.0.0 androidauto-pa.googleapis.com
 0.0.0.0 api.crashlytics.com
 0.0.0.0 apis.googletagmanager.com
+0.0.0.0 autofill.googleapis.com
 0.0.0.0 chart.googleapis.com
 0.0.0.0 click.google-analytics.com
 0.0.0.0 cm.crashlytics.com
