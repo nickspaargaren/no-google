@@ -2,7 +2,6 @@
 # Last updated: 29-12-2021
 # Analytics
 0.0.0.0 adsettings.google.com
-0.0.0.0 analytic-google.com
 0.0.0.0 api.crashlytics.com
 0.0.0.0 apis.googletagmanager.com
 0.0.0.0 chart.googleapis.com
@@ -19,9 +18,7 @@
 0.0.0.0 ghs.google.com
 0.0.0.0 ghs.googlehosted.com
 0.0.0.0 gmbmobile-pa.googleapis.com
-0.0.0.0 googlanalyticss.club
 0.0.0.0 google-analytics.com
-0.0.0.0 googleads.github.io
 0.0.0.0 googlehosted.com
 0.0.0.0 googlehosted.l.googleusercontent.com
 0.0.0.0 googleoptimize.com
@@ -60,7 +57,6 @@
 0.0.0.0 acceleratedmobilepageurl.googleapis.com
 0.0.0.0 accessories.android.com
 0.0.0.0 accounts.partner.android.com
-0.0.0.0 admobsphere.com
 0.0.0.0 android-review.googlesource.com
 0.0.0.0 android-safebrowsing.google.com
 0.0.0.0 android.clients.google.com
@@ -551,7 +547,6 @@
 0.0.0.0 googlegroups.com
 0.0.0.0 googlemail.com
 0.0.0.0 googlemaps.com
-0.0.0.0 googlemapsupport.com
 0.0.0.0 googlepagecreator.com
 0.0.0.0 googlescholar.com
 0.0.0.0 googlesyndication.com
@@ -573,7 +568,6 @@
 0.0.0.0 safeframe.googlesyndication.com
 0.0.0.0 tic.googlesyndication.com
 0.0.0.0 tpc.googlesyndication.com
-0.0.0.0 tpc.googlesyndication.com.proxy.c9w.net
 0.0.0.0 tpcnc.googlesyndication.com
 0.0.0.0 video-ad-stats.googlesyndication.com
 0.0.0.0 www.google.ac
@@ -3169,7 +3163,6 @@
 0.0.0.0 ww.google.com
 0.0.0.0 www-google-analytics.l.google.com
 0.0.0.0 www.admob.com
-0.0.0.0 www.admob.com.akadns.net
 0.0.0.0 www.adwords.google.com
 0.0.0.0 www.agoogleaday.com
 0.0.0.0 www.ampproject.org
@@ -7397,10 +7390,5 @@
 0.0.0.0 9600015f-dnsotls-ds.metric.gstatic.com
 0.0.0.0 admob.mobi
 0.0.0.0 c122004c-dnsotls-ds.metric.gstatic.com
-0.0.0.0 pixel.admobclick.com
 0.0.0.0 s-v6exp1-ds.metric.gstatic.com
 0.0.0.0 static.googleadsserving.cn
-0.0.0.0 tracking.admobsphere.com
-0.0.0.0 autopush.prod.mozaws.net
-0.0.0.0 push.services.mozilla.com
-0.0.0.0 0-google.com
