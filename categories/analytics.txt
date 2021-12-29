@@ -19,10 +19,16 @@
 0.0.0.0 ghs.google.com
 0.0.0.0 ghs.googlehosted.com
 0.0.0.0 gmbmobile-pa.googleapis.com
+0.0.0.0 google-analytics-cn.com
 0.0.0.0 google-analytics.com
+0.0.0.0 googleadapis-cn.com
+0.0.0.0 googleadservices-cn.com
 0.0.0.0 googlehosted.com
 0.0.0.0 googlehosted.l.googleusercontent.com
+0.0.0.0 googleoptimize-cn.com
 0.0.0.0 googleoptimize.com
+0.0.0.0 googlesyndication-cn.com
+0.0.0.0 googletagmanager-cn.com
 0.0.0.0 googletagmanager.com
 0.0.0.0 googletagservices.com
 0.0.0.0 htps.googletagmanager.com
@@ -44,6 +50,7 @@
 0.0.0.0 themes.googleusercontent.com
 0.0.0.0 wp.googletagmanager.com
 0.0.0.0 www-googletagmanager.l.google.com
+0.0.0.0 www.adgoogle.net
 0.0.0.0 www.google-analytics.com
 0.0.0.0 www.googleanalytics.com
 0.0.0.0 www.googleoptimize.com
