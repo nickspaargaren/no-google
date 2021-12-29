@@ -1,5 +1,5 @@
 # This blocklist helps Pi-hole's admin restrict access to Google and its domains.
-# Last updated: 16-12-2021
+# Last updated: 29-12-2021
 # DNS
 
 014dcb18-dnsotls-ds.metric.gstatic.com

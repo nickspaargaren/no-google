@@ -1,5 +1,5 @@
 # This blocklist helps Pi-hole's admin restrict access to Google and its domains.
-# Last updated: 16-12-2021
+# Last updated: 29-12-2021
 # Youtube
 
 accounts.youtube.com
@@ -37,7 +37,7 @@ gaming.youtube.com
 gdata.youtube.com
 googlevideo.com
 gr.youtube.com
-hk.youtube.com
+hk.youtube.com		
 i.ytimg.com
 i1.ytimg.com
 i2.ytimg.com
