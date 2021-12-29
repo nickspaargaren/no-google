@@ -2,6 +2,7 @@
 # Last updated: 29-12-2021
 # Analytics
 0.0.0.0 adsettings.google.com
+0.0.0.0 androidauto-pa.googleapis.com
 0.0.0.0 api.crashlytics.com
 0.0.0.0 apis.googletagmanager.com
 0.0.0.0 chart.googleapis.com
@@ -12,6 +13,8 @@
 0.0.0.0 crashlyticsreports-pa.googleapis.com
 0.0.0.0 cse.google.com
 0.0.0.0 csp.withgoogle.com
+0.0.0.0 dataprep.googleapis.com
+0.0.0.0 discover-pa.googleapis.com
 0.0.0.0 dr-mobiweb.googleoptimize.com
 0.0.0.0 e.crashlytics.com
 0.0.0.0 fundingchoicesmessages.google.com
