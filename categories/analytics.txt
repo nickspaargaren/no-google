@@ -32,14 +32,12 @@
 0.0.0.0 adsettings.google.com
 0.0.0.0 chart.googleapis.com
 0.0.0.0 cse.google.com
-0.0.0.0 cse.google.com
 0.0.0.0 csp.withgoogle.com
 0.0.0.0 fundingchoicesmessages.google.com
 0.0.0.0 ghs.google.com
 0.0.0.0 ghs.googlehosted.com
 0.0.0.0 googleads.github.io
 0.0.0.0 googlehosted.com
-0.0.0.0 googlehosted.l.googleusercontent.com
 0.0.0.0 googleoptimize.com
 0.0.0.0 partner.googleadservices.com
 0.0.0.0 photos-ugc.l.googleusercontent.com

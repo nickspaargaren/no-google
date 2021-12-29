@@ -100,7 +100,6 @@
 0.0.0.0 scholar.google.fr
 0.0.0.0 scholar.google.nl
 0.0.0.0 scholar.google.pl
-0.0.0.0 script.google.com
 0.0.0.0 search.google.com
 0.0.0.0 security.google.com
 0.0.0.0 sheets.google.com

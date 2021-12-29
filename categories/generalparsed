@@ -282,7 +282,6 @@ cdzl8m2x2d.com
 cebt7ct1sd.com
 cello.client-channel.google.com
 chart.apis.google.com
-chart.googleapis.com
 check.googlezip.net
 chromebook.com
 chromedriver.chromium.org
@@ -309,11 +308,9 @@ clients3.google.com
 clients4.google.com
 clients5.google.com
 clients6.google.com
-clientservices.googleapis.com
 clock_0.google.com
 cloudcastportale-pa.googleapis.com
 cloudcastportalfe-pa.googleapis.com
-cloudconfig.googleapis.com
 cloudidentity.googleapis.com
 cloudsearch.google.com
 cloudusersettings-pa.clients6.google.com
@@ -325,7 +322,6 @@ colab.research.google.com
 compress.googlezip.net
 compsci.ca.svc-1.google.com
 connectivitycheck.google.com
-connectivitycheck.gstatic.com
 consent.google.com
 console.actions.google.com
 console.cloud.google.com
@@ -340,15 +336,12 @@ crowdcompute-pa.googleapis.com
 crowdsource-pa.googleapis.com
 crr0kvp1vv.com
 crvkqnmovj.com
-cryptauthenrollment.googleapis.com
-cse.google.com
 csi.gstatic.com
 cy0n3rjf69.com
 cyr26nkbef.com
 cyy25u6lo1.com
 d6noxwrgdg.com
 d77thhk8qm.com
-datamixer-pa.googleapis.com
 datasaver.googleapis.com
 datastudio.google.com
 db408yef6a.com
@@ -366,7 +359,6 @@ device-provisioning.googleapis.com
 dh2yuuwr45.com
 dh5txcojmw.com
 dialogflow.com
-digitalassetlinks.googleapis.com
 directory.google.com
 ditu.google.com
 diversity.google
@@ -419,20 +411,17 @@ firebaseinappmessaging.googleapis.com
 firebaseinstallations.googleapis.com
 firebaselogging-pa.googleapis.com
 firebaseperusertopics-pa.clients6.google.com
-firebaseremoteconfig.googleapis.com
 firebasestorage.googleapis.com
 firehunt.com
 firestore.googleapis.com
 fl04oiwlyp.com
 flutter.io
 followed.by.svc-1.google.com
-footprints-pa.googleapis.com
 forcesafesearch.google.com
 forms.google.com
 fpik3ohegr.com
 froogle.google.com
 fsehahqwg1.com
-fundingchoicesmessages.google.com
 fuoypffm3j.com
 fusion.google.com
 fvq1.com
@@ -464,8 +453,6 @@ getmdl.io
 gfv7a0oq3y.com
 ggcadmin.google.com
 ghi85bv7kx.com
-ghs.google.com
-ghs.googlehosted.com
 gi9utq8fro.com
 gib6606kgt.com
 gioa5a3ukb.com
@@ -477,7 +464,6 @@ googleadservices.com
 googleapis.com
 googleapis.l.google.com
 googlehomefoyer-pa.googleapis.com
-googlehosted.l.googleusercontent.com
 googlesciencefair.com
 googlesource.com
 googleusercontent.com
@@ -489,7 +475,6 @@ gpayslips.corp.google.com
 gphone.svc-1.google.com
 groups-beta.google.com
 grow.google
-growth-pa.googleapis.com
 gseacnw61z.com
 gsmtp185-2.google.com
 gstatic.com
@@ -538,9 +523,7 @@ ih275irlc0.com
 iid.googleapis.com
 ikknil4o42.com
 imap.gmail.com
-infinitedata-pa.googleapis.com
 inputtools.google.com
-instantmessaging-pa.googleapis.com
 ipv4.google.com
 ipv6test.google.com
 j2zyd2pet8.com
@@ -632,7 +615,6 @@ material.io
 mbmxgxxq1a.com
 mclients.googleapis.com
 mdf91.com
-mdh-pa.googleapis.com
 measurementpartners.google.com
 messages.google.com
 metric.gstatic.com
@@ -641,7 +623,6 @@ mlbgyl9f8b.com
 mm8ceqslai.com
 mn0e.com
 mobiledataplan-pa.googleapis.com
-mobilemaps-pa.googleapis.com
 motlvm5wqs.com
 mpk01.com
 mpv5.com
@@ -676,7 +657,6 @@ nm0n1130ab.com
 nn0e.com
 nni4p4of5o.com
 nnlyu0swp0.com
-notifications-pa.googleapis.com
 notifications.google.com
 notifications.googleapis.com
 nqp8358ik8.com
@@ -714,13 +694,9 @@ p1xjhr2ipa.com
 p698ke6uwk.com
 p98vobrqwd.com
 panoramio.com
-partner.googleadservices.com
 partnerissuetracker.corp.google.com
 partnerpage.google.com
-people-pa.googleapis.com
 peoplestack-pa.googleapis.com
-phonedeviceverification-pa.googleapis.com
-photos-ugc.l.googleusercontent.com
 photosdata-pa.googleapis.com
 phpjo3qe79.com
 picasa.com
@@ -1338,7 +1314,6 @@ realtimesupport.clients6.google.com
 rec4gno8he.com
 recaptcha.google.com
 redirector.gvt1.com
-reminders-pa.googleapis.com
 research.google.com
 rjscu4as3k.com
 rlfqaqqhzg.com
@@ -1356,7 +1331,6 @@ sa7n5ejpxu.com
 sabuaq3xef.com
 safebrowsing.clients.google.com
 safebrowsing.google.com
-safebrowsing.googleapis.com
 safety.google
 santatracker.google.com
 se2n4u1r13.com
@@ -1394,7 +1368,6 @@ stun.l.google.com
 stun1.l.google.com
 su4xxf9ea6.com
 suggestqueries.google.com
-supl.google.com
 support.google.com
 svc-1.google.com
 t0wu1fqv4l.com
@@ -1507,7 +1480,6 @@ www.flutter.io
 www.froogle.google.com
 www.getmdl.io
 www.googleadservices.com
-www.googleapis.com
 www.googlesciencefair.com
 www.googlezip.net
 www.gstatic.com
