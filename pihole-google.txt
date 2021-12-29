@@ -1,5 +1,6 @@
 # Analytics
 adsettings.google.com
+androidauto-pa.googleapis.com
 api.crashlytics.com
 apis.googletagmanager.com
 chart.googleapis.com
@@ -10,6 +11,8 @@ crashlytics2.l.google.com
 crashlyticsreports-pa.googleapis.com
 cse.google.com
 csp.withgoogle.com
+dataprep.googleapis.com
+discover-pa.googleapis.com
 dr-mobiweb.googleoptimize.com
 e.crashlytics.com
 fundingchoicesmessages.google.com
