@@ -176,6 +176,7 @@
 0.0.0.0 2946f0f2-dnsotls-ds.metric.gstatic.com
 0.0.0.0 2ae2cd8b-dnsotls-ds.metric.gstatic.com
 0.0.0.0 2bmhql-dnsotls-ds.metric.gstatic.com
+0.0.0.0 2c0aabe9-dnsotls-ds.metric.gstatic.com
 0.0.0.0 34624fd4-dnsotls-ds.metric.gstatic.com
 0.0.0.0 3671c395-dnsotls-ds.metric.gstatic.com
 0.0.0.0 38b87554-dnsotls-ds.metric.gstatic.com
@@ -206,6 +207,7 @@
 0.0.0.0 770368e7-dnsotls-ds.metric.gstatic.com
 0.0.0.0 7a37b6d8-dnsotls-ds.metric.gstatic.com
 0.0.0.0 7e0e19d9-dnsotls-ds.metric.gstatic.com
+0.0.0.0 7ecbd5d8-dnsotls-ds.metric.gstatic.com
 0.0.0.0 7u3cfo-dnsotls-ds.metric.gstatic.com
 0.0.0.0 8.8.4.4
 0.0.0.0 8.8.8.8
@@ -213,6 +215,7 @@
 0.0.0.0 872edec3-dnsotls-ds.metric.gstatic.com
 0.0.0.0 895238a3-dnsotls-ds.metric.gstatic.com
 0.0.0.0 906376fa-dnsotls-ds.metric.gstatic.com
+0.0.0.0 9600015f-dnsotls-ds.metric.gstatic.com
 0.0.0.0 9ad30478-dnsotls-ds.metric.gstatic.com
 0.0.0.0 9b2d7f93-dnsotls-ds.metric.gstatic.com
 0.0.0.0 a3c35da6-dnsotls-ds.metric.gstatic.com
@@ -231,6 +234,7 @@
 0.0.0.0 bd2b7e24-dnsotls-ds.metric.gstatic.com
 0.0.0.0 bdedf453-dnsotls-ds.metric.gstatic.com
 0.0.0.0 bxwcie-dnsotls-ds.metric.gstatic.com
+0.0.0.0 c122004c-dnsotls-ds.metric.gstatic.com
 0.0.0.0 c3938f55-dnsotls-ds.metric.gstatic.com
 0.0.0.0 c55534a4-dnsotls-ds.metric.gstatic.com
 0.0.0.0 c62032ad-dnsotls-ds.metric.gstatic.com
@@ -296,6 +300,7 @@
 0.0.0.0 rdrzfs-dnsotls-ds.metric.gstatic.com
 0.0.0.0 rtxdbs-dnsotls-ds.metric.gstatic.com
 0.0.0.0 rz5pqj-dnsotls-ds.metric.gstatic.com
+0.0.0.0 s-v6exp1-ds.metric.gstatic.com
 0.0.0.0 s76zsr-dnsotls-ds.metric.gstatic.com
 0.0.0.0 s8pfmr-dnsotls-ds.metric.gstatic.com
 0.0.0.0 sb3opj-dnsotls-ds.metric.gstatic.com
@@ -1729,6 +1734,7 @@
 0.0.0.0 ad.ve.doubleclick.net
 0.0.0.0 ad2.doubleclick.net
 0.0.0.0 admob.com
+0.0.0.0 admob.mobi
 0.0.0.0 ads.admob.com
 0.0.0.0 adsense.com
 0.0.0.0 adsense.google.com
@@ -2008,6 +2014,7 @@
 0.0.0.0 dh5txcojmw.com
 0.0.0.0 dialogflow.com
 0.0.0.0 directory.google.com
+0.0.0.0 displayads-formats.googleusercontent.com
 0.0.0.0 ditu.google.com
 0.0.0.0 diversity.google
 0.0.0.0 dl-ssl.google.com
@@ -3044,6 +3051,7 @@
 0.0.0.0 spreadsheets1.google.com
 0.0.0.0 spreadsheets2.google.com
 0.0.0.0 ssl.gstatic.com
+0.0.0.0 static.googleadsserving.cn
 0.0.0.0 steamcloud-eu-ams.storage.googleapis.com
 0.0.0.0 stjp98c3hu.com
 0.0.0.0 storage.googleapis.com
@@ -7383,12 +7391,3 @@
 0.0.0.0 www.wiki.fitbit.com
 0.0.0.0 www.windchill.fitbit.com
 0.0.0.0 wwwinternal.fitbit.com
-# Others
-0.0.0.0 displayads-formats.googleusercontent.com
-0.0.0.0 2c0aabe9-dnsotls-ds.metric.gstatic.com
-0.0.0.0 7ecbd5d8-dnsotls-ds.metric.gstatic.com
-0.0.0.0 9600015f-dnsotls-ds.metric.gstatic.com
-0.0.0.0 admob.mobi
-0.0.0.0 c122004c-dnsotls-ds.metric.gstatic.com
-0.0.0.0 s-v6exp1-ds.metric.gstatic.com
-0.0.0.0 static.googleadsserving.cn
