@@ -7719,3 +7719,6 @@ r3---sn-h0jeln7l.gvt.com
 r3.sn-h0jeln7l.gvt.com
 r5---sn-h0jeen7d.gvt.com
 r5.sn-h0jeen7d.gvt.com
+s.youtube.com
+#Amazon
+acsechocaptiveportal.com
