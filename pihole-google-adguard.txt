@@ -176,6 +176,7 @@
 ||2946f0f2-dnsotls-ds.metric.gstatic.com^
 ||2ae2cd8b-dnsotls-ds.metric.gstatic.com^
 ||2bmhql-dnsotls-ds.metric.gstatic.com^
+||2c0aabe9-dnsotls-ds.metric.gstatic.com^
 ||34624fd4-dnsotls-ds.metric.gstatic.com^
 ||3671c395-dnsotls-ds.metric.gstatic.com^
 ||38b87554-dnsotls-ds.metric.gstatic.com^
@@ -206,6 +207,7 @@
 ||770368e7-dnsotls-ds.metric.gstatic.com^
 ||7a37b6d8-dnsotls-ds.metric.gstatic.com^
 ||7e0e19d9-dnsotls-ds.metric.gstatic.com^
+||7ecbd5d8-dnsotls-ds.metric.gstatic.com^
 ||7u3cfo-dnsotls-ds.metric.gstatic.com^
 ||8.8.4.4^
 ||8.8.8.8^
@@ -213,6 +215,7 @@
 ||872edec3-dnsotls-ds.metric.gstatic.com^
 ||895238a3-dnsotls-ds.metric.gstatic.com^
 ||906376fa-dnsotls-ds.metric.gstatic.com^
+||9600015f-dnsotls-ds.metric.gstatic.com^
 ||9ad30478-dnsotls-ds.metric.gstatic.com^
 ||9b2d7f93-dnsotls-ds.metric.gstatic.com^
 ||a3c35da6-dnsotls-ds.metric.gstatic.com^
@@ -231,6 +234,7 @@
 ||bd2b7e24-dnsotls-ds.metric.gstatic.com^
 ||bdedf453-dnsotls-ds.metric.gstatic.com^
 ||bxwcie-dnsotls-ds.metric.gstatic.com^
+||c122004c-dnsotls-ds.metric.gstatic.com^
 ||c3938f55-dnsotls-ds.metric.gstatic.com^
 ||c55534a4-dnsotls-ds.metric.gstatic.com^
 ||c62032ad-dnsotls-ds.metric.gstatic.com^
@@ -296,6 +300,7 @@
 ||rdrzfs-dnsotls-ds.metric.gstatic.com^
 ||rtxdbs-dnsotls-ds.metric.gstatic.com^
 ||rz5pqj-dnsotls-ds.metric.gstatic.com^
+||s-v6exp1-ds.metric.gstatic.com^
 ||s76zsr-dnsotls-ds.metric.gstatic.com^
 ||s8pfmr-dnsotls-ds.metric.gstatic.com^
 ||sb3opj-dnsotls-ds.metric.gstatic.com^
@@ -1729,6 +1734,7 @@
 ||ad.ve.doubleclick.net^
 ||ad2.doubleclick.net^
 ||admob.com^
+||admob.mobi^
 ||ads.admob.com^
 ||adsense.com^
 ||adsense.google.com^
@@ -2008,6 +2014,7 @@
 ||dh5txcojmw.com^
 ||dialogflow.com^
 ||directory.google.com^
+||displayads-formats.googleusercontent.com^
 ||ditu.google.com^
 ||diversity.google^
 ||dl-ssl.google.com^
@@ -3044,6 +3051,7 @@
 ||spreadsheets1.google.com^
 ||spreadsheets2.google.com^
 ||ssl.gstatic.com^
+||static.googleadsserving.cn^
 ||steamcloud-eu-ams.storage.googleapis.com^
 ||stjp98c3hu.com^
 ||storage.googleapis.com^
@@ -7383,12 +7391,3 @@
 ||www.wiki.fitbit.com^
 ||www.windchill.fitbit.com^
 ||wwwinternal.fitbit.com^
-! Others
-||displayads-formats.googleusercontent.com^
-||2c0aabe9-dnsotls-ds.metric.gstatic.com^
-||7ecbd5d8-dnsotls-ds.metric.gstatic.com^
-||9600015f-dnsotls-ds.metric.gstatic.com^
-||admob.mobi^
-||c122004c-dnsotls-ds.metric.gstatic.com^
-||s-v6exp1-ds.metric.gstatic.com^
-||static.googleadsserving.cn^
