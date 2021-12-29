@@ -1,7 +1,11 @@
 # This blocklist helps Pi-hole's admin restrict access to Google and its domains.
-# Last updated: 16-12-2021
+# Last updated: 29-12-2021
 # Domains
 
+3ded44bd838404a6a3f3d7333aa65498.safeframe.googlesyndication.com
+ade.googlesyndication.com
+buttons.googlesyndication.com
+c.googlesyndication.com
 com.google
 foofle.com
 froogle.com
@@ -244,7 +248,13 @@ pagead.googlesyndication.com
 pagead1.googlesyndication.com
 pagead2.googlesyndication.com
 pagead3.googlesyndication.com 
+pagead46.googlesyndication.com
+redirector.c.googlesyndication.com
+safeframe.googlesyndication.com
+tic.googlesyndication.com
 tpc.googlesyndication.com
+tpcnc.googlesyndication.com
+video-ad-stats.googlesyndication.com
 www.google.ac
 www.google.ad
 www.google.ae

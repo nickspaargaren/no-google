@@ -1,5 +1,5 @@
 # This blocklist helps Pi-hole's admin restrict access to Google and its domains.
-# Last updated: 16-12-2021
+# Last updated: 29-12-2021
 # Products
 
 accounts.google.com
@@ -100,7 +100,6 @@ scholar.google.de
 scholar.google.fr
 scholar.google.nl
 scholar.google.pl
-script.google.com
 search.google.com
 security.google.com
 sheets.google.com
