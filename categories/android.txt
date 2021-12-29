@@ -8,7 +8,6 @@
 0.0.0.0 acceleratedmobilepageurl.googleapis.com
 0.0.0.0 accessories.android.com
 0.0.0.0 accounts.partner.android.com
-0.0.0.0 admobsphere.com
 0.0.0.0 android-review.googlesource.com
 0.0.0.0 android-safebrowsing.google.com
 0.0.0.0 android.clients.google.com

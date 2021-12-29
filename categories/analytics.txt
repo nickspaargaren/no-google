@@ -3,7 +3,6 @@
 # Analytics
 
 0.0.0.0 adsettings.google.com
-0.0.0.0 analytic-google.com
 0.0.0.0 api.crashlytics.com
 0.0.0.0 apis.googletagmanager.com
 0.0.0.0 chart.googleapis.com
@@ -20,9 +19,7 @@
 0.0.0.0 ghs.google.com
 0.0.0.0 ghs.googlehosted.com
 0.0.0.0 gmbmobile-pa.googleapis.com
-0.0.0.0 googlanalyticss.club
 0.0.0.0 google-analytics.com
-0.0.0.0 googleads.github.io
 0.0.0.0 googlehosted.com
 0.0.0.0 googlehosted.l.googleusercontent.com
 0.0.0.0 googleoptimize.com

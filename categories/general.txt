@@ -1671,7 +1671,6 @@
 0.0.0.0 ww.google.com
 0.0.0.0 www-google-analytics.l.google.com
 0.0.0.0 www.admob.com
-0.0.0.0 www.admob.com.akadns.net
 0.0.0.0 www.adwords.google.com
 0.0.0.0 www.agoogleaday.com
 0.0.0.0 www.ampproject.org
