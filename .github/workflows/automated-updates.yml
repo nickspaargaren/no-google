@@ -1,6 +1,8 @@
 name: Update automated lists
 on:
   push:
+    branches:
+        - master
     paths:
       - 'pihole-google.txt'
 jobs:
