@@ -43,8 +43,6 @@
 ||script.google.com^
 ||themes.googleusercontent.com^
 ||ytimg.l.google.com^
-||https://www.youtube.com/redirect?event=video_description&redir_token=^
-||https://www.youtube.com/redirect?event=video_description&redir_token^
 ! Android
 ||1-market.android.com^
 ||a.android.com^
