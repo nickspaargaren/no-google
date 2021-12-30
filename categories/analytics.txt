@@ -51,7 +51,6 @@
 0.0.0.0 htps.googletagmanager.com
 0.0.0.0 httpswww.googletagmanager.com
 0.0.0.0 kits.crashlytics.com
-0.0.0.0 mail.googleoptimize.com
 0.0.0.0 pagead2.googleadservices.com
 0.0.0.0 partner.googleadservices.com
 0.0.0.0 phonemasking-stage.googleoptimize.com

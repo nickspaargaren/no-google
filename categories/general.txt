@@ -540,7 +540,6 @@
 0.0.0.0 ekytu95c1u.com
 0.0.0.0 elqip64e59.com
 0.0.0.0 em0n.com
-0.0.0.0 email-quarantine.google.com
 0.0.0.0 emn0.com
 0.0.0.0 encrypted-tbn0.google.com
 0.0.0.0 encrypted-tbn0.gstatic.com
@@ -620,7 +619,6 @@
 0.0.0.0 gi9utq8fro.com
 0.0.0.0 gib6606kgt.com
 0.0.0.0 gioa5a3ukb.com
-0.0.0.0 gmail-smtp-mas.1.google.com
 0.0.0.0 gmskiosk.corp.google.com
 0.0.0.0 google-en.collectyourprize.club
 0.0.0.0 google-public-dns-a.google.com
@@ -688,7 +686,6 @@
 0.0.0.0 ih275irlc0.com
 0.0.0.0 iid.googleapis.com
 0.0.0.0 ikknil4o42.com
-0.0.0.0 imap.gmail.com
 0.0.0.0 inputtools.google.com
 0.0.0.0 ipv4.google.com
 0.0.0.0 ipv6test.google.com
