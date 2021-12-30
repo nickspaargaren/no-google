@@ -13,6 +13,7 @@ crashlytics.com
 crashlytics2.l.google.com
 crashlyticsreports-pa.googleapis.com
 cse.google.com
+www.googletagservices.com
 csp.withgoogle.com
 dataprep.googleapis.com
 discover-pa.googleapis.com
