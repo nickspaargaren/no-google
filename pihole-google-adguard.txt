@@ -50,7 +50,6 @@
 ||htps.googletagmanager.com^
 ||httpswww.googletagmanager.com^
 ||kits.crashlytics.com^
-||mail.googleoptimize.com^
 ||pagead2.googleadservices.com^
 ||partner.googleadservices.com^
 ||phonemasking-stage.googleoptimize.com^
@@ -577,7 +576,6 @@
 ||googlee.com^
 ||googleearth.com^
 ||googlegroups.com^
-||googlemail.com^
 ||googlemaps.com^
 ||googlepagecreator.com^
 ||googlescholar.com^
@@ -2075,7 +2073,6 @@
 ||ekytu95c1u.com^
 ||elqip64e59.com^
 ||em0n.com^
-||email-quarantine.google.com^
 ||emn0.com^
 ||encrypted-tbn0.google.com^
 ||encrypted-tbn0.gstatic.com^
@@ -2155,7 +2152,6 @@
 ||gi9utq8fro.com^
 ||gib6606kgt.com^
 ||gioa5a3ukb.com^
-||gmail-smtp-mas.1.google.com^
 ||gmskiosk.corp.google.com^
 ||google-en.collectyourprize.club^
 ||google-public-dns-a.google.com^
@@ -2223,7 +2219,6 @@
 ||ih275irlc0.com^
 ||iid.googleapis.com^
 ||ikknil4o42.com^
-||imap.gmail.com^
 ||inputtools.google.com^
 ||ipv4.google.com^
 ||ipv6test.google.com^
@@ -3325,6 +3320,29 @@
 ||zx2nndxnz8.com^
 ||zyvwtasyon.com^
 ! Mail
+||email-quarantine.google.com^
+||gmail-for-your-domain.info^
+||gmail-smtp-mas.1.google.com^
+||gmail.co^
+||gmail.com^
+||gmail.com^
+||gmail.de^
+||gmail.dk^
+||gmail.fr^
+||gmail.google.com^
+||gmail.ie^
+||gmail.kz^
+||gmail.name^
+||gmailbuch.de^
+||gmailbuzz.cl^
+||gmailbuzz.dk^
+||gmailer.de^
+||gmails.de^
+||gmailtechnicalsupport.net^
+||gmailtechsupport.org^
+||googlemail.com^
+||imap.gmail.com^
+||mail-ads.google.com^
 ||mail-bk0-f41.google.com^
 ||mail-bk0-f42.google.com^
 ||mail-bk0-f51.google.com^
@@ -3609,6 +3627,8 @@
 ||mail-yw1-f52.google.com^
 ||mail-yw1-f62.google.com^
 ||mail-yw1-f72.google.com^
+||mail.google.com^
+||mail.googleoptimize.com^
 ! Pagelink
 ||000000000000001.page.link^
 ||0utlookmxupdates1.page.link^
@@ -4165,8 +4185,6 @@
 ||fit.google.com^
 ||flights.google.com^
 ||glass.google.com^
-||gmail.com^
-||gmail.google.com^
 ||group.google.com^
 ||groups.google.com^
 ||hangout.google.com^
@@ -4178,8 +4196,6 @@
 ||image.google.com^
 ||images.google.com^
 ||inbox.google.com^
-||mail-ads.google.com^
-||mail.google.com^
 ||maps.google.com^
 ||mars.google.com^
 ||meet.google.com^
