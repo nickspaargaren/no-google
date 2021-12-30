@@ -50,7 +50,6 @@
 0.0.0.0 htps.googletagmanager.com
 0.0.0.0 httpswww.googletagmanager.com
 0.0.0.0 kits.crashlytics.com
-0.0.0.0 mail.googleoptimize.com
 0.0.0.0 pagead2.googleadservices.com
 0.0.0.0 partner.googleadservices.com
 0.0.0.0 phonemasking-stage.googleoptimize.com
@@ -577,7 +576,6 @@
 0.0.0.0 googlee.com
 0.0.0.0 googleearth.com
 0.0.0.0 googlegroups.com
-0.0.0.0 googlemail.com
 0.0.0.0 googlemaps.com
 0.0.0.0 googlepagecreator.com
 0.0.0.0 googlescholar.com
@@ -2075,7 +2073,6 @@
 0.0.0.0 ekytu95c1u.com
 0.0.0.0 elqip64e59.com
 0.0.0.0 em0n.com
-0.0.0.0 email-quarantine.google.com
 0.0.0.0 emn0.com
 0.0.0.0 encrypted-tbn0.google.com
 0.0.0.0 encrypted-tbn0.gstatic.com
@@ -2155,7 +2152,6 @@
 0.0.0.0 gi9utq8fro.com
 0.0.0.0 gib6606kgt.com
 0.0.0.0 gioa5a3ukb.com
-0.0.0.0 gmail-smtp-mas.1.google.com
 0.0.0.0 gmskiosk.corp.google.com
 0.0.0.0 google-en.collectyourprize.club
 0.0.0.0 google-public-dns-a.google.com
@@ -2223,7 +2219,6 @@
 0.0.0.0 ih275irlc0.com
 0.0.0.0 iid.googleapis.com
 0.0.0.0 ikknil4o42.com
-0.0.0.0 imap.gmail.com
 0.0.0.0 inputtools.google.com
 0.0.0.0 ipv4.google.com
 0.0.0.0 ipv6test.google.com
@@ -3325,6 +3320,29 @@
 0.0.0.0 zx2nndxnz8.com
 0.0.0.0 zyvwtasyon.com
 # Mail
+0.0.0.0 email-quarantine.google.com
+0.0.0.0 gmail-for-your-domain.info
+0.0.0.0 gmail-smtp-mas.1.google.com
+0.0.0.0 gmail.co
+0.0.0.0 gmail.com
+0.0.0.0 gmail.com
+0.0.0.0 gmail.de
+0.0.0.0 gmail.dk
+0.0.0.0 gmail.fr
+0.0.0.0 gmail.google.com
+0.0.0.0 gmail.ie
+0.0.0.0 gmail.kz
+0.0.0.0 gmail.name
+0.0.0.0 gmailbuch.de
+0.0.0.0 gmailbuzz.cl
+0.0.0.0 gmailbuzz.dk
+0.0.0.0 gmailer.de
+0.0.0.0 gmails.de
+0.0.0.0 gmailtechnicalsupport.net
+0.0.0.0 gmailtechsupport.org
+0.0.0.0 googlemail.com
+0.0.0.0 imap.gmail.com
+0.0.0.0 mail-ads.google.com
 0.0.0.0 mail-bk0-f41.google.com
 0.0.0.0 mail-bk0-f42.google.com
 0.0.0.0 mail-bk0-f51.google.com
@@ -3609,6 +3627,8 @@
 0.0.0.0 mail-yw1-f52.google.com
 0.0.0.0 mail-yw1-f62.google.com
 0.0.0.0 mail-yw1-f72.google.com
+0.0.0.0 mail.google.com
+0.0.0.0 mail.googleoptimize.com
 # Pagelink
 0.0.0.0 000000000000001.page.link
 0.0.0.0 0utlookmxupdates1.page.link
@@ -4165,8 +4185,6 @@
 0.0.0.0 fit.google.com
 0.0.0.0 flights.google.com
 0.0.0.0 glass.google.com
-0.0.0.0 gmail.com
-0.0.0.0 gmail.google.com
 0.0.0.0 group.google.com
 0.0.0.0 groups.google.com
 0.0.0.0 hangout.google.com
@@ -4178,8 +4196,6 @@
 0.0.0.0 image.google.com
 0.0.0.0 images.google.com
 0.0.0.0 inbox.google.com
-0.0.0.0 mail-ads.google.com
-0.0.0.0 mail.google.com
 0.0.0.0 maps.google.com
 0.0.0.0 mars.google.com
 0.0.0.0 meet.google.com
