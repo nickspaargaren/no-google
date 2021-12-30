@@ -573,7 +573,6 @@ googlr.com
 goolge.com
 gooogle.com
 gstatic.org
-gvt3.com
 igoogle.com
 imasdk.googleapis.com
 pagead.googlesyndication.com
@@ -1923,7 +1922,6 @@ caadr2cfxy.com
 calendarsuggest.googleapis.com
 calendarsync-pa.googleapis.com
 can.type.whatever.you.like.here.followed.by.svc-1.google.com
-captive.redirector.gvt1.com
 careers.google.com
 cast.google.com
 cbk0.google.com
@@ -3009,7 +3007,6 @@ randy-phishingbotnet-maugans.you.like.here.follo.by.svc-1.google.com
 realtimesupport.clients6.google.com
 rec4gno8he.com
 recaptcha.google.com
-redirector.gvt1.com
 research.google.com
 rjscu4as3k.com
 rlfqaqqhzg.com
@@ -7413,10 +7410,8 @@ safebrowsing.googleapis.com
 sb-ssl.google.com
 sb.l.google.com
 acceleratedmobilepageurl.googleapis.com
-android.bugly.qq.com
 app-measurement.com
 autofill.googleapis.com
-bugly.qq.com
 crashlytics.com
 e.crashlytics.com
 firebaseinstallations.googleapis.com
@@ -7686,12 +7681,4 @@ mobile-gtalk.l.google.com
 play-lh.googleusercontent.com
 sb.l.google.com
 supl.google.com
-redirector.gvt1.com
-beacons.gvt2.com
-beacons3.gvt2.com
-beacons4.gvt2.com
-r3---sn-h0jeln7l.gvt.com
-r3.sn-h0jeln7l.gvt.com
-r5---sn-h0jeen7d.gvt.com
-r5.sn-h0jeen7d.gvt.com
 s.youtube.com
