@@ -7407,8 +7407,6 @@ www.windchill.fitbit.com
 wwwinternal.fitbit.com
 android-safebrowsing.googleapis.com
 developers.google.com
-malware-error.mozilla.con
-phish-error.mozilla.con
 safebrowsing.google.com
 safebrowsing.googleapis.com
 sb-ssl.google.com
@@ -7416,20 +7414,13 @@ sb.l.google.com
 acceleratedmobilepageurl.googleapis.com
 android.bugly.qq.com
 app-measurement.com
-#Duckduckgo
-improving.duckduckgo.com
 autofill.googleapis.com
 bugly.qq.com
-bugsnag.com
 crashlytics.com
 e.crashlytics.com
 firebaseinstallations.googleapis.com
 firebase-settings.crashlytics.com
-graph.facebook.com
-piwik.darken.eu # SD Maid
-privatestats.whatsapp.net # Most important WhatsApp tracker
 reports.crashlytics.com
-sessions.bugsnag.com
 settings.crashlytics.com
 #Doubleclick.net
 1016557.fls.doubleclick.net
@@ -7495,11 +7486,8 @@ securepubads.g.doubleclick.net
 static.doubleclick.netnod
 stats.g.doubleclick.net
 survey.g.doubleclick.net
-## Google-analytics.com
 google-analytics.com
-ssl.google-analytics.com
 www.google-analytics.com
-## Google.com
 admob.com
 ads.google.com
 adsense.com
@@ -7598,8 +7586,6 @@ cloudconfig.googleapis.com
 app-measurement.com
 ssl.google-analytics.com
 connectivitycheck.android.com
-example.org
-ipv4only.arpa
 e.crashlytics.com
 settings.crashlytics.com
 reports.crashlytics.com
@@ -7611,7 +7597,6 @@ history.google.com
 android.googleapis.com
 people-pa.googleapis.com
 securetoken.googleapis.com
-www.googleapis.com
 www.googleapis.com
 chromesyncpasswords-pa.googleapis.com
 clientservices.googleapis.com
@@ -7676,9 +7661,6 @@ googleads4.g.doubleclick.net
 dart.l.doubleclick.net
 cm.g.doubleclick.net
 pagead-googlehosted.l.google.com
-analytics.google.com
-ssl.google-analytics.com
-www.google-analytics.com
 ssl-google-analytics.l.google.com
 adservice.google.com
 adservice.google.de
@@ -7720,5 +7702,3 @@ r3.sn-h0jeln7l.gvt.com
 r5---sn-h0jeen7d.gvt.com
 r5.sn-h0jeen7d.gvt.com
 s.youtube.com
-#Amazon
-acsechocaptiveportal.com
