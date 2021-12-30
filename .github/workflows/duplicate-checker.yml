@@ -2,13 +2,13 @@ name: Duplicate checker
 on:
   push:
     branches:
-        - master
-    pull_request:
-      branches:
-        - master
-        - develop
+      - master
     paths:
       - 'pihole-google.txt'
+  pull_request:
+    branches:
+      - master
+      - develop
 jobs:
   update:
     runs-on: ubuntu-latest
