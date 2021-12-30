@@ -56,8 +56,6 @@
 0.0.0.0 fit.google.com
 0.0.0.0 flights.google.com
 0.0.0.0 glass.google.com
-0.0.0.0 gmail.com
-0.0.0.0 gmail.google.com
 0.0.0.0 group.google.com
 0.0.0.0 groups.google.com
 0.0.0.0 hangout.google.com
@@ -69,8 +67,6 @@
 0.0.0.0 image.google.com
 0.0.0.0 images.google.com
 0.0.0.0 inbox.google.com
-0.0.0.0 mail-ads.google.com
-0.0.0.0 mail.google.com
 0.0.0.0 maps.google.com
 0.0.0.0 mars.google.com
 0.0.0.0 meet.google.com

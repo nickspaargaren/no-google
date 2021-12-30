@@ -231,7 +231,6 @@
 0.0.0.0 googlee.com
 0.0.0.0 googleearth.com
 0.0.0.0 googlegroups.com
-0.0.0.0 googlemail.com
 0.0.0.0 googlemaps.com
 0.0.0.0 googlepagecreator.com
 0.0.0.0 googlescholar.com
