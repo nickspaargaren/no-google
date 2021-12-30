@@ -4,6 +4,15 @@
 
 0.0.0.0 adgoogle.net
 0.0.0.0 adsettings.google.com
+0.0.0.0 adssettings.google.com
+0.0.0.0 alt1.mobile-gtalk.l.google.com
+0.0.0.0 alt2.mobile-gtalk.l.google.com
+0.0.0.0 alt3.mobile-gtalk.l.google.com
+0.0.0.0 alt4.mobile-gtalk.l.google.com
+0.0.0.0 alt5.mobile-gtalk.l.google.com
+0.0.0.0 alt6.mobile-gtalk.l.google.com
+0.0.0.0 alt7.mobile-gtalk.l.google.com
+0.0.0.0 alt8.mobile-gtalk.l.google.com
 0.0.0.0 android-safebrowsing.googleapis.com
 0.0.0.0 androidauto-pa.googleapis.com
 0.0.0.0 api.crashlytics.com
@@ -11,8 +20,10 @@
 0.0.0.0 autofill.googleapis.com
 0.0.0.0 chart.googleapis.com
 0.0.0.0 click.google-analytics.com
+0.0.0.0 clients.l.google.com
 0.0.0.0 cm.crashlytics.com
 0.0.0.0 crashlytics.com
+0.0.0.0 crashlytics.l.google.com
 0.0.0.0 crashlytics2.l.google.com
 0.0.0.0 crashlyticsreports-pa.googleapis.com
 0.0.0.0 cse.google.com
@@ -41,6 +52,7 @@
 0.0.0.0 httpswww.googletagmanager.com
 0.0.0.0 kits.crashlytics.com
 0.0.0.0 mail.googleoptimize.com
+0.0.0.0 pagead2.googleadservices.com
 0.0.0.0 partner.googleadservices.com
 0.0.0.0 phonemasking-stage.googleoptimize.com
 0.0.0.0 photos-ugc.l.googleusercontent.com
@@ -49,6 +61,7 @@
 0.0.0.0 sandbox.google-analytics.com
 0.0.0.0 script.google.com
 0.0.0.0 settings.crashlytics.com
+0.0.0.0 ssl-google-analytics.l.google.com
 0.0.0.0 ssl.google-analytics.com
 0.0.0.0 ssl.googleanalytics.com
 0.0.0.0 tagmanager.google.com

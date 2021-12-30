@@ -524,7 +524,6 @@ diversity.google
 dl-ssl.google.com
 dlhaxa82xp.com
 dlut31p12z.com
-doubleclick.com
 dp1msx93o1.com
 dszj1hsjze.com
 dwfwrmuek2.com
@@ -651,6 +650,7 @@ gt1.google.com
 gv.com
 gvt1.com
 gvt2.com
+gvt3.com
 gvw6potuej.com
 gw.admob.com
 gweb-cloudblog-publish.appspot.com
@@ -891,9 +891,11 @@ pki.google
 pki.google.com
 pkn7e9us0y.com
 places.google.com
+play-fe.googleapis.com
 play.googleapis.com
 playatoms-pa.googleapis.com
 playbooks-pa.googleapis.com
+playgateway-pa.googleapis.com
 plus.l.google.com
 plus.sandbox.google.com
 plus.url.google.com
@@ -1197,6 +1199,7 @@ r3---sn-ci5gup-jj06.gvt1.com
 r3---sn-cn3tc-ac56.gvt1.com
 r3---sn-cxaaj5o5q5-tt16.gvt1.com
 r3---sn-gvhuxax-cc06.gvt1.com
+r3---sn-h0jeln7l.gvt.com
 r3---sn-ipoxu-un56.gvt1.com
 r3---sn-jtu5jt2g0n-aj56.gvt1.com
 r3---sn-ni57dn76.gvt1.com
@@ -1220,6 +1223,7 @@ r3.sn-4g57kn66.gvt1.com
 r3.sn-4g5e6n76.gvt1.com
 r3.sn-5n3-n1qe.gvt1.com
 r3.sn-aigl6n76.gvt1.com
+r3.sn-h0jeln7l.gvt.com
 r3.sn-hufvjvgx-coxe.gvt1.com
 r3.sn-npoe7n76.gvt1.com
 r3.sn-ntqe6n76.gvt1.com
@@ -1337,6 +1341,7 @@ r5---sn-cxaaj5o5q5-tt16.gvt1.com
 r5---sn-cxab5jvh-cg06.gvt1.com
 r5---sn-gvhuxax-cc06.gvt1.com
 r5---sn-gwpa-h556.gvt1.com
+r5---sn-h0jeen7d.gvt.com
 r5---sn-h5q7dn76.gvt1.com
 r5---sn-ipoxu-un56.gvt1.com
 r5---sn-ni57dn76.gvt1.com
@@ -1358,6 +1363,7 @@ r5---sn-vgqs7n76.gvt1.com
 r5.sn-4g57km76.gvt1.com
 r5.sn-8pxuuxa-8j56.gvt1.com
 r5.sn-aigl6n76.gvt1.com
+r5.sn-h0jeen7d.gvt.com
 r5.sn-npoe7n76.gvt1.com
 r5.sn-nx5e6n76.gvt1.com
 r5.sn-nx5s7n76.gvt1.com

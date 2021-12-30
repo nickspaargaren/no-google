@@ -4,6 +4,15 @@
 
 adgoogle.net
 adsettings.google.com
+adssettings.google.com
+alt1.mobile-gtalk.l.google.com
+alt2.mobile-gtalk.l.google.com
+alt3.mobile-gtalk.l.google.com
+alt4.mobile-gtalk.l.google.com
+alt5.mobile-gtalk.l.google.com
+alt6.mobile-gtalk.l.google.com
+alt7.mobile-gtalk.l.google.com
+alt8.mobile-gtalk.l.google.com
 android-safebrowsing.googleapis.com
 androidauto-pa.googleapis.com
 api.crashlytics.com
@@ -11,8 +20,10 @@ apis.googletagmanager.com
 autofill.googleapis.com
 chart.googleapis.com
 click.google-analytics.com
+clients.l.google.com
 cm.crashlytics.com
 crashlytics.com
+crashlytics.l.google.com
 crashlytics2.l.google.com
 crashlyticsreports-pa.googleapis.com
 cse.google.com
@@ -41,6 +52,7 @@ htps.googletagmanager.com
 httpswww.googletagmanager.com
 kits.crashlytics.com
 mail.googleoptimize.com
+pagead2.googleadservices.com
 partner.googleadservices.com
 phonemasking-stage.googleoptimize.com
 photos-ugc.l.googleusercontent.com
@@ -49,6 +61,7 @@ reports.crashlytics.com
 sandbox.google-analytics.com
 script.google.com
 settings.crashlytics.com
+ssl-google-analytics.l.google.com
 ssl.google-analytics.com
 ssl.googleanalytics.com
 tagmanager.google.com
