@@ -4,7 +4,6 @@ adsettings.google.com
 android-safebrowsing.googleapis.com
 androidauto-pa.googleapis.com
 api.crashlytics.com
-api.crashlytics.com
 apis.googletagmanager.com
 autofill.googleapis.com
 chart.googleapis.com
