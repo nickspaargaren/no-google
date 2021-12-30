@@ -1,6 +1,15 @@
 # Analytics
 adgoogle.net
 adsettings.google.com
+adssettings.google.com
+alt1.mobile-gtalk.l.google.com
+alt2.mobile-gtalk.l.google.com
+alt3.mobile-gtalk.l.google.com
+alt4.mobile-gtalk.l.google.com
+alt5.mobile-gtalk.l.google.com
+alt6.mobile-gtalk.l.google.com
+alt7.mobile-gtalk.l.google.com
+alt8.mobile-gtalk.l.google.com
 android-safebrowsing.googleapis.com
 androidauto-pa.googleapis.com
 api.crashlytics.com
@@ -8,8 +17,10 @@ apis.googletagmanager.com
 autofill.googleapis.com
 chart.googleapis.com
 click.google-analytics.com
+clients.l.google.com
 cm.crashlytics.com
 crashlytics.com
+crashlytics.l.google.com
 crashlytics2.l.google.com
 crashlyticsreports-pa.googleapis.com
 cse.google.com
@@ -38,6 +49,7 @@ htps.googletagmanager.com
 httpswww.googletagmanager.com
 kits.crashlytics.com
 mail.googleoptimize.com
+pagead2.googleadservices.com
 partner.googleadservices.com
 phonemasking-stage.googleoptimize.com
 photos-ugc.l.googleusercontent.com
@@ -46,6 +58,7 @@ reports.crashlytics.com
 sandbox.google-analytics.com
 script.google.com
 settings.crashlytics.com
+ssl-google-analytics.l.google.com
 ssl.google-analytics.com
 ssl.googleanalytics.com
 tagmanager.google.com
@@ -334,6 +347,7 @@ yuq6xm-dnsotls-ds.metric.gstatic.com
 yvqo1t-dnsotls-ds.metric.gstatic.com
 # Domains
 3ded44bd838404a6a3f3d7333aa65498.safeframe.googlesyndication.com
+96d80cafb2cc6ad351ea76aea0f55d37.safeframe.googlesyndication.com
 ade.googlesyndication.com
 buttons.googlesyndication.com
 c.googlesyndication.com
@@ -572,7 +586,6 @@ googlr.com
 goolge.com
 gooogle.com
 gstatic.org
-gvt3.com
 igoogle.com
 imasdk.googleapis.com
 pagead.googlesyndication.com
@@ -786,6 +799,7 @@ www.google.ws
 4403916.fls.doubleclick.net
 4487826.fls.doubleclick.net
 8522212.fls.doubleclick.net
+ad-g.doubleclick.net
 ad.doubleclick.com
 ad.doubleclick.net
 adclick.g.doubleclick.net
@@ -794,16 +808,22 @@ advertisers.doubleclick.com
 advertisersapitest.doubleclick.com
 adx.g.doubleclick.net
 betareportcentral.doubleclick.com
+bid.g.doubleclick.net
 click.comms.doubleclick.com
 cm.g.doubleclick.net
 dart-ad.l.doubleclick.net
 dart.l.doubleclick.net
+doubleclick.com
 doubleclick.net
 emea.doubleclick.com
 feedads.g.doubleclick.net
 ff.doubleclick.net
 fls.doubleclick.net
 g.doubleclick.net
+g0.doubleclick.net
+g1.doubleclick.net
+g2.doubleclick.net
+g3.doubleclick.net
 gan.doubleclick.net
 googleads.g.doubleclick.net
 googleads2.g.doubleclick.net
@@ -830,9 +850,12 @@ reports.doubleclick.com
 rich-media-dynamic-ads-api.l.doubleclick.net
 s0.doubleclick.net
 search.doubleclick.com
+secureframe.doubleclick.net
 securepubads.g.doubleclick.net
+static-doubleclick-net.l.google.com
 static.doubleclick.com
 static.doubleclick.net
+static.doubleclick.netnod
 stats.g.doubleclick.net
 studio.doubleclick.com
 studioapi.doubleclick.com
@@ -1235,6 +1258,7 @@ newdic-458b1.firebaseio.com
 newsq10.firebaseio.com
 ngominhluong1950.firebaseio.com
 nhaphoc-11722.firebaseio.com
+nmdp-b86eb-users-ko.firebaseio.com
 nnnotificatieapp01.firebaseio.com
 nodemcuserver.firebaseio.com
 norse-period-149211.firebaseio.com
@@ -1360,6 +1384,7 @@ s-usc1c-nss-257.firebaseio.com
 s-usc1c-nss-260.firebaseio.com
 s-usc1c-nss-261.firebaseio.com
 s-usc1c-nss-268.firebaseio.com
+s-usc1c-nss-269.firebaseio.com
 s-usc1c-nss-301.firebaseio.com
 s-usc1c-nss-511.firebaseio.com
 s-usc1c-nss-512.firebaseio.com
@@ -2032,7 +2057,6 @@ diversity.google
 dl-ssl.google.com
 dlhaxa82xp.com
 dlut31p12z.com
-doubleclick.com
 dp1msx93o1.com
 dszj1hsjze.com
 dwfwrmuek2.com
@@ -2159,6 +2183,7 @@ gt1.google.com
 gv.com
 gvt1.com
 gvt2.com
+gvt3.com
 gvw6potuej.com
 gw.admob.com
 gweb-cloudblog-publish.appspot.com
@@ -2399,9 +2424,11 @@ pki.google
 pki.google.com
 pkn7e9us0y.com
 places.google.com
+play-fe.googleapis.com
 play.googleapis.com
 playatoms-pa.googleapis.com
 playbooks-pa.googleapis.com
+playgateway-pa.googleapis.com
 plus.l.google.com
 plus.sandbox.google.com
 plus.url.google.com
@@ -2705,6 +2732,7 @@ r3---sn-ci5gup-jj06.gvt1.com
 r3---sn-cn3tc-ac56.gvt1.com
 r3---sn-cxaaj5o5q5-tt16.gvt1.com
 r3---sn-gvhuxax-cc06.gvt1.com
+r3---sn-h0jeln7l.gvt.com
 r3---sn-ipoxu-un56.gvt1.com
 r3---sn-jtu5jt2g0n-aj56.gvt1.com
 r3---sn-ni57dn76.gvt1.com
@@ -2728,6 +2756,7 @@ r3.sn-4g57kn66.gvt1.com
 r3.sn-4g5e6n76.gvt1.com
 r3.sn-5n3-n1qe.gvt1.com
 r3.sn-aigl6n76.gvt1.com
+r3.sn-h0jeln7l.gvt.com
 r3.sn-hufvjvgx-coxe.gvt1.com
 r3.sn-npoe7n76.gvt1.com
 r3.sn-ntqe6n76.gvt1.com
@@ -2845,6 +2874,7 @@ r5---sn-cxaaj5o5q5-tt16.gvt1.com
 r5---sn-cxab5jvh-cg06.gvt1.com
 r5---sn-gvhuxax-cc06.gvt1.com
 r5---sn-gwpa-h556.gvt1.com
+r5---sn-h0jeen7d.gvt.com
 r5---sn-h5q7dn76.gvt1.com
 r5---sn-ipoxu-un56.gvt1.com
 r5---sn-ni57dn76.gvt1.com
@@ -2866,6 +2896,7 @@ r5---sn-vgqs7n76.gvt1.com
 r5.sn-4g57km76.gvt1.com
 r5.sn-8pxuuxa-8j56.gvt1.com
 r5.sn-aigl6n76.gvt1.com
+r5.sn-h0jeen7d.gvt.com
 r5.sn-npoe7n76.gvt1.com
 r5.sn-nx5e6n76.gvt1.com
 r5.sn-nx5s7n76.gvt1.com
@@ -4194,6 +4225,7 @@ voice.google.com
 wallet.google.com
 waze.com
 work.google.com
+www.assistant.google.com
 www.chrome.com
 www.chromium.org
 www.code.google.com
