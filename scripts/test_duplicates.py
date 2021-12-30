@@ -9,7 +9,6 @@ with open("../pihole-google.txt") as f:
             else:
                 counts[myhash] = 1 # new entry 
 f.close()
-
 #re-read file, and print out duplicate lines 
 with open("../pihole-google.txt") as f: 
     for line in f:
@@ -23,3 +22,6 @@ with open("../pihole-google.txt") as f:
                 counts[myhash] = 0
 
 f.close()
+
+def test_succes():
+    assert(True)
