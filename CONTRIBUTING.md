@@ -1,6 +1,6 @@
 ## Submitting a domain
 
-- Pull request will me made to our [develop branch](https://github.com/nickspaargaren/no-google/tree/develop)
+- Pull request will be made to our [develop branch](https://github.com/nickspaargaren/no-google/tree/develop)
 - Changes will be only be made in our main [pihole-google.txt](https://github.com/nickspaargaren/no-google/blob/master/pihole-google.txt) file. To submit a new domain, please check if it is not already present.
 - The file is divided in categories and each category is alphabetically sorted.
 - When changes are made to the main file, a script is run to automatically update the following files:
