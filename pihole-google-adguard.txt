@@ -1,5 +1,5 @@
 ! This blocklist helps Pi-hole's admin restrict access to Google and its domains.
-! Last updated: 29-12-2021
+! Last updated: 30-12-2021
 ! Analytics
 ||adgoogle.net^
 ||adsettings.google.com^
@@ -580,7 +580,7 @@
 ||pagead.googlesyndication.com^
 ||pagead1.googlesyndication.com^
 ||pagead2.googlesyndication.com^
-||pagead3.googlesyndication.com ^
+||pagead3.googlesyndication.com^
 ||pagead46.googlesyndication.com^
 ||redirector.c.googlesyndication.com^
 ||safeframe.googlesyndication.com^
