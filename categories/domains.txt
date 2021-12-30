@@ -3,6 +3,7 @@
 # Domains
 
 0.0.0.0 3ded44bd838404a6a3f3d7333aa65498.safeframe.googlesyndication.com
+0.0.0.0 96d80cafb2cc6ad351ea76aea0f55d37.safeframe.googlesyndication.com
 0.0.0.0 ade.googlesyndication.com
 0.0.0.0 buttons.googlesyndication.com
 0.0.0.0 c.googlesyndication.com
@@ -241,7 +242,6 @@
 0.0.0.0 goolge.com
 0.0.0.0 gooogle.com
 0.0.0.0 gstatic.org
-0.0.0.0 gvt3.com
 0.0.0.0 igoogle.com
 0.0.0.0 imasdk.googleapis.com
 0.0.0.0 pagead.googlesyndication.com

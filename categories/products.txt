@@ -118,6 +118,7 @@
 0.0.0.0 wallet.google.com
 0.0.0.0 waze.com
 0.0.0.0 work.google.com
+0.0.0.0 www.assistant.google.com
 0.0.0.0 www.chrome.com
 0.0.0.0 www.chromium.org
 0.0.0.0 www.code.google.com
