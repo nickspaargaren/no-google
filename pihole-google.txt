@@ -7694,3 +7694,6 @@ gcp.gvt1.com
 gcp.gvt2.com
 gvt1.com
 gvt2.com
+redirector.gvt1.com
+beacons.gvt2.com
+beacons3.gvt2.com
