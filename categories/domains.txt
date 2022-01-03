@@ -1,5 +1,5 @@
 # This blocklist helps Pi-hole's admin restrict access to Google and its domains.
-# Last updated: 30-12-2021
+# Last updated: 03-01-2022
 # Domains
 
 0.0.0.0 3ded44bd838404a6a3f3d7333aa65498.safeframe.googlesyndication.com

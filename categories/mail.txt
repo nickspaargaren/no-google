@@ -1,12 +1,11 @@
 # This blocklist helps Pi-hole's admin restrict access to Google and its domains.
-# Last updated: 30-12-2021
+# Last updated: 03-01-2022
 # Mail
 
 0.0.0.0 email-quarantine.google.com
 0.0.0.0 gmail-for-your-domain.info
 0.0.0.0 gmail-smtp-mas.1.google.com
 0.0.0.0 gmail.co
-0.0.0.0 gmail.com
 0.0.0.0 gmail.com
 0.0.0.0 gmail.de
 0.0.0.0 gmail.dk
