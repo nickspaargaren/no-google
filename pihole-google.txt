@@ -3323,7 +3323,6 @@ gmail-for-your-domain.info
 gmail-smtp-mas.1.google.com
 gmail.co
 gmail.com
-gmail.com
 gmail.de
 gmail.dk
 gmail.fr
