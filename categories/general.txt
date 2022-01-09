@@ -973,7 +973,6 @@
 0.0.0.0 localhost.com
 0.0.0.0 logging.google.com
 0.0.0.0 login.corp.google.com
-0.0.0.0 logsink.devices.nest.com
 0.0.0.0 lp.google.com
 0.0.0.0 ltaurvjh7w.com
 0.0.0.0 ltg7yixx40.com
@@ -1067,8 +1066,6 @@
 0.0.0.0 nec.google.com
 0.0.0.0 neighborly.google.com
 0.0.0.0 neighbourly.google.com
-0.0.0.0 nestapi.google.com
-0.0.0.0 nestservices.google.com
 0.0.0.0 network.admob.com
 0.0.0.0 news.url.google.com
 0.0.0.0 newsfeed.google.com
@@ -2158,7 +2155,6 @@
 0.0.0.0 winxtang.apis.google.com
 0.0.0.0 withgoogle.com
 0.0.0.0 workspace.google.com
-0.0.0.0 workswithnest.google.com
 0.0.0.0 wpgp9m68yu.com
 0.0.0.0 wq4bmoaedv.com
 0.0.0.0 writely.corp.google.com
