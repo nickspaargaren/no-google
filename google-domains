@@ -1731,9 +1731,12 @@
 0.0.0.0 _xmpp-server._tcp.google.com
 0.0.0.0 0.chart.apis.google.com
 0.0.0.0 0.client-channel.google.com
+0.0.0.0 007huangjiaduchangnvzhujiao.capitalg.com
 0.0.0.0 00hrf5vjtk.com
 0.0.0.0 01seifw7uv.com
 0.0.0.0 02.taskassist-pa.clients.google.com
+0.0.0.0 024.capitalg.com
+0.0.0.0 027.capitalg.com
 0.0.0.0 08jjhe3a9g.com
 0.0.0.0 098zvqavz8.com
 0.0.0.0 0a9v377tsx.com
@@ -3886,6 +3889,7 @@
 0.0.0.0 www.blog.google
 0.0.0.0 www.blogger.com
 0.0.0.0 www.botgart.docs.google.com
+0.0.0.0 www.capitalg.com
 0.0.0.0 www.chromeexperiments.com
 0.0.0.0 www.deepmind.com
 0.0.0.0 www.dialogflow.com
@@ -7313,3 +7317,4 @@
 0.0.0.0 www.wulfview.nest.com
 0.0.0.0 www.wwn-catalog-api.nest.com
 0.0.0.0 zipkin.ft.nest.com
+# End of file
