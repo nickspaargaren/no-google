@@ -159,7 +159,6 @@
 0.0.0.0 www2.doubleclick.net
 0.0.0.0 www3.doubleclick.net
 0.0.0.0 mediavisor.doubleclick.net
-0.0.0.0 m.doubleclick..net
 0.0.0.0 ssl.doubleclick.com
 0.0.0.0 5362399.fls.doubleclick.net
 0.0.0.0 dp.g.doubleclick.net
