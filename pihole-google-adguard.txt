@@ -2301,6 +2301,7 @@
 ||datastudio.google.com^
 ||db408yef6a.com^
 ||ddm.google.com^
+||de.advertisercommunity.com^
 ||deepmind.com^
 ||defloration.ns1.google.com^
 ||dep.admob.com^
@@ -2358,12 +2359,14 @@
 ||elqip64e59.com^
 ||em0n.com^
 ||emn0.com^
+||en.advertisercommunity.com^
 ||encrypted-tbn0.google.com^
 ||encrypted-tbn1.google.com^
 ||encrypted-tbn2.google.com^
 ||encrypted-tbn3.google.com^
 ||eqix-ch-100g.google.com^
 ||ert1d91zeq.com^
+||es.advertisercommunity.com^
 ||esc.google.com^
 ||esmxz14mvy.com^
 ||et7df5ynve.com^
@@ -2410,6 +2413,7 @@
 ||foto.google.com^
 ||fotos.google.com^
 ||fpik3ohegr.com^
+||fr.advertisercommunity.com^
 ||free-gbwhatsapp-2.br.docs.google.com^
 ||froogle.google.com^
 ||fsehahqwg1.com^
@@ -2558,6 +2562,7 @@
 ||i987a7njjf.com^
 ||iam.clients6.google.com^
 ||ichs2r2rk1.com^
+||id.advertisercommunity.com^
 ||id.google.ad^
 ||id.google.be^
 ||id.google.co.uk^
@@ -2592,8 +2597,10 @@
 ||ish.google.com^
 ||isp.google.com^
 ||issuetracker.google.com^
+||it.advertisercommunity.com^
 ||j.admob.com^
 ||j2zyd2pet8.com^
+||ja.advertisercommunity.com^
 ||jamboard.google.com^
 ||janghwa.apis.google.com^
 ||java-intellectual.google.com^
@@ -2869,6 +2876,7 @@
 ||pki.google^
 ||pki.google.com^
 ||pkn7e9us0y.com^
+||pl.advertisercommunity.com^
 ||places.google.com^
 ||play-fe.googleapis.com^
 ||play-next-dogfood.corp.google.com^
@@ -2906,6 +2914,7 @@
 ||proxy.googlezip.net^
 ||pss.support.google.com^
 ||pt.admob.com^
+||pt.advertisercommunity.com^
 ||pub-1931834348482995.afd.ghs.google.com^
 ||pub-2014100215488838.afd.ghs.google.com^
 ||pub-2023504095010217.afd.ghs.google.com^
@@ -3619,6 +3628,7 @@
 ||rsbkf27yrw.com^
 ||rtb.pixeltracking.co^
 ||ru.admob.com^
+||ru.advertisercommunity.com^
 ||rwg687yt0x.com^
 ||s.admob.com^
 ||s0.2mdn.net^
@@ -3704,6 +3714,7 @@
 ||ssl.googletagservices.com^
 ||stackdriver.cloud.google.com^
 ||stadia.google.com^
+||stage.advertisercommunity.com^
 ||static.2mdn.net^
 ||static.googleadsserving.cn^
 ||station.google.com^
@@ -3747,6 +3758,7 @@
 ||testmysite.withgoogle.com^
 ||tez.google.com^
 ||tezkyhazrq.com^
+||th.advertisercommunity.com^
 ||thinkwithgoogle.com^
 ||time.google.com^
 ||time1.google.com^
@@ -3823,6 +3835,7 @@
 ||v9ef0rd01x.com^
 ||v9ir8gv0rt.com^
 ||vhuqns1v5z.com^
+||vi.advertisercommunity.com^
 ||video-stats.video.google.com^
 ||vijxn1nygr.com^
 ||vip.sc9.admob.com^
@@ -3881,6 +3894,7 @@
 ||www-google.nl^
 ||www.admob.com^
 ||www.ads.google.com^
+||www.advertisercommunity.com^
 ||www.adwords.google.com^
 ||www.agoogleaday.com^
 ||www.ampproject.org^
@@ -3891,10 +3905,14 @@
 ||www.botgart.docs.google.com^
 ||www.capitalg.com^
 ||www.chromeexperiments.com^
+||www.de.advertisercommunity.com^
 ||www.deepmind.com^
 ||www.dialogflow.com^
 ||www.drive.google.com^
+||www.en.advertisercommunity.com^
+||www.es.advertisercommunity.com^
 ||www.flutter.io^
+||www.fr.advertisercommunity.com^
 ||www.froogle.google.com^
 ||www.getmdl.io^
 ||www.google-docs.org^
@@ -3903,7 +3921,11 @@
 ||www.googlew.com^
 ||www.googlezip.net^
 ||www.gv.com^
+||www.it.advertisercommunity.com^
+||www.ja.advertisercommunity.com^
 ||www.material.io^
+||www.pl.advertisercommunity.com^
+||www.pt.advertisercommunity.com^
 ||www.r1---sn-4g5e6n76.gvt1.com^
 ||www.r1---sn-aigl6n76.gvt1.com^
 ||www.r1---sn-npoe7n76.gvt1.com^
@@ -3934,9 +3956,11 @@
 ||www.r6---sn-aigl6n76.gvt1.com^
 ||www.r6---sn-npoe7n76.gvt1.com^
 ||www.recaptcha.net^
+||www.ru.advertisercommunity.com^
 ||www.sketchup.com^
 ||www.thinkwithgoogle.com^
 ||www.withgoogle.com^
+||www.zh.advertisercommunity.com^
 ||www1.google.com^
 ||www10.google.com^
 ||www1b.google.com^
@@ -3991,6 +4015,7 @@
 ||zacb8yflu8.com^
 ||zerothree.www.docs.google.com^
 ||zf7slz145d.com^
+||zh.advertisercommunity.com^
 ||zhcn.admob.com^
 ||zhru.admob.com^
 ||zhtw.admob.com^
