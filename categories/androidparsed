@@ -1,5 +1,5 @@
 # This blocklist helps Pi-hole's admin restrict access to Google and its domains.
-# Last updated: 03-01-2022
+# Last updated: 09-01-2022
 # Android
 
 1-market.android.com
@@ -23,7 +23,6 @@ clientmetrics-pa.googleapis.com
 clientservices.googleapis.com
 cloudconfig.googleapis.com
 connectivitycheck.android.com
-connectivitycheck.gstatic.com
 content-autofill.googleapis.com
 cryptauthdevicesync.googleapis.com
 cryptauthenrollment.googleapis.com
@@ -34,7 +33,6 @@ developer.android.com
 developers.android.com
 deviceintegritytokens-pa.googleapis.com
 digitalassetlinks.googleapis.com
-email.android.com
 firebaseremoteconfig.googleapis.com
 footprints-pa.googleapis.com
 geller-pa.googleapis.com
@@ -47,7 +45,6 @@ m.android.com
 market.android.com
 mdh-pa.googleapis.com
 messages.android.com
-mobile-gtalk.l.google.com
 mobilemaps-pa-gz.googleapis.com
 mobilemaps-pa.googleapis.com
 mobilemaps.googleapis.com
@@ -55,7 +52,6 @@ mobilenetworkscoring-pa.googleapis.com
 myphonenumbers-pa.googleapis.com
 nfc.android.com
 notifications-pa.googleapis.com
-pagead-googlehosted.l.google.com
 partner.android.com
 partner.source.android.com
 people-pa.googleapis.com
@@ -69,14 +65,12 @@ reminders-pa.googleapis.com
 review.source.android.com
 s.android.com
 safebrowsing.googleapis.com
-sb.l.google.com
 schemas.android.com
 securetoken.googleapis.com
 semanticlocation-pa.googleapis.com
 source.android.com
 speechs3proto2-pa.googleapis.com
 stats.blogger.com
-stun2.l.google.com
 supl.google.com
 time.android.com
 time1.android.com

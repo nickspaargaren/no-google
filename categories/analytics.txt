@@ -1,30 +1,24 @@
 # This blocklist helps Pi-hole's admin restrict access to Google and its domains.
-# Last updated: 03-01-2022
+# Last updated: 09-01-2022
 # Analytics
 
 0.0.0.0 adgoogle.net
 0.0.0.0 adsettings.google.com
 0.0.0.0 adssettings.google.com
-0.0.0.0 alt1.mobile-gtalk.l.google.com
-0.0.0.0 alt2.mobile-gtalk.l.google.com
-0.0.0.0 alt3.mobile-gtalk.l.google.com
-0.0.0.0 alt4.mobile-gtalk.l.google.com
-0.0.0.0 alt5.mobile-gtalk.l.google.com
-0.0.0.0 alt6.mobile-gtalk.l.google.com
-0.0.0.0 alt7.mobile-gtalk.l.google.com
-0.0.0.0 alt8.mobile-gtalk.l.google.com
+0.0.0.0 analytic-google.com
 0.0.0.0 android-safebrowsing.googleapis.com
 0.0.0.0 androidauto-pa.googleapis.com
+0.0.0.0 androidtvchannels-pa.googleapis.com
+0.0.0.0 androidtvwatsonfe-pa.googleapis.com
 0.0.0.0 api.crashlytics.com
 0.0.0.0 apis.googletagmanager.com
 0.0.0.0 autofill.googleapis.com
 0.0.0.0 chart.googleapis.com
 0.0.0.0 click.google-analytics.com
-0.0.0.0 clients.l.google.com
+0.0.0.0 cloudsearch.googleapis.com
 0.0.0.0 cm.crashlytics.com
+0.0.0.0 commondatastorage.googleapis.com
 0.0.0.0 crashlytics.com
-0.0.0.0 crashlytics.l.google.com
-0.0.0.0 crashlytics2.l.google.com
 0.0.0.0 crashlyticsreports-pa.googleapis.com
 0.0.0.0 cse.google.com
 0.0.0.0 csp.withgoogle.com
@@ -32,7 +26,12 @@
 0.0.0.0 discover-pa.googleapis.com
 0.0.0.0 dr-mobiweb.googleoptimize.com
 0.0.0.0 e.crashlytics.com
+0.0.0.0 fcm-xmpp.googleapis.com
+0.0.0.0 fcm.googleapis.com
+0.0.0.0 federatedml-pa.googleapis.com
 0.0.0.0 fundingchoicesmessages.google.com
+0.0.0.0 gcm-http.googleapis.com
+0.0.0.0 gcm-xmpp.googleapis.com
 0.0.0.0 ghs.google.com
 0.0.0.0 ghs.googlehosted.com
 0.0.0.0 gmbmobile-pa.googleapis.com
@@ -51,23 +50,25 @@
 0.0.0.0 htps.googletagmanager.com
 0.0.0.0 httpswww.googletagmanager.com
 0.0.0.0 kits.crashlytics.com
+0.0.0.0 newssuite-sony-net.storage.googleapis.com
 0.0.0.0 pagead2.googleadservices.com
 0.0.0.0 partner.googleadservices.com
 0.0.0.0 phonemasking-stage.googleoptimize.com
 0.0.0.0 photos-ugc.l.googleusercontent.com
+0.0.0.0 pki.googleapis.com
+0.0.0.0 public.commondatastorage.googleapis.com
 0.0.0.0 qs11.googletagmanager.com
 0.0.0.0 reports.crashlytics.com
+0.0.0.0 safe-browsing.googleapis.com
 0.0.0.0 sandbox.google-analytics.com
 0.0.0.0 script.google.com
 0.0.0.0 settings.crashlytics.com
-0.0.0.0 ssl-google-analytics.l.google.com
 0.0.0.0 ssl.google-analytics.com
 0.0.0.0 ssl.googleanalytics.com
 0.0.0.0 tagmanager.google.com
 0.0.0.0 test-web.googletagmanager.com
 0.0.0.0 themes.googleusercontent.com
 0.0.0.0 wp.googletagmanager.com
-0.0.0.0 www-googletagmanager.l.google.com
 0.0.0.0 www.adgoogle.net
 0.0.0.0 www.google-analytics.com
 0.0.0.0 www.googleanalytics.com
@@ -75,4 +76,3 @@
 0.0.0.0 www.googletagmanager.com
 0.0.0.0 www.googletagservices.com
 0.0.0.0 wwwctp.googletagmanager.com
-0.0.0.0 ytimg.l.google.com

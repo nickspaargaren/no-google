@@ -1,8 +1,12 @@
 # This blocklist helps Pi-hole's admin restrict access to Google and its domains.
-# Last updated: 03-01-2022
+# Last updated: 09-01-2022
 # Mail
 
+0.0.0.0 chatenabled.mail.google.com
 0.0.0.0 email-quarantine.google.com
+0.0.0.0 email.android.com
+0.0.0.0 email.google.com
+0.0.0.0 filetransferenabled.mail.google.com
 0.0.0.0 gmail-for-your-domain.info
 0.0.0.0 gmail-smtp-mas.1.google.com
 0.0.0.0 gmail.co
@@ -23,21 +27,29 @@
 0.0.0.0 gmailtechsupport.org
 0.0.0.0 googlemail.com
 0.0.0.0 imap.gmail.com
+0.0.0.0 isolated.mail.google.com
+0.0.0.0 m.gmail.com
+0.0.0.0 m.googlemail.com
 0.0.0.0 mail-ads.google.com
 0.0.0.0 mail-bk0-f41.google.com
 0.0.0.0 mail-bk0-f42.google.com
 0.0.0.0 mail-bk0-f51.google.com
 0.0.0.0 mail-ed1-f100.google.com
+0.0.0.0 mail-ed1-f41.google.com
 0.0.0.0 mail-ed1-f50.google.com
 0.0.0.0 mail-ed1-f51.google.com
 0.0.0.0 mail-ed1-f71.google.com
 0.0.0.0 mail-ed1-f72.google.com
+0.0.0.0 mail-ej1-f47.google.com
+0.0.0.0 mail-ej1-f49.google.com
+0.0.0.0 mail-ej1-f59.google.com
 0.0.0.0 mail-ie0-f172.google.com
 0.0.0.0 mail-ie0-f181.google.com
 0.0.0.0 mail-ig0-f172.google.com
 0.0.0.0 mail-ig0-f180.google.com
 0.0.0.0 mail-ig0-f182.google.com
 0.0.0.0 mail-ig0-f191.google.com
+0.0.0.0 mail-io0-f169.google.com
 0.0.0.0 mail-io0-f170.google.com
 0.0.0.0 mail-io0-f171.google.com
 0.0.0.0 mail-io0-f172.google.com
@@ -82,6 +94,8 @@
 0.0.0.0 mail-lf1-f51.google.com
 0.0.0.0 mail-lj1-f171.google.com
 0.0.0.0 mail-lj1-f172.google.com
+0.0.0.0 mail-lj1-f177.google.com
+0.0.0.0 mail-lj1-f178.google.com
 0.0.0.0 mail-lj1-f202.google.com
 0.0.0.0 mail-ob0-f171.google.com
 0.0.0.0 mail-ob0-f172.google.com
@@ -102,6 +116,7 @@
 0.0.0.0 mail-oi1-f180.google.com
 0.0.0.0 mail-oi1-f181.google.com
 0.0.0.0 mail-oi1-f200.google.com
+0.0.0.0 mail-oo1-f3.google.com
 0.0.0.0 mail-ot0-f171.google.com
 0.0.0.0 mail-ot0-f172.google.com
 0.0.0.0 mail-ot0-f180.google.com
@@ -112,12 +127,14 @@
 0.0.0.0 mail-ot1-f100.google.com
 0.0.0.0 mail-ot1-f41.google.com
 0.0.0.0 mail-ot1-f42.google.com
+0.0.0.0 mail-ot1-f48.google.com
 0.0.0.0 mail-ot1-f50.google.com
 0.0.0.0 mail-ot1-f51.google.com
 0.0.0.0 mail-ot1-f52.google.com
 0.0.0.0 mail-ot1-f62.google.com
 0.0.0.0 mail-ot1-f71.google.com
 0.0.0.0 mail-ot1-f72.google.com
+0.0.0.0 mail-ot1-f98.google.com
 0.0.0.0 mail-pa0-f1.google.com
 0.0.0.0 mail-pa0-f52.google.com
 0.0.0.0 mail-pa0-f72.google.com
@@ -147,7 +164,9 @@
 0.0.0.0 mail-pg1-f170.google.com
 0.0.0.0 mail-pg1-f200.google.com
 0.0.0.0 mail-pl0-f100.google.com
+0.0.0.0 mail-pl0-f14.google.com
 0.0.0.0 mail-pl0-f42.google.com
+0.0.0.0 mail-pl0-f48.google.com
 0.0.0.0 mail-pl0-f52.google.com
 0.0.0.0 mail-pl0-f62.google.com
 0.0.0.0 mail-pl0-f70.google.com
@@ -180,6 +199,7 @@
 0.0.0.0 mail-qk0-f201.google.com
 0.0.0.0 mail-qk1-f170.google.com
 0.0.0.0 mail-qk1-f172.google.com
+0.0.0.0 mail-qk1-f174.google.com
 0.0.0.0 mail-qk1-f180.google.com
 0.0.0.0 mail-qk1-f200.google.com
 0.0.0.0 mail-qt0-f170.google.com
@@ -195,10 +215,13 @@
 0.0.0.0 mail-qt0-x231.google.com
 0.0.0.0 mail-qt1-f171.google.com
 0.0.0.0 mail-qt1-f172.google.com
+0.0.0.0 mail-qt1-f176.google.com
 0.0.0.0 mail-qt1-f180.google.com
 0.0.0.0 mail-qt1-f181.google.com
 0.0.0.0 mail-qt1-f182.google.com
+0.0.0.0 mail-settings.google.com
 0.0.0.0 mail-sor-f100.google.com
+0.0.0.0 mail-sor-f20.google.com
 0.0.0.0 mail-sor-f41.google.com
 0.0.0.0 mail-ua0-f171.google.com
 0.0.0.0 mail-ua0-f180.google.com
@@ -215,6 +238,7 @@
 0.0.0.0 mail-vk0-f11.google.com
 0.0.0.0 mail-vk0-f41.google.com
 0.0.0.0 mail-vk0-f42.google.com
+0.0.0.0 mail-vk0-f47.google.com
 0.0.0.0 mail-vk0-f50.google.com
 0.0.0.0 mail-vk0-f51.google.com
 0.0.0.0 mail-vk0-f52.google.com
@@ -254,6 +278,7 @@
 0.0.0.0 mail-wm1-f50.google.com
 0.0.0.0 mail-wm1-f51.google.com
 0.0.0.0 mail-wm1-f52.google.com
+0.0.0.0 mail-wm1-f54.google.com
 0.0.0.0 mail-wm1-f71.google.com
 0.0.0.0 mail-wm1-f72.google.com
 0.0.0.0 mail-wr0-f170.google.com
@@ -271,6 +296,7 @@
 0.0.0.0 mail-wr1-f60.google.com
 0.0.0.0 mail-wr1-f70.google.com
 0.0.0.0 mail-wr1-f72.google.com
+0.0.0.0 mail-yb0-f144.google.com
 0.0.0.0 mail-yb0-f170.google.com
 0.0.0.0 mail-yb0-f171.google.com
 0.0.0.0 mail-yb0-f172.google.com
@@ -310,3 +336,11 @@
 0.0.0.0 mail-yw1-f72.google.com
 0.0.0.0 mail.google.com
 0.0.0.0 mail.googleoptimize.com
+0.0.0.0 r1---sn-i3b7knl6.c.mail.google.com
+0.0.0.0 r1.sn-cvh7knez.c.mail.google.com
+0.0.0.0 r2.sn-i3belnel.c.mail.google.com
+0.0.0.0 r4---sn-i3b7kn7d.c.mail.google.com
+0.0.0.0 r4---sn-n4v7sn7l.c.mail.google.com
+0.0.0.0 r5---sn-oguesnz7.c.mail.google.com
+0.0.0.0 r6---sn-i3b7kn7k.c.mail.google.com
+0.0.0.0 www.gmail.com
