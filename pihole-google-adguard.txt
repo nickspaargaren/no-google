@@ -3634,9 +3634,7 @@
 ||rwg687yt0x.com^
 ||s.admob.com^
 ||s0.2mdn.net^
-||s0.2mdn.net^
 ||s0qa.2mdn.net^
-||s1.2mdn.net^
 ||s1.2mdn.net^
 ||s2.2mdn.net^
 ||s2.googleusercontent.com^
