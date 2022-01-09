@@ -1,5 +1,5 @@
 # This blocklist helps Pi-hole's admin restrict access to Google and its domains.
-# Last updated: 03-01-2022
+# Last updated: 09-01-2022
 # Android
 
 0.0.0.0 1-market.android.com
@@ -23,7 +23,6 @@
 0.0.0.0 clientservices.googleapis.com
 0.0.0.0 cloudconfig.googleapis.com
 0.0.0.0 connectivitycheck.android.com
-0.0.0.0 connectivitycheck.gstatic.com
 0.0.0.0 content-autofill.googleapis.com
 0.0.0.0 cryptauthdevicesync.googleapis.com
 0.0.0.0 cryptauthenrollment.googleapis.com
@@ -34,7 +33,6 @@
 0.0.0.0 developers.android.com
 0.0.0.0 deviceintegritytokens-pa.googleapis.com
 0.0.0.0 digitalassetlinks.googleapis.com
-0.0.0.0 email.android.com
 0.0.0.0 firebaseremoteconfig.googleapis.com
 0.0.0.0 footprints-pa.googleapis.com
 0.0.0.0 geller-pa.googleapis.com
@@ -47,7 +45,6 @@
 0.0.0.0 market.android.com
 0.0.0.0 mdh-pa.googleapis.com
 0.0.0.0 messages.android.com
-0.0.0.0 mobile-gtalk.l.google.com
 0.0.0.0 mobilemaps-pa-gz.googleapis.com
 0.0.0.0 mobilemaps-pa.googleapis.com
 0.0.0.0 mobilemaps.googleapis.com
@@ -55,7 +52,6 @@
 0.0.0.0 myphonenumbers-pa.googleapis.com
 0.0.0.0 nfc.android.com
 0.0.0.0 notifications-pa.googleapis.com
-0.0.0.0 pagead-googlehosted.l.google.com
 0.0.0.0 partner.android.com
 0.0.0.0 partner.source.android.com
 0.0.0.0 people-pa.googleapis.com
@@ -69,14 +65,12 @@
 0.0.0.0 review.source.android.com
 0.0.0.0 s.android.com
 0.0.0.0 safebrowsing.googleapis.com
-0.0.0.0 sb.l.google.com
 0.0.0.0 schemas.android.com
 0.0.0.0 securetoken.googleapis.com
 0.0.0.0 semanticlocation-pa.googleapis.com
 0.0.0.0 source.android.com
 0.0.0.0 speechs3proto2-pa.googleapis.com
 0.0.0.0 stats.blogger.com
-0.0.0.0 stun2.l.google.com
 0.0.0.0 supl.google.com
 0.0.0.0 time.android.com
 0.0.0.0 time1.android.com

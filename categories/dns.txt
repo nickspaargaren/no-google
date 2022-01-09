@@ -1,5 +1,5 @@
 # This blocklist helps Pi-hole's admin restrict access to Google and its domains.
-# Last updated: 03-01-2022
+# Last updated: 09-01-2022
 # DNS
 
 0.0.0.0 014dcb18-dnsotls-ds.metric.gstatic.com
@@ -70,7 +70,39 @@
 0.0.0.0 a5e55fa0-dnsotls-ds.metric.gstatic.com
 0.0.0.0 a998bbef-dnsotls-ds.metric.gstatic.com
 0.0.0.0 ab687936-dnsotls-ds.metric.gstatic.com
+0.0.0.0 accounts.gstatic.com
 0.0.0.0 ad2afa9e-dnsotls-ds.metric.gstatic.com
+0.0.0.0 alt1.gstatic.com
+0.0.0.0 alt10.gstatic.com
+0.0.0.0 alt11.gstatic.com
+0.0.0.0 alt12.gstatic.com
+0.0.0.0 alt13.gstatic.com
+0.0.0.0 alt14.gstatic.com
+0.0.0.0 alt15.gstatic.com
+0.0.0.0 alt16.gstatic.com
+0.0.0.0 alt17.gstatic.com
+0.0.0.0 alt18.gstatic.com
+0.0.0.0 alt19.gstatic.com
+0.0.0.0 alt2.gstatic.com
+0.0.0.0 alt20.gstatic.com
+0.0.0.0 alt21.gstatic.com
+0.0.0.0 alt22.gstatic.com
+0.0.0.0 alt23.gstatic.com
+0.0.0.0 alt24.gstatic.com
+0.0.0.0 alt25.gstatic.com
+0.0.0.0 alt26.gstatic.com
+0.0.0.0 alt27.gstatic.com
+0.0.0.0 alt28.gstatic.com
+0.0.0.0 alt29.gstatic.com
+0.0.0.0 alt3.gstatic.com
+0.0.0.0 alt30.gstatic.com
+0.0.0.0 alt31.gstatic.com
+0.0.0.0 alt4.gstatic.com
+0.0.0.0 alt5.gstatic.com
+0.0.0.0 alt6.gstatic.com
+0.0.0.0 alt7.gstatic.com
+0.0.0.0 alt8.gstatic.com
+0.0.0.0 alt9.gstatic.com
 0.0.0.0 an08in-dnsotls-ds.metric.gstatic.com
 0.0.0.0 aqu1s7-dnsotls-ds.metric.gstatic.com
 0.0.0.0 auwi27-dnsotls-ds.metric.gstatic.com
@@ -90,7 +122,10 @@
 0.0.0.0 ca5ykn-dnsotls-ds.metric.gstatic.com
 0.0.0.0 cccqfh-dnsotls-ds.metric.gstatic.com
 0.0.0.0 cd3a924a-dnsotls-ds.metric.gstatic.com
+0.0.0.0 chromeos-ca.gstatic.com
 0.0.0.0 cnwqx0-dnsotls-ds.metric.gstatic.com
+0.0.0.0 connectivitycheck.gstatic.com
+0.0.0.0 csi.gstatic.com
 0.0.0.0 cxtuhu-dnsotls-ds.metric.gstatic.com
 0.0.0.0 d0f487d0-dnsotls-ds.metric.gstatic.com
 0.0.0.0 d10f46a2-dnsotls-ds.metric.gstatic.com
@@ -110,11 +145,17 @@
 0.0.0.0 efb6aea0-dnsotls-ds.metric.gstatic.com
 0.0.0.0 efmnh0-dnsotls-ds.metric.gstatic.com
 0.0.0.0 elxjwp-dnsotls-ds.metric.gstatic.com
+0.0.0.0 encrypted-tbn0.gstatic.com
+0.0.0.0 encrypted-tbn1.gstatic.com
+0.0.0.0 encrypted-tbn2.gstatic.com
+0.0.0.0 encrypted-tbn3.gstatic.com
 0.0.0.0 f1stuc-dnsotls-ds.metric.gstatic.com
 0.0.0.0 f643d84d-dnsotls-ds.metric.gstatic.com
 0.0.0.0 fkcb6i-dnsotls-ds.metric.gstatic.com
+0.0.0.0 fonts.gstatic.com
 0.0.0.0 fvluc8-dnsotls-ds.metric.gstatic.com
 0.0.0.0 fwnuy2-dnsotls-ds.metric.gstatic.com
+0.0.0.0 gstatic.com
 0.0.0.0 gz.gstatic.com
 0.0.0.0 hdfsex-dnsotls-ds.metric.gstatic.com
 0.0.0.0 hlsllf-dnsotls-ds.metric.gstatic.com
@@ -129,6 +170,8 @@
 0.0.0.0 kzkwqp-dnsotls-ds.metric.gstatic.com
 0.0.0.0 lud771-dnsotls-ds.metric.gstatic.com
 0.0.0.0 lvhpve-dnsotls-ds.metric.gstatic.com
+0.0.0.0 maps.gstatic.com
+0.0.0.0 metric.gstatic.com
 0.0.0.0 miudkh-dnsotls-ds.metric.gstatic.com
 0.0.0.0 mwmeoo-dnsotls-ds.metric.gstatic.com
 0.0.0.0 ok6cmj-dnsotls-ds.metric.gstatic.com
@@ -153,6 +196,7 @@
 0.0.0.0 s8pfmr-dnsotls-ds.metric.gstatic.com
 0.0.0.0 sb3opj-dnsotls-ds.metric.gstatic.com
 0.0.0.0 slaorh-dnsotls-ds.metric.gstatic.com
+0.0.0.0 ssl.gstatic.com
 0.0.0.0 subsqs-dnsotls-ds.metric.gstatic.com
 0.0.0.0 t83uxv-dnsotls-ds.metric.gstatic.com
 0.0.0.0 ttq8oa-dnsotls-ds.metric.gstatic.com
@@ -163,6 +207,7 @@
 0.0.0.0 vxvimy-dnsotls-ds.metric.gstatic.com
 0.0.0.0 wk3ucl-dnsotls-ds.metric.gstatic.com
 0.0.0.0 wshjsm-dnsotls-ds.metric.gstatic.com
+0.0.0.0 www.gstatic.com
 0.0.0.0 xcebnc-dnsotls-ds.metric.gstatic.com
 0.0.0.0 xcrl0u-dnsotls-ds.metric.gstatic.com
 0.0.0.0 xrfn-dnsotls-ds.metric.gstatic.com

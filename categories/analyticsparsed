@@ -1,30 +1,24 @@
 # This blocklist helps Pi-hole's admin restrict access to Google and its domains.
-# Last updated: 03-01-2022
+# Last updated: 09-01-2022
 # Analytics
 
 adgoogle.net
 adsettings.google.com
 adssettings.google.com
-alt1.mobile-gtalk.l.google.com
-alt2.mobile-gtalk.l.google.com
-alt3.mobile-gtalk.l.google.com
-alt4.mobile-gtalk.l.google.com
-alt5.mobile-gtalk.l.google.com
-alt6.mobile-gtalk.l.google.com
-alt7.mobile-gtalk.l.google.com
-alt8.mobile-gtalk.l.google.com
+analytic-google.com
 android-safebrowsing.googleapis.com
 androidauto-pa.googleapis.com
+androidtvchannels-pa.googleapis.com
+androidtvwatsonfe-pa.googleapis.com
 api.crashlytics.com
 apis.googletagmanager.com
 autofill.googleapis.com
 chart.googleapis.com
 click.google-analytics.com
-clients.l.google.com
+cloudsearch.googleapis.com
 cm.crashlytics.com
+commondatastorage.googleapis.com
 crashlytics.com
-crashlytics.l.google.com
-crashlytics2.l.google.com
 crashlyticsreports-pa.googleapis.com
 cse.google.com
 csp.withgoogle.com
@@ -32,7 +26,12 @@ dataprep.googleapis.com
 discover-pa.googleapis.com
 dr-mobiweb.googleoptimize.com
 e.crashlytics.com
+fcm-xmpp.googleapis.com
+fcm.googleapis.com
+federatedml-pa.googleapis.com
 fundingchoicesmessages.google.com
+gcm-http.googleapis.com
+gcm-xmpp.googleapis.com
 ghs.google.com
 ghs.googlehosted.com
 gmbmobile-pa.googleapis.com
@@ -51,23 +50,25 @@ googletagservices.com
 htps.googletagmanager.com
 httpswww.googletagmanager.com
 kits.crashlytics.com
+newssuite-sony-net.storage.googleapis.com
 pagead2.googleadservices.com
 partner.googleadservices.com
 phonemasking-stage.googleoptimize.com
 photos-ugc.l.googleusercontent.com
+pki.googleapis.com
+public.commondatastorage.googleapis.com
 qs11.googletagmanager.com
 reports.crashlytics.com
+safe-browsing.googleapis.com
 sandbox.google-analytics.com
 script.google.com
 settings.crashlytics.com
-ssl-google-analytics.l.google.com
 ssl.google-analytics.com
 ssl.googleanalytics.com
 tagmanager.google.com
 test-web.googletagmanager.com
 themes.googleusercontent.com
 wp.googletagmanager.com
-www-googletagmanager.l.google.com
 www.adgoogle.net
 www.google-analytics.com
 www.googleanalytics.com
@@ -75,4 +76,3 @@ www.googleoptimize.com
 www.googletagmanager.com
 www.googletagservices.com
 wwwctp.googletagmanager.com
-ytimg.l.google.com
