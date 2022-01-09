@@ -2301,6 +2301,7 @@
 0.0.0.0 datastudio.google.com
 0.0.0.0 db408yef6a.com
 0.0.0.0 ddm.google.com
+0.0.0.0 de.advertisercommunity.com
 0.0.0.0 deepmind.com
 0.0.0.0 defloration.ns1.google.com
 0.0.0.0 dep.admob.com
@@ -2358,12 +2359,14 @@
 0.0.0.0 elqip64e59.com
 0.0.0.0 em0n.com
 0.0.0.0 emn0.com
+0.0.0.0 en.advertisercommunity.com
 0.0.0.0 encrypted-tbn0.google.com
 0.0.0.0 encrypted-tbn1.google.com
 0.0.0.0 encrypted-tbn2.google.com
 0.0.0.0 encrypted-tbn3.google.com
 0.0.0.0 eqix-ch-100g.google.com
 0.0.0.0 ert1d91zeq.com
+0.0.0.0 es.advertisercommunity.com
 0.0.0.0 esc.google.com
 0.0.0.0 esmxz14mvy.com
 0.0.0.0 et7df5ynve.com
@@ -2410,6 +2413,7 @@
 0.0.0.0 foto.google.com
 0.0.0.0 fotos.google.com
 0.0.0.0 fpik3ohegr.com
+0.0.0.0 fr.advertisercommunity.com
 0.0.0.0 free-gbwhatsapp-2.br.docs.google.com
 0.0.0.0 froogle.google.com
 0.0.0.0 fsehahqwg1.com
@@ -2558,6 +2562,7 @@
 0.0.0.0 i987a7njjf.com
 0.0.0.0 iam.clients6.google.com
 0.0.0.0 ichs2r2rk1.com
+0.0.0.0 id.advertisercommunity.com
 0.0.0.0 id.google.ad
 0.0.0.0 id.google.be
 0.0.0.0 id.google.co.uk
@@ -2592,8 +2597,10 @@
 0.0.0.0 ish.google.com
 0.0.0.0 isp.google.com
 0.0.0.0 issuetracker.google.com
+0.0.0.0 it.advertisercommunity.com
 0.0.0.0 j.admob.com
 0.0.0.0 j2zyd2pet8.com
+0.0.0.0 ja.advertisercommunity.com
 0.0.0.0 jamboard.google.com
 0.0.0.0 janghwa.apis.google.com
 0.0.0.0 java-intellectual.google.com
@@ -2869,6 +2876,7 @@
 0.0.0.0 pki.google
 0.0.0.0 pki.google.com
 0.0.0.0 pkn7e9us0y.com
+0.0.0.0 pl.advertisercommunity.com
 0.0.0.0 places.google.com
 0.0.0.0 play-fe.googleapis.com
 0.0.0.0 play-next-dogfood.corp.google.com
@@ -2906,6 +2914,7 @@
 0.0.0.0 proxy.googlezip.net
 0.0.0.0 pss.support.google.com
 0.0.0.0 pt.admob.com
+0.0.0.0 pt.advertisercommunity.com
 0.0.0.0 pub-1931834348482995.afd.ghs.google.com
 0.0.0.0 pub-2014100215488838.afd.ghs.google.com
 0.0.0.0 pub-2023504095010217.afd.ghs.google.com
@@ -3619,6 +3628,7 @@
 0.0.0.0 rsbkf27yrw.com
 0.0.0.0 rtb.pixeltracking.co
 0.0.0.0 ru.admob.com
+0.0.0.0 ru.advertisercommunity.com
 0.0.0.0 rwg687yt0x.com
 0.0.0.0 s.admob.com
 0.0.0.0 s0.2mdn.net
@@ -3704,6 +3714,7 @@
 0.0.0.0 ssl.googletagservices.com
 0.0.0.0 stackdriver.cloud.google.com
 0.0.0.0 stadia.google.com
+0.0.0.0 stage.advertisercommunity.com
 0.0.0.0 static.2mdn.net
 0.0.0.0 static.googleadsserving.cn
 0.0.0.0 station.google.com
@@ -3747,6 +3758,7 @@
 0.0.0.0 testmysite.withgoogle.com
 0.0.0.0 tez.google.com
 0.0.0.0 tezkyhazrq.com
+0.0.0.0 th.advertisercommunity.com
 0.0.0.0 thinkwithgoogle.com
 0.0.0.0 time.google.com
 0.0.0.0 time1.google.com
@@ -3823,6 +3835,7 @@
 0.0.0.0 v9ef0rd01x.com
 0.0.0.0 v9ir8gv0rt.com
 0.0.0.0 vhuqns1v5z.com
+0.0.0.0 vi.advertisercommunity.com
 0.0.0.0 video-stats.video.google.com
 0.0.0.0 vijxn1nygr.com
 0.0.0.0 vip.sc9.admob.com
@@ -3881,6 +3894,7 @@
 0.0.0.0 www-google.nl
 0.0.0.0 www.admob.com
 0.0.0.0 www.ads.google.com
+0.0.0.0 www.advertisercommunity.com
 0.0.0.0 www.adwords.google.com
 0.0.0.0 www.agoogleaday.com
 0.0.0.0 www.ampproject.org
@@ -3891,10 +3905,14 @@
 0.0.0.0 www.botgart.docs.google.com
 0.0.0.0 www.capitalg.com
 0.0.0.0 www.chromeexperiments.com
+0.0.0.0 www.de.advertisercommunity.com
 0.0.0.0 www.deepmind.com
 0.0.0.0 www.dialogflow.com
 0.0.0.0 www.drive.google.com
+0.0.0.0 www.en.advertisercommunity.com
+0.0.0.0 www.es.advertisercommunity.com
 0.0.0.0 www.flutter.io
+0.0.0.0 www.fr.advertisercommunity.com
 0.0.0.0 www.froogle.google.com
 0.0.0.0 www.getmdl.io
 0.0.0.0 www.google-docs.org
@@ -3903,7 +3921,11 @@
 0.0.0.0 www.googlew.com
 0.0.0.0 www.googlezip.net
 0.0.0.0 www.gv.com
+0.0.0.0 www.it.advertisercommunity.com
+0.0.0.0 www.ja.advertisercommunity.com
 0.0.0.0 www.material.io
+0.0.0.0 www.pl.advertisercommunity.com
+0.0.0.0 www.pt.advertisercommunity.com
 0.0.0.0 www.r1---sn-4g5e6n76.gvt1.com
 0.0.0.0 www.r1---sn-aigl6n76.gvt1.com
 0.0.0.0 www.r1---sn-npoe7n76.gvt1.com
@@ -3934,9 +3956,11 @@
 0.0.0.0 www.r6---sn-aigl6n76.gvt1.com
 0.0.0.0 www.r6---sn-npoe7n76.gvt1.com
 0.0.0.0 www.recaptcha.net
+0.0.0.0 www.ru.advertisercommunity.com
 0.0.0.0 www.sketchup.com
 0.0.0.0 www.thinkwithgoogle.com
 0.0.0.0 www.withgoogle.com
+0.0.0.0 www.zh.advertisercommunity.com
 0.0.0.0 www1.google.com
 0.0.0.0 www10.google.com
 0.0.0.0 www1b.google.com
@@ -3991,6 +4015,7 @@
 0.0.0.0 zacb8yflu8.com
 0.0.0.0 zerothree.www.docs.google.com
 0.0.0.0 zf7slz145d.com
+0.0.0.0 zh.advertisercommunity.com
 0.0.0.0 zhcn.admob.com
 0.0.0.0 zhru.admob.com
 0.0.0.0 zhtw.admob.com
