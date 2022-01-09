@@ -437,6 +437,7 @@
 0.0.0.0 by.svc-1.google.com
 0.0.0.0 bylda126kb.com
 0.0.0.0 byvkqw3se6.com
+0.0.0.0 c.2mdn.net
 0.0.0.0 c.admob.com
 0.0.0.0 c1.vip.sc9.admob.com
 0.0.0.0 c4l1sj5he7.com
@@ -729,6 +730,7 @@
 0.0.0.0 games.google.com
 0.0.0.0 ganpati.corp.google.com
 0.0.0.0 gcdn.2mdn.net
+0.0.0.0 gcdn2.2mdn.net
 0.0.0.0 gce-beacons.gcp.gvt2.com
 0.0.0.0 gce-us-central1-c.gcp.gvt2.com
 0.0.0.0 gce-us-east1-b.gcp.gvt2.com
@@ -992,6 +994,7 @@
 0.0.0.0 m.2mdn.net
 0.0.0.0 m.admob.com
 0.0.0.0 m.google.com
+0.0.0.0 m1.2mdn.net
 0.0.0.0 m1147ueer1.com
 0.0.0.0 m38qrg2j38.com
 0.0.0.0 m3ca48jb4k.com
@@ -1918,7 +1921,11 @@
 0.0.0.0 rwg687yt0x.com
 0.0.0.0 s.admob.com
 0.0.0.0 s0.2mdn.net
+0.0.0.0 s0.2mdn.net
+0.0.0.0 s0qa.2mdn.net
 0.0.0.0 s1.2mdn.net
+0.0.0.0 s1.2mdn.net
+0.0.0.0 s2.2mdn.net
 0.0.0.0 s2.googleusercontent.com
 0.0.0.0 s43bwoifym.com
 0.0.0.0 s6emz1rhpr.com
