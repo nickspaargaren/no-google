@@ -1729,9 +1729,12 @@ _xmpp-client._tcp.google.com
 _xmpp-server._tcp.google.com
 0.chart.apis.google.com
 0.client-channel.google.com
+007huangjiaduchangnvzhujiao.capitalg.com
 00hrf5vjtk.com
 01seifw7uv.com
 02.taskassist-pa.clients.google.com
+024.capitalg.com
+027.capitalg.com
 08jjhe3a9g.com
 098zvqavz8.com
 0a9v377tsx.com
@@ -3884,6 +3887,7 @@ www.autodraw.com
 www.blog.google
 www.blogger.com
 www.botgart.docs.google.com
+www.capitalg.com
 www.chromeexperiments.com
 www.deepmind.com
 www.dialogflow.com
