@@ -23,7 +23,7 @@ jobs:
       run: |
         git config --global user.name 'Nick Spaargaren'
         git config --global user.email 'nickspaargaren@users.noreply.github.com'
-        git commit -am "Automated categories update"
+        git add . && git commit -am "Automated categories update"
         git push
     - name: Update AdGuard list
       run: |
@@ -31,7 +31,7 @@ jobs:
         python adguard.py
     - name: Commit AdGuard list
       run: |
-        git commit -am "Automated AdGuard list update"
+        git add . && git commit -am "Automated AdGuard list update"
         git push
     - name: Update parsed list
       run: |
@@ -39,5 +39,5 @@ jobs:
         python parsed.py
     - name: Commit parsed list
       run: |
-        git commit -am "Automated parsed list update"
+        git add . && git commit -am "Automated parsed list update"
         git push
