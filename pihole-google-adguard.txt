@@ -2151,6 +2151,7 @@
 ||by.svc-1.google.com^
 ||bylda126kb.com^
 ||byvkqw3se6.com^
+||c.2mdn.net^
 ||c.admob.com^
 ||c1.vip.sc9.admob.com^
 ||c4l1sj5he7.com^
@@ -2443,6 +2444,7 @@
 ||games.google.com^
 ||ganpati.corp.google.com^
 ||gcdn.2mdn.net^
+||gcdn2.2mdn.net^
 ||gce-beacons.gcp.gvt2.com^
 ||gce-us-central1-c.gcp.gvt2.com^
 ||gce-us-east1-b.gcp.gvt2.com^
@@ -2706,6 +2708,7 @@
 ||m.2mdn.net^
 ||m.admob.com^
 ||m.google.com^
+||m1.2mdn.net^
 ||m1147ueer1.com^
 ||m38qrg2j38.com^
 ||m3ca48jb4k.com^
@@ -3632,7 +3635,11 @@
 ||rwg687yt0x.com^
 ||s.admob.com^
 ||s0.2mdn.net^
+||s0.2mdn.net^
+||s0qa.2mdn.net^
 ||s1.2mdn.net^
+||s1.2mdn.net^
+||s2.2mdn.net^
 ||s2.googleusercontent.com^
 ||s43bwoifym.com^
 ||s6emz1rhpr.com^
