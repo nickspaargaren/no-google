@@ -55,6 +55,14 @@ curl -sSl https://raw.githubusercontent.com/nickspaargaren/no-google/master/inst
 ```
 and then, executing it. It should add all of the above regex automatically.
 
+### Important regex filters not included in blocklist
+>.*['^.']l.google.com$
+
+<sup>For example tygbrbooefk4.cache.l.google.com</sup>
+
+>.*['^.']googlevideo.com$
+
+<sup>For example r14---sn-vgqs7ned.googlevideo.com</sup>
 
 ## FAQ
 
