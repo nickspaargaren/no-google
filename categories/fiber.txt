@@ -1,5 +1,5 @@
 # This blocklist helps Pi-hole's admin restrict access to Google and its domains.
-# Last updated: 09-01-2022
+# Last updated: 10-01-2022
 # Fiber
 
 0.0.0.0 atlanta.speed.googlefiber.net

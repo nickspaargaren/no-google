@@ -1,5 +1,5 @@
 # This blocklist helps Pi-hole's admin restrict access to Google and its domains.
-# Last updated: 09-01-2022
+# Last updated: 10-01-2022
 # General
 
 0.0.0.0 _caldav._tcp.google.com
@@ -481,6 +481,7 @@
 0.0.0.0 chromeexperiments.com
 0.0.0.0 chromefeedcontentsuggestions-pa.googleapis.com
 0.0.0.0 chromegw.corp.google.com
+0.0.0.0 chromestatus.com
 0.0.0.0 chromium.git.corp.google.com
 0.0.0.0 chromium.org
 0.0.0.0 ci3.googleusercontent.com
@@ -2196,6 +2197,7 @@
 0.0.0.0 www.botgart.docs.google.com
 0.0.0.0 www.capitalg.com
 0.0.0.0 www.chromeexperiments.com
+0.0.0.0 www.chromestatus.com
 0.0.0.0 www.de.advertisercommunity.com
 0.0.0.0 www.deepmind.com
 0.0.0.0 www.dialogflow.com
