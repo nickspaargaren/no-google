@@ -2192,6 +2192,7 @@ chromedriver.chromium.org
 chromeexperiments.com
 chromefeedcontentsuggestions-pa.googleapis.com
 chromegw.corp.google.com
+chromestatus.com
 chromium.git.corp.google.com
 chromium.org
 ci3.googleusercontent.com
@@ -3907,6 +3908,7 @@ www.blogger.com
 www.botgart.docs.google.com
 www.capitalg.com
 www.chromeexperiments.com
+www.chromestatus.com
 www.de.advertisercommunity.com
 www.deepmind.com
 www.dialogflow.com
