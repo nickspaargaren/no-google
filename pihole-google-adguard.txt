@@ -1,5 +1,5 @@
 ! This blocklist helps Pi-hole's admin restrict access to Google and its domains.
-! Last updated: 09-01-2022
+! Last updated: 10-01-2022
 ! Analytics
 ||adgoogle.net^
 ||adsettings.google.com^
@@ -2194,6 +2194,7 @@
 ||chromeexperiments.com^
 ||chromefeedcontentsuggestions-pa.googleapis.com^
 ||chromegw.corp.google.com^
+||chromestatus.com^
 ||chromium.git.corp.google.com^
 ||chromium.org^
 ||ci3.googleusercontent.com^
@@ -3909,6 +3910,7 @@
 ||www.botgart.docs.google.com^
 ||www.capitalg.com^
 ||www.chromeexperiments.com^
+||www.chromestatus.com^
 ||www.de.advertisercommunity.com^
 ||www.deepmind.com^
 ||www.dialogflow.com^
