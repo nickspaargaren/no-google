@@ -1,5 +1,5 @@
-# This blocklist helps Pi-hole's admin restrict access to Google and its domains.
-# Last updated: 10-01-2022
+# This blocklist helps to restrict access to Google and its domains. Contribute at https://github.com/nickspaargaren/no-google
+# Last updated: 2022-01-11
 # Analytics
 0.0.0.0 adgoogle.net
 0.0.0.0 adsettings.google.com
@@ -7352,4 +7352,3 @@
 0.0.0.0 www.wulfview.nest.com
 0.0.0.0 www.wwn-catalog-api.nest.com
 0.0.0.0 zipkin.ft.nest.com
-# End of file
