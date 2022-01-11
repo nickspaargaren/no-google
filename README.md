@@ -88,6 +88,42 @@ Note that the main filter is being worked here, so, updates and modifications on
 Otherwise, if you do prefer to use Gitlab, feel free to use it, and even contribute to our list there instead!</p>
 </details>
 
+## The converter program
+
+### Data conversion
+The program `convert.py` will read `pihole-google.txt` as input file and convert its
+content into different output formats. It can be invoked like
+```shell
+python3 convert.py pihole
+```
+
+In order to produce all different output formats, run
+```shell
+python3 convert.py all
+```
+
+### JSON output
+It also can output the data in JSON format:
+```shell
+python3 convert.py json
+```
+
+With this output, and the `jq` program, the data can be filtered and manipulated easily.
+In the following section, you can find corresponding examples.
+
+```shell
+# Produce list of all category names
+python3 convert.py json | jq -r 'keys | .[]'
+
+# Produce list of domains for the `Doubleclick` category only
+python3 convert.py json | jq -r '.Doubleclick | .[]'
+
+# Produce list of domains for the `Analytics` and `Doubleclick` categories
+python3 convert.py json | jq -r '(.Analytics,.Doubleclick) | .[]'
+```
+
+
+
 ## Can I block the other letters of GAFAM ?
 Of course, here’s some filterlists that should help you accomplish that.
 
