@@ -17,8 +17,7 @@ jobs:
         python-version: 3.8
     - name: Update categories
       run: |
-        cd scripts
-        python categories.py
+        python3 convert.py categories
     - name: Commit categories
       run: |
         git config --global user.name 'Nick Spaargaren'
@@ -27,16 +26,14 @@ jobs:
         git push
     - name: Update AdGuard list
       run: |
-        cd scripts
-        python adguard.py
+        python3 convert.py adguard
     - name: Commit AdGuard list
       run: |
         git add . && git commit -am "Automated AdGuard list update"
         git push
     - name: Update parsed list
       run: |
-        cd scripts
-        python parsed.py
+        python3 convert.py pihole
     - name: Commit parsed list
       run: |
         git add . && git commit -am "Automated parsed list update"
