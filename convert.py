@@ -17,7 +17,7 @@ class DomainBlocklistConverter:
 
     def __init__(self):
         self.data: Dict[List] = OrderedDict()
-        self.timestamp: str = date.today().strftime("%d-%m-%Y")
+        self.timestamp: str = date.today().strftime("%Y-%m-%d")
 
     def read(self):
         """
