@@ -38,3 +38,10 @@ jobs:
       run: |
         git add . && git commit -am "Automated parsed list update"
         git push
+    - name: Update Unbound list
+      run: |
+        python3 convert.py unbound
+    - name: Commit parsed list
+      run: |
+        git add . && git commit -am "Automated Unbound list update"
+        git push
