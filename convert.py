@@ -10,7 +10,7 @@ class DomainBlocklistConverter:
 
     INPUT_FILE = "pihole-google.txt"
     PIHOLE_FILE = "google-domains"
-    UNBOUND_FILE = "unbound-blocklist-google.conf"
+    UNBOUND_FILE = "pihole-google-unbound.conf"
     ADGUARD_FILE = "pihole-google-adguard.txt"
     CATEGORIES_PATH = "categories"
 
