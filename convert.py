@@ -10,6 +10,7 @@ class DomainBlocklistConverter:
 
     INPUT_FILE = "pihole-google.txt"
     PIHOLE_FILE = "google-domains"
+    UNBOUND_FILE = "unbound-blocklist-google.conf"
     ADGUARD_FILE = "pihole-google-adguard.txt"
     CATEGORIES_PATH = "categories"
 
@@ -52,6 +53,20 @@ class DomainBlocklistConverter:
                 f.write(f"# {category}\n")
                 for entry in entries:
                     f.write(f"0.0.0.0 {entry}\n")
+
+    def unbound(self):
+        """
+        Produce blocklist for the Unbound DNS server.
+
+        https://github.com/nickspaargaren/no-google/issues/67
+        """
+        with open(self.UNBOUND_FILE, "w") as f:
+            f.write(f"# {self.BLOCKLIST_ABOUT}\n")
+            f.write(f"# Last updated: {self.timestamp}\n")
+            for category, entries in self.data.items():
+                f.write(f"\n# Category: {category}\n")
+                for entry in entries:
+                    f.write(f'local-zone: "{entry}" always_refuse\n')
 
     def adguard(self):
         """
@@ -144,7 +159,7 @@ def run(action: str):
 if __name__ == "__main__":
 
     # Read subcommand from command line, with error handling.
-    action_candidates = ["pihole", "adguard", "categories"]
+    action_candidates = ["pihole", "unbound", "adguard", "categories"]
     special_candidates = ["all", "duplicates", "json"]
     subcommand = None
     try:
