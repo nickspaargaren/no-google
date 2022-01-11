@@ -86,10 +86,10 @@ Otherwise, if you do prefer to use Gitlab, feel free to use it, and even contrib
 The program `convert.py` will read `pihole-google.txt` as input file and convert its
 content into different output formats. It can be invoked like
 ```shell
-python3 convert.py adguard
+python3 convert.py pihole
 ```
 
-In order to produce all output formats, run
+In order to produce all different output formats, run
 ```shell
 python3 convert.py all
 ```

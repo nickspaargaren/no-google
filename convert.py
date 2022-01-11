@@ -6,10 +6,10 @@ from pathlib import Path
 from typing import Dict, List
 
 
-class PiHoleDomainConverter:
+class DomainBlocklistConverter:
 
     INPUT_FILE = "pihole-google.txt"
-    PARSED_FILE = "google-domains"
+    PIHOLE_FILE = "google-domains"
     ADGUARD_FILE = "pihole-google-adguard.txt"
     CATEGORIES_PATH = "categories"
 
@@ -41,11 +41,11 @@ class PiHoleDomainConverter:
         """
         print(json.dumps(self.data, indent=4))
 
-    def parsed(self):
+    def pihole(self):
         """
-        Write data to unified text file.
+        Produce blocklist for Pi-hole.
         """
-        with open(self.PARSED_FILE, "w") as f:
+        with open(self.PIHOLE_FILE, "w") as f:
             f.write(f"# {self.FILE_HEADER}\n")
             f.write(f"# Last updated: {self.timestamp}\n")
             for category, entries in self.data.items():
@@ -55,7 +55,7 @@ class PiHoleDomainConverter:
 
     def adguard(self):
         """
-        Write data in "adguard" format.
+        Produce blocklist for AdGuard.
         """
         with open(self.ADGUARD_FILE, "w") as f:
             f.write(f"! {self.FILE_HEADER}\n")
@@ -67,7 +67,7 @@ class PiHoleDomainConverter:
 
     def categories(self):
         """
-        Write data to individual per-category files.
+        Produce individual per-category blocklist files.
         """
 
         def write_file(path, category, entries, line_prefix=""):
@@ -95,6 +95,9 @@ class PiHoleDomainConverter:
             write_file(parsed_file, category, entries)
 
     def duplicates(self):
+        """
+        Find duplicates in main source file.
+        """
         hashes = defaultdict(int)
         for category, entries in self.data.items():
             for entry in entries:
@@ -111,10 +114,13 @@ class PiHoleDomainConverter:
                         hashes[hashvalue] = 0
 
 
-def run(action):
+def run(action: str):
+    """
+    Invoke different actions on converter engine.
+    """
 
     # Create converter instance and read input file.
-    converter = PiHoleDomainConverter()
+    converter = DomainBlocklistConverter()
     converter.read()
 
     # Invoke special action "json".
@@ -138,8 +144,8 @@ def run(action):
 if __name__ == "__main__":
 
     # Read subcommand from command line, with error handling.
-    action_candidates = ["parsed", "adguard", "categories", "duplicates"]
-    special_candidates = ["all", "json"]
+    action_candidates = ["pihole", "adguard", "categories"]
+    special_candidates = ["all", "duplicates", "json"]
     subcommand = None
     try:
         subcommand = sys.argv[1]
