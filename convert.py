@@ -13,7 +13,7 @@ class DomainBlocklistConverter:
     ADGUARD_FILE = "pihole-google-adguard.txt"
     CATEGORIES_PATH = "categories"
 
-    FILE_HEADER = "This blocklist helps Pi-hole's admin restrict access to Google and its domains."
+    BLOCKLIST_ABOUT = "This blocklist helps to restrict access to Google and its domains. Contribute at https://github.com/nickspaargaren/no-google"
 
     def __init__(self):
         self.data: Dict[List] = OrderedDict()
@@ -43,10 +43,10 @@ class DomainBlocklistConverter:
 
     def pihole(self):
         """
-        Produce blocklist for Pi-hole.
+        Produce blocklist for the Pi-hole.
         """
         with open(self.PIHOLE_FILE, "w") as f:
-            f.write(f"# {self.FILE_HEADER}\n")
+            f.write(f"# {self.BLOCKLIST_ABOUT}\n")
             f.write(f"# Last updated: {self.timestamp}\n")
             for category, entries in self.data.items():
                 f.write(f"# {category}\n")
@@ -58,7 +58,7 @@ class DomainBlocklistConverter:
         Produce blocklist for AdGuard.
         """
         with open(self.ADGUARD_FILE, "w") as f:
-            f.write(f"! {self.FILE_HEADER}\n")
+            f.write(f"! {self.BLOCKLIST_ABOUT}\n")
             f.write(f"! Last updated: {self.timestamp}\n")
             for category, entries in self.data.items():
                 f.write(f"! {category}\n")
@@ -75,7 +75,7 @@ class DomainBlocklistConverter:
             Generic function to write per-category file in both flavours.
             """
             with open(path, "w") as f:
-                f.write(f"# {self.FILE_HEADER}\n")
+                f.write(f"# {self.BLOCKLIST_ABOUT}\n")
                 f.write(f"# Last updated: {self.timestamp}\n")
                 f.write(f"# {category}\n")
                 f.write(f"\n")
