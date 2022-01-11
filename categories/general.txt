@@ -375,6 +375,7 @@
 0.0.0.0 asrnokeoxr.com
 0.0.0.0 assignments.google.com
 0.0.0.0 at7yu7v8qg.com
+0.0.0.0 attributiontrackingga.googlecode.com
 0.0.0.0 auditrecording-pa.googleapis.com
 0.0.0.0 autodraw.com
 0.0.0.0 ayz0l8b0ew.com
@@ -1071,6 +1072,7 @@
 0.0.0.0 mybusiness.google.com
 0.0.0.0 mydevices.google.com
 0.0.0.0 mymaps.google.com
+0.0.0.0 myscoop-tracking.googlecode.com
 0.0.0.0 mystuff.corp.google.com
 0.0.0.0 mzkdkfvrak.com
 0.0.0.0 n.admob.com
@@ -2074,6 +2076,7 @@
 0.0.0.0 tq970h0typ.com
 0.0.0.0 tr3xa9sjlu.com
 0.0.0.0 tracking.admobsphere.com
+0.0.0.0 trakksocial.googlecode.com
 0.0.0.0 transit.google.com
 0.0.0.0 translate.googleapis.com
 0.0.0.0 transparencyreport.google.com
