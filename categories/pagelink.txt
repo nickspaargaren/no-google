@@ -1,5 +1,5 @@
-# This blocklist helps Pi-hole's admin restrict access to Google and its domains.
-# Last updated: 10-01-2022
+# This blocklist helps to restrict access to Google and its domains. Contribute at https://github.com/nickspaargaren/no-google
+# Last updated: 2022-01-11
 # Pagelink
 
 0.0.0.0 000000000000001.page.link
