@@ -17,5 +17,5 @@ If you are unable to open a pull request, please open an [issue] and we will inv
 [pihole-google.txt]: https://github.com/nickspaargaren/no-google/blob/master/pihole-google.txt
 [AdGuard blocklist]: https://github.com/nickspaargaren/no-google/blob/master/pihole-google-adguard.txt
 [Pi-hole blocklist]: https://github.com/nickspaargaren/no-google/blob/master/google-domains
-[Unbound blocklist]: https://github.com/nickspaargaren/no-google/blob/master/unbound-blocklist-google.conf
+[Unbound blocklist]: https://github.com/nickspaargaren/no-google/blob/master/pihole-google-unbound.conf
 [per-category blocklist files]: https://github.com/nickspaargaren/no-google/tree/master/categories
