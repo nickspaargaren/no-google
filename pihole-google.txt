@@ -7396,7 +7396,6 @@ feedads.googleadservices.com
 partner.googleadservices.com
 www.googleadservices.com
 9098b63249ee4522c5d8677059fe22e4.safeframe.googlesyndication.com
-pagead-googlehosted.l.google.com
 firebase.com
 firestore.googleapis.com
 firebaseremoteconfig.googleapis.com
@@ -7405,7 +7404,6 @@ firebaselogging.googleapis.com
 firebase-settings.crashlytics.com
 try.crashlytics.com
 settings.crashlytics.com
-crashlytics.l.google.com
 crashlytics.com
 tpc.googlesyndication.com
 google-analytics.com
@@ -7413,9 +7411,6 @@ www.google-analytics.com
 analytics.withgoogle.com
 googleanalytics.com
 ssl.google-analytics.com
-www-google-analytics.l.google.com
-ssl-google-analytics.l.google.com
-google-analytics.l.google.com
 g.doubleclick.net
 securepubads.g.doubleclick.net
 displayads-formats.googleusercontent.com
@@ -7458,7 +7453,6 @@ choices.consentframework.com
 s.skimresources.com
 pixel.wp.com
 docs.google.com
-analytics.l.google.com
 clouderrorreporting.googleapis.com
 googlecode.com
 doubleclickbygoogle.com
@@ -7486,9 +7480,6 @@ www.google-analytics.com
 analytics.withgoogle.com
 googleanalytics.com
 ssl.google-analytics.com
-www-google-analytics.l.google.com
-ssl-google-analytics.l.google.com
-google-analytics.l.google.com
 g.doubleclick.net
 securepubads.g.doubleclick.net
 displayads-formats.googleusercontent.com
@@ -7517,7 +7508,6 @@ feedads.googleadservices.com
 partner.googleadservices.com
 www.googleadservices.com
 9098b63249ee4522c5d8677059fe22e4.safeframe.googlesyndication.com
-pagead-googlehosted.l.google.com
 firebase.com
 firestore.googleapis.com
 firebaseremoteconfig.googleapis.com
@@ -7526,7 +7516,6 @@ firebaselogging.googleapis.com
 firebase-settings.crashlytics.com
 try.crashlytics.com
 settings.crashlytics.com
-crashlytics.l.google.com
 crashlytics.com
 doubleclick-net.com
 doubleclickbygoogle.com
@@ -7535,9 +7524,7 @@ googletagservices.com
 imasdk.googleapis.com
 googletrackmanager.compartner.googleadservices.com
 partner.video.syndication.msn.com
-googleadapis.l.google.com
 googleads.github.io
-gstaticadssl.l.google.com
 pagead2.googlesyndication.com
 mail-ads.google.com
 tpc.googlesyndication.com
@@ -7550,7 +7537,6 @@ googletagmanager.com
 google-analytics.com
 googleadservices.com
 googlerank.info
-www-google-analytics.l.google.com
 google-rank.org
 analytics.google.com
 attributiontrackingga.googlecode.com
@@ -7618,9 +7604,6 @@ www.google-analytics.com
 analytics.withgoogle.com
 googleanalytics.com
 ssl.google-analytics.com
-www-google-analytics.l.google.com
-ssl-google-analytics.l.google.com
-google-analytics.l.google.com
 g.doubleclick.net
 securepubads.g.doubleclick.net
 displayads-formats.googleusercontent.com
