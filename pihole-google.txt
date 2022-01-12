@@ -7586,8 +7586,6 @@ ssl.google-analytics.com
 www.google-analytics.com
 ads.google.com
 adservice.google.com
-crashlytics2.l.google.com
-s0-2mdn-net.l.google.com
 googleadservices.com
 pagead2.googleadservices.com
 www.googleadservices.com
@@ -7660,7 +7658,5 @@ mimageads8.googleadservices.com
 mimageads9.googleadservices.com
 adsense.google.com
 www.googleoptimize.com
-googleadapis.l.google.com
 googleads.github.io
-gstaticadssl.l.google.com
 hbid.ams3.cdn.digitaloceanspaces.com
