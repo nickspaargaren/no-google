@@ -4718,6 +4718,7 @@ redboxqa3.page.link
 rek2.page.link
 relevy5271.page.link
 rify1.page.link
+stun1.l.google.com
 rockicash2020.page.link
 russlotto0.page.link
 s1.page.link
@@ -5916,6 +5917,9 @@ youtubei.youtube.com
 yt3.ggpht.com
 ytimg.com
 za.youtube.com
+r1---sn-4g5e6nsy.googlevideo.com
+r3---sn-4g5e6nsy.googlevideo.com
+r3---sn-4g5ednld.googlevideo.com
 # Fitbit
 000-client.fitbit.com
 000-v3-client.fitbit.com
@@ -7407,9 +7411,10 @@ settings.crashlytics.com
 crashlytics.com
 tpc.googlesyndication.com
 google-analytics.com
-www.google-analytics.com
+analytics.wondershare.cc # GoogleAnalytics KontoID angehängt: UA-127156838-11
 analytics.withgoogle.com
 googleanalytics.com
+ampcid.google.se
 ssl.google-analytics.com
 g.doubleclick.net
 securepubads.g.doubleclick.net
@@ -7476,7 +7481,6 @@ adsense.google.com
 www.googleoptimize.com
 tpc.googlesyndication.com
 google-analytics.com
-www.google-analytics.com
 analytics.withgoogle.com
 googleanalytics.com
 ssl.google-analytics.com
@@ -7583,7 +7587,6 @@ s0.doubleclick.net
 static.doubleclick.net
 google-analytics.com
 ssl.google-analytics.com
-www.google-analytics.com
 ads.google.com
 adservice.google.com
 googleadservices.com
@@ -7598,7 +7601,6 @@ tpc.googlesyndication.com
 displayads-formats.googleusercontent.com
 tpc.googlesyndication.com
 google-analytics.com
-www.google-analytics.com
 analytics.withgoogle.com
 googleanalytics.com
 ssl.google-analytics.com
