@@ -27,8 +27,10 @@ fcm-xmpp.googleapis.com
 fcm.googleapis.com
 federatedml-pa.googleapis.com
 fundingchoicesmessages.google.com
+statsgoogle.appsflyer.com
 gcm-http.googleapis.com
 gcm-xmpp.googleapis.com
+googleadapis.l.google.com
 ghs.google.com
 ghs.googlehosted.com
 gmbmobile-pa.googleapis.com
@@ -386,7 +388,6 @@ yvqo1t-dnsotls-ds.metric.gstatic.com
 # Domains
 3ded44bd838404a6a3f3d7333aa65498.safeframe.googlesyndication.com
 96d80cafb2cc6ad351ea76aea0f55d37.safeframe.googlesyndication.com
-ade.googlesyndication.com
 buttons.googlesyndication.com
 c.googlesyndication.com
 com.google
@@ -632,7 +633,6 @@ pagead46.googlesyndication.com
 redirector.c.googlesyndication.com
 safeframe.googlesyndication.com
 tic.googlesyndication.com
-tpc.googlesyndication.com
 tpcnc.googlesyndication.com
 video-ad-stats.googlesyndication.com
 www.google.ac
@@ -7378,7 +7378,6 @@ cm.g.doubleclick.net
 googleads.g.doubleclick.net
 googleads4.g.doubleclick.net
 pubads.g.doubleclick.net
-securepubads.g.doubleclick.net
 stats.g.doubleclick.net
 survey.g.doubleclick.net
 g0.doubleclick.net
@@ -7409,7 +7408,6 @@ firebase-settings.crashlytics.com
 try.crashlytics.com
 settings.crashlytics.com
 crashlytics.com
-tpc.googlesyndication.com
 google-analytics.com
 analytics.wondershare.cc # GoogleAnalytics KontoID angehängt: UA-127156838-11
 analytics.withgoogle.com
@@ -7417,7 +7415,6 @@ googleanalytics.com
 ampcid.google.se
 ssl.google-analytics.com
 g.doubleclick.net
-securepubads.g.doubleclick.net
 displayads-formats.googleusercontent.com
 pagead46.l.doubleclick.net
 partnerad.l.doubleclick.net
@@ -7479,13 +7476,11 @@ mimageads8.googleadservices.com
 mimageads9.googleadservices.com
 adsense.google.com
 www.googleoptimize.com
-tpc.googlesyndication.com
 google-analytics.com
 analytics.withgoogle.com
 googleanalytics.com
 ssl.google-analytics.com
 g.doubleclick.net
-securepubads.g.doubleclick.net
 displayads-formats.googleusercontent.com
 pagead46.l.doubleclick.net
 partnerad.l.doubleclick.net
@@ -7525,16 +7520,12 @@ doubleclick-net.com
 doubleclickbygoogle.com
 googleapi.club
 googletagservices.com
-imasdk.googleapis.com
 googletrackmanager.compartner.googleadservices.com
 partner.video.syndication.msn.com
 googleads.github.io
 pagead2.googlesyndication.com
 mail-ads.google.com
-tpc.googlesyndication.com
 g.doubleclick.net
-imasdk.googleapis.com
-pagead2.googlesyndication.com
 partner.googleadservices.com
 googleoptimize.com
 googletagmanager.com
@@ -7571,7 +7562,6 @@ cm.g.doubleclick.net
 googleads.g.doubleclick.net
 googleads4.g.doubleclick.net
 pubads.g.doubleclick.net
-securepubads.g.doubleclick.net
 stats.g.doubleclick.net
 survey.g.doubleclick.net
 g0.doubleclick.net
@@ -7597,7 +7587,6 @@ crashlyticsreports-pa.googleapis.com
 googlesyndication.com
 ade.googlesyndication.com
 pagead2.googlesyndication.com
-tpc.googlesyndication.com
 displayads-formats.googleusercontent.com
 tpc.googlesyndication.com
 google-analytics.com
@@ -7605,7 +7594,6 @@ analytics.withgoogle.com
 googleanalytics.com
 ssl.google-analytics.com
 g.doubleclick.net
-securepubads.g.doubleclick.net
 displayads-formats.googleusercontent.com
 pagead46.l.doubleclick.net
 partnerad.l.doubleclick.net
