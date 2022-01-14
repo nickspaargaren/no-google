@@ -1208,7 +1208,7 @@ www6.google.com
 gfe.core.l.google.com
 www9.google.com
 yp.google.com 							 								
-settings.crashlytics.com 							 								reports.crashlytics.com
+settings.crashlytics.com 							 								
 www.googleadservices.com 
 googleads.g.doubleclick.net 
 securepubads.g.doubleclick.net 
