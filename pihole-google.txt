@@ -22,7 +22,6 @@ csp.withgoogle.com
 dataprep.googleapis.com
 discover-pa.googleapis.com
 dr-mobiweb.googleoptimize.com
-e.crashlytics.com
 fcm-xmpp.googleapis.com
 fcm.googleapis.com
 federatedml-pa.googleapis.com
@@ -1146,7 +1145,6 @@ lens.google.com
 lp.google.com
 mars.google.com
 material.google.com
-meet.google.com
 talkgadget.l.google.com
 mini.google.com
 mlt.google.com
@@ -1209,8 +1207,7 @@ www5.l.google.com
 www6.google.com
 gfe.core.l.google.com
 www9.google.com
-yp.google.com
-e.crashlytics.com 							 								
+yp.google.com 							 								
 settings.crashlytics.com 							 								reports.crashlytics.com
 https://news.google.com
 https://news.google.com/publications
@@ -1227,15 +1224,10 @@ adservice.google.com
 adservice.google.es 
 ade.googlesyndication.com 
 id.google.de
-id.google.es
-e.crashlytics.com 
-reports.crashlytics.com 
-https://www.gmail.com
-https://gmail.com
+id.google.es 
+reports.crashlytics.com
 gmail.com
-https://meet.google.com
-https://workspace.google.com
-play.google.com/store
+meet.google.com
 play.googleapis.com 							 								history.google.com
 growth-pa.googleapis.com 							 								safebrowsing.googleapis.com 							 								footprints-pa.googleapis.com 							 								chromesyncpasswords-pa.googleapis.com 							 								mdh-pa.googleapis.com 							 								clientservices.googleapis.com 							 								digitalassetlinks.googleapis.com 							 								playatoms-pa.googleapis.com 							 								datamixer-pa.googleapis.com 							 								instantmessaging-pa.googleapis.com 							 								mobilemaps-pa.googleapis.com 							 								cloudconfig.googleapis.com 							 								firebaseremoteconfig.googleapis.com 							 								phonedeviceverification-pa.googleapis.com 							 								myphonenumbers-pa.googleapis.com 							 								people-pa.googleapis.com
 mtalk.google.com 							 								
