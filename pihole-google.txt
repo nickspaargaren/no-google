@@ -6073,6 +6073,23 @@ r1---sn-4g5e6nsy.googlevideo.com
 r3---sn-4g5e6nsy.googlevideo.com
 r3---sn-4g5ednld.googlevideo.com
 # Fitbit
+APVPNEast.corp.fitbit.com
+AWS01-NF-01.corp.fitbit.com
+BUH0102-NF-02.corp.fitbit.com
+EUVPNEast.corp.fitbit.com
+EUVPNEAST.corp.fitbit.com
+EUVPNMsq.corp.fitbit.com
+EUVPNMSQ.corp.fitbit.com
+MSQ0106-NF-02C.corp.fitbit.com
+MSQ0106-NF-02V.corp.fitbit.com
+SAC01-SCEP-01.corp.fitbit.com
+SAC01-SCEP-02.corp.fitbit.com
+SAC0101-NF-03.corp.fitbit.com
+TOK01-NF-01.corp.fitbit.com
+USVPNEast.corp.fitbit.com
+USVPNEAST.corp.fitbit.com
+USVPNWest.corp.fitbit.com
+USVPNWEST.corp.fitbit.com
 000-client.fitbit.com
 000-v3-client.fitbit.com
 000-v3-client.qa1.fitbit.com
@@ -7518,6 +7535,8 @@ mimageads6.googleadservices.com
 mimageads7.googleadservices.com
 mimageads8.googleadservices.com
 mimageads9.googleadservices.com
+IMAGEs.google.com
+DeSKtoP.google.com
 choices.consentframework.com
 s.skimresources.com
 pixel.wp.com
