@@ -1258,12 +1258,10 @@ alt8-mtalk.google.com
 alt8.mobile-gtalk.l.google.com
 googleads.g.doubleclick.net 							 								
 static.doubleclick.net
-pagead*.googlesyndication.com
 ade.googlesyndication.com
 tpc.googlesyndication.com
 googleadservices.com
 imageads.googleadservices.com
-imageads*.googleadservices.com
 adservices.google.com
 geo3.ggpht.com
 www.googleadservices.com
