@@ -1222,11 +1222,42 @@ id.google.de
 id.google.es 
 gmail.com
 meet.google.com
-play.googleapis.com 							 								history.google.com
-growth-pa.googleapis.com 							 								safebrowsing.googleapis.com 							 								footprints-pa.googleapis.com 							 								chromesyncpasswords-pa.googleapis.com 							 								mdh-pa.googleapis.com 							 								clientservices.googleapis.com 							 								digitalassetlinks.googleapis.com 							 								playatoms-pa.googleapis.com 							 								datamixer-pa.googleapis.com 							 								instantmessaging-pa.googleapis.com 							 								mobilemaps-pa.googleapis.com 							 								cloudconfig.googleapis.com 							 								firebaseremoteconfig.googleapis.com 							 								phonedeviceverification-pa.googleapis.com 							 								myphonenumbers-pa.googleapis.com 							 								people-pa.googleapis.com
+play.googleapis.com 							 								
+history.google.com 							 								
+safebrowsing.googleapis.com 							 								
+footprints-pa.googleapis.com 							 								
+chromesyncpasswords-pa.googleapis.com 							 								
+mdh-pa.googleapis.com 							 								
+clientservices.googleapis.com 							 								
+digitalassetlinks.googleapis.com 							 								
+playatoms-pa.googleapis.com 							 								
+datamixer-pa.googleapis.com 							 								
+instantmessaging-pa.googleapis.com 							 								
+mobilemaps-pa.googleapis.com 							 								
+cloudconfig.googleapis.com 							 								
+firebaseremoteconfig.googleapis.com 							 								
+phonedeviceverification-pa.googleapis.com 							 								
+myphonenumbers-pa.googleapis.com 							 								
+people-pa.googleapis.com
 mtalk.google.com 							 								
-alt1-mtalk.google.com 							 								alt1.mobile-gtalk.l.google.com 							 								alt2-mtalk.google.com 							 								alt2.mobile-gtalk.l.google.com 							 								alt3-mtalk.google.com 							 								alt3.mobile-gtalk.l.google.com 							 								alt4-mtalk.google.com 							 								alt4.mobile-gtalk.l.google.com 							 								alt5-mtalk.google.com 							 								alt5.mobile-gtalk.l.google.com 							 								alt6-mtalk.google.com 							 								alt6.mobile-gtalk.l.google.com 							 								alt7-mtalk.google.com 							 								alt7.mobile-gtalk.l.google.com 							 								alt8-mtalk.google.com 							 								alt8.mobile-gtalk.l.google.com
-googleads.g.doubleclick.net 							 								static.doubleclick.net
+alt1-mtalk.google.com 							 								
+alt1.mobile-gtalk.l.google.com
+alt2-mtalk.google.com
+alt2.mobile-gtalk.l.google.com
+alt3-mtalk.google.com 							 								
+alt3.mobile-gtalk.l.google.com
+alt4-mtalk.google.com
+alt4.mobile-gtalk.l.google.com
+alt5-mtalk.google.com
+alt5.mobile-gtalk.l.google.com
+alt6-mtalk.google.com
+alt6.mobile-gtalk.l.google.com
+alt7-mtalk.google.com
+alt7.mobile-gtalk.l.google.com
+alt8-mtalk.google.com
+alt8.mobile-gtalk.l.google.com
+googleads.g.doubleclick.net 							 								
+static.doubleclick.net
 pagead*.googlesyndication.com
 ade.googlesyndication.com
 tpc.googlesyndication.com
@@ -7502,10 +7533,10 @@ stats.l.doubleclick.net
 mng-ads.com
 adservice.io
 feedads.googleadservices.com
-9098b63249ee4522c5d8677059fe22e4.safeframe.googlesyndication.com
+9098b63249ee4522c5d8677059fe22e4.safeframe.google.syndication.com
 firebase.com
 try.crashlytics.com
-analytics.wondershare.cc # GoogleAnalytics KontoID angehängt: UA-127156838-11
+analytics.wondershare.cc
 analytics.withgoogle.com
 ampcid.google.se
 googleads6.g.doubleclick.net
@@ -7528,7 +7559,8 @@ s.skimresources.com
 pixel.wp.com
 clouderrorreporting.googleapis.com
 googleapi.club
-googletrackmanager.compartner.googleadservices.com
+googletrackmanager.com
+partner.googleadservices.com
 partner.video.syndication.msn.com
 googleads.github.io
 googlerank.info
