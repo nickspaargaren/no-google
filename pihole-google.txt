@@ -1225,7 +1225,6 @@ adservice.google.es
 ade.googlesyndication.com 
 id.google.de
 id.google.es 
-reports.crashlytics.com
 gmail.com
 meet.google.com
 play.googleapis.com 							 								history.google.com
