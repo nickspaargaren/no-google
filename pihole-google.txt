@@ -1209,11 +1209,6 @@ gfe.core.l.google.com
 www9.google.com
 yp.google.com 							 								
 settings.crashlytics.com 							 								reports.crashlytics.com
-https://news.google.com
-https://news.google.com/publications
-https://maps.google.com
-https://mymaps.google.com
-https://developers.google.com
 www.googleadservices.com 
 googleads.g.doubleclick.net 
 securepubads.g.doubleclick.net 
