@@ -1238,7 +1238,6 @@ cloudconfig.googleapis.com
 firebaseremoteconfig.googleapis.com 							 								
 phonedeviceverification-pa.googleapis.com 							 								
 myphonenumbers-pa.googleapis.com 							 								
-people-pa.googleapis.com
 mtalk.google.com 							 								
 alt1-mtalk.google.com 							 								
 alt1.mobile-gtalk.l.google.com
@@ -1275,7 +1274,6 @@ stats.g.doubleclick.net
 partnerad.l.doubleclick.net
 0.fls.doubleclick.net
 ad.mo.doubleclick.net
-static.doubleclick.net
 ebay.doubleclick.net
 doubleclick.com
 doublecklick.net
@@ -2467,13 +2465,7 @@ alt1.google.com
 alt1037.mobile.google.com
 alt1053.gds.google.com
 alt1057.area120.google.com
-alt2-mtalk.google.com
 alt3-mtalk.google.com
-alt4-mtalk.google.com
-alt5-mtalk.google.com
-alt6-mtalk.google.com
-alt7-mtalk.google.com
-alt8-mtalk.google.com
 alt953.asia2.google.com
 alzafhczqu6tdfgv4jtneovav7d76blcdwfkzj5cntahh7lzy5gq.mx-verification.google.com
 ampcid.google.com
@@ -7558,7 +7550,6 @@ pixel.wp.com
 clouderrorreporting.googleapis.com
 googleapi.club
 googletrackmanager.com
-partner.googleadservices.com
 partner.video.syndication.msn.com
 googleads.github.io
 googlerank.info
