@@ -3,11 +3,17 @@
 # Android
 
 1-market.android.com
+9098b63249ee4522c5d8677059fe22e4.safeframe.google.syndication.com
 a.android.com
 a17-250-248-101.android.com
 acceleratedmobilepageurl.googleapis.com
 accessories.android.com
 accounts.partner.android.com
+ade.googlesyndication.com
+ads.google.com
+ads.traffichunt.com
+adservice.google.com
+afs.googlesyndication.com
 android-review.googlesource.com
 android-safebrowsing.google.com
 android.clients.google.com
@@ -37,6 +43,7 @@ firebaseremoteconfig.googleapis.com
 footprints-pa.googleapis.com
 geller-pa.googleapis.com
 gmscompliance-pa.googleapis.com
+googlesyndication.com
 growth-pa.googleapis.com
 infinitedata-pa.googleapis.com
 instantmessaging-pa.googleapis.com
@@ -45,6 +52,12 @@ m.android.com
 market.android.com
 mdh-pa.googleapis.com
 messages.android.com
+www.googleadservices.com
+pagead2.googlesyndication.com
+googleads.g.doubleclick.net
+tpc.googlesyndication.com
+static.googleadsserving.cn
+video-ad-stats.googlesyndication.com
 mobilemaps-pa-gz.googleapis.com
 mobilemaps-pa.googleapis.com
 mobilemaps.googleapis.com
