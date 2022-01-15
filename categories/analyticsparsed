@@ -6,6 +6,7 @@ adgoogle.net
 adsettings.google.com
 adssettings.google.com
 analytic-google.com
+analytics.withgoogle.com
 android-safebrowsing.googleapis.com
 androidauto-pa.googleapis.com
 androidtvchannels-pa.googleapis.com
@@ -15,6 +16,7 @@ apis.googletagmanager.com
 autofill.googleapis.com
 chart.googleapis.com
 click.google-analytics.com
+clouderrorreporting.googleapis.com
 cloudsearch.googleapis.com
 cm.crashlytics.com
 commondatastorage.googleapis.com
@@ -25,11 +27,12 @@ csp.withgoogle.com
 dataprep.googleapis.com
 discover-pa.googleapis.com
 dr-mobiweb.googleoptimize.com
-e.crashlytics.com
 fcm-xmpp.googleapis.com
 fcm.googleapis.com
 federatedml-pa.googleapis.com
+feedads.googleadservices.com
 fundingchoicesmessages.google.com
+statsgoogle.appsflyer.com
 gcm-http.googleapis.com
 gcm-xmpp.googleapis.com
 ghs.google.com
@@ -40,7 +43,6 @@ google-analytics.com
 googleadapis-cn.com
 googleadservices-cn.com
 googlehosted.com
-googlehosted.l.googleusercontent.com
 googleoptimize-cn.com
 googleoptimize.com
 googlesyndication-cn.com
@@ -50,11 +52,20 @@ googletagservices.com
 htps.googletagmanager.com
 httpswww.googletagmanager.com
 kits.crashlytics.com
+mimageads.googleadservices.com
+mimageads1.googleadservices.com
+mimageads2.googleadservices.com
+mimageads3.googleadservices.com
+mimageads4.googleadservices.com
+mimageads5.googleadservices.com
+mimageads6.googleadservices.com
+mimageads7.googleadservices.com
+mimageads8.googleadservices.com
+mimageads9.googleadservices.com
 newssuite-sony-net.storage.googleapis.com
 pagead2.googleadservices.com
 partner.googleadservices.com
 phonemasking-stage.googleoptimize.com
-photos-ugc.l.googleusercontent.com
 pki.googleapis.com
 public.commondatastorage.googleapis.com
 qs11.googletagmanager.com
@@ -68,6 +79,7 @@ ssl.googleanalytics.com
 tagmanager.google.com
 test-web.googletagmanager.com
 themes.googleusercontent.com
+try.crashlytics.com
 wp.googletagmanager.com
 www.adgoogle.net
 www.google-analytics.com
