@@ -44,7 +44,6 @@
 ||googlehosted.com^
 ||googleoptimize-cn.com^
 ||googleoptimize.com^
-||googlesyndication-cn.com^
 ||googletagmanager-cn.com^
 ||googletagmanager.com^
 ||googletagservices.com^
@@ -95,11 +94,9 @@
 ||acceleratedmobilepageurl.googleapis.com^
 ||accessories.android.com^
 ||accounts.partner.android.com^
-||ade.googlesyndication.com^
 ||ads.google.com^
 ||ads.traffichunt.com^
 ||adservice.google.com^
-||afs.googlesyndication.com^
 ||android-review.googlesource.com^
 ||android-safebrowsing.google.com^
 ||android.clients.google.com^
@@ -129,7 +126,6 @@
 ||footprints-pa.googleapis.com^
 ||geller-pa.googleapis.com^
 ||gmscompliance-pa.googleapis.com^
-||googlesyndication.com^
 ||growth-pa.googleapis.com^
 ||infinitedata-pa.googleapis.com^
 ||instantmessaging-pa.googleapis.com^
@@ -138,12 +134,6 @@
 ||market.android.com^
 ||mdh-pa.googleapis.com^
 ||messages.android.com^
-||www.googleadservices.com^
-||pagead2.googlesyndication.com^
-||googleads.g.doubleclick.net^
-||tpc.googlesyndication.com^
-||static.googleadsserving.cn^
-||video-ad-stats.googlesyndication.com^
 ||mobilemaps-pa-gz.googleapis.com^
 ||mobilemaps-pa.googleapis.com^
 ||mobilemaps.googleapis.com^
@@ -169,6 +159,7 @@
 ||semanticlocation-pa.googleapis.com^
 ||source.android.com^
 ||speechs3proto2-pa.googleapis.com^
+||static.googleadsserving.cn^
 ||stats.blogger.com^
 ||supl.google.com^
 ||time.android.com^
@@ -186,7 +177,6 @@
 ||userlocation.googleapis.com^
 ||wear.android.com^
 ||www.android.com^
-||www.googleapis.com^
 ! Area120
 ||kormo.com^
 ||rivet.area120.com^
@@ -430,6 +420,7 @@
 ||academico.google.com^
 ||account.google.com^
 ||accounts.google.com^
+||ade.googlesyndication.com^
 ||admin.google.com^
 ||adsense.google.com^
 ||adservice.google.de^
@@ -438,6 +429,7 @@
 ||advisor.google.com^
 ||adwords.google.com^
 ||afp.google.com^
+||afs.googlesyndication.com^
 ||ai.google.com^
 ||alerts.google.com^
 ||allo.google.com^
@@ -783,6 +775,8 @@
 ||googlemaps.com^
 ||googlepagecreator.com^
 ||googlescholar.com^
+||googlesyndication-cn.com^
+||googlesyndication.com^
 ||googletranslate.com^
 ||googleweblight.com^
 ||googlr.com^
@@ -884,6 +878,7 @@
 ||pack.google.com^
 ||pagead.googlesyndication.com^
 ||pagead1.googlesyndication.com^
+||pagead2.googlesyndication.com^
 ||pagead3.googlesyndication.com^
 ||pagead46.googlesyndication.com^
 ||partners.google.com^
@@ -949,6 +944,7 @@
 ||toolbar.google.com^
 ||toolbox.google.com^
 ||tools.google.com^
+||tpc.googlesyndication.com^
 ||tpcnc.googlesyndication.com^
 ||transit.google.com^
 ||translate.google.com^
@@ -958,6 +954,7 @@
 ||uol.google.com^
 ||upload.google.com^
 ||uploads.google.com^
+||video-ad-stats.googlesyndication.com^
 ||video.google.com^
 ||videos.google.com^
 ||virgin.google.com^
@@ -1173,6 +1170,8 @@
 ||www.google.vg^
 ||www.google.vu^
 ||www.google.ws^
+||www.googleadservices.com^
+||www.googleapis.com^
 ||www.news.google.com^
 ||www10.google.com^
 ||www1b.google.com^
@@ -1184,20 +1183,6 @@
 ||www9.google.com^
 ||yp.google.com^
 ! Doubleclick
-||partnerad.l.doubleclick.net^
-||securepubads.g.doubleclick.net^
-||static.doubleclick.net^
-||stats.g.doubleclick.net^
-||googleads4.g.doubleclick.net^
-||ebay.doubleclick.net^
-||doublecklick.net^
-||doubleclick.com^
-||doubleclickbygoogle.com^
-||cm.g.doubleclick.net^
-||bid.g.doubleclick.net^
-||ad.doubleclick.net^
-||ad.mo.doubleclick.net^
-||adclick.g.doublecklick.net^
 ||0.fls.doubleclick.net^
 ||00.fls.doubleclick.net^
 ||000.fls.doubleclick.net^
@@ -1283,6 +1268,7 @@
 ||ad.de.doubleclick.net^
 ||ad.dk.doubleclick.net^
 ||ad.doubleclick.com^
+||ad.doubleclick.net^
 ||ad.es.doubleclick.net^
 ||ad.fi.doubleclick.net^
 ||ad.fr.doubleclick.net^
@@ -1298,6 +1284,7 @@
 ||ad.kr.doubleclick.net^
 ||ad.ma.doubleclick.net^
 ||ad.me.doubleclick.net^
+||ad.mo.doubleclick.net^
 ||ad.n2434.doubleclick.net^
 ||ad.nl.doubleclick.net^
 ||ad.no.doubleclick.net^
@@ -1322,6 +1309,7 @@
 ||ad.ve.doubleclick.net^
 ||ad.za.doubleclick.net^
 ||ad2.doubleclick.net^
+||adclick.g.doublecklick.net^
 ||adclick.g.doubleclick.net^
 ||ads-bid.l.doubleclick.net^
 ||advertisers.doubleclick.com^
@@ -1329,17 +1317,23 @@
 ||adx.g.doubleclick.net^
 ||anon.doubleclick.speedera.net^
 ||betareportcentral.doubleclick.com^
+||bid.g.doubleclick.net^
 ||big.g.doubleclick.net^
 ||click.comms.doubleclick.com^
+||cm.g.doubleclick.net^
 ||creatives.doubleclick.net^
 ||dart-ad.l.doubleclick.net^
 ||dart.l.doubleclick.net^
 ||dfp.doubleclick.net^
+||doublecklick.net^
 ||doubleclick-net.com^
+||doubleclick.com^
 ||doubleclick.de^
 ||doubleclick.ne.jp^
 ||doubleclick.net^
+||doubleclickbygoogle.com^
 ||dp.g.doubleclick.net^
+||ebay.doubleclick.net^
 ||emea.doubleclick.com^
 ||feedads.g.doubleclick.net^
 ||ff.doubleclick.net^
@@ -1352,9 +1346,11 @@
 ||g2.doubleclick.net^
 ||g3.doubleclick.net^
 ||gan.doubleclick.net^
+||googleads.g.doubleclick.net^
 ||googleads.g.doubleclick.net.iberostar.com^
 ||googleads2.g.doubleclick.net^
 ||googleads3.g.doubleclick.net^
+||googleads4.g.doubleclick.net^
 ||googleads6.g.doubleclick.net^
 ||googleads7.g.doubleclick.net^
 ||help.doubleclick.com^
@@ -1377,6 +1373,7 @@
 ||ns2.doubleclick.com^
 ||pagead.l.doubleclick.net^
 ||pagead46.l.doubleclick.net^
+||partnerad.l.doubleclick.net^
 ||paypalssl.doubleclick.net^
 ||pubads.g.doubleclick.net^
 ||rd.intl.doubleclick.net^
@@ -1387,9 +1384,12 @@
 ||s2.video.doubleclick.net^
 ||search.doubleclick.com^
 ||secureframe.doubleclick.net^
+||securepubads.g.doubleclick.net^
 ||ssl.doubleclick.com^
 ||static.doubleclick.com^
+||static.doubleclick.net^
 ||static.doubleclick.netnod^
+||stats.g.doubleclick.net^
 ||stats.l.doubleclick.net^
 ||studio.doubleclick.com^
 ||studioapi.doubleclick.com^
