@@ -1,5 +1,5 @@
 # This blocklist helps to restrict access to Google and its domains. Contribute at https://github.com/nickspaargaren/no-google
-# Last updated: 2022-01-11
+# Last updated: 2022-01-15
 # Analytics
 0.0.0.0 adgoogle.net
 0.0.0.0 adsettings.google.com
@@ -5246,9 +5246,11 @@
 0.0.0.0 rate-limited-proxy-74-125-149-100.google.com
 0.0.0.0 rate-limited-proxy-74-125-149-200.google.com
 # Short Links
+0.0.0.0 app.goo.gl
 0.0.0.0 cctldtest.g.co
 0.0.0.0 cctldtest.youtu.be
 0.0.0.0 goo.gl
+0.0.0.0 images.app.goo.gl
 0.0.0.0 m.youtu.be
 0.0.0.0 surf.youtu.be
 0.0.0.0 www.yt.be
