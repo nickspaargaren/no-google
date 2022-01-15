@@ -10,7 +10,6 @@
 0.0.0.0 accessories.android.com
 0.0.0.0 accounts.partner.android.com
 0.0.0.0 ads.google.com
-0.0.0.0 ads.traffichunt.com
 0.0.0.0 adservice.google.com
 0.0.0.0 android-review.googlesource.com
 0.0.0.0 android-safebrowsing.google.com
