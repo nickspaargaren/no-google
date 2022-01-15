@@ -9,11 +9,9 @@
 0.0.0.0 acceleratedmobilepageurl.googleapis.com
 0.0.0.0 accessories.android.com
 0.0.0.0 accounts.partner.android.com
-0.0.0.0 ade.googlesyndication.com
 0.0.0.0 ads.google.com
 0.0.0.0 ads.traffichunt.com
 0.0.0.0 adservice.google.com
-0.0.0.0 afs.googlesyndication.com
 0.0.0.0 android-review.googlesource.com
 0.0.0.0 android-safebrowsing.google.com
 0.0.0.0 android.clients.google.com
@@ -43,7 +41,6 @@
 0.0.0.0 footprints-pa.googleapis.com
 0.0.0.0 geller-pa.googleapis.com
 0.0.0.0 gmscompliance-pa.googleapis.com
-0.0.0.0 googlesyndication.com
 0.0.0.0 growth-pa.googleapis.com
 0.0.0.0 infinitedata-pa.googleapis.com
 0.0.0.0 instantmessaging-pa.googleapis.com
@@ -52,12 +49,6 @@
 0.0.0.0 market.android.com
 0.0.0.0 mdh-pa.googleapis.com
 0.0.0.0 messages.android.com
-0.0.0.0 www.googleadservices.com
-0.0.0.0 pagead2.googlesyndication.com
-0.0.0.0 googleads.g.doubleclick.net
-0.0.0.0 tpc.googlesyndication.com
-0.0.0.0 static.googleadsserving.cn
-0.0.0.0 video-ad-stats.googlesyndication.com
 0.0.0.0 mobilemaps-pa-gz.googleapis.com
 0.0.0.0 mobilemaps-pa.googleapis.com
 0.0.0.0 mobilemaps.googleapis.com
@@ -83,6 +74,7 @@
 0.0.0.0 semanticlocation-pa.googleapis.com
 0.0.0.0 source.android.com
 0.0.0.0 speechs3proto2-pa.googleapis.com
+0.0.0.0 static.googleadsserving.cn
 0.0.0.0 stats.blogger.com
 0.0.0.0 supl.google.com
 0.0.0.0 time.android.com
@@ -100,4 +92,3 @@
 0.0.0.0 userlocation.googleapis.com
 0.0.0.0 wear.android.com
 0.0.0.0 www.android.com
-0.0.0.0 www.googleapis.com

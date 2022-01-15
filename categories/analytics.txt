@@ -45,7 +45,6 @@
 0.0.0.0 googlehosted.com
 0.0.0.0 googleoptimize-cn.com
 0.0.0.0 googleoptimize.com
-0.0.0.0 googlesyndication-cn.com
 0.0.0.0 googletagmanager-cn.com
 0.0.0.0 googletagmanager.com
 0.0.0.0 googletagservices.com

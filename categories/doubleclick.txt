@@ -2,20 +2,6 @@
 # Last updated: 2022-01-15
 # Doubleclick
 
-0.0.0.0 partnerad.l.doubleclick.net
-0.0.0.0 securepubads.g.doubleclick.net
-0.0.0.0 static.doubleclick.net
-0.0.0.0 stats.g.doubleclick.net
-0.0.0.0 googleads4.g.doubleclick.net
-0.0.0.0 ebay.doubleclick.net
-0.0.0.0 doublecklick.net
-0.0.0.0 doubleclick.com
-0.0.0.0 doubleclickbygoogle.com
-0.0.0.0 cm.g.doubleclick.net
-0.0.0.0 bid.g.doubleclick.net
-0.0.0.0 ad.doubleclick.net
-0.0.0.0 ad.mo.doubleclick.net
-0.0.0.0 adclick.g.doublecklick.net
 0.0.0.0 0.fls.doubleclick.net
 0.0.0.0 00.fls.doubleclick.net
 0.0.0.0 000.fls.doubleclick.net
@@ -101,6 +87,7 @@
 0.0.0.0 ad.de.doubleclick.net
 0.0.0.0 ad.dk.doubleclick.net
 0.0.0.0 ad.doubleclick.com
+0.0.0.0 ad.doubleclick.net
 0.0.0.0 ad.es.doubleclick.net
 0.0.0.0 ad.fi.doubleclick.net
 0.0.0.0 ad.fr.doubleclick.net
@@ -116,6 +103,7 @@
 0.0.0.0 ad.kr.doubleclick.net
 0.0.0.0 ad.ma.doubleclick.net
 0.0.0.0 ad.me.doubleclick.net
+0.0.0.0 ad.mo.doubleclick.net
 0.0.0.0 ad.n2434.doubleclick.net
 0.0.0.0 ad.nl.doubleclick.net
 0.0.0.0 ad.no.doubleclick.net
@@ -140,6 +128,7 @@
 0.0.0.0 ad.ve.doubleclick.net
 0.0.0.0 ad.za.doubleclick.net
 0.0.0.0 ad2.doubleclick.net
+0.0.0.0 adclick.g.doublecklick.net
 0.0.0.0 adclick.g.doubleclick.net
 0.0.0.0 ads-bid.l.doubleclick.net
 0.0.0.0 advertisers.doubleclick.com
@@ -147,17 +136,23 @@
 0.0.0.0 adx.g.doubleclick.net
 0.0.0.0 anon.doubleclick.speedera.net
 0.0.0.0 betareportcentral.doubleclick.com
+0.0.0.0 bid.g.doubleclick.net
 0.0.0.0 big.g.doubleclick.net
 0.0.0.0 click.comms.doubleclick.com
+0.0.0.0 cm.g.doubleclick.net
 0.0.0.0 creatives.doubleclick.net
 0.0.0.0 dart-ad.l.doubleclick.net
 0.0.0.0 dart.l.doubleclick.net
 0.0.0.0 dfp.doubleclick.net
+0.0.0.0 doublecklick.net
 0.0.0.0 doubleclick-net.com
+0.0.0.0 doubleclick.com
 0.0.0.0 doubleclick.de
 0.0.0.0 doubleclick.ne.jp
 0.0.0.0 doubleclick.net
+0.0.0.0 doubleclickbygoogle.com
 0.0.0.0 dp.g.doubleclick.net
+0.0.0.0 ebay.doubleclick.net
 0.0.0.0 emea.doubleclick.com
 0.0.0.0 feedads.g.doubleclick.net
 0.0.0.0 ff.doubleclick.net
@@ -170,9 +165,11 @@
 0.0.0.0 g2.doubleclick.net
 0.0.0.0 g3.doubleclick.net
 0.0.0.0 gan.doubleclick.net
+0.0.0.0 googleads.g.doubleclick.net
 0.0.0.0 googleads.g.doubleclick.net.iberostar.com
 0.0.0.0 googleads2.g.doubleclick.net
 0.0.0.0 googleads3.g.doubleclick.net
+0.0.0.0 googleads4.g.doubleclick.net
 0.0.0.0 googleads6.g.doubleclick.net
 0.0.0.0 googleads7.g.doubleclick.net
 0.0.0.0 help.doubleclick.com
@@ -195,6 +192,7 @@
 0.0.0.0 ns2.doubleclick.com
 0.0.0.0 pagead.l.doubleclick.net
 0.0.0.0 pagead46.l.doubleclick.net
+0.0.0.0 partnerad.l.doubleclick.net
 0.0.0.0 paypalssl.doubleclick.net
 0.0.0.0 pubads.g.doubleclick.net
 0.0.0.0 rd.intl.doubleclick.net
@@ -205,9 +203,12 @@
 0.0.0.0 s2.video.doubleclick.net
 0.0.0.0 search.doubleclick.com
 0.0.0.0 secureframe.doubleclick.net
+0.0.0.0 securepubads.g.doubleclick.net
 0.0.0.0 ssl.doubleclick.com
 0.0.0.0 static.doubleclick.com
+0.0.0.0 static.doubleclick.net
 0.0.0.0 static.doubleclick.netnod
+0.0.0.0 stats.g.doubleclick.net
 0.0.0.0 stats.l.doubleclick.net
 0.0.0.0 studio.doubleclick.com
 0.0.0.0 studioapi.doubleclick.com
