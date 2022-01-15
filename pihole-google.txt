@@ -5243,10 +5243,12 @@ rate-limited-proxy-74-125-148-200.google.com
 rate-limited-proxy-74-125-149-0.google.com
 rate-limited-proxy-74-125-149-100.google.com
 rate-limited-proxy-74-125-149-200.google.com
-# ShortLinks
+# Short Links
+app.goo.gl
 cctldtest.g.co
 cctldtest.youtu.be
 goo.gl
+images.app.goo.gl
 m.youtu.be
 surf.youtu.be
 www.yt.be
