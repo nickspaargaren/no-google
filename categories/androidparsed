@@ -9,11 +9,9 @@ a17-250-248-101.android.com
 acceleratedmobilepageurl.googleapis.com
 accessories.android.com
 accounts.partner.android.com
-ade.googlesyndication.com
 ads.google.com
 ads.traffichunt.com
 adservice.google.com
-afs.googlesyndication.com
 android-review.googlesource.com
 android-safebrowsing.google.com
 android.clients.google.com
@@ -43,7 +41,6 @@ firebaseremoteconfig.googleapis.com
 footprints-pa.googleapis.com
 geller-pa.googleapis.com
 gmscompliance-pa.googleapis.com
-googlesyndication.com
 growth-pa.googleapis.com
 infinitedata-pa.googleapis.com
 instantmessaging-pa.googleapis.com
@@ -52,12 +49,6 @@ m.android.com
 market.android.com
 mdh-pa.googleapis.com
 messages.android.com
-www.googleadservices.com
-pagead2.googlesyndication.com
-googleads.g.doubleclick.net
-tpc.googlesyndication.com
-static.googleadsserving.cn
-video-ad-stats.googlesyndication.com
 mobilemaps-pa-gz.googleapis.com
 mobilemaps-pa.googleapis.com
 mobilemaps.googleapis.com
@@ -83,6 +74,7 @@ securetoken.googleapis.com
 semanticlocation-pa.googleapis.com
 source.android.com
 speechs3proto2-pa.googleapis.com
+static.googleadsserving.cn
 stats.blogger.com
 supl.google.com
 time.android.com
@@ -100,4 +92,3 @@ ulp1p-pa.googleapis.com
 userlocation.googleapis.com
 wear.android.com
 www.android.com
-www.googleapis.com

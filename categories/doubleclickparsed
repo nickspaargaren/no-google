@@ -2,20 +2,6 @@
 # Last updated: 2022-01-15
 # Doubleclick
 
-partnerad.l.doubleclick.net
-securepubads.g.doubleclick.net
-static.doubleclick.net
-stats.g.doubleclick.net
-googleads4.g.doubleclick.net
-ebay.doubleclick.net
-doublecklick.net
-doubleclick.com
-doubleclickbygoogle.com
-cm.g.doubleclick.net
-bid.g.doubleclick.net
-ad.doubleclick.net
-ad.mo.doubleclick.net
-adclick.g.doublecklick.net
 0.fls.doubleclick.net
 00.fls.doubleclick.net
 000.fls.doubleclick.net
@@ -101,6 +87,7 @@ ad.cn.doubleclick.net
 ad.de.doubleclick.net
 ad.dk.doubleclick.net
 ad.doubleclick.com
+ad.doubleclick.net
 ad.es.doubleclick.net
 ad.fi.doubleclick.net
 ad.fr.doubleclick.net
@@ -116,6 +103,7 @@ ad.jp.doubleclick.net
 ad.kr.doubleclick.net
 ad.ma.doubleclick.net
 ad.me.doubleclick.net
+ad.mo.doubleclick.net
 ad.n2434.doubleclick.net
 ad.nl.doubleclick.net
 ad.no.doubleclick.net
@@ -140,6 +128,7 @@ ad.us.doubleclick.net
 ad.ve.doubleclick.net
 ad.za.doubleclick.net
 ad2.doubleclick.net
+adclick.g.doublecklick.net
 adclick.g.doubleclick.net
 ads-bid.l.doubleclick.net
 advertisers.doubleclick.com
@@ -147,17 +136,23 @@ advertisersapitest.doubleclick.com
 adx.g.doubleclick.net
 anon.doubleclick.speedera.net
 betareportcentral.doubleclick.com
+bid.g.doubleclick.net
 big.g.doubleclick.net
 click.comms.doubleclick.com
+cm.g.doubleclick.net
 creatives.doubleclick.net
 dart-ad.l.doubleclick.net
 dart.l.doubleclick.net
 dfp.doubleclick.net
+doublecklick.net
 doubleclick-net.com
+doubleclick.com
 doubleclick.de
 doubleclick.ne.jp
 doubleclick.net
+doubleclickbygoogle.com
 dp.g.doubleclick.net
+ebay.doubleclick.net
 emea.doubleclick.com
 feedads.g.doubleclick.net
 ff.doubleclick.net
@@ -170,9 +165,11 @@ g1.doubleclick.net
 g2.doubleclick.net
 g3.doubleclick.net
 gan.doubleclick.net
+googleads.g.doubleclick.net
 googleads.g.doubleclick.net.iberostar.com
 googleads2.g.doubleclick.net
 googleads3.g.doubleclick.net
+googleads4.g.doubleclick.net
 googleads6.g.doubleclick.net
 googleads7.g.doubleclick.net
 help.doubleclick.com
@@ -195,6 +192,7 @@ n479ad.doubleclick.net
 ns2.doubleclick.com
 pagead.l.doubleclick.net
 pagead46.l.doubleclick.net
+partnerad.l.doubleclick.net
 paypalssl.doubleclick.net
 pubads.g.doubleclick.net
 rd.intl.doubleclick.net
@@ -205,9 +203,12 @@ s0.doubleclick.net
 s2.video.doubleclick.net
 search.doubleclick.com
 secureframe.doubleclick.net
+securepubads.g.doubleclick.net
 ssl.doubleclick.com
 static.doubleclick.com
+static.doubleclick.net
 static.doubleclick.netnod
+stats.g.doubleclick.net
 stats.l.doubleclick.net
 studio.doubleclick.com
 studioapi.doubleclick.com
