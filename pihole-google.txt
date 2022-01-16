@@ -5372,14 +5372,14 @@ tw.youtube.com
 uk.youtube.com
 upload.youtube.com
 youtube.com
- youtube.de
- youtube.fr
- youtube.nl
- youtube.pl
- youtubeeducation.com
- youtubegaming.com
- yt.be
- ytimg.com
+youtube.de
+youtube.fr
+youtube.nl
+youtube.pl
+youtubeeducation.com
+youtubegaming.com
+yt.be
+ytimg.com
 ad.youtube.com
 admin-green-qa.youtube.com
 admin-release-qa.youtube.com
