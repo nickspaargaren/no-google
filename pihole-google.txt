@@ -3970,6 +3970,8 @@ tez.google.com
 tezkyhazrq.com
 th.advertisercommunity.com
 thinkwithgoogle.com
+googledrive-en.com
+drm-google-analtyic.com
 time1.google.com
 time2.google.com
 time3.google.com
