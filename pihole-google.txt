@@ -5338,21 +5338,58 @@ yt.be
 # Youtube
 _domainkey.youtube.com
 accounts.youtube.com
-ad.youtube.com
 admin-dev.youtube.com
-admin-green-qa.youtube.com
-admin-release-qa.youtube.com
 admin.youtube.com
 ads.youtube.com
+au.youtube.com
+br.youtube.com
+cms.youtube.com
+creatoracademy.youtube.com
+de.youtube.com
+director.youtube.com
+es.youtube.com
+fr.youtube.com
+gaming.youtube.com
+gr.youtube.com
+hk.youtube.com
+ie.youtube.com
+il.youtube.com
+img.youtube.com
+in.youtube.com
+it.youtube.com
+jp.youtube.com
+kids.youtube.com
+m.youtube.com
+music.youtube.com
+mx.youtube.com
+news.youtube.com
+nl.youtube.com
+nz.youtube.com
+p.youtube.com
+s.youtube.com
+tv.youtube.com
+tw.youtube.com
+uk.youtube.com
+upload.youtube.com
+youtube.com
+ youtube.de
+ youtube.fr
+ youtube.nl
+ youtube.pl
+ youtubeeducation.com
+ youtubegaming.com
+ yt.be
+ ytimg.com
+ad.youtube.com
+admin-green-qa.youtube.com
+admin-release-qa.youtube.com
 ai.ytimg.com
 analytics.youtube.com
 antechinus.youtube.com
 apiblog.youtube.com
 artists.youtube.com
-au.youtube.com
 beben-koben.youtube.com
 blake.youtube.com
-br.youtube.com
 c.youtube.com
 ca.youtube.com
 cache1.c.youtube.com
@@ -5362,32 +5399,23 @@ cdn.youtube.com
 charts.youtube.com
 chiragrdarji.youtube.com
 cliveskink.youtube.com
-cms.youtube.com
 consent.youtube.com
 corp.youtube.com
-creatoracademy.youtube.com
 csi.youtube.com
 cyc.youtube.com
 cz.youtube.com
 danville.youtube.com
 data.ytimg.com
-de.youtube.com
 design.youtube.com
 devicereport.youtube.com
-director.youtube.com
 dk.youtube.com
 edge-z-m-mini-shv-01-sit4.youtube.com
-es.youtube.com
 facebook.youtube.com
 facebookemoticons123.youtube.com
 fcmatch.youtube.com
 fi.youtube.com
-fr.youtube.com
-gaming.youtube.com
 gdata.youtube.com
-gr.youtube.com
 help.youtube.com
-hk.youtube.com
 holdingford.youtube.com
 hu.youtube.com
 i.ytimg.com
@@ -5398,31 +5426,18 @@ i4.ytimg.com
 i9.ytimg.com
 icsh.youtube.com
 id.youtube.com
-ie.youtube.com
-il.youtube.com
-img.youtube.com
-in.youtube.com
 insight.youtube.com
-it.youtube.com
 joh.youtube.com
-jp.youtube.com
-kids.youtube.com
 kr.youtube.com
 littlelovely.youtube.com
 live.youtube.com
 lscache1.c.youtube.com
-m.youtube.com
 misc-sni.youtube.com
 mms.youtube.com
 movies.youtube.com
-music.youtube.com
-mx.youtube.com
 nblg.youtube.com
-news.youtube.com
 nextc.youtube.com
-nl.youtube.com
 no.youtube.com
-nz.youtube.com
 o-o---preferred---lax04s14---v2---lscache1.c.youtube.com
 o-o---preferred---lvlt-iad1---v13---lscache1.c.youtube.com
 o-o---preferred---sn-5hn7sb76---v17---lscache1.c.youtube.com
@@ -5869,7 +5884,6 @@ o-o.preferred.zainba-bah1.v23.lscache1.c.youtube.com
 o-o.preferred.zainba-bah1.v7.lscache1.c.youtube.com
 o-o.preferred.zajil-kwi1.v12.lscache1.c.youtube.com
 o-o.preferred.zajil-kwi1.v18.lscache1.c.youtube.com
-p.youtube.com
 partner.youtube.com
 payments.youtube.com
 pl.youtube.com
@@ -5956,7 +5970,6 @@ r9---iad23s10.c.youtube.com
 redirector.c.youtube.com
 restrict.youtube.com
 ru.youtube.com
-s.youtube.com
 s.youtubeeducation.com
 s.ytimg.com
 s2.youtube.com
@@ -5982,11 +5995,7 @@ tc.v8.cache1.c.youtube.com
 tc.v9.cache1.c.youtube.com
 temple-of-apollo.youtube.com
 test.youtube.com
-tv.youtube.com
-tw.youtube.com
 uberproxy-san.youtube.com
-uk.youtube.com
-upload.youtube.com
 uploads.gdata.youtube.com
 uploads.stage.gdata.youtube.com
 v1.cache1.c.youtube.com
@@ -6027,7 +6036,6 @@ www.youtubegaming.com
 youtube-nocookie.com
 youtube.be
 youtube.co.uk
-youtube.com
 youtube.de
 youtube.es
 youtube.fr
