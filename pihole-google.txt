@@ -5324,7 +5324,7 @@ rate-limited-proxy-74-125-148-200.google.com
 rate-limited-proxy-74-125-149-0.google.com
 rate-limited-proxy-74-125-149-100.google.com
 rate-limited-proxy-74-125-149-200.google.com
-# Short Links
+# ShortLinks
 app.goo.gl
 cctldtest.g.co
 cctldtest.youtu.be
@@ -5378,7 +5378,6 @@ youtube.nl
 youtube.pl
 youtubeeducation.com
 youtubegaming.com
-yt.be
 ytimg.com
 ad.youtube.com
 admin-green-qa.youtube.com
@@ -6036,17 +6035,10 @@ www.youtubegaming.com
 youtube-nocookie.com
 youtube.be
 youtube.co.uk
-youtube.de
 youtube.es
-youtube.fr
-youtube.nl
-youtube.pl
-youtubeeducation.com
-youtubegaming.com
 youtubei.googleapis.com
 youtubei.youtube.com
 yt3.ggpht.com
-ytimg.com
 za.youtube.com
 # Fitbit
 000-client.fitbit.com
