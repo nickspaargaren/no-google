@@ -1264,6 +1264,32 @@ www6.google.com
 www9.google.com
 yp.google.com
 # Doubleclick
+rd.intl.doubleclick.net
+000000000.fls.doubleclick.net
+000000.fls.doubleclick.net
+00000.fls.doubleclick.net
+0000.fls.doubleclick.net
+000.fls.doubleclick.net
+00.fls.doubleclick.net
+0.fls.doubleclick.net
+1000.fls.doubleclick.net
+1003600.fls.doubleclick.net
+10059400.fls.doubleclick.net
+10068000.fls.doubleclick.net
+10077000.fls.doubleclick.net
+10188200.fls.doubleclick.net
+10210600.fls.doubleclick.net
+10228400.fls.doubleclick.net
+10359300.fls.doubleclick.net
+ad.ee.doubleclick.net
+ad.eg.doubleclick.net
+ad-emea.doubleclick.net
+ad.es.doubleclick.net
+googleads2.g.doubleclick.net
+googleads4.g.doubleclick.net
+ma.googleads.g.doubleclick.net
+pagead46.i.doubleclick.net
+ad-g.doubleclick.net
 doubleclick-net.com
 doubleclickbygoogle.com
 g.doubleclick.net
@@ -1272,7 +1298,6 @@ doubleclick.net
 accounts.doubleclick.net
 ad.doubleclick.net
 ad-apac.doubleclick.net
-ad-emea.doubleclick.net
 ff.doubleclick.net
 fls.doubleclick.net
 3243857.fls.doubleclick.net
@@ -1280,7 +1305,6 @@ fls.doubleclick.net
 adx.g.doubleclick.net
 bid.g.doubleclick.net
 cm.g.doubleclick.net
-googleads4.g.doubleclick.net
 pubads.g.doubleclick.net
 securepubads.g.doubleclick.net
 stats.g.doubleclick.net
@@ -1296,15 +1320,8 @@ stats.l.doubleclick.net
 m.doubleclick.net
 s0.doubleclick.net
 static.doubleclick.net
-0.fls.doubleclick.net
-00.fls.doubleclick.net
-000.fls.doubleclick.net
-0000.fls.doubleclick.net
-00000.fls.doubleclick.net
-000000.fls.doubleclick.net
 0000000.fls.doubleclick.net
 00000000.fls.doubleclick.net
-000000000.fls.doubleclick.net
 1016557.fls.doubleclick.net
 1268402.fls.doubleclick.net
 1326154.fls.doubleclick.net
@@ -1357,7 +1374,6 @@ static.doubleclick.net
 8921356.fls.doubleclick.net
 9309168.fls.doubleclick.net
 ad-ace.doubleclick.net
-ad-g.doubleclick.net
 ad.3au.doubleclick.net
 ad.ac.doubleclick.net
 ad.ae.doubleclick.net
@@ -1376,7 +1392,6 @@ ad.cn.doubleclick.net
 ad.de.doubleclick.net
 ad.dk.doubleclick.net
 ad.doubleclick.com
-ad.es.doubleclick.net
 ad.fi.doubleclick.net
 ad.fr.doubleclick.net
 ad.gr.doubleclick.net
@@ -1438,7 +1453,6 @@ feedads.g.doubleclick.net
 fls.au.doubleclick.net
 fls.uk.doubleclick.net
 gan.doubleclick.net
-googleads2.g.doubleclick.net
 googleads3.g.doubleclick.net
 googleads6.g.doubleclick.net
 googleads7.g.doubleclick.net
@@ -1460,7 +1474,6 @@ n479ad.doubleclick.net
 ns2.doubleclick.com
 pagead.l.doubleclick.net
 paypalssl.doubleclick.net
-rd.intl.doubleclick.net
 reportcentral.doubleclick.com
 reports.doubleclick.com
 rich-media-dynamic-ads-api.l.doubleclick.net
@@ -3867,6 +3880,10 @@ s.admob.com
 s0qa.2mdn.net
 s2.2mdn.net
 s2.googleusercontent.com
+1d622518c13a7c01baccc5c3724b91be.safeframe.googlesyndication.com
+30925359bd39272f220718667e27775e.safeframe.googlesyndication.com
+google-analytics.bi.owox.com
+google.analytics.com
 s43bwoifym.com
 s6emz1rhpr.com
 s8h1t7ifgd.com
@@ -4211,6 +4228,7 @@ zyvwtasyon.com
 # Mail
 chatenabled.mail.google.com
 email-quarantine.google.com
+mail-ads.google.com
 email.android.com
 filetransferenabled.mail.google.com
 gmail-for-your-domain.info
@@ -4234,7 +4252,6 @@ imap.gmail.com
 isolated.mail.google.com
 m.gmail.com
 m.googlemail.com
-mail-ads.google.com
 mail-bk0-f41.google.com
 mail-bk0-f42.google.com
 mail-bk0-f51.google.com
