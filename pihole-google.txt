@@ -1274,8 +1274,13 @@ www5f.google.com
 www6.google.com
 www9.google.com
 yp.google.com
+google-shopping.sapoapps.vn
+googleinfo.coocoldini.xyz
+google-deckoffice.ml
+info-google.waw.pl
 # Doubleclick
 rd.intl.doubleclick.net
+ad.doubleclick.net.iberostar.com
 000000000.fls.doubleclick.net
 000000.fls.doubleclick.net
 00000.fls.doubleclick.net
@@ -1311,6 +1316,7 @@ ad.doubleclick.net
 ad-apac.doubleclick.net
 ff.doubleclick.net
 fls.doubleclick.net
+www.doubleclick.ne.jp
 3243857.fls.doubleclick.net
 8272590.fls.doubleclick.net
 adx.g.doubleclick.net
@@ -1319,6 +1325,7 @@ cm.g.doubleclick.net
 pubads.g.doubleclick.net
 securepubads.g.doubleclick.net
 stats.g.doubleclick.net
+n4061ad.jp.doubleclick.net
 survey.g.doubleclick.net
 g0.doubleclick.net
 g1.doubleclick.net
