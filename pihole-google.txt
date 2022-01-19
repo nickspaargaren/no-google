@@ -302,7 +302,6 @@ userlocation.googleapis.com
 recommender.googleapis.com
 suggestqueries.googleapis.com
 wear.android.com
-metric.gstatic.com
 www.android.com
 # Area120
 kormo.com
