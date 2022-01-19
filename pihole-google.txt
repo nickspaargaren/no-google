@@ -209,6 +209,10 @@ try.crashlytics.com
 www.adgoogle.net
 # Android
 1-market.android.com
+music-pa.clients6.google.com
+photos.googleapis.com
+plus.googleapis.com
+personalsafety-pa.googleapis.com
 9098b63249ee4522c5d8677059fe22e4.safeframe.google.syndication.com
 a.android.com
 a17-250-248-101.android.com
@@ -239,6 +243,7 @@ datamixer-pa.googleapis.com
 dev.android.com
 developer.android.com
 developers.android.com
+events.withgoogle.com
 deviceintegritytokens-pa.googleapis.com
 digitalassetlinks.googleapis.com
 firebaseremoteconfig.googleapis.com
@@ -269,6 +274,7 @@ regioinfo-pa.googleapis.com
 regioninfo-pa.googleapis.com
 reminders-pa.googleapis.com
 review.source.android.com
+chromedriver.storage.googleapis.com
 s.android.com
 schemas.android.com
 securetoken.googleapis.com
@@ -303,6 +309,10 @@ www.kormo.com
 www.rivet.area120.com
 www.staykeen.com
 www.tangi.co
+ss-3.googlehosts.org
+204-44-66-78.googlehosts.org
+tg-1.googlehosts.org
+googlehosts.org
 # DNS
 014dcb18-dnsotls-ds.metric.gstatic.com
 01546dba-dnsotls-ds.metric.gstatic.com
