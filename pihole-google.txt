@@ -209,6 +209,7 @@ try.crashlytics.com
 www.adgoogle.net
 # Android
 1-market.android.com
+androidsuggesthub-pa.googleapis.com
 music-pa.clients6.google.com
 photos.googleapis.com
 plus.googleapis.com
@@ -266,6 +267,7 @@ myphonenumbers-pa.googleapis.com
 nfc.android.com
 notifications-pa.googleapis.com
 partner.android.com
+metrics.google.com
 partner.source.android.com
 performanceparameters.googleapis.com
 phonedeviceverification-pa.googleapis.com
@@ -297,7 +299,10 @@ time9.android.com
 tools.android.com
 ulp1p-pa.googleapis.com
 userlocation.googleapis.com
+recommender.googleapis.com
+suggestqueries.googleapis.com
 wear.android.com
+metric.gstatic.com
 www.android.com
 # Area120
 kormo.com
