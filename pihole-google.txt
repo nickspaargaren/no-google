@@ -1064,6 +1064,12 @@ opt.google.com
 pack.google.com
 pagead3.googlesyndication.com
 pagead46.googlesyndication.com
+000f378090e2706f51b54df7358b7608.safeframe.googlesyndication.com
+070ba158d714f0799803d2ff78aba575.safeframe.googlesyndication.com
+0bd253a685e075f08ff3000303805971.safeframe.googlesyndication.com
+0c56389292c0b4670f6f7508c6625771.safeframe.googlesyndication.com
+0e553a7644b6bd72ea6234ae678e3d07.safeframe.googlesyndication.com
+10.afs.googleadservices.com
 partners.google.com
 pay.google.com
 peering.google.com
@@ -1370,6 +1376,12 @@ ad.doubleclick.net.iberostar.com
 000.fls.doubleclick.net
 00.fls.doubleclick.net
 0.fls.doubleclick.net
+10017761.fls.doubleclick.net
+10074809.fls.doubleclick.net
+10082405.fls.doubleclick.net
+10117223.fls.doubleclick.net
+10160350.fls.doubleclick.net
+10168703.fls.doubleclick.net
 1000.fls.doubleclick.net
 1003600.fls.doubleclick.net
 10059400.fls.doubleclick.net
