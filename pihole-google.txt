@@ -48,14 +48,6 @@ fundingchoicesmessages.google.com
 ghs.google.com
 groups.google.com
 id.google.com
-blogger.l.google.com
-gstaticadssl.l.google.com
-www-googletagmanager.l.google.com
-www3.l.google.com
-www4.l.google.com
-youtube-ui.l.google.com
-ytimg.l.google.com
-mail.google.com
 maps.google.com
 maps-api-ssl.google.com
 messages.google.com
@@ -4283,6 +4275,7 @@ zyvwtasyon.com
 # Mail
 chatenabled.mail.google.com
 email-quarantine.google.com
+mail.google.com
 mail-ads.google.com
 email.android.com
 filetransferenabled.mail.google.com
