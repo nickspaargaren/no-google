@@ -190,9 +190,6 @@ googletagservices.com
 www.googletagservices.com
 googletraveladservices.com
 googleusercontent.com
-blogspot.l.googleusercontent.com
-googlecode.l.googleusercontent.com
-photos-ugc.l.googleusercontent.com
 lh3.googleusercontent.com
 lh4.googleusercontent.com
 lh5.googleusercontent.com
