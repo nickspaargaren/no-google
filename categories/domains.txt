@@ -1,5 +1,5 @@
 # This blocklist helps to restrict access to Google and its domains. Contribute at https://github.com/nickspaargaren/no-google
-# Last updated: 2022-01-15
+# Last updated: 2022-01-26
 # Domains
 
 0.0.0.0 _caldav._tcp.google.com
@@ -15,8 +15,17 @@
 0.0.0.0 _tls.google.com
 0.0.0.0 _xmpp-client._tcp.google.com
 0.0.0.0 _xmpp-server._tcp.google.com
+0.0.0.0 000f378090e2706f51b54df7358b7608.safeframe.googlesyndication.com
+0.0.0.0 070ba158d714f0799803d2ff78aba575.safeframe.googlesyndication.com
+0.0.0.0 0bd253a685e075f08ff3000303805971.safeframe.googlesyndication.com
+0.0.0.0 0c56389292c0b4670f6f7508c6625771.safeframe.googlesyndication.com
+0.0.0.0 0e553a7644b6bd72ea6234ae678e3d07.safeframe.googlesyndication.com
+0.0.0.0 1d622518c13a7c01baccc5c3724b91be.safeframe.googlesyndication.com
+0.0.0.0 204-44-66-78.googlehosts.org
 0.0.0.0 2mdn.net
+0.0.0.0 30925359bd39272f220718667e27775e.safeframe.googlesyndication.com
 0.0.0.0 3ded44bd838404a6a3f3d7333aa65498.safeframe.googlesyndication.com
+0.0.0.0 9098b63249ee4522c5d8677059fe22e4.safeframe.googlesyndication.com
 0.0.0.0 96d80cafb2cc6ad351ea76aea0f55d37.safeframe.googlesyndication.com
 0.0.0.0 academico.google.com
 0.0.0.0 account.google.com
@@ -108,6 +117,7 @@
 0.0.0.0 doc.google.com
 0.0.0.0 docs.google.com
 0.0.0.0 domains.google.com
+0.0.0.0 domains4google.com
 0.0.0.0 download.google.com
 0.0.0.0 downloads.google.com
 0.0.0.0 drive.google.com
@@ -152,6 +162,7 @@
 0.0.0.0 gg.google.com
 0.0.0.0 ggoogle.com
 0.0.0.0 ggpht.com
+0.0.0.0 ghs-svc-https-c46.ghs-ssl.googlehosted.com
 0.0.0.0 glass.google.com
 0.0.0.0 gmail.com
 0.0.0.0 gmail.google.com
@@ -373,6 +384,7 @@
 0.0.0.0 googlee.com
 0.0.0.0 googleearth.com
 0.0.0.0 googlegroups.com
+0.0.0.0 googlehosts.org
 0.0.0.0 googlemaps.com
 0.0.0.0 googlepagecreator.com
 0.0.0.0 googlescholar.com
@@ -400,9 +412,28 @@
 0.0.0.0 home.google.com
 0.0.0.0 hpcase.google.com
 0.0.0.0 hume.google.com
+0.0.0.0 id.google.ac
+0.0.0.0 id.google.ae
+0.0.0.0 id.google.at
+0.0.0.0 id.google.au
+0.0.0.0 id.google.br
+0.0.0.0 id.google.ch
+0.0.0.0 id.google.co.jp
+0.0.0.0 id.google.co.kr
 0.0.0.0 id.google.com
 0.0.0.0 id.google.de
+0.0.0.0 id.google.dk
 0.0.0.0 id.google.es
+0.0.0.0 id.google.eu
+0.0.0.0 id.google.gr
+0.0.0.0 id.google.ie
+0.0.0.0 id.google.il
+0.0.0.0 id.google.in
+0.0.0.0 id.google.it
+0.0.0.0 id.google.jp
+0.0.0.0 id.google.pk
+0.0.0.0 id.google.ru
+0.0.0.0 id.google.se
 0.0.0.0 ig.google.com
 0.0.0.0 igoogle.com
 0.0.0.0 image.google.com
@@ -478,6 +509,7 @@
 0.0.0.0 opt.google.com
 0.0.0.0 pack.google.com
 0.0.0.0 pagead.googlesyndication.com
+0.0.0.0 pagead0.googlesyndication.com
 0.0.0.0 pagead1.googlesyndication.com
 0.0.0.0 pagead2.googlesyndication.com
 0.0.0.0 pagead3.googlesyndication.com
@@ -532,6 +564,7 @@
 0.0.0.0 spaces.google.com
 0.0.0.0 speech.google.com
 0.0.0.0 sprint.google.com
+0.0.0.0 ss-3.googlehosts.org
 0.0.0.0 static.2mdn.net
 0.0.0.0 station.google.com
 0.0.0.0 store.google.com
@@ -540,12 +573,14 @@
 0.0.0.0 surveys.google.com
 0.0.0.0 talk.google.com
 0.0.0.0 tanaceto.google.com
+0.0.0.0 tg-1.googlehosts.org
 0.0.0.0 tic.googlesyndication.com
 0.0.0.0 time.google.com
 0.0.0.0 toolbar.google.com
 0.0.0.0 toolbox.google.com
 0.0.0.0 tools.google.com
 0.0.0.0 tpc.googlesyndication.com
+0.0.0.0 tpc.googlesyndication.com.proxy.c9w.net
 0.0.0.0 tpcnc.googlesyndication.com
 0.0.0.0 transit.google.com
 0.0.0.0 translate.google.com
@@ -773,7 +808,9 @@
 0.0.0.0 www.google.ws
 0.0.0.0 www.googleadservices.com
 0.0.0.0 www.googleapis.com
+0.0.0.0 www.googlesyndication.com
 0.0.0.0 www.news.google.com
+0.0.0.0 www.pagead2.googlesyndication.com
 0.0.0.0 www10.google.com
 0.0.0.0 www1b.google.com
 0.0.0.0 www2b.google.com
