@@ -1721,7 +1721,6 @@
 0.0.0.0 rate-limited-proxy-74-125-148-111.google.com
 0.0.0.0 rbr6avmqzq32et2qzfosmubfzlyplczb44t63u3dp5yia5msmmjq.mx-verification.google.com
 0.0.0.0 rcs-acs-prod-us.sandbox.google.com
-0.0.0.0 rcs-acs-virgin-mobile-uk.jibe.google.com
 0.0.0.0 realtimebidding.google.com
 0.0.0.0 realtimesupport.clients6.google.com
 0.0.0.0 rec4gno8he.com
