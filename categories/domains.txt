@@ -450,7 +450,6 @@
 0.0.0.0 ish.google.com
 0.0.0.0 isp.google.com
 0.0.0.0 java-intellectual.google.com
-0.0.0.0 jibe.google.com
 0.0.0.0 jigsaw.google.com
 0.0.0.0 jobs.google.com
 0.0.0.0 jump.google.com
