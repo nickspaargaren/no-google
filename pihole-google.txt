@@ -7522,11 +7522,6 @@ passwordgoogle.com
 google-cdn.perfops.io
 storegoogle.com
 translatorgoogle.com
-store.google.com/es
-translate.google.com/?hl=es
-www.google.com/recaptcha
-www.google.com/recaptcha/api
-www.google.es/recaptcha/api
 abcdserver.com
 google-yandex.info
 sites.google.com
