@@ -1,5 +1,5 @@
 # This blocklist helps to restrict access to Google and its domains. Contribute at https://github.com/nickspaargaren/no-google
-# Last updated: 2022-01-15
+# Last updated: 2022-01-26
 # Android
 
 0.0.0.0 1-market.android.com
@@ -25,6 +25,7 @@
 0.0.0.0 clientmetrics-pa.googleapis.com
 0.0.0.0 clientservices.googleapis.com
 0.0.0.0 cloudconfig.googleapis.com
+0.0.0.0 com.google.android.maps
 0.0.0.0 connectivitycheck.android.com
 0.0.0.0 content-autofill.googleapis.com
 0.0.0.0 cryptauthdevicesync.googleapis.com
