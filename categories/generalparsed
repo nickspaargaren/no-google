@@ -1,10 +1,7 @@
 # This blocklist helps to restrict access to Google and its domains. Contribute at https://github.com/nickspaargaren/no-google
-# Last updated: 2022-01-15
+# Last updated: 2022-01-26
 # General
 
-ampcid.google.se
-IMAGEs.google.com
-DeSKtoP.google.com
 0.chart.apis.google.com
 0.client-channel.google.com
 007huangjiaduchangnvzhujiao.capitalg.com
@@ -29,12 +26,14 @@ DeSKtoP.google.com
 0zxi117b08.com
 1.bp.blogspot.com
 1.chart.apis.google.com
+10.afs.googleadservices.com
 10.client-channel.google.com
 10a2shi.feedproxy.ghs.google.com
 11.client-channel.google.com
 110.docs.google.com
 12.client-channel.google.com
 1235tcv.feedproxy.ghs.google.com
+13453765871837679316.googlegroups.com
 15k67p8.feedproxy.ghs.google.com
 16.client-channel.google.com
 17.client-channel.google.com
@@ -283,6 +282,7 @@ adservice.google.nl
 adservice.google.no
 adservice.google.pk
 adservice.google.pl
+adservice.google.pt
 adservice.google.ru
 adservice.google.sc
 adservice.google.se
@@ -313,6 +313,7 @@ alt1057.area120.google.com
 alt953.asia2.google.com
 alzafhczqu6tdfgv4jtneovav7d76blcdwfkzj5cntahh7lzy5gq.mx-verification.google.com
 ampcid.google.com
+ampcid.google.se
 ampproject.org
 amwbp6elqd.com
 an5ywmva51.com
@@ -510,6 +511,7 @@ crr0kvp1vv.com
 crvkqnmovj.com
 cs.corp.google.com
 cse.google.es
+ctp.googletagmanager.com
 currents.google.com
 customerreviews.google.com
 cy0n3rjf69.com
@@ -528,6 +530,7 @@ defloration.ns1.google.com
 dep.admob.com
 design.google
 designguidelines.withgoogle.com
+DeSKtoP.google.com
 desktop1.google.com
 desktop2.google.com
 desktop3.google.com
@@ -559,6 +562,7 @@ e1grot6apy.com
 e2clock.gcp.gvt2.com
 e3evxtjzgl.com
 e9fmymeil8.com
+earth.google.es
 earthbuilder.google.com
 earthengine.google.com
 earthview.withgoogle.com
@@ -579,6 +583,7 @@ ert1d91zeq.com
 es.advertisercommunity.com
 esmxz14mvy.com
 et7df5ynve.com
+events.withgoogle.com
 evfkvug2jz.com
 ewg4dyl6s4.com
 experiments.withgoogle.com
@@ -663,7 +668,9 @@ give.corp.google.com
 gl-ssl.google.com
 gmskiosk.corp.google.com
 goldtradnew5.docs.google.com
+google-analytics.bi.owox.com
 google-code-prettify.googlecode.com
+google-deckoffice.ml
 google-docs.org
 google-en.collectyourprize.club
 google-proxy-64-233-172-144.google.com
@@ -676,6 +683,7 @@ google-proxy-66-249-83-1.google.com
 google-proxy-66-249-93-110.google.com
 google-proxy-66-249-93-206.google.com
 google-public-dns-a.google.com
+google.analytics.com
 google.cx
 google.eu
 google.nf
@@ -689,7 +697,10 @@ googlehomefoyer-pa.googleapis.com
 googleplex-android-review.git.corp.google.com
 googlesciencefair.com
 googlesource.com
+googletagservice.com
+googletraveladservices.com
 googleusercontent.com
+googlevideo.com
 googlew.com
 googlezip.net
 gooogleapi.com
@@ -754,6 +765,7 @@ iid.googleapis.com
 ikknil4o42.com
 images-partners-tbn.google.com
 images-partners.google.com
+IMAGEs.google.com
 imap.google.com
 inputtools.google.com
 instaplot.corp.google.com
@@ -866,6 +878,7 @@ mannequin.storage.googleapis.com
 manufacturers.google.com
 mapmaker.google.com
 maps-api-ssl.google.com
+maps.google.es
 maps.googleapis.com
 mapsengine.google.com
 marketingplatform.google.com
@@ -879,6 +892,7 @@ media.admob.com
 mes-x-dev.corp.google.com
 messages.google.com
 metrics.admob.com
+metrics.google.com
 microapps.google.com
 misc-anycast.1.google.com
 mlbgyl9f8b.com
@@ -902,6 +916,7 @@ mts0.google.com
 mts1.google.com
 mua3.googleusercontent.com
 mucmvo8nz9.com
+music-pa.clients6.google.com
 musiclab.chromeexperiments.com
 mv4sjysfhq.com
 mv99azr2lu.com
@@ -981,6 +996,7 @@ partnerdash-nightly.corp.google.com
 partnerdash.google.com
 partnerissuetracker.corp.google.com
 partnerpage.google.com
+passwordgoogle.com
 payments.developers.google.com
 peoplestack-pa.googleapis.com
 photosdata-pa.googleapis.com
@@ -994,8 +1010,10 @@ pkn7e9us0y.com
 pl.advertisercommunity.com
 play-fe.googleapis.com
 play-next-dogfood.corp.google.com
+play.google.es
 playbooks-pa.googleapis.com
 playgateway-pa.googleapis.com
+plus.google.es
 plus.sandbox.google.com
 plus.url.google.com
 plusone.google.com
@@ -1762,6 +1780,7 @@ signaler-pa.clients6.google.com
 signcla.corp.google.com
 signup.earthengine.google.com
 sip.voice.google.com
+sites.google.com
 sitescontent.google.com
 sixo4x8lpg.com
 sk1t2ohimi.com
@@ -1809,6 +1828,8 @@ steamcloud-eu-ams.storage.googleapis.com
 stjp98c3hu.com
 storage.cloud.google.com
 storage.googleapis.com
+store.google.es
+storegoogle.com
 stream.meet.google.com
 stylesquad.appengine.google.com
 su4xxf9ea6.com
@@ -1856,7 +1877,9 @@ tq970h0typ.com
 tr3xa9sjlu.com
 tracking.admobsphere.com
 trakksocial.googlecode.com
+translate.google.es
 translate.googleapis.com
+translatorgoogle.com
 transparencyreport.google.com
 tv576.drive.google.com
 tw580pjggb.com

@@ -1,5 +1,5 @@
 # This blocklist helps to restrict access to Google and its domains. Contribute at https://github.com/nickspaargaren/no-google
-# Last updated: 2022-01-15
+# Last updated: 2022-01-26
 # Nest
 
 accounts.ft.nest.com
@@ -151,6 +151,7 @@ keyring.nest.com
 ldap.hq.nest.com
 login.nest.com
 logistics.nest.com
+logsink.devices.nest.com
 logsink.home.ft.nest.com
 logsink.home.nest.com
 mailhost.nest.com

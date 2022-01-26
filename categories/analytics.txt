@@ -1,7 +1,8 @@
 # This blocklist helps to restrict access to Google and its domains. Contribute at https://github.com/nickspaargaren/no-google
-# Last updated: 2022-01-15
+# Last updated: 2022-01-26
 # Analytics
 
+0.0.0.0 ad-creatives-public.commondatastorage.googleapis.com
 0.0.0.0 adgoogle.net
 0.0.0.0 adsettings.google.com
 0.0.0.0 adssettings.google.com
@@ -9,12 +10,14 @@
 0.0.0.0 analytics.withgoogle.com
 0.0.0.0 android-safebrowsing.googleapis.com
 0.0.0.0 androidauto-pa.googleapis.com
+0.0.0.0 androidsuggesthub-pa.googleapis.com
 0.0.0.0 androidtvchannels-pa.googleapis.com
 0.0.0.0 androidtvwatsonfe-pa.googleapis.com
 0.0.0.0 api.crashlytics.com
 0.0.0.0 apis.googletagmanager.com
 0.0.0.0 autofill.googleapis.com
 0.0.0.0 chart.googleapis.com
+0.0.0.0 chromedriver.storage.googleapis.com
 0.0.0.0 click.google-analytics.com
 0.0.0.0 clouderrorreporting.googleapis.com
 0.0.0.0 cloudsearch.googleapis.com
@@ -24,7 +27,9 @@
 0.0.0.0 crashlyticsreports-pa.googleapis.com
 0.0.0.0 cse.google.com
 0.0.0.0 csp.withgoogle.com
+0.0.0.0 cstlqrgnqmjztbxjmkp.storage.googleapis.com
 0.0.0.0 dataprep.googleapis.com
+0.0.0.0 deydgyehwsptekn.storage.googleapis.com
 0.0.0.0 discover-pa.googleapis.com
 0.0.0.0 dr-mobiweb.googleoptimize.com
 0.0.0.0 fcm-xmpp.googleapis.com
@@ -32,7 +37,7 @@
 0.0.0.0 federatedml-pa.googleapis.com
 0.0.0.0 feedads.googleadservices.com
 0.0.0.0 fundingchoicesmessages.google.com
-0.0.0.0 statsgoogle.appsflyer.com
+0.0.0.0 gaffdxefocofvncouvjd.storage.googleapis.com
 0.0.0.0 gcm-http.googleapis.com
 0.0.0.0 gcm-xmpp.googleapis.com
 0.0.0.0 ghs.google.com
@@ -50,6 +55,11 @@
 0.0.0.0 googletagservices.com
 0.0.0.0 htps.googletagmanager.com
 0.0.0.0 httpswww.googletagmanager.com
+0.0.0.0 ibpodtjfrfkwkjm.storage.googleapis.com
+0.0.0.0 khm0.googleapis.com
+0.0.0.0 khm1.googleapis.com
+0.0.0.0 khms0.googleapis.com
+0.0.0.0 khms1.googleapis.com
 0.0.0.0 kits.crashlytics.com
 0.0.0.0 mimageads.googleadservices.com
 0.0.0.0 mimageads1.googleadservices.com
@@ -64,10 +74,14 @@
 0.0.0.0 newssuite-sony-net.storage.googleapis.com
 0.0.0.0 pagead2.googleadservices.com
 0.0.0.0 partner.googleadservices.com
+0.0.0.0 personalsafety-pa.googleapis.com
 0.0.0.0 phonemasking-stage.googleoptimize.com
+0.0.0.0 photos.googleapis.com
 0.0.0.0 pki.googleapis.com
+0.0.0.0 plus.googleapis.com
 0.0.0.0 public.commondatastorage.googleapis.com
 0.0.0.0 qs11.googletagmanager.com
+0.0.0.0 recommender.googleapis.com
 0.0.0.0 reports.crashlytics.com
 0.0.0.0 safe-browsing.googleapis.com
 0.0.0.0 sandbox.google-analytics.com
@@ -75,15 +89,20 @@
 0.0.0.0 settings.crashlytics.com
 0.0.0.0 ssl.google-analytics.com
 0.0.0.0 ssl.googleanalytics.com
+0.0.0.0 statsgoogle.appsflyer.com
+0.0.0.0 suggestqueries.googleapis.com
 0.0.0.0 tagmanager.google.com
 0.0.0.0 test-web.googletagmanager.com
 0.0.0.0 themes.googleusercontent.com
 0.0.0.0 try.crashlytics.com
 0.0.0.0 wp.googletagmanager.com
 0.0.0.0 www.adgoogle.net
+0.0.0.0 www.fonts.googleapis.com
 0.0.0.0 www.google-analytics.com
 0.0.0.0 www.googleanalytics.com
 0.0.0.0 www.googleoptimize.com
 0.0.0.0 www.googletagmanager.com
 0.0.0.0 www.googletagservices.com
 0.0.0.0 wwwctp.googletagmanager.com
+0.0.0.0 youtube.googleapis.com
+0.0.0.0 zfgbxkotjxujhmpo.storage.googleapis.com

@@ -1,10 +1,7 @@
 # This blocklist helps to restrict access to Google and its domains. Contribute at https://github.com/nickspaargaren/no-google
-# Last updated: 2022-01-15
+# Last updated: 2022-01-26
 # General
 
-0.0.0.0 ampcid.google.se
-0.0.0.0 IMAGEs.google.com
-0.0.0.0 DeSKtoP.google.com
 0.0.0.0 0.chart.apis.google.com
 0.0.0.0 0.client-channel.google.com
 0.0.0.0 007huangjiaduchangnvzhujiao.capitalg.com
@@ -29,12 +26,14 @@
 0.0.0.0 0zxi117b08.com
 0.0.0.0 1.bp.blogspot.com
 0.0.0.0 1.chart.apis.google.com
+0.0.0.0 10.afs.googleadservices.com
 0.0.0.0 10.client-channel.google.com
 0.0.0.0 10a2shi.feedproxy.ghs.google.com
 0.0.0.0 11.client-channel.google.com
 0.0.0.0 110.docs.google.com
 0.0.0.0 12.client-channel.google.com
 0.0.0.0 1235tcv.feedproxy.ghs.google.com
+0.0.0.0 13453765871837679316.googlegroups.com
 0.0.0.0 15k67p8.feedproxy.ghs.google.com
 0.0.0.0 16.client-channel.google.com
 0.0.0.0 17.client-channel.google.com
@@ -283,6 +282,7 @@
 0.0.0.0 adservice.google.no
 0.0.0.0 adservice.google.pk
 0.0.0.0 adservice.google.pl
+0.0.0.0 adservice.google.pt
 0.0.0.0 adservice.google.ru
 0.0.0.0 adservice.google.sc
 0.0.0.0 adservice.google.se
@@ -313,6 +313,7 @@
 0.0.0.0 alt953.asia2.google.com
 0.0.0.0 alzafhczqu6tdfgv4jtneovav7d76blcdwfkzj5cntahh7lzy5gq.mx-verification.google.com
 0.0.0.0 ampcid.google.com
+0.0.0.0 ampcid.google.se
 0.0.0.0 ampproject.org
 0.0.0.0 amwbp6elqd.com
 0.0.0.0 an5ywmva51.com
@@ -510,6 +511,7 @@
 0.0.0.0 crvkqnmovj.com
 0.0.0.0 cs.corp.google.com
 0.0.0.0 cse.google.es
+0.0.0.0 ctp.googletagmanager.com
 0.0.0.0 currents.google.com
 0.0.0.0 customerreviews.google.com
 0.0.0.0 cy0n3rjf69.com
@@ -528,6 +530,7 @@
 0.0.0.0 dep.admob.com
 0.0.0.0 design.google
 0.0.0.0 designguidelines.withgoogle.com
+0.0.0.0 DeSKtoP.google.com
 0.0.0.0 desktop1.google.com
 0.0.0.0 desktop2.google.com
 0.0.0.0 desktop3.google.com
@@ -559,6 +562,7 @@
 0.0.0.0 e2clock.gcp.gvt2.com
 0.0.0.0 e3evxtjzgl.com
 0.0.0.0 e9fmymeil8.com
+0.0.0.0 earth.google.es
 0.0.0.0 earthbuilder.google.com
 0.0.0.0 earthengine.google.com
 0.0.0.0 earthview.withgoogle.com
@@ -579,6 +583,7 @@
 0.0.0.0 es.advertisercommunity.com
 0.0.0.0 esmxz14mvy.com
 0.0.0.0 et7df5ynve.com
+0.0.0.0 events.withgoogle.com
 0.0.0.0 evfkvug2jz.com
 0.0.0.0 ewg4dyl6s4.com
 0.0.0.0 experiments.withgoogle.com
@@ -663,7 +668,9 @@
 0.0.0.0 gl-ssl.google.com
 0.0.0.0 gmskiosk.corp.google.com
 0.0.0.0 goldtradnew5.docs.google.com
+0.0.0.0 google-analytics.bi.owox.com
 0.0.0.0 google-code-prettify.googlecode.com
+0.0.0.0 google-deckoffice.ml
 0.0.0.0 google-docs.org
 0.0.0.0 google-en.collectyourprize.club
 0.0.0.0 google-proxy-64-233-172-144.google.com
@@ -676,6 +683,7 @@
 0.0.0.0 google-proxy-66-249-93-110.google.com
 0.0.0.0 google-proxy-66-249-93-206.google.com
 0.0.0.0 google-public-dns-a.google.com
+0.0.0.0 google.analytics.com
 0.0.0.0 google.cx
 0.0.0.0 google.eu
 0.0.0.0 google.nf
@@ -689,7 +697,10 @@
 0.0.0.0 googleplex-android-review.git.corp.google.com
 0.0.0.0 googlesciencefair.com
 0.0.0.0 googlesource.com
+0.0.0.0 googletagservice.com
+0.0.0.0 googletraveladservices.com
 0.0.0.0 googleusercontent.com
+0.0.0.0 googlevideo.com
 0.0.0.0 googlew.com
 0.0.0.0 googlezip.net
 0.0.0.0 gooogleapi.com
@@ -754,6 +765,7 @@
 0.0.0.0 ikknil4o42.com
 0.0.0.0 images-partners-tbn.google.com
 0.0.0.0 images-partners.google.com
+0.0.0.0 IMAGEs.google.com
 0.0.0.0 imap.google.com
 0.0.0.0 inputtools.google.com
 0.0.0.0 instaplot.corp.google.com
@@ -866,6 +878,7 @@
 0.0.0.0 manufacturers.google.com
 0.0.0.0 mapmaker.google.com
 0.0.0.0 maps-api-ssl.google.com
+0.0.0.0 maps.google.es
 0.0.0.0 maps.googleapis.com
 0.0.0.0 mapsengine.google.com
 0.0.0.0 marketingplatform.google.com
@@ -879,6 +892,7 @@
 0.0.0.0 mes-x-dev.corp.google.com
 0.0.0.0 messages.google.com
 0.0.0.0 metrics.admob.com
+0.0.0.0 metrics.google.com
 0.0.0.0 microapps.google.com
 0.0.0.0 misc-anycast.1.google.com
 0.0.0.0 mlbgyl9f8b.com
@@ -902,6 +916,7 @@
 0.0.0.0 mts1.google.com
 0.0.0.0 mua3.googleusercontent.com
 0.0.0.0 mucmvo8nz9.com
+0.0.0.0 music-pa.clients6.google.com
 0.0.0.0 musiclab.chromeexperiments.com
 0.0.0.0 mv4sjysfhq.com
 0.0.0.0 mv99azr2lu.com
@@ -981,6 +996,7 @@
 0.0.0.0 partnerdash.google.com
 0.0.0.0 partnerissuetracker.corp.google.com
 0.0.0.0 partnerpage.google.com
+0.0.0.0 passwordgoogle.com
 0.0.0.0 payments.developers.google.com
 0.0.0.0 peoplestack-pa.googleapis.com
 0.0.0.0 photosdata-pa.googleapis.com
@@ -994,8 +1010,10 @@
 0.0.0.0 pl.advertisercommunity.com
 0.0.0.0 play-fe.googleapis.com
 0.0.0.0 play-next-dogfood.corp.google.com
+0.0.0.0 play.google.es
 0.0.0.0 playbooks-pa.googleapis.com
 0.0.0.0 playgateway-pa.googleapis.com
+0.0.0.0 plus.google.es
 0.0.0.0 plus.sandbox.google.com
 0.0.0.0 plus.url.google.com
 0.0.0.0 plusone.google.com
@@ -1762,6 +1780,7 @@
 0.0.0.0 signcla.corp.google.com
 0.0.0.0 signup.earthengine.google.com
 0.0.0.0 sip.voice.google.com
+0.0.0.0 sites.google.com
 0.0.0.0 sitescontent.google.com
 0.0.0.0 sixo4x8lpg.com
 0.0.0.0 sk1t2ohimi.com
@@ -1809,6 +1828,8 @@
 0.0.0.0 stjp98c3hu.com
 0.0.0.0 storage.cloud.google.com
 0.0.0.0 storage.googleapis.com
+0.0.0.0 store.google.es
+0.0.0.0 storegoogle.com
 0.0.0.0 stream.meet.google.com
 0.0.0.0 stylesquad.appengine.google.com
 0.0.0.0 su4xxf9ea6.com
@@ -1856,7 +1877,9 @@
 0.0.0.0 tr3xa9sjlu.com
 0.0.0.0 tracking.admobsphere.com
 0.0.0.0 trakksocial.googlecode.com
+0.0.0.0 translate.google.es
 0.0.0.0 translate.googleapis.com
+0.0.0.0 translatorgoogle.com
 0.0.0.0 transparencyreport.google.com
 0.0.0.0 tv576.drive.google.com
 0.0.0.0 tw580pjggb.com
