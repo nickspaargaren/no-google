@@ -35,6 +35,7 @@
 0.0.0.0 dev.android.com
 0.0.0.0 developer.android.com
 0.0.0.0 developers.android.com
+0.0.0.0 google.com.onion
 0.0.0.0 deviceintegritytokens-pa.googleapis.com
 0.0.0.0 digitalassetlinks.googleapis.com
 0.0.0.0 firebaseremoteconfig.googleapis.com
