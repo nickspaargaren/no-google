@@ -1,5 +1,5 @@
 ! This blocklist helps to restrict access to Google and its domains. Contribute at https://github.com/nickspaargaren/no-google
-! Last updated: 2022-01-26
+! Last updated: 2022-02-04
 ! Analytics
 ||ad-creatives-public.commondatastorage.googleapis.com^
 ||adgoogle.net^
@@ -439,6 +439,32 @@
 ||0c56389292c0b4670f6f7508c6625771.safeframe.googlesyndication.com^
 ||0e553a7644b6bd72ea6234ae678e3d07.safeframe.googlesyndication.com^
 ||1d622518c13a7c01baccc5c3724b91be.safeframe.googlesyndication.com^
+||d22e873e0abdfccd1df095ff8df94ab2.safeframe.googlesyndication.com^
+||d2eb32d836913b4bb547aa369e59c573.safeframe.googlesyndication.com^
+||d5da607ce6bd6c031f73be0a2d3183d4.safeframe.googlesyndication.com^
+||d8373b735229d7504d2df967de58eef0.safeframe.googlesyndication.com^
+||d8b8406cb84f25efae5716e040039914.safeframe.googlesyndication.com^
+||d96bcdc30c1165ea8cc44dafa315565a.safeframe.googlesyndication.com^
+||d99bbe6e75000180ef8b624cc2a58289.safeframe.googlesyndication.com^
+||c659860d58820534bd6e05d624958bad.safeframe.googlesyndication.com^
+||c7211df10543faf59eefc065f6dceb95.safeframe.googlesyndication.com^
+||c8ceb739c3094faffe42faa6b798e80b.safeframe.googlesyndication.com^
+||ca6de71f560f9631037e80d5e8c08256.safeframe.googlesyndication.com^
+||cacf1bd81426438163ae43128c9dda13.safeframe.googlesyndication.com^
+||ccacc69a0d7467ebaac293677146be75.safeframe.googlesyndication.com^
+||cdff40dad0a98d6b641bfca1a05423a8.safeframe.googlesyndication.com^
+||ba9cc369c710b3bf03e7540c9b78ed3e.safeframe.googlesyndication.com^
+||bad9345f3f58e02c69dd3791de171d23.safeframe.googlesyndication.com^
+||bb88ee5b85c699f7598bce8d0af21df6.safeframe.googlesyndication.com^
+||bc4d452b942c813c2e02dfb1beb30f5c.safeframe.googlesyndication.com^
+||bc906f8d44fc2f2cb371d4abeea2159a.safeframe.googlesyndication.com^
+||bd1c3643fb3f74e123256cce3de57529.safeframe.googlesyndication.com^
+||be0bb042eb880a1bca3055ac508cf25d.safeframe.googlesyndication.com^
+||bf384be1946ca2f93f5c88eb9279fc3c.safeframe.googlesyndication.com^
+||c0d73cbdac31ecac3759ea15936eb89c.safeframe.googlesyndication.com^
+||c168f2232bf52e555d4d1ce8a93dfb65.safeframe.googlesyndication.com^
+||c1747737cf3cefaea7b35e98e85828cd.safeframe.googlesyndication.com^
+||98715c0e7c194aa5ccc496a7eb766613.safeframe.googlesyndication.com^
 ||204-44-66-78.googlehosts.org^
 ||2mdn.net^
 ||30925359bd39272f220718667e27775e.safeframe.googlesyndication.com^
