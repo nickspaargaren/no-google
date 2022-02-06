@@ -56,7 +56,6 @@ ssl.google-analytics.com
 tagmanager.google.com
 test-web.googletagmanager.com
 wp.googletagmanager.com
-www-googletagmanager.l.google.com
 www.google-analytics.com
 www.googletagservices.com
 www.ctp.googletagmanager.com
@@ -7610,7 +7609,7 @@ www.tokyo.jibemobile.com
 www.viper.jibemobile.com
 www.watermelon.jibemobile.com
 yellowstone.jibemobile.com
-# Android Box
+# AndroidBox
 loc.map.baidu.com
 popads.net
 ads.cc
