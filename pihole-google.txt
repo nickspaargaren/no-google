@@ -168,7 +168,6 @@ adservice.google.com.vn
 pagead2.googlesyndication.com
 pubads.g.doubleclick.net
 cdn.ampproject.org
-people-pa.googleapis.com 
 dns.google
 infinitedata-pa.googleapis.com
 instantmessaging-pa.googleapis.com
@@ -5406,7 +5405,7 @@ rate-limited-proxy-74-125-148-200.google.com
 rate-limited-proxy-74-125-149-0.google.com
 rate-limited-proxy-74-125-149-100.google.com
 rate-limited-proxy-74-125-149-200.google.com
-# Short Links
+# ShortLinks
 app.goo.gl
 cctldtest.g.co
 cctldtest.youtu.be
