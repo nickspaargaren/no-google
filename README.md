@@ -1,4 +1,4 @@
-[![No G](https://raw.githubusercontent.com/nickspaargaren/pihole-google/master/GAFAMSPLATTEXTNOGgit.png)](https://github.com/nickspaargaren/no-google)
+[![No G](https://raw.githubusercontent.com/nickspaargaren/pihole-google/master/images/GAFAMSPLATTEXTNOGgit.png)](https://github.com/nickspaargaren/no-google)
 
 # Definition of GAFAM
 *The GAFAM is an acronym used to describe the five multinational technology companies Google, Amazon, Facebook, Apple and Microsoft, taking the first letters of all these companies. The GAFAM are sometimes referred to as the Big Five due to them being the five most profilific companies in the world. Although in some sectors some of the five companies may be in direct competition, they offer different products or services overall while presenting some common characteristics that deserve to bring them together under the same acronym: by their size, they are particularly influential on the American and European Internet both economically and politically and socially and are regularly the subject of criticism or prosecution on tax matters, abuses of dominant positions and the non-respect of Internet users' privacy.*
@@ -135,4 +135,4 @@ Of course, here’s some filterlists that should help you accomplish that.
 
 **M**icrosoft : https://raw.githubusercontent.com/jmdugan/blocklists/master/corporations/microsoft/all or https://gitlab.com/CHEF-KOCH/cks-filterlist/blob/master/Anti-Corp/filters/microsoft.txt
 
-[![https://gafam.info](https://ptrace.gafam.info/unofficial/img/color/lqdn-gafam-poster-en-color-5x1-2560x.png)](https://gafam.info)
+[![https://gafam.info](https://raw.githubusercontent.com/nickspaargaren/pihole-google/master/images/gafam-poster-en-color.png)](https://gafam.info)
