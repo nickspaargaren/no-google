@@ -5397,7 +5397,7 @@ rate-limited-proxy-74-125-148-200.google.com
 rate-limited-proxy-74-125-149-0.google.com
 rate-limited-proxy-74-125-149-100.google.com
 rate-limited-proxy-74-125-149-200.google.com
-# Short Links
+# ShortLinks
 app.goo.gl
 cctldtest.g.co
 cctldtest.youtu.be
@@ -21940,7 +21940,6 @@ r10---sn-4gxx-25gee.googlevideo.com
 r15---sn-4gxx-25ge7.googlevideo.com
 r5---sn-4gxx-25gy.googlevideo.com
 r10---sn-4gxx-25ge7.googlevideo.com
-r7---sn-4gxx-25ge7.googlevideo.com 
 r14---sn-4gxx-25gy.googlevideo.com
 r15---sn-4gxx-25gel.googlevideo.com
 r13---sn-4gxx-25gy.googlevideo.com
@@ -26709,7 +26708,6 @@ r9.sn-cu-ajtee.googlevideo.com
 r9.sn-n4g-jqbe6.googlevideo.com
 r9.sn-n8v7kne7.googlevideo.com
 r9.sn-n8v7znsr.googlevideo.com
-rr3---sn-jvhj5nu-nh4s.googlevideo.com 
 r1---sn-5goeen7r.c.youtube.com
 r1---sn-ab5l6ndr.c.youtube.com
 r1---sn-ab5szn7s.c.youtube.com
