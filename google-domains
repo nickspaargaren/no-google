@@ -1,5 +1,5 @@
 # This blocklist helps to restrict access to Google and its domains. Contribute at https://github.com/nickspaargaren/no-google
-# Last updated: 2022-02-04
+# Last updated: 2022-02-16
 # Analytics
 0.0.0.0 ad-creatives-public.commondatastorage.googleapis.com
 0.0.0.0 adgoogle.net
@@ -23,6 +23,7 @@
 0.0.0.0 cm.crashlytics.com
 0.0.0.0 commondatastorage.googleapis.com
 0.0.0.0 crashlytics.com
+0.0.0.0 e.crashlytics.com
 0.0.0.0 crashlyticsreports-pa.googleapis.com
 0.0.0.0 cse.google.com
 0.0.0.0 csp.withgoogle.com
