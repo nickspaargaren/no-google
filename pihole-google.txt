@@ -105,17 +105,21 @@ wwwctp.googletagmanager.com
 admob.com
 ads.google.com
 adsense.com
+53.26.241.35.bc.googleusercontent.com
+186.194.186.35.bc.googleusercontent.com
+234.88.190.35.bc.googleusercontent.com
+229.52.241.35.bc.googleusercontent.com
+02935bb043f8644ea3a8d8343db59a20.safeframe.googlesyndication.com
+17c11764c8e58ffd607e9f6442c3f7d8.safeframe.googlesyndication.com
+connectivitycheck.gstatic.com
 adservice.google.com
 ampcid.google.com
 assistant.google.com
-crashlytics2.l.google.com
 fitbit.com
 fundingchoices.google.com
 google.com
 googleadservices.com
 id.google.com
-pagead-googlehosted.l.google.com
-s0-2mdn-net.l.google.com
 video-stats.video.google.com
 www.assistant.google.com
 www.google.com
@@ -226,11 +230,9 @@ time6.google.com
 time7.google.com
 time8.google.com
 time9.google.com
-connectivitycheck.gstatic.com
 connectivitycheck.google.com
 safebrowsing.google.com
 sb-ssl.google.com
-sb.l.google.com
 android.bugly.qq.com
 app-measurement.com
 firebaseinstallations.googleapis.com
@@ -249,7 +251,6 @@ pagead1.googlesyndication.com
 pagead2.googlesyndication.com
 pagead3.googlesyndication.com
 displayads-formats.googleusercontent.com
-googlehosted.l.googleusercontent.com
 googleusercontent.com
 # Area120
 kormo.com
