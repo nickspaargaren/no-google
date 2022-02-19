@@ -133,6 +133,6 @@ Of course, here’s some filterlists that should help you accomplish that.
 
 **A**mazon : https://github.com/nickspaargaren/no-amazon
 
-**M**icrosoft : https://raw.githubusercontent.com/jmdugan/blocklists/master/corporations/microsoft/all or https://gitlab.com/CHEF-KOCH/cks-filterlist/blob/master/Anti-Corp/filters/microsoft.txt
+**M**icrosoft : https://raw.githubusercontent.com/jmdugan/blocklists/master/corporations/microsoft/all or Windows 10 Spy hosts : https://gitlab.com/Jorgu81/hosts/raw/master/Microsoft/SpyMicrosoft and Microsoft Paranoid hosts https://gitlab.com/Jorgu81/hosts/raw/master/Microsoft/Microsoft . And https://github.com/crazy-max/WindowsSpyBlocker/blob/master/docs/blocking-rules/hosts.md ( https://github.com/crazy-max/WindowsSpyBlocker )
 
 [![https://gafam.info](https://raw.githubusercontent.com/nickspaargaren/pihole-google/master/images/gafam-poster-en-color.png)](https://gafam.info)
