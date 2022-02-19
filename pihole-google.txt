@@ -2,6 +2,7 @@
 ad-creatives-public.commondatastorage.googleapis.com
 adgoogle.net
 adsettings.google.com
+federatedml-pa.googleapis.com
 adssettings.google.com
 analytic-google.com
 analytics.withgoogle.com
@@ -20,6 +21,7 @@ clouderrorreporting.googleapis.com
 cloudsearch.googleapis.com
 cm.crashlytics.com
 commondatastorage.googleapis.com
+encrypted-tbn0.gstatic.com
 crashlytics.com
 e.crashlytics.com
 crashlyticsreports-pa.googleapis.com
@@ -32,7 +34,6 @@ discover-pa.googleapis.com
 dr-mobiweb.googleoptimize.com
 fcm-xmpp.googleapis.com
 fcm.googleapis.com
-federatedml-pa.googleapis.com
 feedads.googleadservices.com
 fundingchoicesmessages.google.com
 gaffdxefocofvncouvjd.storage.googleapis.com
@@ -350,7 +351,6 @@ e90bbf14-dnsotls-ds.metric.gstatic.com
 efb6aea0-dnsotls-ds.metric.gstatic.com
 efmnh0-dnsotls-ds.metric.gstatic.com
 elxjwp-dnsotls-ds.metric.gstatic.com
-encrypted-tbn0.gstatic.com
 encrypted-tbn1.gstatic.com
 encrypted-tbn2.gstatic.com
 encrypted-tbn3.gstatic.com
@@ -362,9 +362,7 @@ fvluc8-dnsotls-ds.metric.gstatic.com
 fwnuy2-dnsotls-ds.metric.gstatic.com
 gstatic.com
 gz.gstatic.com
-https://encrypted-tbn0.gstatic.com
-https://ssl.gstatic.com
-https://fonts.gstatic.com
+ssl.gstatic.com
 hdfsex-dnsotls-ds.metric.gstatic.com
 hlsllf-dnsotls-ds.metric.gstatic.com
 hwxu5f-dnsotls-ds.metric.gstatic.com
@@ -404,7 +402,6 @@ s76zsr-dnsotls-ds.metric.gstatic.com
 s8pfmr-dnsotls-ds.metric.gstatic.com
 sb3opj-dnsotls-ds.metric.gstatic.com
 slaorh-dnsotls-ds.metric.gstatic.com
-ssl.gstatic.com
 subsqs-dnsotls-ds.metric.gstatic.com
 t83uxv-dnsotls-ds.metric.gstatic.com
 ttq8oa-dnsotls-ds.metric.gstatic.com
