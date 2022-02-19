@@ -362,6 +362,9 @@ fvluc8-dnsotls-ds.metric.gstatic.com
 fwnuy2-dnsotls-ds.metric.gstatic.com
 gstatic.com
 gz.gstatic.com
+https://encrypted-tbn0.gstatic.com
+https://ssl.gstatic.com
+https://fonts.gstatic.com
 hdfsex-dnsotls-ds.metric.gstatic.com
 hlsllf-dnsotls-ds.metric.gstatic.com
 hwxu5f-dnsotls-ds.metric.gstatic.com
