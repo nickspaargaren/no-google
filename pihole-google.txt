@@ -3,6 +3,8 @@ ad-creatives-public.commondatastorage.googleapis.com
 adgoogle.net
 adsettings.google.com
 federatedml-pa.googleapis.com
+eu-google-rtb.quantserve.com
+us-east-google-rtb.quantservice.com
 adssettings.google.com
 analytic-google.com
 analytics.withgoogle.com
@@ -2502,6 +2504,13 @@ adservice.google.ws
 advertisercommunity.com
 adwords.com
 affiliate.googleusercontent.com
+53.26.241.35.bc.googleusercontent.com
+186.194.186.35.bc.googleusercontent.com
+234.88.190.35.bc.googleusercontent.com
+229.52.241.35.bc.googleusercontent.com
+voledevice-pa.googleapis.com
+marketingplatform.google.com/about/enterprise
+marketingplatform.google.com
 aglgqf4qs7.com
 agoogleaday.com
 ai.google
@@ -3063,7 +3072,6 @@ maps-api-ssl.google.com
 maps.google.es
 maps.googleapis.com
 mapsengine.google.com
-marketingplatform.google.com
 material.io
 materibelajarinside.docs.google.com
 mbmxgxxq1a.com
@@ -4119,7 +4127,6 @@ vjsw8sr8w0.com
 vm_0.google.com
 vmkq6xgcjn45v54w7t7eju2g5nlc33e6uqyhd3vjjoc7lgtibkra.mx-verification.google.com
 vok1cbukr5.com
-voledevice-pa.googleapis.com
 vpnmxkwcj0.com
 vr.google.com
 vtx2-dev2-proxy01.corp.google.com
