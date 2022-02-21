@@ -1,5 +1,5 @@
 # This blocklist helps to restrict access to Google and its domains. Contribute at https://github.com/nickspaargaren/no-google
-# Last updated: 2022-02-16
+# Last updated: 2022-02-21
 # General
 
 0.chart.apis.google.com
@@ -38,6 +38,7 @@
 16.client-channel.google.com
 17.client-channel.google.com
 17q7vbr.feedproxy.ghs.google.com
+186.194.186.35.bc.googleusercontent.com
 1bgo9ev2in.com
 1cpkcqvrsk.com
 1e100.net
@@ -55,7 +56,9 @@
 2.bp.blogspot.com
 2.chart.apis.google.com
 22.client-channel.google.com
+229.52.241.35.bc.googleusercontent.com
 23.client-channel.google.com
+234.88.190.35.bc.googleusercontent.com
 23ig4j2yzb.com
 24.drive.google.com
 247q4q8fna.com
@@ -107,6 +110,7 @@
 4u74fojwgn.com
 5.chart.apis.google.com
 527.drive.google.com
+53.26.241.35.bc.googleusercontent.com
 57gvampda8.com
 5b1hpsd6d7.com
 5cj7dtuso3.com
@@ -216,10 +220,11 @@ admob.vn
 admobclick.com
 admobsphere.com
 ads.admob.com
+ads.cc
 adsdatahub.google.com
 adsense.com
-adservice.google.ae
 adservice.google.ac
+adservice.google.ae
 adservice.google.at
 adservice.google.au
 adservice.google.aw
@@ -227,23 +232,33 @@ adservice.google.ax
 adservice.google.be
 adservice.google.bg
 adservice.google.br
-adservice.google.com.mt
+adservice.google.bs
+adservice.google.by
+adservice.google.ch
+adservice.google.cl
+adservice.google.co.bw
 adservice.google.co.il
 adservice.google.co.in
 adservice.google.co.jp
 adservice.google.co.ke
 adservice.google.co.kr
+adservice.google.co.tz
 adservice.google.co.uk
+adservice.google.co.vi
+adservice.google.co.zm
+adservice.google.com.br
+adservice.google.com.bz
 adservice.google.com.eg
 adservice.google.com.hk
 adservice.google.com.kw
+adservice.google.com.mt
 adservice.google.com.my
-adservice.google.com.tw
+adservice.google.com.sl
+adservice.google.com.tj
 adservice.google.com.tr
+adservice.google.com.tw
 adservice.google.com.ua
 adservice.google.com.vn
-adservice.google.ch
-adservice.google.cl
 adservice.google.dk
 adservice.google.dz
 adservice.google.eu
@@ -256,8 +271,8 @@ adservice.google.hu
 adservice.google.ie
 adservice.google.il
 adservice.google.in
-adservice.google.it
 adservice.google.iq
+adservice.google.it
 adservice.google.jo
 adservice.google.jp
 adservice.google.kz
@@ -272,29 +287,20 @@ adservice.google.nl
 adservice.google.no
 adservice.google.pk
 adservice.google.pl
-adservice.google.se
 adservice.google.pt
 adservice.google.ru
-adservice.google.tr
-adservice.google.tw
-adservice.google.ua
-adservice.google.bs
-adservice.google.by
-adservice.google.co.bw
-adservice.google.co.tz
-adservice.google.co.vi
-adservice.google.co.zm
-adservice.google.com.br
-adservice.google.com.bz
-adservice.google.com.sl
-adservice.google.com.tj
 adservice.google.sc
+adservice.google.se
 adservice.google.sh
 adservice.google.sm
 adservice.google.td
 adservice.google.tm
 adservice.google.to
+adservice.google.tr
+adservice.google.tw
+adservice.google.ua
 adservice.google.ws
+adups.com
 advertisercommunity.com
 adwords.com
 affiliate.googleusercontent.com
@@ -547,6 +553,8 @@ dl-ssl.google.com
 dlhaxa82xp.com
 dlut31p12z.com
 dmtry.com
+dns.google
+dns64.dns.google
 docs3.google.com
 download.mlcc.google.com
 dp1msx93o1.com
@@ -1023,6 +1031,7 @@ podcasts.google.com
 podcastsmanager.google.com
 podcastsservice-pa.googleapis.com
 policies.google.com
+popads.net
 portus-28443170.gvt2.com
 portus-31804820.gvt2.com
 portus.gvt2.com
@@ -1983,6 +1992,7 @@ www.botgart.docs.google.com
 www.capitalg.com
 www.chromeexperiments.com
 www.chromestatus.com
+www.ctp.googletagmanager.com
 www.de.advertisercommunity.com
 www.deepmind.com
 www.dialogflow.com
