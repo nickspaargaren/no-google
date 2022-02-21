@@ -1,5 +1,5 @@
 # This blocklist helps to restrict access to Google and its domains. Contribute at https://github.com/nickspaargaren/no-google
-# Last updated: 2022-02-16
+# Last updated: 2022-02-21
 # Analytics
 
 ad-creatives-public.commondatastorage.googleapis.com
@@ -10,6 +10,7 @@ analytic-google.com
 analytics.withgoogle.com
 android-safebrowsing.googleapis.com
 androidauto-pa.googleapis.com
+androidpay-users-pa.googleapis.com
 androidsuggesthub-pa.googleapis.com
 androidtvchannels-pa.googleapis.com
 androidtvwatsonfe-pa.googleapis.com
@@ -24,15 +25,16 @@ cloudsearch.googleapis.com
 cm.crashlytics.com
 commondatastorage.googleapis.com
 crashlytics.com
-e.crashlytics.com
 crashlyticsreports-pa.googleapis.com
 cse.google.com
 csp.withgoogle.com
 cstlqrgnqmjztbxjmkp.storage.googleapis.com
+datamixer.pa.googleapis.com
 dataprep.googleapis.com
 deydgyehwsptekn.storage.googleapis.com
 discover-pa.googleapis.com
 dr-mobiweb.googleoptimize.com
+e.crashlytics.com
 fcm-xmpp.googleapis.com
 fcm.googleapis.com
 federatedml-pa.googleapis.com
@@ -75,6 +77,7 @@ mimageads9.googleadservices.com
 newssuite-sony-net.storage.googleapis.com
 pagead2.googleadservices.com
 partner.googleadservices.com
+pay-users-pa.googleapis.com
 personalsafety-pa.googleapis.com
 phonemasking-stage.googleoptimize.com
 photos.googleapis.com
@@ -92,6 +95,7 @@ ssl.google-analytics.com
 ssl.googleanalytics.com
 statsgoogle.appsflyer.com
 suggestqueries.googleapis.com
+sxone-pa.googleapis.com
 tagmanager.google.com
 test-web.googletagmanager.com
 themes.googleusercontent.com

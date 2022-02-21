@@ -1,5 +1,5 @@
 # This blocklist helps to restrict access to Google and its domains. Contribute at https://github.com/nickspaargaren/no-google
-# Last updated: 2022-02-16
+# Last updated: 2022-02-21
 # General
 
 0.0.0.0 0.chart.apis.google.com
@@ -38,6 +38,7 @@
 0.0.0.0 16.client-channel.google.com
 0.0.0.0 17.client-channel.google.com
 0.0.0.0 17q7vbr.feedproxy.ghs.google.com
+0.0.0.0 186.194.186.35.bc.googleusercontent.com
 0.0.0.0 1bgo9ev2in.com
 0.0.0.0 1cpkcqvrsk.com
 0.0.0.0 1e100.net
@@ -55,7 +56,9 @@
 0.0.0.0 2.bp.blogspot.com
 0.0.0.0 2.chart.apis.google.com
 0.0.0.0 22.client-channel.google.com
+0.0.0.0 229.52.241.35.bc.googleusercontent.com
 0.0.0.0 23.client-channel.google.com
+0.0.0.0 234.88.190.35.bc.googleusercontent.com
 0.0.0.0 23ig4j2yzb.com
 0.0.0.0 24.drive.google.com
 0.0.0.0 247q4q8fna.com
@@ -107,6 +110,7 @@
 0.0.0.0 4u74fojwgn.com
 0.0.0.0 5.chart.apis.google.com
 0.0.0.0 527.drive.google.com
+0.0.0.0 53.26.241.35.bc.googleusercontent.com
 0.0.0.0 57gvampda8.com
 0.0.0.0 5b1hpsd6d7.com
 0.0.0.0 5cj7dtuso3.com
@@ -216,10 +220,11 @@
 0.0.0.0 admobclick.com
 0.0.0.0 admobsphere.com
 0.0.0.0 ads.admob.com
+0.0.0.0 ads.cc
 0.0.0.0 adsdatahub.google.com
 0.0.0.0 adsense.com
-0.0.0.0 adservice.google.ae
 0.0.0.0 adservice.google.ac
+0.0.0.0 adservice.google.ae
 0.0.0.0 adservice.google.at
 0.0.0.0 adservice.google.au
 0.0.0.0 adservice.google.aw
@@ -227,23 +232,33 @@
 0.0.0.0 adservice.google.be
 0.0.0.0 adservice.google.bg
 0.0.0.0 adservice.google.br
-0.0.0.0 adservice.google.com.mt
+0.0.0.0 adservice.google.bs
+0.0.0.0 adservice.google.by
+0.0.0.0 adservice.google.ch
+0.0.0.0 adservice.google.cl
+0.0.0.0 adservice.google.co.bw
 0.0.0.0 adservice.google.co.il
 0.0.0.0 adservice.google.co.in
 0.0.0.0 adservice.google.co.jp
 0.0.0.0 adservice.google.co.ke
 0.0.0.0 adservice.google.co.kr
+0.0.0.0 adservice.google.co.tz
 0.0.0.0 adservice.google.co.uk
+0.0.0.0 adservice.google.co.vi
+0.0.0.0 adservice.google.co.zm
+0.0.0.0 adservice.google.com.br
+0.0.0.0 adservice.google.com.bz
 0.0.0.0 adservice.google.com.eg
 0.0.0.0 adservice.google.com.hk
 0.0.0.0 adservice.google.com.kw
+0.0.0.0 adservice.google.com.mt
 0.0.0.0 adservice.google.com.my
-0.0.0.0 adservice.google.com.tw
+0.0.0.0 adservice.google.com.sl
+0.0.0.0 adservice.google.com.tj
 0.0.0.0 adservice.google.com.tr
+0.0.0.0 adservice.google.com.tw
 0.0.0.0 adservice.google.com.ua
 0.0.0.0 adservice.google.com.vn
-0.0.0.0 adservice.google.ch
-0.0.0.0 adservice.google.cl
 0.0.0.0 adservice.google.dk
 0.0.0.0 adservice.google.dz
 0.0.0.0 adservice.google.eu
@@ -256,8 +271,8 @@
 0.0.0.0 adservice.google.ie
 0.0.0.0 adservice.google.il
 0.0.0.0 adservice.google.in
-0.0.0.0 adservice.google.it
 0.0.0.0 adservice.google.iq
+0.0.0.0 adservice.google.it
 0.0.0.0 adservice.google.jo
 0.0.0.0 adservice.google.jp
 0.0.0.0 adservice.google.kz
@@ -272,29 +287,20 @@
 0.0.0.0 adservice.google.no
 0.0.0.0 adservice.google.pk
 0.0.0.0 adservice.google.pl
-0.0.0.0 adservice.google.se
 0.0.0.0 adservice.google.pt
 0.0.0.0 adservice.google.ru
-0.0.0.0 adservice.google.tr
-0.0.0.0 adservice.google.tw
-0.0.0.0 adservice.google.ua
-0.0.0.0 adservice.google.bs
-0.0.0.0 adservice.google.by
-0.0.0.0 adservice.google.co.bw
-0.0.0.0 adservice.google.co.tz
-0.0.0.0 adservice.google.co.vi
-0.0.0.0 adservice.google.co.zm
-0.0.0.0 adservice.google.com.br
-0.0.0.0 adservice.google.com.bz
-0.0.0.0 adservice.google.com.sl
-0.0.0.0 adservice.google.com.tj
 0.0.0.0 adservice.google.sc
+0.0.0.0 adservice.google.se
 0.0.0.0 adservice.google.sh
 0.0.0.0 adservice.google.sm
 0.0.0.0 adservice.google.td
 0.0.0.0 adservice.google.tm
 0.0.0.0 adservice.google.to
+0.0.0.0 adservice.google.tr
+0.0.0.0 adservice.google.tw
+0.0.0.0 adservice.google.ua
 0.0.0.0 adservice.google.ws
+0.0.0.0 adups.com
 0.0.0.0 advertisercommunity.com
 0.0.0.0 adwords.com
 0.0.0.0 affiliate.googleusercontent.com
@@ -547,6 +553,8 @@
 0.0.0.0 dlhaxa82xp.com
 0.0.0.0 dlut31p12z.com
 0.0.0.0 dmtry.com
+0.0.0.0 dns.google
+0.0.0.0 dns64.dns.google
 0.0.0.0 docs3.google.com
 0.0.0.0 download.mlcc.google.com
 0.0.0.0 dp1msx93o1.com
@@ -1023,6 +1031,7 @@
 0.0.0.0 podcastsmanager.google.com
 0.0.0.0 podcastsservice-pa.googleapis.com
 0.0.0.0 policies.google.com
+0.0.0.0 popads.net
 0.0.0.0 portus-28443170.gvt2.com
 0.0.0.0 portus-31804820.gvt2.com
 0.0.0.0 portus.gvt2.com
@@ -1983,6 +1992,7 @@
 0.0.0.0 www.capitalg.com
 0.0.0.0 www.chromeexperiments.com
 0.0.0.0 www.chromestatus.com
+0.0.0.0 www.ctp.googletagmanager.com
 0.0.0.0 www.de.advertisercommunity.com
 0.0.0.0 www.deepmind.com
 0.0.0.0 www.dialogflow.com
