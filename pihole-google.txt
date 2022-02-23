@@ -2226,6 +2226,10 @@ fonts.googleapis.com
 17.client-channel.google.com
 17q7vbr.feedproxy.ghs.google.com
 186.194.186.35.bc.googleusercontent.com
+53.26.241.35.bc.googleusercontent.com
+186.194.186.35.bc.googleusercontent.com
+234.88.190.35.bc.googleusercontent.com
+229.52.241.35.bc.googleusercontent.com
 1bgo9ev2in.com
 1cpkcqvrsk.com
 1e100.net
@@ -5420,6 +5424,7 @@ app.goo.gl
 cctldtest.g.co
 cctldtest.youtu.be
 goo.gl
+g.co
 images.app.goo.gl
 m.youtu.be
 surf.youtu.be
