@@ -2246,9 +2246,7 @@ fonts.googleapis.com
 2.bp.blogspot.com
 2.chart.apis.google.com
 22.client-channel.google.com
-229.52.241.35.bc.googleusercontent.com
 23.client-channel.google.com
-234.88.190.35.bc.googleusercontent.com
 23ig4j2yzb.com
 24.drive.google.com
 247q4q8fna.com
@@ -2300,7 +2298,6 @@ fonts.googleapis.com
 4u74fojwgn.com
 5.chart.apis.google.com
 527.drive.google.com
-53.26.241.35.bc.googleusercontent.com
 57gvampda8.com
 5b1hpsd6d7.com
 5cj7dtuso3.com
@@ -5423,7 +5420,6 @@ app.goo.gl
 cctldtest.g.co
 cctldtest.youtu.be
 goo.gl
-g.co
 images.app.goo.gl
 m.youtu.be
 surf.youtu.be
