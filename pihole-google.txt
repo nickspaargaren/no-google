@@ -107,6 +107,7 @@ www.googletagmanager.com
 www.googletagservices.com
 wwwctp.googletagmanager.com
 youtube.googleapis.com
+www.google.com/amp
 zfgbxkotjxujhmpo.storage.googleapis.com
 # Android
 1-market.android.com
