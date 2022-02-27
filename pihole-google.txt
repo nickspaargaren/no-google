@@ -110,6 +110,7 @@ youtube.googleapis.com
 zfgbxkotjxujhmpo.storage.googleapis.com
 # Android
 1-market.android.com
+2.android.pool.ntp.org
 9098b63249ee4522c5d8677059fe22e4.safeframe.google.syndication.com
 a.android.com
 a17-250-248-101.android.com
