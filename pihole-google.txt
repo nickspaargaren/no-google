@@ -122,6 +122,14 @@ android-review.googlesource.com
 android-safebrowsing.google.com
 android.clients.google.com
 android.com
+mw1.google.com
+kh.google.com
+geo0.ggpht.com
+www.google.com
+play.googleapis.com
+clients2.google.com
+lh3.googleusercontent.com
+vrassets-pa.googleusercontent.com
 android.googleapis.com
 attest.android.com
 b.android.com
@@ -904,7 +912,6 @@ jigsaw.google.com
 jobs.google.com
 jump.google.com
 keep.google.com
-kh.google.com
 kiwi.google.com
 knol.google.com
 knoll.google.com
@@ -972,7 +979,6 @@ pixel.google.com
 pki.google.com
 places.google.com
 play.google.com
-play.googleapis.com
 playatoms-pa.googleapis.com
 plus.google.com
 poly.google.com
@@ -1112,7 +1118,6 @@ www.google.co.vi
 www.google.co.za
 www.google.co.zm
 www.google.co.zw
-www.google.com
 www.google.com.af
 www.google.com.ag
 www.google.com.ai
@@ -2642,7 +2647,6 @@ client.1.google.com
 clientauthconfig.clients6.google.com
 clientauthconfig.googleapis.com
 clients.1.google.com
-clients2.google.com
 clients2.googleusercontent.com
 clients4.google.com
 clients5.google.com
@@ -3030,7 +3034,6 @@ lh2.google.com
 lh2.googleusercontent.com
 lh3.ggpht.com
 lh3.google.com
-lh3.googleusercontent.com
 lh4.ggpht.com
 lh4.google.com
 lh4.googleusercontent.com
@@ -3115,7 +3118,6 @@ music-pa.clients6.google.com
 musiclab.chromeexperiments.com
 mv4sjysfhq.com
 mv99azr2lu.com
-mw1.google.com
 mw2.google.com
 mx.google.com
 myaccount.google.com
