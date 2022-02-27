@@ -87,6 +87,7 @@ reports.crashlytics.com
 safe-browsing.googleapis.com
 sandbox.google-analytics.com
 script.google.com
+script.googleusercontent.com
 settings.crashlytics.com
 ssl.google-analytics.com
 ssl.googleanalytics.com
@@ -113,6 +114,7 @@ zfgbxkotjxujhmpo.storage.googleapis.com
 1-market.android.com
 9098b63249ee4522c5d8677059fe22e4.safeframe.google.syndication.com
 a.android.com
+2.android.pool.ntp.org
 a17-250-248-101.android.com
 acceleratedmobilepageurl.googleapis.com
 accessories.android.com
