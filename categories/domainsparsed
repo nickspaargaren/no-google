@@ -1,5 +1,5 @@
 # This blocklist helps to restrict access to Google and its domains. Contribute at https://github.com/nickspaargaren/no-google
-# Last updated: 2022-02-21
+# Last updated: 2022-03-08
 # Domains
 
 _caldav._tcp.google.com
@@ -175,6 +175,7 @@ fit.google.com
 fk.google.com
 flight.google.com
 foofle.com
+forms.gle
 forms.google.com
 foto.google.com
 fotos.google.com

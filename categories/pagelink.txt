@@ -1,5 +1,5 @@
 # This blocklist helps to restrict access to Google and its domains. Contribute at https://github.com/nickspaargaren/no-google
-# Last updated: 2022-02-21
+# Last updated: 2022-03-08
 # Pagelink
 
 0.0.0.0 000000000000001.page.link
@@ -141,6 +141,7 @@
 0.0.0.0 femalensropsyhnupedugermen1469632393.page.link
 0.0.0.0 ffmc50.page.link
 0.0.0.0 fg1.page.link
+0.0.0.0 firebasehostingproxy.page.link
 0.0.0.0 firepay2020.page.link
 0.0.0.0 flip0101.page.link
 0.0.0.0 fotolike24.page.link
