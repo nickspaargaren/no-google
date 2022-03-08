@@ -1,5 +1,5 @@
 # This blocklist helps to restrict access to Google and its domains. Contribute at https://github.com/nickspaargaren/no-google
-# Last updated: 2022-02-21
+# Last updated: 2022-03-08
 # Analytics
 0.0.0.0 ad-creatives-public.commondatastorage.googleapis.com
 0.0.0.0 adgoogle.net
@@ -599,6 +599,7 @@
 0.0.0.0 fk.google.com
 0.0.0.0 flight.google.com
 0.0.0.0 foofle.com
+0.0.0.0 forms.gle
 0.0.0.0 forms.google.com
 0.0.0.0 foto.google.com
 0.0.0.0 fotos.google.com
@@ -4776,6 +4777,7 @@
 0.0.0.0 femalensropsyhnupedugermen1469632393.page.link
 0.0.0.0 ffmc50.page.link
 0.0.0.0 fg1.page.link
+0.0.0.0 firebasehostingproxy.page.link
 0.0.0.0 firepay2020.page.link
 0.0.0.0 flip0101.page.link
 0.0.0.0 fotolike24.page.link
