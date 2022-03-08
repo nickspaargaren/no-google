@@ -597,6 +597,7 @@ fit.google.com
 fk.google.com
 flight.google.com
 foofle.com
+forms.gle
 forms.google.com
 foto.google.com
 fotos.google.com
