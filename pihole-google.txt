@@ -7627,7 +7627,7 @@ youtube-noscript.com
 www.youtube-noscript.com
 goog.le
 domains.googlesyndication.com
-www.appliedsemantics.com
+appliedsemantics.com
 ads.googlesyndication.com
 .google-analytics.com
 .googletagservices.com
