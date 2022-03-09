@@ -7642,7 +7642,6 @@ m.v.fwmrm.net
 ytimg.googleusercontent.com
 html5shiv.googlecode.com
 b3.caspio.com
-ajax.microsoft.com
 lh0.googleusercontent.com
 s.googleusercontent.com
 s0.googleusercontent.com
