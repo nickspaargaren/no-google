@@ -7635,13 +7635,8 @@ ads.googlesyndication.com
 .doubleclick.net
 clients9.google.com
 clients0.google.com
-sassets.vevo.com
-2975c.v.fwmrm.net
-m.v.fwmrm.net
-.fwmrm.net
 ytimg.googleusercontent.com
 html5shiv.googlecode.com
-b3.caspio.com
 lh0.googleusercontent.com
 s.googleusercontent.com
 s0.googleusercontent.com
@@ -7653,7 +7648,6 @@ s6.googleusercontent.com
 s7.googleusercontent.com
 s8.googleusercontent.com
 s9.googleusercontent.com
-.ggpht.com
 lh1.ggpht.com
 lh2.ggpht.com
 gp1.googleusercontent.com
@@ -7676,10 +7670,3 @@ motifcdn.doubleclick.net
 motifcdn2.doubleclick.net
 affiliate.2mdn.net
 clickserve.us2.dartsearch.net
-log2.quintelligence.com
-www.destinationurl.com
-doubleclick.shockwave.com
-www3.webhostingtalk.com
-ad.mirror.co.uk
-host3.adhese.be
-mcmads.mediacapital.pt
