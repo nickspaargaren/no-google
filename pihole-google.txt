@@ -7629,10 +7629,6 @@ goog.le
 domains.googlesyndication.com
 appliedsemantics.com
 ads.googlesyndication.com
-.google-analytics.com
-.googletagservices.com
-.doubleclick.com
-.doubleclick.net
 clients9.google.com
 clients0.google.com
 ytimg.googleusercontent.com
