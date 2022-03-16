@@ -1,5 +1,5 @@
 # This blocklist helps to restrict access to Google and its domains. Contribute at https://github.com/nickspaargaren/no-google
-# Last updated: 2022-03-08
+# Last updated: 2022-03-16
 # Analytics
 0.0.0.0 ad-creatives-public.commondatastorage.googleapis.com
 0.0.0.0 adgoogle.net
@@ -459,6 +459,7 @@
 0.0.0.0 accounts.google.com
 0.0.0.0 ade.googlesyndication.com
 0.0.0.0 admin.google.com
+0.0.0.0 ads.googlesyndication.com
 0.0.0.0 adsense.google.com
 0.0.0.0 adservice.google.de
 0.0.0.0 adservice.google.es
@@ -539,8 +540,10 @@
 0.0.0.0 client4.google.com
 0.0.0.0 client5.google.com
 0.0.0.0 clients.google.com
+0.0.0.0 clients0.google.com
 0.0.0.0 clients1.google.com
 0.0.0.0 clients3.google.com
+0.0.0.0 clients9.google.com
 0.0.0.0 cloud.google.com
 0.0.0.0 code.google.com
 0.0.0.0 com.google
@@ -569,6 +572,7 @@
 0.0.0.0 doc.google.com
 0.0.0.0 docs.google.com
 0.0.0.0 domains.google.com
+0.0.0.0 domains.googlesyndication.com
 0.0.0.0 domains4google.com
 0.0.0.0 download.google.com
 0.0.0.0 downloads.google.com
@@ -917,6 +921,8 @@
 0.0.0.0 labs1.google.com
 0.0.0.0 ldap.google.com
 0.0.0.0 lens.google.com
+0.0.0.0 lh1.ggpht.com
+0.0.0.0 lh2.ggpht.com
 0.0.0.0 local.google.com
 0.0.0.0 logging.google.com
 0.0.0.0 lp.google.com
@@ -1302,23 +1308,29 @@
 0.0.0.0 1268402.fls.doubleclick.net
 0.0.0.0 1326154.fls.doubleclick.net
 0.0.0.0 1330903.fls.doubleclick.net
+0.0.0.0 1435575.fls.doubleclick.net
 0.0.0.0 1742177.fls.doubleclick.net
 0.0.0.0 2013561.fls.doubleclick.net
 0.0.0.0 2196503.fls.doubleclick.net
 0.0.0.0 2332696.fls.doubleclick.net
 0.0.0.0 2499034.fls.doubleclick.net
+0.0.0.0 2507573.fls.doubleclick.net
 0.0.0.0 2542116.fls.doubleclick.net
 0.0.0.0 2793343.fls.doubleclick.net
 0.0.0.0 3130320.fls.doubleclick.net
 0.0.0.0 3243857.fls.doubleclick.net
 0.0.0.0 3276817.fls.doubleclick.net
 0.0.0.0 3501113.fls.doubleclick.net
+0.0.0.0 3642305.fls.doubleclick.net
 0.0.0.0 3738527.fls.doubleclick.net
+0.0.0.0 3765329.fls.doubleclick.net
 0.0.0.0 3773523.fls.doubleclick.net
 0.0.0.0 3879194.fls.doubleclick.net
 0.0.0.0 3941123.fls.doubleclick.net
 0.0.0.0 3973258.fls.doubleclick.net
 0.0.0.0 3982178.fls.doubleclick.net
+0.0.0.0 4053494.fls.doubleclick.net
+0.0.0.0 4171764.fls.doubleclick.net
 0.0.0.0 4177752.fls.doubleclick.net
 0.0.0.0 4191036.fls.doubleclick.net
 0.0.0.0 4191748.fls.doubleclick.net
@@ -1331,13 +1343,6 @@
 0.0.0.0 4371920.fls.doubleclick.net
 0.0.0.0 4375326.fls.doubleclick.net
 0.0.0.0 4379742.fls.doubleclick.net
-0.0.0.0 8921356.fls.doubleclick.net
-0.0.0.0 1435575.fls.doubleclick.net
-0.0.0.0 2507573.fls.doubleclick.net
-0.0.0.0 3642305.fls.doubleclick.net
-0.0.0.0 3765329.fls.doubleclick.net
-0.0.0.0 4053494.fls.doubleclick.net
-0.0.0.0 4171764.fls.doubleclick.net
 0.0.0.0 4403916.fls.doubleclick.net
 0.0.0.0 4487826.fls.doubleclick.net
 0.0.0.0 4514783.fls.doubleclick.net
@@ -1350,6 +1355,7 @@
 0.0.0.0 8482194.fls.doubleclick.net
 0.0.0.0 8522212.fls.doubleclick.net
 0.0.0.0 8563004.fls.doubleclick.net
+0.0.0.0 8921356.fls.doubleclick.net
 0.0.0.0 9309168.fls.doubleclick.net
 0.0.0.0 accounts.doubleclick.net
 0.0.0.0 ad-ace.doubleclick.net
@@ -1418,8 +1424,8 @@
 0.0.0.0 ad.ve.doubleclick.net
 0.0.0.0 ad.za.doubleclick.net
 0.0.0.0 ad2.doubleclick.net
-0.0.0.0 adclick.g.doubleclick.net
 0.0.0.0 adclick.g.doublecklick.net
+0.0.0.0 adclick.g.doubleclick.net
 0.0.0.0 ads-bid.l.doubleclick.net
 0.0.0.0 advertisers.doubleclick.com
 0.0.0.0 advertisersapitest.doubleclick.com
@@ -1477,6 +1483,8 @@
 0.0.0.0 mediavisor.doubleclick.net
 0.0.0.0 mobile-displayads-uk.l.doubleclick.net
 0.0.0.0 mobile-displayads.l.doubleclick.net
+0.0.0.0 motifcdn.doubleclick.net
+0.0.0.0 motifcdn2.doubleclick.net
 0.0.0.0 n4052ad.doubleclick.net
 0.0.0.0 n4061ad.hk.doubleclick.net
 0.0.0.0 n4061ad.jp.doubleclick.net
@@ -2411,6 +2419,7 @@
 0.0.0.0 admobsphere.com
 0.0.0.0 ads.admob.com
 0.0.0.0 ads.cc
+0.0.0.0 ads.cc-dt.com
 0.0.0.0 adsdatahub.google.com
 0.0.0.0 adsense.com
 0.0.0.0 adservice.google.ac
@@ -2493,6 +2502,7 @@
 0.0.0.0 adups.com
 0.0.0.0 advertisercommunity.com
 0.0.0.0 adwords.com
+0.0.0.0 affiliate.2mdn.net
 0.0.0.0 affiliate.googleusercontent.com
 0.0.0.0 aglgqf4qs7.com
 0.0.0.0 agoogleaday.com
@@ -2522,6 +2532,7 @@
 0.0.0.0 api.admob.com
 0.0.0.0 apidata.googleusercontent.com
 0.0.0.0 appassets.androidplatform.net
+0.0.0.0 appliedsemantics.com
 0.0.0.0 appmaker.corp.google.com
 0.0.0.0 apps.admob.com
 0.0.0.0 apps5.oingo.com
@@ -2639,6 +2650,11 @@
 0.0.0.0 ck9d5ok0ww.com
 0.0.0.0 ckdpieqz7a.com
 0.0.0.0 cla.developers.google.com
+0.0.0.0 clickserve.cc-dt.com
+0.0.0.0 clickserve.dartsearch.net
+0.0.0.0 clickserve.eu.dartsearch.net
+0.0.0.0 clickserve.uk.dartsearch.net
+0.0.0.0 clickserve.us2.dartsearch.net
 0.0.0.0 Cliens-2.google.com
 0.0.0.0 client-channel.google.com
 0.0.0.0 client.1.google.com
@@ -2685,6 +2701,7 @@
 0.0.0.0 contacts.google.com
 0.0.0.0 contactsearch.corp.google.com
 0.0.0.0 contactsui-pa.googleapis.com
+0.0.0.0 conversion-pixel.invitemedia.com
 0.0.0.0 coursekit.google.com
 0.0.0.0 cpanel.mw.oz-s2.corp.google.com
 0.0.0.0 cpm.admob.com
@@ -2697,6 +2714,7 @@
 0.0.0.0 cps.withgoogle.com
 0.0.0.0 cpuid_0.google.com
 0.0.0.0 crash.corp.google.com
+0.0.0.0 creative.cc-dt.com
 0.0.0.0 crome.google.com
 0.0.0.0 cros-goldeneye.corp.google.com
 0.0.0.0 cros-omahaproxy.appspot.com
@@ -2903,8 +2921,14 @@
 0.0.0.0 googlezip.net
 0.0.0.0 gooogleapi.com
 0.0.0.0 goto.corp.google.com
+0.0.0.0 gp1.googleusercontent.com
+0.0.0.0 gp2.googleusercontent.com
 0.0.0.0 gp3.googleusercontent.com
 0.0.0.0 gp3gie1qbl.com
+0.0.0.0 gp4.googleusercontent.com
+0.0.0.0 gp5.googleusercontent.com
+0.0.0.0 gp6.googleusercontent.com
+0.0.0.0 gp7.googleusercontent.com
 0.0.0.0 gpayslips.corp.google.com
 0.0.0.0 gphone.svc-1.google.com
 0.0.0.0 groups-beta.google.com
@@ -2942,6 +2966,7 @@
 0.0.0.0 homecloudcastsdk-pa.googleapis.com
 0.0.0.0 hotelcenter.google.com
 0.0.0.0 htjyxlu6h0.com
+0.0.0.0 html5shiv.googlecode.com
 0.0.0.0 huiilh5cpc.com
 0.0.0.0 hw044oos7t.com
 0.0.0.0 hyuui.blog.appengine.google.com
@@ -3028,6 +3053,7 @@
 0.0.0.0 learndigital.withgoogle.com
 0.0.0.0 lens-pa.googleapis.com
 0.0.0.0 lens-storage.storage.googleapis.com
+0.0.0.0 lh0.googleusercontent.com
 0.0.0.0 lh1.googleusercontent.com
 0.0.0.0 lh2.google.com
 0.0.0.0 lh2.googleusercontent.com
@@ -3131,6 +3157,7 @@
 0.0.0.0 mzkdkfvrak.com
 0.0.0.0 n.admob.com
 0.0.0.0 n122jzr3vo.com
+0.0.0.0 n339.asp-cc.com
 0.0.0.0 n48qxvvrua.com
 0.0.0.0 n53eo6lws1.com
 0.0.0.0 nalytics.google.com
@@ -3935,6 +3962,8 @@
 0.0.0.0 remotedesktop.corp.google.com
 0.0.0.0 rjscu4as3k.com
 0.0.0.0 rlfqaqqhzg.com
+0.0.0.0 rmcdn.2mdn.net
+0.0.0.0 rmcdn.f.2mdn.net
 0.0.0.0 rmd.admob.com
 0.0.0.0 rosmagdo66.com
 0.0.0.0 rpife54xtv.com
@@ -3946,12 +3975,22 @@
 0.0.0.0 ru.advertisercommunity.com
 0.0.0.0 rwg687yt0x.com
 0.0.0.0 s.admob.com
+0.0.0.0 s.googleusercontent.com
+0.0.0.0 s0.googleusercontent.com
 0.0.0.0 s0qa.2mdn.net
+0.0.0.0 s1.googleusercontent.com
 0.0.0.0 s2.2mdn.net
 0.0.0.0 s2.googleusercontent.com
+0.0.0.0 s3.googleusercontent.com
+0.0.0.0 s4.googleusercontent.com
 0.0.0.0 s43bwoifym.com
+0.0.0.0 s5.googleusercontent.com
+0.0.0.0 s6.googleusercontent.com
 0.0.0.0 s6emz1rhpr.com
+0.0.0.0 s7.googleusercontent.com
+0.0.0.0 s8.googleusercontent.com
 0.0.0.0 s8h1t7ifgd.com
+0.0.0.0 s9.googleusercontent.com
 0.0.0.0 sa7n5ejpxu.com
 0.0.0.0 sabuaq3xef.com
 0.0.0.0 safe-browsing.google.com
@@ -3965,6 +4004,7 @@
 0.0.0.0 sb-ssl.google.com
 0.0.0.0 sc1.admob.com
 0.0.0.0 sc9.admob.com
+0.0.0.0 script.googleusercontent.com
 0.0.0.0 sdominko.www.docs.google.com
 0.0.0.0 sdusd.apis.google.com
 0.0.0.0 se2n4u1r13.com
@@ -4273,6 +4313,7 @@
 0.0.0.0 yf2vjne4wn.com
 0.0.0.0 yprlsa6i2l.com
 0.0.0.0 yt5hpdttf2.com
+0.0.0.0 ytimg.googleusercontent.com
 0.0.0.0 yu118l3flj.com
 0.0.0.0 yy5kinult3.com
 0.0.0.0 yym8v4rmia.com
@@ -5424,6 +5465,7 @@
 0.0.0.0 cctldtest.g.co
 0.0.0.0 cctldtest.youtu.be
 0.0.0.0 goo.gl
+0.0.0.0 goog.le
 0.0.0.0 images.app.goo.gl
 0.0.0.0 m.youtu.be
 0.0.0.0 surf.youtu.be
@@ -5486,10 +5528,12 @@
 0.0.0.0 holdingford.youtube.com
 0.0.0.0 hu.youtube.com
 0.0.0.0 i.ytimg.com
+0.0.0.0 i0.ytimg.com
 0.0.0.0 i1.ytimg.com
 0.0.0.0 i2.ytimg.com
 0.0.0.0 i3.ytimg.com
 0.0.0.0 i4.ytimg.com
+0.0.0.0 i5.ytimg.com
 0.0.0.0 i9.ytimg.com
 0.0.0.0 icsh.youtube.com
 0.0.0.0 id.youtube.com
@@ -6109,6 +6153,7 @@
 0.0.0.0 www.m.youtube.com
 0.0.0.0 www.streamingreport.youtube.com
 0.0.0.0 www.youtube-nocookie.com
+0.0.0.0 www.youtube-noscript.com
 0.0.0.0 www.youtube.be
 0.0.0.0 www.youtube.co.uk
 0.0.0.0 www.youtube.com
@@ -6120,6 +6165,7 @@
 0.0.0.0 www.youtubeeducation.com
 0.0.0.0 www.youtubegaming.com
 0.0.0.0 youtube-nocookie.com
+0.0.0.0 youtube-noscript.com
 0.0.0.0 youtube.be
 0.0.0.0 youtube.co.uk
 0.0.0.0 youtube.com
