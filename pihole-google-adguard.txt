@@ -1,5 +1,5 @@
 ! This blocklist helps to restrict access to Google and its domains. Contribute at https://github.com/nickspaargaren/no-google
-! Last updated: 2022-03-16
+! Last updated: 2022-03-24
 ! Analytics
 ||ad-creatives-public.commondatastorage.googleapis.com^
 ||adgoogle.net^
@@ -641,6 +641,7 @@
 ||google.be^
 ||google.bf^
 ||google.bg^
+||google.bh^
 ||google.bi^
 ||google.bj^
 ||google.bs^
@@ -795,6 +796,7 @@
 ||google.mw^
 ||google.ne^
 ||google.net^
+||google.ng^
 ||google.nl^
 ||google.no^
 ||google.nr^
@@ -1082,6 +1084,7 @@
 ||www.google.be^
 ||www.google.bf^
 ||www.google.bg^
+||www.google.bh^
 ||www.google.bi^
 ||www.google.bj^
 ||www.google.bs^
@@ -1209,6 +1212,7 @@
 ||www.google.iq^
 ||www.google.is^
 ||www.google.it^
+||www.google.it.ao^
 ||www.google.je^
 ||www.google.jo^
 ||www.google.kg^
