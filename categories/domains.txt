@@ -1,5 +1,5 @@
 # This blocklist helps to restrict access to Google and its domains. Contribute at https://github.com/nickspaargaren/no-google
-# Last updated: 2022-03-16
+# Last updated: 2022-03-24
 # Domains
 
 0.0.0.0 _caldav._tcp.google.com
@@ -217,6 +217,7 @@
 0.0.0.0 google.be
 0.0.0.0 google.bf
 0.0.0.0 google.bg
+0.0.0.0 google.bh
 0.0.0.0 google.bi
 0.0.0.0 google.bj
 0.0.0.0 google.bs
@@ -371,6 +372,7 @@
 0.0.0.0 google.mw
 0.0.0.0 google.ne
 0.0.0.0 google.net
+0.0.0.0 google.ng
 0.0.0.0 google.nl
 0.0.0.0 google.no
 0.0.0.0 google.nr
@@ -658,6 +660,7 @@
 0.0.0.0 www.google.be
 0.0.0.0 www.google.bf
 0.0.0.0 www.google.bg
+0.0.0.0 www.google.bh
 0.0.0.0 www.google.bi
 0.0.0.0 www.google.bj
 0.0.0.0 www.google.bs
@@ -785,6 +788,7 @@
 0.0.0.0 www.google.iq
 0.0.0.0 www.google.is
 0.0.0.0 www.google.it
+0.0.0.0 www.google.it.ao
 0.0.0.0 www.google.je
 0.0.0.0 www.google.jo
 0.0.0.0 www.google.kg
