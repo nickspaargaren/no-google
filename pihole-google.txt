@@ -639,6 +639,7 @@ google.ba
 google.be
 google.bf
 google.bg
+google.bh
 google.bi
 google.bj
 google.bs
@@ -793,6 +794,7 @@ google.mv
 google.mw
 google.ne
 google.net
+google.ng
 google.nl
 google.no
 google.nr
@@ -1080,6 +1082,7 @@ www.google.ba
 www.google.be
 www.google.bf
 www.google.bg
+www.google.bh
 www.google.bi
 www.google.bj
 www.google.bs
@@ -1207,6 +1210,7 @@ www.google.im
 www.google.iq
 www.google.is
 www.google.it
+www.google.it.ao
 www.google.je
 www.google.jo
 www.google.kg
