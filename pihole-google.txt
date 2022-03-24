@@ -7640,7 +7640,6 @@ me.gvt1.com
 monorail-prod-default-v011-dot-monorail-prod.appspot.com
 monorail-prod-default-v049-dot-monorail-prod.appspot.com
 monorail-prod-default-v129-dot-monorail-prod.appspot.com
-redirector.googlevideo.com
 source.chromium.org
 streetviewpixels-pa.googleapis.com
 versionhistory.googleapis.com
