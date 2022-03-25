@@ -7700,3 +7700,5 @@ www.blogspot.com
 www.blogspot.ru
 www.goo.gl
 www.gstatic.net
+i.ytimg
+yt3.ggpht.com
