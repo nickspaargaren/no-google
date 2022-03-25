@@ -7700,4 +7700,3 @@ www.blogspot.com
 www.blogspot.ru
 www.goo.gl
 www.gstatic.net
-youtube.com.cloudflare-dns.com
