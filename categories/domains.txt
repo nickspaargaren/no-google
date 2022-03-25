@@ -1,5 +1,5 @@
 # This blocklist helps to restrict access to Google and its domains. Contribute at https://github.com/nickspaargaren/no-google
-# Last updated: 2022-02-21
+# Last updated: 2022-03-24
 # Domains
 
 0.0.0.0 _caldav._tcp.google.com
@@ -35,6 +35,7 @@
 0.0.0.0 accounts.google.com
 0.0.0.0 ade.googlesyndication.com
 0.0.0.0 admin.google.com
+0.0.0.0 ads.googlesyndication.com
 0.0.0.0 adsense.google.com
 0.0.0.0 adservice.google.de
 0.0.0.0 adservice.google.es
@@ -115,8 +116,10 @@
 0.0.0.0 client4.google.com
 0.0.0.0 client5.google.com
 0.0.0.0 clients.google.com
+0.0.0.0 clients0.google.com
 0.0.0.0 clients1.google.com
 0.0.0.0 clients3.google.com
+0.0.0.0 clients9.google.com
 0.0.0.0 cloud.google.com
 0.0.0.0 code.google.com
 0.0.0.0 com.google
@@ -145,6 +148,7 @@
 0.0.0.0 doc.google.com
 0.0.0.0 docs.google.com
 0.0.0.0 domains.google.com
+0.0.0.0 domains.googlesyndication.com
 0.0.0.0 domains4google.com
 0.0.0.0 download.google.com
 0.0.0.0 downloads.google.com
@@ -175,6 +179,7 @@
 0.0.0.0 fk.google.com
 0.0.0.0 flight.google.com
 0.0.0.0 foofle.com
+0.0.0.0 forms.gle
 0.0.0.0 forms.google.com
 0.0.0.0 foto.google.com
 0.0.0.0 fotos.google.com
@@ -212,6 +217,7 @@
 0.0.0.0 google.be
 0.0.0.0 google.bf
 0.0.0.0 google.bg
+0.0.0.0 google.bh
 0.0.0.0 google.bi
 0.0.0.0 google.bj
 0.0.0.0 google.bs
@@ -366,6 +372,7 @@
 0.0.0.0 google.mw
 0.0.0.0 google.ne
 0.0.0.0 google.net
+0.0.0.0 google.ng
 0.0.0.0 google.nl
 0.0.0.0 google.no
 0.0.0.0 google.nr
@@ -492,6 +499,8 @@
 0.0.0.0 labs1.google.com
 0.0.0.0 ldap.google.com
 0.0.0.0 lens.google.com
+0.0.0.0 lh1.ggpht.com
+0.0.0.0 lh2.ggpht.com
 0.0.0.0 local.google.com
 0.0.0.0 logging.google.com
 0.0.0.0 lp.google.com
@@ -651,6 +660,7 @@
 0.0.0.0 www.google.be
 0.0.0.0 www.google.bf
 0.0.0.0 www.google.bg
+0.0.0.0 www.google.bh
 0.0.0.0 www.google.bi
 0.0.0.0 www.google.bj
 0.0.0.0 www.google.bs
@@ -778,6 +788,7 @@
 0.0.0.0 www.google.iq
 0.0.0.0 www.google.is
 0.0.0.0 www.google.it
+0.0.0.0 www.google.it.ao
 0.0.0.0 www.google.je
 0.0.0.0 www.google.jo
 0.0.0.0 www.google.kg

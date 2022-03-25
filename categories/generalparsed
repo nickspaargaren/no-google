@@ -1,5 +1,5 @@
 # This blocklist helps to restrict access to Google and its domains. Contribute at https://github.com/nickspaargaren/no-google
-# Last updated: 2022-02-21
+# Last updated: 2022-03-24
 # General
 
 0.chart.apis.google.com
@@ -221,6 +221,7 @@ admobclick.com
 admobsphere.com
 ads.admob.com
 ads.cc
+ads.cc-dt.com
 adsdatahub.google.com
 adsense.com
 adservice.google.ac
@@ -303,6 +304,7 @@ adservice.google.ws
 adups.com
 advertisercommunity.com
 adwords.com
+affiliate.2mdn.net
 affiliate.googleusercontent.com
 aglgqf4qs7.com
 agoogleaday.com
@@ -332,6 +334,7 @@ ap2.googleusercontent.com
 api.admob.com
 apidata.googleusercontent.com
 appassets.androidplatform.net
+appliedsemantics.com
 appmaker.corp.google.com
 apps.admob.com
 apps5.oingo.com
@@ -449,6 +452,11 @@ ciu4squ6qg.com
 ck9d5ok0ww.com
 ckdpieqz7a.com
 cla.developers.google.com
+clickserve.cc-dt.com
+clickserve.dartsearch.net
+clickserve.eu.dartsearch.net
+clickserve.uk.dartsearch.net
+clickserve.us2.dartsearch.net
 Cliens-2.google.com
 client-channel.google.com
 client.1.google.com
@@ -495,6 +503,7 @@ console.developers.google.com
 contacts.google.com
 contactsearch.corp.google.com
 contactsui-pa.googleapis.com
+conversion-pixel.invitemedia.com
 coursekit.google.com
 cpanel.mw.oz-s2.corp.google.com
 cpm.admob.com
@@ -507,6 +516,7 @@ cpm3.vip.sc9.admob.com
 cps.withgoogle.com
 cpuid_0.google.com
 crash.corp.google.com
+creative.cc-dt.com
 crome.google.com
 cros-goldeneye.corp.google.com
 cros-omahaproxy.appspot.com
@@ -713,8 +723,14 @@ googlew.com
 googlezip.net
 gooogleapi.com
 goto.corp.google.com
+gp1.googleusercontent.com
+gp2.googleusercontent.com
 gp3.googleusercontent.com
 gp3gie1qbl.com
+gp4.googleusercontent.com
+gp5.googleusercontent.com
+gp6.googleusercontent.com
+gp7.googleusercontent.com
 gpayslips.corp.google.com
 gphone.svc-1.google.com
 groups-beta.google.com
@@ -752,6 +768,7 @@ hipmvw6wib.com
 homecloudcastsdk-pa.googleapis.com
 hotelcenter.google.com
 htjyxlu6h0.com
+html5shiv.googlecode.com
 huiilh5cpc.com
 hw044oos7t.com
 hyuui.blog.appengine.google.com
@@ -838,6 +855,7 @@ latitude.google.com
 learndigital.withgoogle.com
 lens-pa.googleapis.com
 lens-storage.storage.googleapis.com
+lh0.googleusercontent.com
 lh1.googleusercontent.com
 lh2.google.com
 lh2.googleusercontent.com
@@ -941,6 +959,7 @@ mystuff.corp.google.com
 mzkdkfvrak.com
 n.admob.com
 n122jzr3vo.com
+n339.asp-cc.com
 n48qxvvrua.com
 n53eo6lws1.com
 nalytics.google.com
@@ -1745,6 +1764,8 @@ redwood2.corp.google.com
 remotedesktop.corp.google.com
 rjscu4as3k.com
 rlfqaqqhzg.com
+rmcdn.2mdn.net
+rmcdn.f.2mdn.net
 rmd.admob.com
 rosmagdo66.com
 rpife54xtv.com
@@ -1756,12 +1777,22 @@ ru.admob.com
 ru.advertisercommunity.com
 rwg687yt0x.com
 s.admob.com
+s.googleusercontent.com
+s0.googleusercontent.com
 s0qa.2mdn.net
+s1.googleusercontent.com
 s2.2mdn.net
 s2.googleusercontent.com
+s3.googleusercontent.com
+s4.googleusercontent.com
 s43bwoifym.com
+s5.googleusercontent.com
+s6.googleusercontent.com
 s6emz1rhpr.com
+s7.googleusercontent.com
+s8.googleusercontent.com
 s8h1t7ifgd.com
+s9.googleusercontent.com
 sa7n5ejpxu.com
 sabuaq3xef.com
 safe-browsing.google.com
@@ -1775,6 +1806,7 @@ sayashand.apis.google.com
 sb-ssl.google.com
 sc1.admob.com
 sc9.admob.com
+script.googleusercontent.com
 sdominko.www.docs.google.com
 sdusd.apis.google.com
 se2n4u1r13.com
@@ -2083,6 +2115,7 @@ ye76ae6sv8.com
 yf2vjne4wn.com
 yprlsa6i2l.com
 yt5hpdttf2.com
+ytimg.googleusercontent.com
 yu118l3flj.com
 yy5kinult3.com
 yym8v4rmia.com

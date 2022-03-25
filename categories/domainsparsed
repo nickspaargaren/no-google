@@ -1,5 +1,5 @@
 # This blocklist helps to restrict access to Google and its domains. Contribute at https://github.com/nickspaargaren/no-google
-# Last updated: 2022-02-21
+# Last updated: 2022-03-24
 # Domains
 
 _caldav._tcp.google.com
@@ -35,6 +35,7 @@ account.google.com
 accounts.google.com
 ade.googlesyndication.com
 admin.google.com
+ads.googlesyndication.com
 adsense.google.com
 adservice.google.de
 adservice.google.es
@@ -115,8 +116,10 @@ client3.google.com
 client4.google.com
 client5.google.com
 clients.google.com
+clients0.google.com
 clients1.google.com
 clients3.google.com
+clients9.google.com
 cloud.google.com
 code.google.com
 com.google
@@ -145,6 +148,7 @@ dns.google.com
 doc.google.com
 docs.google.com
 domains.google.com
+domains.googlesyndication.com
 domains4google.com
 download.google.com
 downloads.google.com
@@ -175,6 +179,7 @@ fit.google.com
 fk.google.com
 flight.google.com
 foofle.com
+forms.gle
 forms.google.com
 foto.google.com
 fotos.google.com
@@ -212,6 +217,7 @@ google.ba
 google.be
 google.bf
 google.bg
+google.bh
 google.bi
 google.bj
 google.bs
@@ -366,6 +372,7 @@ google.mv
 google.mw
 google.ne
 google.net
+google.ng
 google.nl
 google.no
 google.nr
@@ -492,6 +499,8 @@ labs.google.com
 labs1.google.com
 ldap.google.com
 lens.google.com
+lh1.ggpht.com
+lh2.ggpht.com
 local.google.com
 logging.google.com
 lp.google.com
@@ -651,6 +660,7 @@ www.google.ba
 www.google.be
 www.google.bf
 www.google.bg
+www.google.bh
 www.google.bi
 www.google.bj
 www.google.bs
@@ -778,6 +788,7 @@ www.google.im
 www.google.iq
 www.google.is
 www.google.it
+www.google.it.ao
 www.google.je
 www.google.jo
 www.google.kg

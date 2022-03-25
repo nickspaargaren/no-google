@@ -1,5 +1,5 @@
 ! This blocklist helps to restrict access to Google and its domains. Contribute at https://github.com/nickspaargaren/no-google
-! Last updated: 2022-02-21
+! Last updated: 2022-03-24
 ! Analytics
 ||ad-creatives-public.commondatastorage.googleapis.com^
 ||adgoogle.net^
@@ -459,6 +459,7 @@
 ||accounts.google.com^
 ||ade.googlesyndication.com^
 ||admin.google.com^
+||ads.googlesyndication.com^
 ||adsense.google.com^
 ||adservice.google.de^
 ||adservice.google.es^
@@ -539,8 +540,10 @@
 ||client4.google.com^
 ||client5.google.com^
 ||clients.google.com^
+||clients0.google.com^
 ||clients1.google.com^
 ||clients3.google.com^
+||clients9.google.com^
 ||cloud.google.com^
 ||code.google.com^
 ||com.google^
@@ -569,6 +572,7 @@
 ||doc.google.com^
 ||docs.google.com^
 ||domains.google.com^
+||domains.googlesyndication.com^
 ||domains4google.com^
 ||download.google.com^
 ||downloads.google.com^
@@ -599,6 +603,7 @@
 ||fk.google.com^
 ||flight.google.com^
 ||foofle.com^
+||forms.gle^
 ||forms.google.com^
 ||foto.google.com^
 ||fotos.google.com^
@@ -636,6 +641,7 @@
 ||google.be^
 ||google.bf^
 ||google.bg^
+||google.bh^
 ||google.bi^
 ||google.bj^
 ||google.bs^
@@ -790,6 +796,7 @@
 ||google.mw^
 ||google.ne^
 ||google.net^
+||google.ng^
 ||google.nl^
 ||google.no^
 ||google.nr^
@@ -916,6 +923,8 @@
 ||labs1.google.com^
 ||ldap.google.com^
 ||lens.google.com^
+||lh1.ggpht.com^
+||lh2.ggpht.com^
 ||local.google.com^
 ||logging.google.com^
 ||lp.google.com^
@@ -1075,6 +1084,7 @@
 ||www.google.be^
 ||www.google.bf^
 ||www.google.bg^
+||www.google.bh^
 ||www.google.bi^
 ||www.google.bj^
 ||www.google.bs^
@@ -1202,6 +1212,7 @@
 ||www.google.iq^
 ||www.google.is^
 ||www.google.it^
+||www.google.it.ao^
 ||www.google.je^
 ||www.google.jo^
 ||www.google.kg^
@@ -1301,23 +1312,29 @@
 ||1268402.fls.doubleclick.net^
 ||1326154.fls.doubleclick.net^
 ||1330903.fls.doubleclick.net^
+||1435575.fls.doubleclick.net^
 ||1742177.fls.doubleclick.net^
 ||2013561.fls.doubleclick.net^
 ||2196503.fls.doubleclick.net^
 ||2332696.fls.doubleclick.net^
 ||2499034.fls.doubleclick.net^
+||2507573.fls.doubleclick.net^
 ||2542116.fls.doubleclick.net^
 ||2793343.fls.doubleclick.net^
 ||3130320.fls.doubleclick.net^
 ||3243857.fls.doubleclick.net^
 ||3276817.fls.doubleclick.net^
 ||3501113.fls.doubleclick.net^
+||3642305.fls.doubleclick.net^
 ||3738527.fls.doubleclick.net^
+||3765329.fls.doubleclick.net^
 ||3773523.fls.doubleclick.net^
 ||3879194.fls.doubleclick.net^
 ||3941123.fls.doubleclick.net^
 ||3973258.fls.doubleclick.net^
 ||3982178.fls.doubleclick.net^
+||4053494.fls.doubleclick.net^
+||4171764.fls.doubleclick.net^
 ||4177752.fls.doubleclick.net^
 ||4191036.fls.doubleclick.net^
 ||4191748.fls.doubleclick.net^
@@ -1330,13 +1347,6 @@
 ||4371920.fls.doubleclick.net^
 ||4375326.fls.doubleclick.net^
 ||4379742.fls.doubleclick.net^
-||8921356.fls.doubleclick.net^
-||1435575.fls.doubleclick.net^
-||2507573.fls.doubleclick.net^
-||3642305.fls.doubleclick.net^
-||3765329.fls.doubleclick.net^
-||4053494.fls.doubleclick.net^
-||4171764.fls.doubleclick.net^
 ||4403916.fls.doubleclick.net^
 ||4487826.fls.doubleclick.net^
 ||4514783.fls.doubleclick.net^
@@ -1349,6 +1359,7 @@
 ||8482194.fls.doubleclick.net^
 ||8522212.fls.doubleclick.net^
 ||8563004.fls.doubleclick.net^
+||8921356.fls.doubleclick.net^
 ||9309168.fls.doubleclick.net^
 ||accounts.doubleclick.net^
 ||ad-ace.doubleclick.net^
@@ -1417,8 +1428,8 @@
 ||ad.ve.doubleclick.net^
 ||ad.za.doubleclick.net^
 ||ad2.doubleclick.net^
-||adclick.g.doubleclick.net^
 ||adclick.g.doublecklick.net^
+||adclick.g.doubleclick.net^
 ||ads-bid.l.doubleclick.net^
 ||advertisers.doubleclick.com^
 ||advertisersapitest.doubleclick.com^
@@ -1476,6 +1487,8 @@
 ||mediavisor.doubleclick.net^
 ||mobile-displayads-uk.l.doubleclick.net^
 ||mobile-displayads.l.doubleclick.net^
+||motifcdn.doubleclick.net^
+||motifcdn2.doubleclick.net^
 ||n4052ad.doubleclick.net^
 ||n4061ad.hk.doubleclick.net^
 ||n4061ad.jp.doubleclick.net^
@@ -2410,6 +2423,7 @@
 ||admobsphere.com^
 ||ads.admob.com^
 ||ads.cc^
+||ads.cc-dt.com^
 ||adsdatahub.google.com^
 ||adsense.com^
 ||adservice.google.ac^
@@ -2492,6 +2506,7 @@
 ||adups.com^
 ||advertisercommunity.com^
 ||adwords.com^
+||affiliate.2mdn.net^
 ||affiliate.googleusercontent.com^
 ||aglgqf4qs7.com^
 ||agoogleaday.com^
@@ -2521,6 +2536,7 @@
 ||api.admob.com^
 ||apidata.googleusercontent.com^
 ||appassets.androidplatform.net^
+||appliedsemantics.com^
 ||appmaker.corp.google.com^
 ||apps.admob.com^
 ||apps5.oingo.com^
@@ -2638,6 +2654,11 @@
 ||ck9d5ok0ww.com^
 ||ckdpieqz7a.com^
 ||cla.developers.google.com^
+||clickserve.cc-dt.com^
+||clickserve.dartsearch.net^
+||clickserve.eu.dartsearch.net^
+||clickserve.uk.dartsearch.net^
+||clickserve.us2.dartsearch.net^
 ||Cliens-2.google.com^
 ||client-channel.google.com^
 ||client.1.google.com^
@@ -2684,6 +2705,7 @@
 ||contacts.google.com^
 ||contactsearch.corp.google.com^
 ||contactsui-pa.googleapis.com^
+||conversion-pixel.invitemedia.com^
 ||coursekit.google.com^
 ||cpanel.mw.oz-s2.corp.google.com^
 ||cpm.admob.com^
@@ -2696,6 +2718,7 @@
 ||cps.withgoogle.com^
 ||cpuid_0.google.com^
 ||crash.corp.google.com^
+||creative.cc-dt.com^
 ||crome.google.com^
 ||cros-goldeneye.corp.google.com^
 ||cros-omahaproxy.appspot.com^
@@ -2902,8 +2925,14 @@
 ||googlezip.net^
 ||gooogleapi.com^
 ||goto.corp.google.com^
+||gp1.googleusercontent.com^
+||gp2.googleusercontent.com^
 ||gp3.googleusercontent.com^
 ||gp3gie1qbl.com^
+||gp4.googleusercontent.com^
+||gp5.googleusercontent.com^
+||gp6.googleusercontent.com^
+||gp7.googleusercontent.com^
 ||gpayslips.corp.google.com^
 ||gphone.svc-1.google.com^
 ||groups-beta.google.com^
@@ -2941,6 +2970,7 @@
 ||homecloudcastsdk-pa.googleapis.com^
 ||hotelcenter.google.com^
 ||htjyxlu6h0.com^
+||html5shiv.googlecode.com^
 ||huiilh5cpc.com^
 ||hw044oos7t.com^
 ||hyuui.blog.appengine.google.com^
@@ -3027,6 +3057,7 @@
 ||learndigital.withgoogle.com^
 ||lens-pa.googleapis.com^
 ||lens-storage.storage.googleapis.com^
+||lh0.googleusercontent.com^
 ||lh1.googleusercontent.com^
 ||lh2.google.com^
 ||lh2.googleusercontent.com^
@@ -3130,6 +3161,7 @@
 ||mzkdkfvrak.com^
 ||n.admob.com^
 ||n122jzr3vo.com^
+||n339.asp-cc.com^
 ||n48qxvvrua.com^
 ||n53eo6lws1.com^
 ||nalytics.google.com^
@@ -3934,6 +3966,8 @@
 ||remotedesktop.corp.google.com^
 ||rjscu4as3k.com^
 ||rlfqaqqhzg.com^
+||rmcdn.2mdn.net^
+||rmcdn.f.2mdn.net^
 ||rmd.admob.com^
 ||rosmagdo66.com^
 ||rpife54xtv.com^
@@ -3945,12 +3979,22 @@
 ||ru.advertisercommunity.com^
 ||rwg687yt0x.com^
 ||s.admob.com^
+||s.googleusercontent.com^
+||s0.googleusercontent.com^
 ||s0qa.2mdn.net^
+||s1.googleusercontent.com^
 ||s2.2mdn.net^
 ||s2.googleusercontent.com^
+||s3.googleusercontent.com^
+||s4.googleusercontent.com^
 ||s43bwoifym.com^
+||s5.googleusercontent.com^
+||s6.googleusercontent.com^
 ||s6emz1rhpr.com^
+||s7.googleusercontent.com^
+||s8.googleusercontent.com^
 ||s8h1t7ifgd.com^
+||s9.googleusercontent.com^
 ||sa7n5ejpxu.com^
 ||sabuaq3xef.com^
 ||safe-browsing.google.com^
@@ -3964,6 +4008,7 @@
 ||sb-ssl.google.com^
 ||sc1.admob.com^
 ||sc9.admob.com^
+||script.googleusercontent.com^
 ||sdominko.www.docs.google.com^
 ||sdusd.apis.google.com^
 ||se2n4u1r13.com^
@@ -4272,6 +4317,7 @@
 ||yf2vjne4wn.com^
 ||yprlsa6i2l.com^
 ||yt5hpdttf2.com^
+||ytimg.googleusercontent.com^
 ||yu118l3flj.com^
 ||yy5kinult3.com^
 ||yym8v4rmia.com^
@@ -4776,6 +4822,7 @@
 ||femalensropsyhnupedugermen1469632393.page.link^
 ||ffmc50.page.link^
 ||fg1.page.link^
+||firebasehostingproxy.page.link^
 ||firepay2020.page.link^
 ||flip0101.page.link^
 ||fotolike24.page.link^
@@ -5422,6 +5469,7 @@
 ||cctldtest.g.co^
 ||cctldtest.youtu.be^
 ||goo.gl^
+||goog.le^
 ||images.app.goo.gl^
 ||m.youtu.be^
 ||surf.youtu.be^
@@ -5484,10 +5532,12 @@
 ||holdingford.youtube.com^
 ||hu.youtube.com^
 ||i.ytimg.com^
+||i0.ytimg.com^
 ||i1.ytimg.com^
 ||i2.ytimg.com^
 ||i3.ytimg.com^
 ||i4.ytimg.com^
+||i5.ytimg.com^
 ||i9.ytimg.com^
 ||icsh.youtube.com^
 ||id.youtube.com^
@@ -6107,6 +6157,7 @@
 ||www.m.youtube.com^
 ||www.streamingreport.youtube.com^
 ||www.youtube-nocookie.com^
+||www.youtube-noscript.com^
 ||www.youtube.be^
 ||www.youtube.co.uk^
 ||www.youtube.com^
@@ -6118,6 +6169,7 @@
 ||www.youtubeeducation.com^
 ||www.youtubegaming.com^
 ||youtube-nocookie.com^
+||youtube-noscript.com^
 ||youtube.be^
 ||youtube.co.uk^
 ||youtube.com^

@@ -1,5 +1,5 @@
 # This blocklist helps to restrict access to Google and its domains. Contribute at https://github.com/nickspaargaren/no-google
-# Last updated: 2022-02-21
+# Last updated: 2022-03-24
 # General
 
 0.0.0.0 0.chart.apis.google.com
@@ -221,6 +221,7 @@
 0.0.0.0 admobsphere.com
 0.0.0.0 ads.admob.com
 0.0.0.0 ads.cc
+0.0.0.0 ads.cc-dt.com
 0.0.0.0 adsdatahub.google.com
 0.0.0.0 adsense.com
 0.0.0.0 adservice.google.ac
@@ -303,6 +304,7 @@
 0.0.0.0 adups.com
 0.0.0.0 advertisercommunity.com
 0.0.0.0 adwords.com
+0.0.0.0 affiliate.2mdn.net
 0.0.0.0 affiliate.googleusercontent.com
 0.0.0.0 aglgqf4qs7.com
 0.0.0.0 agoogleaday.com
@@ -332,6 +334,7 @@
 0.0.0.0 api.admob.com
 0.0.0.0 apidata.googleusercontent.com
 0.0.0.0 appassets.androidplatform.net
+0.0.0.0 appliedsemantics.com
 0.0.0.0 appmaker.corp.google.com
 0.0.0.0 apps.admob.com
 0.0.0.0 apps5.oingo.com
@@ -449,6 +452,11 @@
 0.0.0.0 ck9d5ok0ww.com
 0.0.0.0 ckdpieqz7a.com
 0.0.0.0 cla.developers.google.com
+0.0.0.0 clickserve.cc-dt.com
+0.0.0.0 clickserve.dartsearch.net
+0.0.0.0 clickserve.eu.dartsearch.net
+0.0.0.0 clickserve.uk.dartsearch.net
+0.0.0.0 clickserve.us2.dartsearch.net
 0.0.0.0 Cliens-2.google.com
 0.0.0.0 client-channel.google.com
 0.0.0.0 client.1.google.com
@@ -495,6 +503,7 @@
 0.0.0.0 contacts.google.com
 0.0.0.0 contactsearch.corp.google.com
 0.0.0.0 contactsui-pa.googleapis.com
+0.0.0.0 conversion-pixel.invitemedia.com
 0.0.0.0 coursekit.google.com
 0.0.0.0 cpanel.mw.oz-s2.corp.google.com
 0.0.0.0 cpm.admob.com
@@ -507,6 +516,7 @@
 0.0.0.0 cps.withgoogle.com
 0.0.0.0 cpuid_0.google.com
 0.0.0.0 crash.corp.google.com
+0.0.0.0 creative.cc-dt.com
 0.0.0.0 crome.google.com
 0.0.0.0 cros-goldeneye.corp.google.com
 0.0.0.0 cros-omahaproxy.appspot.com
@@ -713,8 +723,14 @@
 0.0.0.0 googlezip.net
 0.0.0.0 gooogleapi.com
 0.0.0.0 goto.corp.google.com
+0.0.0.0 gp1.googleusercontent.com
+0.0.0.0 gp2.googleusercontent.com
 0.0.0.0 gp3.googleusercontent.com
 0.0.0.0 gp3gie1qbl.com
+0.0.0.0 gp4.googleusercontent.com
+0.0.0.0 gp5.googleusercontent.com
+0.0.0.0 gp6.googleusercontent.com
+0.0.0.0 gp7.googleusercontent.com
 0.0.0.0 gpayslips.corp.google.com
 0.0.0.0 gphone.svc-1.google.com
 0.0.0.0 groups-beta.google.com
@@ -752,6 +768,7 @@
 0.0.0.0 homecloudcastsdk-pa.googleapis.com
 0.0.0.0 hotelcenter.google.com
 0.0.0.0 htjyxlu6h0.com
+0.0.0.0 html5shiv.googlecode.com
 0.0.0.0 huiilh5cpc.com
 0.0.0.0 hw044oos7t.com
 0.0.0.0 hyuui.blog.appengine.google.com
@@ -838,6 +855,7 @@
 0.0.0.0 learndigital.withgoogle.com
 0.0.0.0 lens-pa.googleapis.com
 0.0.0.0 lens-storage.storage.googleapis.com
+0.0.0.0 lh0.googleusercontent.com
 0.0.0.0 lh1.googleusercontent.com
 0.0.0.0 lh2.google.com
 0.0.0.0 lh2.googleusercontent.com
@@ -941,6 +959,7 @@
 0.0.0.0 mzkdkfvrak.com
 0.0.0.0 n.admob.com
 0.0.0.0 n122jzr3vo.com
+0.0.0.0 n339.asp-cc.com
 0.0.0.0 n48qxvvrua.com
 0.0.0.0 n53eo6lws1.com
 0.0.0.0 nalytics.google.com
@@ -1745,6 +1764,8 @@
 0.0.0.0 remotedesktop.corp.google.com
 0.0.0.0 rjscu4as3k.com
 0.0.0.0 rlfqaqqhzg.com
+0.0.0.0 rmcdn.2mdn.net
+0.0.0.0 rmcdn.f.2mdn.net
 0.0.0.0 rmd.admob.com
 0.0.0.0 rosmagdo66.com
 0.0.0.0 rpife54xtv.com
@@ -1756,12 +1777,22 @@
 0.0.0.0 ru.advertisercommunity.com
 0.0.0.0 rwg687yt0x.com
 0.0.0.0 s.admob.com
+0.0.0.0 s.googleusercontent.com
+0.0.0.0 s0.googleusercontent.com
 0.0.0.0 s0qa.2mdn.net
+0.0.0.0 s1.googleusercontent.com
 0.0.0.0 s2.2mdn.net
 0.0.0.0 s2.googleusercontent.com
+0.0.0.0 s3.googleusercontent.com
+0.0.0.0 s4.googleusercontent.com
 0.0.0.0 s43bwoifym.com
+0.0.0.0 s5.googleusercontent.com
+0.0.0.0 s6.googleusercontent.com
 0.0.0.0 s6emz1rhpr.com
+0.0.0.0 s7.googleusercontent.com
+0.0.0.0 s8.googleusercontent.com
 0.0.0.0 s8h1t7ifgd.com
+0.0.0.0 s9.googleusercontent.com
 0.0.0.0 sa7n5ejpxu.com
 0.0.0.0 sabuaq3xef.com
 0.0.0.0 safe-browsing.google.com
@@ -1775,6 +1806,7 @@
 0.0.0.0 sb-ssl.google.com
 0.0.0.0 sc1.admob.com
 0.0.0.0 sc9.admob.com
+0.0.0.0 script.googleusercontent.com
 0.0.0.0 sdominko.www.docs.google.com
 0.0.0.0 sdusd.apis.google.com
 0.0.0.0 se2n4u1r13.com
@@ -2083,6 +2115,7 @@
 0.0.0.0 yf2vjne4wn.com
 0.0.0.0 yprlsa6i2l.com
 0.0.0.0 yt5hpdttf2.com
+0.0.0.0 ytimg.googleusercontent.com
 0.0.0.0 yu118l3flj.com
 0.0.0.0 yy5kinult3.com
 0.0.0.0 yym8v4rmia.com
