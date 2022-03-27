@@ -7719,8 +7719,7 @@ meshconfig.googleapis.com
 iamcredentials.googleapis.com
 stackdriver.googleapis.com
 img1.blogblog.com
-gstaticadssl.l.google.com
-i9.ytimg.com 
+gstaticadssl.l.google.com 
 googlehosted.l.googleusercontent.com
 android.l.google.com
 photos-ugc.l.googleusercontent.com
