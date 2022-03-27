@@ -7732,4 +7732,3 @@ blogspot.l.googleusercontent.com
 ytimg-edge-static.l.google.com
 googleapis.l.google.com
 www3.l.google.com
-redirector.googlevideo.com
