@@ -7705,8 +7705,7 @@ mobiledataplansharing.googleapis.com
 clickserver.googleads.com
 cloudresourcemanager.googleapis.com
 container.googleapis.com 
-gkeconnect.googleapis.com 
-gkehub.googleapis.com 
+gkeconnect.googleapis.com  
 serviceusage.googleapis.com 
 anthos.googleapis.com
 compute.googleapis.com
