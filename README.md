@@ -127,12 +127,12 @@ python3 convert.py json | jq -r '(.Analytics,.Doubleclick) | .[]'
 ## Can I block the other letters of GAFAM ?
 Of course, here’s some filterlists that should help you accomplish that.
 
-**A**pple : https://github.com/c-edw/ios-telemetry, https://github.com/1r2/iosparanoid or https://gitlab.com/CHEF-KOCH/cks-filterlist/blob/master/Anti-Corp/filters/apple.txt
+**A**pple : https://github.com/c-edw/ios-telemetry or https://github.com/1r2/iosparanoid
 
-**F**acebook : https://raw.githubusercontent.com/jmdugan/blocklists/master/corporations/facebook/all, https://raw.githubusercontent.com/anudeepND/blacklist/master/facebook.txt or https://gitlab.com/CHEF-KOCH/cks-filterlist/blob/master/Anti-Corp/filters/facebook.txt
+**F**acebook : https://raw.githubusercontent.com/jmdugan/blocklists/master/corporations/facebook/all or https://raw.githubusercontent.com/anudeepND/blacklist/master/facebook.txt
 
 **A**mazon : https://github.com/nickspaargaren/no-amazon
 
-**M**icrosoft : https://raw.githubusercontent.com/jmdugan/blocklists/master/corporations/microsoft/all or https://gitlab.com/CHEF-KOCH/cks-filterlist/blob/master/Anti-Corp/filters/microsoft.txt
+**M**icrosoft : https://raw.githubusercontent.com/jmdugan/blocklists/master/corporations/microsoft/all
 
 [![https://gafam.info](https://raw.githubusercontent.com/nickspaargaren/pihole-google/master/images/gafam-poster-en-color.png)](https://gafam.info)
