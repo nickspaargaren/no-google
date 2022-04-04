@@ -1,5 +1,5 @@
 # This blocklist helps to restrict access to Google and its domains. Contribute at https://github.com/nickspaargaren/no-google
-# Last updated: 2022-03-24
+# Last updated: 2022-04-04
 # Analytics
 0.0.0.0 ad-creatives-public.commondatastorage.googleapis.com
 0.0.0.0 adgoogle.net
@@ -532,6 +532,7 @@
 0.0.0.0 cdff40dad0a98d6b641bfca1a05423a8.safeframe.googlesyndication.com
 0.0.0.0 chat.google.com
 0.0.0.0 chrome.google.com
+0.0.0.0 chromeenterprise.google
 0.0.0.0 cimsun.google.com
 0.0.0.0 classroom.google.com
 0.0.0.0 client1.google.com
@@ -833,10 +834,13 @@
 0.0.0.0 google.ws
 0.0.0.0 googleadservices.com
 0.0.0.0 googleanalytics.com
+0.0.0.0 googleapis.co
 0.0.0.0 googleapps.com
 0.0.0.0 googlearth.com
 0.0.0.0 googleblog.com
 0.0.0.0 googlebot.com
+0.0.0.0 googlecdn.org
+0.0.0.0 googlecloudpresscorner.com
 0.0.0.0 googlecode.com
 0.0.0.0 googlecommerce.com
 0.0.0.0 googledrive.com
@@ -845,6 +849,7 @@
 0.0.0.0 googlegroups.com
 0.0.0.0 googlehosts.org
 0.0.0.0 googlemaps.com
+0.0.0.0 googlemerchandisestore.com
 0.0.0.0 googlepagecreator.com
 0.0.0.0 googlescholar.com
 0.0.0.0 googlesyndication-cn.com
@@ -1001,6 +1006,7 @@
 0.0.0.0 redirector.c.googlesyndication.com
 0.0.0.0 registry.google.com
 0.0.0.0 relay.google.com
+0.0.0.0 research.google
 0.0.0.0 research.google.com
 0.0.0.0 rooms.google.com
 0.0.0.0 s0.2mdn.net
@@ -1028,6 +1034,8 @@
 0.0.0.0 static.2mdn.net
 0.0.0.0 station.google.com
 0.0.0.0 store.google.com
+0.0.0.0 stories.google
+0.0.0.0 sre.google
 0.0.0.0 support.google.com
 0.0.0.0 survey.google.com
 0.0.0.0 surveys.google.com
@@ -1047,6 +1055,7 @@
 0.0.0.0 translate.google.com
 0.0.0.0 travel.google.com
 0.0.0.0 tv.google.com
+0.0.0.0 tv.google
 0.0.0.0 twx.2mdn.net
 0.0.0.0 uol.google.com
 0.0.0.0 upload.google.com
@@ -3209,6 +3218,7 @@
 0.0.0.0 onetoday.google.com
 0.0.0.0 onka64mqbc.com
 0.0.0.0 opensource.google.com
+0.0.0.0 opensource.google
 0.0.0.0 optimize.google.com
 0.0.0.0 orderfood.google.com
 0.0.0.0 orkut.google.com
