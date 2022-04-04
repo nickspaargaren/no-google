@@ -5,6 +5,7 @@
 0.0.0.0 app.goo.gl
 0.0.0.0 cctldtest.g.co
 0.0.0.0 cctldtest.youtu.be
+0.0.0.0 g.co
 0.0.0.0 goo.gl
 0.0.0.0 goog.le
 0.0.0.0 images.app.goo.gl
