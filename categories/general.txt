@@ -647,7 +647,6 @@
 0.0.0.0 fx7qw7ufhs.com
 0.0.0.0 fxtfq4nhaw.com
 0.0.0.0 g.admob.com
-0.0.0.0 g.co
 0.0.0.0 g0tgpatzo2.com
 0.0.0.0 g3doc.corp.google.com
 0.0.0.0 g5dy0ime6h.com
