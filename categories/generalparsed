@@ -1,5 +1,5 @@
 # This blocklist helps to restrict access to Google and its domains. Contribute at https://github.com/nickspaargaren/no-google
-# Last updated: 2022-03-24
+# Last updated: 2022-04-04
 # General
 
 0.chart.apis.google.com
@@ -1007,6 +1007,7 @@ oncall.corp.google.com
 onetoday.google.com
 onka64mqbc.com
 opensource.google.com
+opensource.google
 optimize.google.com
 orderfood.google.com
 orkut.google.com
