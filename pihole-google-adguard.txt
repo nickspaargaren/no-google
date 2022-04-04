@@ -2858,7 +2858,6 @@
 ||fx7qw7ufhs.com^
 ||fxtfq4nhaw.com^
 ||g.admob.com^
-||g.co^
 ||g0tgpatzo2.com^
 ||g3doc.corp.google.com^
 ||g5dy0ime6h.com^
@@ -5478,6 +5477,7 @@
 ||app.goo.gl^
 ||cctldtest.g.co^
 ||cctldtest.youtu.be^
+||g.co^
 ||goo.gl^
 ||goog.le^
 ||images.app.goo.gl^
