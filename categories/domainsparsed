@@ -1,5 +1,5 @@
 # This blocklist helps to restrict access to Google and its domains. Contribute at https://github.com/nickspaargaren/no-google
-# Last updated: 2022-03-24
+# Last updated: 2022-04-04
 # Domains
 
 _caldav._tcp.google.com
@@ -108,6 +108,7 @@ ccacc69a0d7467ebaac293677146be75.safeframe.googlesyndication.com
 cdff40dad0a98d6b641bfca1a05423a8.safeframe.googlesyndication.com
 chat.google.com
 chrome.google.com
+chromeenterprise.google
 cimsun.google.com
 classroom.google.com
 client1.google.com
@@ -409,10 +410,13 @@ google.vu
 google.ws
 googleadservices.com
 googleanalytics.com
+googleapis.co
 googleapps.com
 googlearth.com
 googleblog.com
 googlebot.com
+googlecdn.org
+googlecloudpresscorner.com
 googlecode.com
 googlecommerce.com
 googledrive.com
@@ -421,6 +425,7 @@ googleearth.com
 googlegroups.com
 googlehosts.org
 googlemaps.com
+googlemerchandisestore.com
 googlepagecreator.com
 googlescholar.com
 googlesyndication-cn.com
@@ -577,6 +582,7 @@ realtime.google.com
 redirector.c.googlesyndication.com
 registry.google.com
 relay.google.com
+research.google
 research.google.com
 rooms.google.com
 s0.2mdn.net
@@ -604,6 +610,8 @@ ss-3.googlehosts.org
 static.2mdn.net
 station.google.com
 store.google.com
+stories.google
+sre.google
 support.google.com
 survey.google.com
 surveys.google.com
@@ -623,6 +631,7 @@ transit.google.com
 translate.google.com
 travel.google.com
 tv.google.com
+tv.google
 twx.2mdn.net
 uol.google.com
 upload.google.com
