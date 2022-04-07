@@ -1,5 +1,5 @@
 # This blocklist helps to restrict access to Google and its domains. Contribute at https://github.com/nickspaargaren/no-google
-# Last updated: 2022-02-16
+# Last updated: 2022-04-04
 # Youtube
 
 0.0.0.0 _domainkey.youtube.com
@@ -57,10 +57,12 @@
 0.0.0.0 holdingford.youtube.com
 0.0.0.0 hu.youtube.com
 0.0.0.0 i.ytimg.com
+0.0.0.0 i0.ytimg.com
 0.0.0.0 i1.ytimg.com
 0.0.0.0 i2.ytimg.com
 0.0.0.0 i3.ytimg.com
 0.0.0.0 i4.ytimg.com
+0.0.0.0 i5.ytimg.com
 0.0.0.0 i9.ytimg.com
 0.0.0.0 icsh.youtube.com
 0.0.0.0 id.youtube.com
@@ -680,6 +682,7 @@
 0.0.0.0 www.m.youtube.com
 0.0.0.0 www.streamingreport.youtube.com
 0.0.0.0 www.youtube-nocookie.com
+0.0.0.0 www.youtube-noscript.com
 0.0.0.0 www.youtube.be
 0.0.0.0 www.youtube.co.uk
 0.0.0.0 www.youtube.com
@@ -691,6 +694,7 @@
 0.0.0.0 www.youtubeeducation.com
 0.0.0.0 www.youtubegaming.com
 0.0.0.0 youtube-nocookie.com
+0.0.0.0 youtube-noscript.com
 0.0.0.0 youtube.be
 0.0.0.0 youtube.co.uk
 0.0.0.0 youtube.com

@@ -1,5 +1,5 @@
 # This blocklist helps to restrict access to Google and its domains. Contribute at https://github.com/nickspaargaren/no-google
-# Last updated: 2022-02-16
+# Last updated: 2022-04-04
 # Doubleclick
 
 0.fls.doubleclick.net
@@ -30,23 +30,29 @@
 1268402.fls.doubleclick.net
 1326154.fls.doubleclick.net
 1330903.fls.doubleclick.net
+1435575.fls.doubleclick.net
 1742177.fls.doubleclick.net
 2013561.fls.doubleclick.net
 2196503.fls.doubleclick.net
 2332696.fls.doubleclick.net
 2499034.fls.doubleclick.net
+2507573.fls.doubleclick.net
 2542116.fls.doubleclick.net
 2793343.fls.doubleclick.net
 3130320.fls.doubleclick.net
 3243857.fls.doubleclick.net
 3276817.fls.doubleclick.net
 3501113.fls.doubleclick.net
+3642305.fls.doubleclick.net
 3738527.fls.doubleclick.net
+3765329.fls.doubleclick.net
 3773523.fls.doubleclick.net
 3879194.fls.doubleclick.net
 3941123.fls.doubleclick.net
 3973258.fls.doubleclick.net
 3982178.fls.doubleclick.net
+4053494.fls.doubleclick.net
+4171764.fls.doubleclick.net
 4177752.fls.doubleclick.net
 4191036.fls.doubleclick.net
 4191748.fls.doubleclick.net
@@ -59,13 +65,6 @@
 4371920.fls.doubleclick.net
 4375326.fls.doubleclick.net
 4379742.fls.doubleclick.net
-8921356.fls.doubleclick.net
-1435575.fls.doubleclick.net
-2507573.fls.doubleclick.net
-3642305.fls.doubleclick.net
-3765329.fls.doubleclick.net
-4053494.fls.doubleclick.net
-4171764.fls.doubleclick.net
 4403916.fls.doubleclick.net
 4487826.fls.doubleclick.net
 4514783.fls.doubleclick.net
@@ -78,6 +77,7 @@
 8482194.fls.doubleclick.net
 8522212.fls.doubleclick.net
 8563004.fls.doubleclick.net
+8921356.fls.doubleclick.net
 9309168.fls.doubleclick.net
 accounts.doubleclick.net
 ad-ace.doubleclick.net
@@ -146,8 +146,8 @@ ad.us.doubleclick.net
 ad.ve.doubleclick.net
 ad.za.doubleclick.net
 ad2.doubleclick.net
-adclick.g.doubleclick.net
 adclick.g.doublecklick.net
+adclick.g.doubleclick.net
 ads-bid.l.doubleclick.net
 advertisers.doubleclick.com
 advertisersapitest.doubleclick.com
@@ -205,6 +205,8 @@ mediavisor.doubleclick.com
 mediavisor.doubleclick.net
 mobile-displayads-uk.l.doubleclick.net
 mobile-displayads.l.doubleclick.net
+motifcdn.doubleclick.net
+motifcdn2.doubleclick.net
 n4052ad.doubleclick.net
 n4061ad.hk.doubleclick.net
 n4061ad.jp.doubleclick.net

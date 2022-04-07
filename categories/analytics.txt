@@ -1,5 +1,5 @@
 # This blocklist helps to restrict access to Google and its domains. Contribute at https://github.com/nickspaargaren/no-google
-# Last updated: 2022-02-16
+# Last updated: 2022-04-04
 # Analytics
 
 0.0.0.0 ad-creatives-public.commondatastorage.googleapis.com
@@ -10,6 +10,7 @@
 0.0.0.0 analytics.withgoogle.com
 0.0.0.0 android-safebrowsing.googleapis.com
 0.0.0.0 androidauto-pa.googleapis.com
+0.0.0.0 androidpay-users-pa.googleapis.com
 0.0.0.0 androidsuggesthub-pa.googleapis.com
 0.0.0.0 androidtvchannels-pa.googleapis.com
 0.0.0.0 androidtvwatsonfe-pa.googleapis.com
@@ -24,15 +25,16 @@
 0.0.0.0 cm.crashlytics.com
 0.0.0.0 commondatastorage.googleapis.com
 0.0.0.0 crashlytics.com
-0.0.0.0 e.crashlytics.com
 0.0.0.0 crashlyticsreports-pa.googleapis.com
 0.0.0.0 cse.google.com
 0.0.0.0 csp.withgoogle.com
 0.0.0.0 cstlqrgnqmjztbxjmkp.storage.googleapis.com
+0.0.0.0 datamixer.pa.googleapis.com
 0.0.0.0 dataprep.googleapis.com
 0.0.0.0 deydgyehwsptekn.storage.googleapis.com
 0.0.0.0 discover-pa.googleapis.com
 0.0.0.0 dr-mobiweb.googleoptimize.com
+0.0.0.0 e.crashlytics.com
 0.0.0.0 fcm-xmpp.googleapis.com
 0.0.0.0 fcm.googleapis.com
 0.0.0.0 federatedml-pa.googleapis.com
@@ -75,6 +77,7 @@
 0.0.0.0 newssuite-sony-net.storage.googleapis.com
 0.0.0.0 pagead2.googleadservices.com
 0.0.0.0 partner.googleadservices.com
+0.0.0.0 pay-users-pa.googleapis.com
 0.0.0.0 personalsafety-pa.googleapis.com
 0.0.0.0 phonemasking-stage.googleoptimize.com
 0.0.0.0 photos.googleapis.com
@@ -92,6 +95,7 @@
 0.0.0.0 ssl.googleanalytics.com
 0.0.0.0 statsgoogle.appsflyer.com
 0.0.0.0 suggestqueries.googleapis.com
+0.0.0.0 sxone-pa.googleapis.com
 0.0.0.0 tagmanager.google.com
 0.0.0.0 test-web.googletagmanager.com
 0.0.0.0 themes.googleusercontent.com

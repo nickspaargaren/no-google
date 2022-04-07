@@ -1,5 +1,5 @@
 # This blocklist helps to restrict access to Google and its domains. Contribute at https://github.com/nickspaargaren/no-google
-# Last updated: 2022-02-16
+# Last updated: 2022-04-04
 # Domains
 
 _caldav._tcp.google.com
@@ -16,48 +16,26 @@ _tls.google.com
 _xmpp-client._tcp.google.com
 _xmpp-server._tcp.google.com
 000f378090e2706f51b54df7358b7608.safeframe.googlesyndication.com
+02935bb043f8644ea3a8d8343db59a20.safeframe.googlesyndication.com
 070ba158d714f0799803d2ff78aba575.safeframe.googlesyndication.com
 0bd253a685e075f08ff3000303805971.safeframe.googlesyndication.com
 0c56389292c0b4670f6f7508c6625771.safeframe.googlesyndication.com
 0e553a7644b6bd72ea6234ae678e3d07.safeframe.googlesyndication.com
+17c11764c8e58ffd607e9f6442c3f7d8.safeframe.googlesyndication.com
 1d622518c13a7c01baccc5c3724b91be.safeframe.googlesyndication.com
-d22e873e0abdfccd1df095ff8df94ab2.safeframe.googlesyndication.com
-d2eb32d836913b4bb547aa369e59c573.safeframe.googlesyndication.com
-d5da607ce6bd6c031f73be0a2d3183d4.safeframe.googlesyndication.com
-d8373b735229d7504d2df967de58eef0.safeframe.googlesyndication.com
-d8b8406cb84f25efae5716e040039914.safeframe.googlesyndication.com
-d96bcdc30c1165ea8cc44dafa315565a.safeframe.googlesyndication.com
-d99bbe6e75000180ef8b624cc2a58289.safeframe.googlesyndication.com
-c659860d58820534bd6e05d624958bad.safeframe.googlesyndication.com
-c7211df10543faf59eefc065f6dceb95.safeframe.googlesyndication.com
-c8ceb739c3094faffe42faa6b798e80b.safeframe.googlesyndication.com
-ca6de71f560f9631037e80d5e8c08256.safeframe.googlesyndication.com
-cacf1bd81426438163ae43128c9dda13.safeframe.googlesyndication.com
-ccacc69a0d7467ebaac293677146be75.safeframe.googlesyndication.com
-cdff40dad0a98d6b641bfca1a05423a8.safeframe.googlesyndication.com
-ba9cc369c710b3bf03e7540c9b78ed3e.safeframe.googlesyndication.com
-bad9345f3f58e02c69dd3791de171d23.safeframe.googlesyndication.com
-bb88ee5b85c699f7598bce8d0af21df6.safeframe.googlesyndication.com
-bc4d452b942c813c2e02dfb1beb30f5c.safeframe.googlesyndication.com
-bc906f8d44fc2f2cb371d4abeea2159a.safeframe.googlesyndication.com
-bd1c3643fb3f74e123256cce3de57529.safeframe.googlesyndication.com
-be0bb042eb880a1bca3055ac508cf25d.safeframe.googlesyndication.com
-bf384be1946ca2f93f5c88eb9279fc3c.safeframe.googlesyndication.com
-c0d73cbdac31ecac3759ea15936eb89c.safeframe.googlesyndication.com
-c168f2232bf52e555d4d1ce8a93dfb65.safeframe.googlesyndication.com
-c1747737cf3cefaea7b35e98e85828cd.safeframe.googlesyndication.com
-98715c0e7c194aa5ccc496a7eb766613.safeframe.googlesyndication.com
 204-44-66-78.googlehosts.org
 2mdn.net
 30925359bd39272f220718667e27775e.safeframe.googlesyndication.com
 3ded44bd838404a6a3f3d7333aa65498.safeframe.googlesyndication.com
 9098b63249ee4522c5d8677059fe22e4.safeframe.googlesyndication.com
 96d80cafb2cc6ad351ea76aea0f55d37.safeframe.googlesyndication.com
+98715c0e7c194aa5ccc496a7eb766613.safeframe.googlesyndication.com
 academico.google.com
 account.google.com
 accounts.google.com
 ade.googlesyndication.com
 admin.google.com
+ads.googlesyndication.com
 adsense.google.com
 adservice.google.de
 adservice.google.es
@@ -91,7 +69,15 @@ apps.google.com
 archive.google.com
 asia.google.com
 assistant.google.com
+ba9cc369c710b3bf03e7540c9b78ed3e.safeframe.googlesyndication.com
+bad9345f3f58e02c69dd3791de171d23.safeframe.googlesyndication.com
 base.google.com
+bb88ee5b85c699f7598bce8d0af21df6.safeframe.googlesyndication.com
+bc4d452b942c813c2e02dfb1beb30f5c.safeframe.googlesyndication.com
+bc906f8d44fc2f2cb371d4abeea2159a.safeframe.googlesyndication.com
+bd1c3643fb3f74e123256cce3de57529.safeframe.googlesyndication.com
+be0bb042eb880a1bca3055ac508cf25d.safeframe.googlesyndication.com
+bf384be1946ca2f93f5c88eb9279fc3c.safeframe.googlesyndication.com
 billing.google.com
 blog.google.com
 blogger.google.com
@@ -106,12 +92,23 @@ business.google.com
 buttons.googlesyndication.com
 buzz.google.com
 c.googlesyndication.com
+c0d73cbdac31ecac3759ea15936eb89c.safeframe.googlesyndication.com
+c168f2232bf52e555d4d1ce8a93dfb65.safeframe.googlesyndication.com
+c1747737cf3cefaea7b35e98e85828cd.safeframe.googlesyndication.com
+c659860d58820534bd6e05d624958bad.safeframe.googlesyndication.com
+c7211df10543faf59eefc065f6dceb95.safeframe.googlesyndication.com
+c8ceb739c3094faffe42faa6b798e80b.safeframe.googlesyndication.com
+ca6de71f560f9631037e80d5e8c08256.safeframe.googlesyndication.com
+cacf1bd81426438163ae43128c9dda13.safeframe.googlesyndication.com
 calendar.google.com
 careers.google.com
 cast.google.com
 catalog.google.com
+ccacc69a0d7467ebaac293677146be75.safeframe.googlesyndication.com
+cdff40dad0a98d6b641bfca1a05423a8.safeframe.googlesyndication.com
 chat.google.com
 chrome.google.com
+chromeenterprise.google
 cimsun.google.com
 classroom.google.com
 client1.google.com
@@ -120,8 +117,10 @@ client3.google.com
 client4.google.com
 client5.google.com
 clients.google.com
+clients0.google.com
 clients1.google.com
 clients3.google.com
+clients9.google.com
 cloud.google.com
 code.google.com
 com.google
@@ -130,6 +129,13 @@ compare.google.com
 contributor.google.com
 corp.google.com
 d.google.com
+d22e873e0abdfccd1df095ff8df94ab2.safeframe.googlesyndication.com
+d2eb32d836913b4bb547aa369e59c573.safeframe.googlesyndication.com
+d5da607ce6bd6c031f73be0a2d3183d4.safeframe.googlesyndication.com
+d8373b735229d7504d2df967de58eef0.safeframe.googlesyndication.com
+d8b8406cb84f25efae5716e040039914.safeframe.googlesyndication.com
+d96bcdc30c1165ea8cc44dafa315565a.safeframe.googlesyndication.com
+d99bbe6e75000180ef8b624cc2a58289.safeframe.googlesyndication.com
 dai.google.com
 ddm.google.com
 design.google.com
@@ -143,6 +149,7 @@ dns.google.com
 doc.google.com
 docs.google.com
 domains.google.com
+domains.googlesyndication.com
 domains4google.com
 download.google.com
 downloads.google.com
@@ -173,6 +180,7 @@ fit.google.com
 fk.google.com
 flight.google.com
 foofle.com
+forms.gle
 forms.google.com
 foto.google.com
 fotos.google.com
@@ -210,6 +218,7 @@ google.ba
 google.be
 google.bf
 google.bg
+google.bh
 google.bi
 google.bj
 google.bs
@@ -364,6 +373,7 @@ google.mv
 google.mw
 google.ne
 google.net
+google.ng
 google.nl
 google.no
 google.nr
@@ -400,10 +410,13 @@ google.vu
 google.ws
 googleadservices.com
 googleanalytics.com
+googleapis.co
 googleapps.com
 googlearth.com
 googleblog.com
 googlebot.com
+googlecdn.org
+googlecloudpresscorner.com
 googlecode.com
 googlecommerce.com
 googledrive.com
@@ -412,6 +425,7 @@ googleearth.com
 googlegroups.com
 googlehosts.org
 googlemaps.com
+googlemerchandisestore.com
 googlepagecreator.com
 googlescholar.com
 googlesyndication-cn.com
@@ -490,6 +504,8 @@ labs.google.com
 labs1.google.com
 ldap.google.com
 lens.google.com
+lh1.ggpht.com
+lh2.ggpht.com
 local.google.com
 logging.google.com
 lp.google.com
@@ -566,6 +582,7 @@ realtime.google.com
 redirector.c.googlesyndication.com
 registry.google.com
 relay.google.com
+research.google
 research.google.com
 rooms.google.com
 s0.2mdn.net
@@ -593,6 +610,8 @@ ss-3.googlehosts.org
 static.2mdn.net
 station.google.com
 store.google.com
+stories.google
+sre.google
 support.google.com
 survey.google.com
 surveys.google.com
@@ -606,11 +625,13 @@ toolbox.google.com
 tools.google.com
 tpc.googlesyndication.com
 tpc.googlesyndication.com.proxy.c9w.net
+tpc.googlesyndicytion.com
 tpcnc.googlesyndication.com
 transit.google.com
 translate.google.com
 travel.google.com
 tv.google.com
+tv.google
 twx.2mdn.net
 uol.google.com
 upload.google.com
@@ -648,6 +669,7 @@ www.google.ba
 www.google.be
 www.google.bf
 www.google.bg
+www.google.bh
 www.google.bi
 www.google.bj
 www.google.bs
@@ -775,6 +797,7 @@ www.google.im
 www.google.iq
 www.google.is
 www.google.it
+www.google.it.ao
 www.google.je
 www.google.jo
 www.google.kg

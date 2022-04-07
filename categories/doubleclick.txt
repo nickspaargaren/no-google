@@ -1,5 +1,5 @@
 # This blocklist helps to restrict access to Google and its domains. Contribute at https://github.com/nickspaargaren/no-google
-# Last updated: 2022-02-16
+# Last updated: 2022-04-04
 # Doubleclick
 
 0.0.0.0 0.fls.doubleclick.net
@@ -30,23 +30,29 @@
 0.0.0.0 1268402.fls.doubleclick.net
 0.0.0.0 1326154.fls.doubleclick.net
 0.0.0.0 1330903.fls.doubleclick.net
+0.0.0.0 1435575.fls.doubleclick.net
 0.0.0.0 1742177.fls.doubleclick.net
 0.0.0.0 2013561.fls.doubleclick.net
 0.0.0.0 2196503.fls.doubleclick.net
 0.0.0.0 2332696.fls.doubleclick.net
 0.0.0.0 2499034.fls.doubleclick.net
+0.0.0.0 2507573.fls.doubleclick.net
 0.0.0.0 2542116.fls.doubleclick.net
 0.0.0.0 2793343.fls.doubleclick.net
 0.0.0.0 3130320.fls.doubleclick.net
 0.0.0.0 3243857.fls.doubleclick.net
 0.0.0.0 3276817.fls.doubleclick.net
 0.0.0.0 3501113.fls.doubleclick.net
+0.0.0.0 3642305.fls.doubleclick.net
 0.0.0.0 3738527.fls.doubleclick.net
+0.0.0.0 3765329.fls.doubleclick.net
 0.0.0.0 3773523.fls.doubleclick.net
 0.0.0.0 3879194.fls.doubleclick.net
 0.0.0.0 3941123.fls.doubleclick.net
 0.0.0.0 3973258.fls.doubleclick.net
 0.0.0.0 3982178.fls.doubleclick.net
+0.0.0.0 4053494.fls.doubleclick.net
+0.0.0.0 4171764.fls.doubleclick.net
 0.0.0.0 4177752.fls.doubleclick.net
 0.0.0.0 4191036.fls.doubleclick.net
 0.0.0.0 4191748.fls.doubleclick.net
@@ -59,13 +65,6 @@
 0.0.0.0 4371920.fls.doubleclick.net
 0.0.0.0 4375326.fls.doubleclick.net
 0.0.0.0 4379742.fls.doubleclick.net
-0.0.0.0 8921356.fls.doubleclick.net
-0.0.0.0 1435575.fls.doubleclick.net
-0.0.0.0 2507573.fls.doubleclick.net
-0.0.0.0 3642305.fls.doubleclick.net
-0.0.0.0 3765329.fls.doubleclick.net
-0.0.0.0 4053494.fls.doubleclick.net
-0.0.0.0 4171764.fls.doubleclick.net
 0.0.0.0 4403916.fls.doubleclick.net
 0.0.0.0 4487826.fls.doubleclick.net
 0.0.0.0 4514783.fls.doubleclick.net
@@ -78,6 +77,7 @@
 0.0.0.0 8482194.fls.doubleclick.net
 0.0.0.0 8522212.fls.doubleclick.net
 0.0.0.0 8563004.fls.doubleclick.net
+0.0.0.0 8921356.fls.doubleclick.net
 0.0.0.0 9309168.fls.doubleclick.net
 0.0.0.0 accounts.doubleclick.net
 0.0.0.0 ad-ace.doubleclick.net
@@ -146,8 +146,8 @@
 0.0.0.0 ad.ve.doubleclick.net
 0.0.0.0 ad.za.doubleclick.net
 0.0.0.0 ad2.doubleclick.net
-0.0.0.0 adclick.g.doubleclick.net
 0.0.0.0 adclick.g.doublecklick.net
+0.0.0.0 adclick.g.doubleclick.net
 0.0.0.0 ads-bid.l.doubleclick.net
 0.0.0.0 advertisers.doubleclick.com
 0.0.0.0 advertisersapitest.doubleclick.com
@@ -205,6 +205,8 @@
 0.0.0.0 mediavisor.doubleclick.net
 0.0.0.0 mobile-displayads-uk.l.doubleclick.net
 0.0.0.0 mobile-displayads.l.doubleclick.net
+0.0.0.0 motifcdn.doubleclick.net
+0.0.0.0 motifcdn2.doubleclick.net
 0.0.0.0 n4052ad.doubleclick.net
 0.0.0.0 n4061ad.hk.doubleclick.net
 0.0.0.0 n4061ad.jp.doubleclick.net
