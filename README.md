@@ -133,6 +133,6 @@ Of course, here’s some filterlists that should help you accomplish that.
 
 **A**mazon : https://github.com/nickspaargaren/no-amazon
 
-**M**icrosoft : https://raw.githubusercontent.com/jmdugan/blocklists/master/corporations/microsoft/all
+**M**icrosoft : https://raw.githubusercontent.com/jmdugan/blocklists/master/corporations/microsoft/all or https://gitlab.com/Jorgu81/hosts/raw/master/Microsoft/Microsoft and https://gitlab.com/Jorgu81/hosts/raw/master/Microsoft/SpyMicrosoft
 
 [![https://gafam.info](https://raw.githubusercontent.com/nickspaargaren/pihole-google/master/images/gafam-poster-en-color.png)](https://gafam.info)
