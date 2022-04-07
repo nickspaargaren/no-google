@@ -32,6 +32,14 @@ https://raw.githubusercontent.com/nickspaargaren/no-google/master/categories/fib
 
 (Combining those with the main whole filter is useless and not recommended, however, feel free to combine the different smaller filters)
 
+### :warning: Important regex filters not included in blocklist
+>.*[\`^.\`]l.google.com$
+
+<sup>For example tygbrbooefk4.cache.l.google.com</sup>
+
+>.*[\`^.\`]googlevideo.com$
+
+<sup>For example r14---sn-vgqs7ned.googlevideo.com</sup>
 
 ## Youtube Advertisements Regex
 >^r[0123456789]+((-{3})|(\.))sn-.{8}\.googlevideo\.com$
@@ -54,15 +62,6 @@ You can also easily use the modified [pihole regex installer script](https://git
 curl -sSl https://raw.githubusercontent.com/nickspaargaren/no-google/master/install.sh | bash
 ```
 and then, executing it. It should add all of the above regex automatically.
-
-### Important regex filters not included in blocklist
->.*[\`^.\`]l.google.com$
-
-<sup>For example tygbrbooefk4.cache.l.google.com</sup>
-
->.*[\`^.\`]googlevideo.com$
-
-<sup>For example r14---sn-vgqs7ned.googlevideo.com</sup>
 
 ## FAQ
 
