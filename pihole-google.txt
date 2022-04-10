@@ -7700,8 +7700,7 @@ www.forms.gle
 play.app.goo.gl
 img1.blogblog.com
 gstaticadssl.l.google.com
-manifest.googlevideo.com
-i9.ytimg.com 
+manifest.googlevideo.com 
 googlehosted.l.googleusercontent.com
 android.l.google.com
 photos-ugc.l.googleusercontent.com
