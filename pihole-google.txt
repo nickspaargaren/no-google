@@ -7702,4 +7702,3 @@ img1.blogblog.com
 googlehosted.l.googleusercontent.com
 photos-ugc.l.googleusercontent.com
 blogspot.l.googleusercontent.com
-google.qualtrics.com
