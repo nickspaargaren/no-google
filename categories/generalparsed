@@ -1,5 +1,5 @@
 # This blocklist helps to restrict access to Google and its domains. Contribute at https://github.com/nickspaargaren/no-google
-# Last updated: 2022-05-10
+# Last updated: 2022-05-13
 # General
 
 0.chart.apis.google.com
@@ -793,6 +793,7 @@ IMAGEs.google.com
 imap.google.com
 inputtools.google.com
 instaplot.corp.google.com
+io.google
 ip-geo.appspot.com
 ipv6test.google.com
 irclogs.corp.google.com
@@ -1826,6 +1827,7 @@ sixo4x8lpg.com
 sk1t2ohimi.com
 sketchup.com
 sketchup.google.com
+skintone.google
 sky-lego.sandbox.google.com
 sleep_0.google.com
 sleep2_0.google.com
