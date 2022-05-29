@@ -7685,9 +7685,7 @@ www.tofu.jibemobile.com
 www.tokyo.jibemobile.com
 www.viper.jibemobile.com
 www.watermelon.jibemobile.com
-yellowstone.jibemobile.com
-# More
-people-pa.googleapis.com 
+yellowstone.jibemobile.com 
 # Android Box
 loc.map.baidu.com
 init.startappservice.com
