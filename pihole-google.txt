@@ -7686,9 +7686,9 @@ www.tokyo.jibemobile.com
 www.viper.jibemobile.com
 www.watermelon.jibemobile.com
 yellowstone.jibemobile.com
+# More
 geo0.ggpht.com
 vrassets-pa.googleusercontent.com
-# Android Box
 loc.map.baidu.com
 init.startappservice.com
 imp.startappservice.com
@@ -7699,7 +7699,6 @@ api.vitamio.org
 api3.vitamio.org
 in.appcenter.ms
 my.mobfox.com
-# More
 cloudresourcemanager.googleapis.com
 container.googleapis.com
 gkeconnect.googleapis.com
@@ -7714,7 +7713,6 @@ cs.android.com
 dns-admin.google.com
 edgedl.me.gvt1.com
 gstatic.net
-manifest.googlevideo.com
 me.gvt1.com
 monorail-prod-default-v011-dot-monorail-prod.appspot.com
 monorail-prod-default-v049-dot-monorail-prod.appspot.com
