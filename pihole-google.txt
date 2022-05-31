@@ -7689,6 +7689,10 @@ www.viper.jibemobile.com
 www.watermelon.jibemobile.com
 yellowstone.jibemobile.com
 # More
+cloudresourcemanager.googleapis.com
+container.googleapis.com 
+gkeconnect.googleapis.com 
+gkehub.googleapis.com 
 android.googlesource.com
 blogspot.ru
 bugs.chromium.org
@@ -7733,6 +7737,12 @@ meshtelemetry.googleapis.com
 meshconfig.googleapis.com
 iamcredentials.googleapis.com
 stackdriver.googleapis.com
+www.forms.gle
+play.app.goo.gl
+img1.blogblog.com
+googlehosted.l.googleusercontent.com
+photos-ugc.l.googleusercontent.com
+blogspot.l.googleusercontent.com
 img1.blogblog.com
 gstaticadssl.l.google.com 
 googlehosted.l.googleusercontent.com
