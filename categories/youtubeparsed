@@ -1,8 +1,10 @@
 # This blocklist helps to restrict access to Google and its domains. Contribute at https://github.com/nickspaargaren/no-google
-# Last updated: 2022-04-04
+# Last updated: 2022-05-13
 # Youtube
 
 _domainkey.youtube.com
+a.rtmp.youtube.com
+a.rtmps.youtube.com
 accounts.youtube.com
 ad.youtube.com
 admin-dev.youtube.com
@@ -16,6 +18,8 @@ antechinus.youtube.com
 apiblog.youtube.com
 artists.youtube.com
 au.youtube.com
+b.rtmp.youtube.com
+b.rtmps.youtube.com
 beben-koben.youtube.com
 blake.youtube.com
 br.youtube.com
