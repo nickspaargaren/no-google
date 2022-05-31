@@ -7687,6 +7687,18 @@ www.tofu.jibemobile.com
 www.tokyo.jibemobile.com
 www.viper.jibemobile.com
 www.watermelon.jibemobile.com
+yellowstone.jibemobile.com 
+# Android Box
+loc.map.baidu.com
+init.startappservice.com
+imp.startappservice.com
+ofloc.map.baidu.com
+api.map.baidu.com
+st-n.ads1-adnow.com
+api.vitamio.org
+api3.vitamio.org
+in.appcenter.ms
+my.mobfox.com
 yellowstone.jibemobile.com
 # More
 cloudresourcemanager.googleapis.com
