@@ -7691,4 +7691,3 @@ yellowstone.jibemobile.com
 # More
 alt2.googleanalytics.com
 alt4.googleanalytics.com
-androidtvchannels-pa.googleapis.com
