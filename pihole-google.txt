@@ -2235,7 +2235,9 @@ fonts.googleapis.com
 0zxi117b08.com
 1.bp.blogspot.com
 1.chart.apis.google.com
+2.afs.googleadservices.com
 10.afs.googleadservices.com
+18.afs.googleadservices.com
 10.client-channel.google.com
 10a2shi.feedproxy.ghs.google.com
 11.client-channel.google.com
@@ -7686,3 +7688,7 @@ www.tokyo.jibemobile.com
 www.viper.jibemobile.com
 www.watermelon.jibemobile.com
 yellowstone.jibemobile.com
+# More
+alt2.googleanalytics.com
+alt4.googleanalytics.com
+androidtvchannels-pa.googleapis.com
