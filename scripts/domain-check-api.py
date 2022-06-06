@@ -1,7 +1,15 @@
-import json
-
 import whois # pip install python-whois
 import time
+
+import re
+
+def get_domains():
+  with open('../pihole-google.txt', 'r') as main:
+    for line in main:
+      if not '#' in line and not ':' in line:
+        line = re.sub(r"^.*\.(.*\..*)", "", line)
+        if line != '\n':
+            yield line.rstrip("\n") + '\n'
 
 def is_registered(domain):
     """
@@ -15,8 +23,6 @@ def is_registered(domain):
     else:
         return [w.domain_name, w.org, w.name_servers]
 
-domains = open("../check-domains.txt", "r")
-
 # iterate over domains
-for domain in domains.readlines():
+for domain in get_domains():
     print(domain, is_registered(domain.rstrip("\n")))
