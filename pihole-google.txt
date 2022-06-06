@@ -7745,3 +7745,8 @@ img1.blogblog.com
 googlehosted.l.googleusercontent.com
 photos-ugc.l.googleusercontent.com
 blogspot.l.googleusercontent.com
+2.afs.googleadservices.com
+18.afs.googleadservices.com
+alt2.googleanalytics.com
+alt4.googleanalytics.com
+blogspot.l.googleusercontent.co
