@@ -1,0 +1,27 @@
+name: Duplicate checker
+on:
+  push:
+    branches:
+      - master
+    paths:
+      - 'pihole-google.txt'
+  pull_request:
+    branches:
+      - master
+      - develop
+jobs:
+  duplicates:
+    runs-on: ubuntu-latest
+    continue-on-error: true
+    steps:
+    - uses: actions/checkout@v2
+      name: Python setup
+    - uses: actions/setup-python@v2
+      with:
+        python-version: 3.8
+    - name: Install pytest
+      run: pip install pytest
+    - name: Check for duplicate lines
+      run: |
+        cd scripts
+        pytest

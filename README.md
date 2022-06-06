@@ -1,4 +1,4 @@
-[![No G](https://raw.githubusercontent.com/nickspaargaren/pihole-google/master/GAFAMSPLATTEXTNOGgit.png)](https://github.com/nickspaargaren/no-google)
+[![No G](https://raw.githubusercontent.com/nickspaargaren/pihole-google/master/images/GAFAMSPLATTEXTNOGgit.png)](https://github.com/nickspaargaren/no-google)
 
 # Definition of GAFAM
 *The GAFAM is an acronym used to describe the five multinational technology companies Google, Amazon, Facebook, Apple and Microsoft, taking the first letters of all these companies. The GAFAM are sometimes referred to as the Big Five due to them being the five most profilific companies in the world. Although in some sectors some of the five companies may be in direct competition, they offer different products or services overall while presenting some common characteristics that deserve to bring them together under the same acronym: by their size, they are particularly influential on the American and European Internet both economically and politically and socially and are regularly the subject of criticism or prosecution on tax matters, abuses of dominant positions and the non-respect of Internet users' privacy.*
@@ -32,6 +32,14 @@ https://raw.githubusercontent.com/nickspaargaren/no-google/master/categories/fib
 
 (Combining those with the main whole filter is useless and not recommended, however, feel free to combine the different smaller filters)
 
+### :warning: Important regex filters not included in blocklist
+>.*[\`^.\`]l.google.com$
+
+<sup>For example tygbrbooefk4.cache.l.google.com</sup>
+
+>.*[\`^.\`]googlevideo.com$
+
+<sup>For example r14---sn-vgqs7ned.googlevideo.com</sup>
 
 ## Youtube Advertisements Regex
 >^r[0123456789]+((-{3})|(\.))sn-.{8}\.googlevideo\.com$
@@ -54,7 +62,6 @@ You can also easily use the modified [pihole regex installer script](https://git
 curl -sSl https://raw.githubusercontent.com/nickspaargaren/no-google/master/install.sh | bash
 ```
 and then, executing it. It should add all of the above regex automatically.
-
 
 ## FAQ
 
@@ -80,15 +87,51 @@ Note that the main filter is being worked here, so, updates and modifications on
 Otherwise, if you do prefer to use Gitlab, feel free to use it, and even contribute to our list there instead!</p>
 </details>
 
+## The converter program
+
+### Data conversion
+The program `convert.py` will read `pihole-google.txt` as input file and convert its
+content into different output formats. It can be invoked like
+```shell
+python3 convert.py pihole
+```
+
+In order to produce all different output formats, run
+```shell
+python3 convert.py all
+```
+
+### JSON output
+It also can output the data in JSON format:
+```shell
+python3 convert.py json
+```
+
+With this output, and the `jq` program, the data can be filtered and manipulated easily.
+In the following section, you can find corresponding examples.
+
+```shell
+# Produce list of all category names
+python3 convert.py json | jq -r 'keys | .[]'
+
+# Produce list of domains for the `Doubleclick` category only
+python3 convert.py json | jq -r '.Doubleclick | .[]'
+
+# Produce list of domains for the `Analytics` and `Doubleclick` categories
+python3 convert.py json | jq -r '(.Analytics,.Doubleclick) | .[]'
+```
+
+
+
 ## Can I block the other letters of GAFAM ?
 Of course, here’s some filterlists that should help you accomplish that.
 
-**A**pple : https://github.com/c-edw/ios-telemetry, https://github.com/1r2/iosparanoid or https://gitlab.com/CHEF-KOCH/cks-filterlist/blob/master/Anti-Corp/filters/apple.txt
+**A**pple : https://github.com/c-edw/ios-telemetry or https://github.com/1r2/iosparanoid
 
-**F**acebook : https://raw.githubusercontent.com/jmdugan/blocklists/master/corporations/facebook/all, https://raw.githubusercontent.com/anudeepND/blacklist/master/facebook.txt or https://gitlab.com/CHEF-KOCH/cks-filterlist/blob/master/Anti-Corp/filters/facebook.txt
+**F**acebook : https://raw.githubusercontent.com/jmdugan/blocklists/master/corporations/facebook/all or https://raw.githubusercontent.com/anudeepND/blacklist/master/facebook.txt
 
 **A**mazon : https://github.com/nickspaargaren/no-amazon
 
-**M**icrosoft : https://raw.githubusercontent.com/jmdugan/blocklists/master/corporations/microsoft/all or https://gitlab.com/CHEF-KOCH/cks-filterlist/blob/master/Anti-Corp/filters/microsoft.txt
+**M**icrosoft : https://raw.githubusercontent.com/jmdugan/blocklists/master/corporations/microsoft/all or https://gitlab.com/Jorgu81/hosts/raw/master/Microsoft/Microsoft and https://gitlab.com/Jorgu81/hosts/raw/master/Microsoft/SpyMicrosoft
 
-[![https://gafam.info](https://ptrace.gafam.info/unofficial/img/color/lqdn-gafam-poster-en-color-5x1-2560x.png)](https://gafam.info)
+[![https://gafam.info](https://raw.githubusercontent.com/nickspaargaren/pihole-google/master/images/gafam-poster-en-color.png)](https://gafam.info)

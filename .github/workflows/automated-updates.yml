@@ -1,6 +1,8 @@
 name: Update automated lists
 on:
   push:
+    branches:
+        - master
     paths:
       - 'pihole-google.txt'
 jobs:
@@ -15,27 +17,31 @@ jobs:
         python-version: 3.8
     - name: Update categories
       run: |
-        cd scripts
-        python categories.py
+        python3 convert.py categories
     - name: Commit categories
       run: |
         git config --global user.name 'Nick Spaargaren'
         git config --global user.email 'nickspaargaren@users.noreply.github.com'
-        git commit -am "Automated categories update"
+        git add . && git commit -am "Automated categories update"
         git push
     - name: Update AdGuard list
       run: |
-        cd scripts
-        python adguard.py
+        python3 convert.py adguard
     - name: Commit AdGuard list
       run: |
-        git commit -am "Automated AdGuard list update"
+        git add . && git commit -am "Automated AdGuard list update"
         git push
     - name: Update parsed list
       run: |
-        cd scripts
-        python parsed.py
+        python3 convert.py pihole
     - name: Commit parsed list
       run: |
-        git commit -am "Automated parsed list update"
+        git add . && git commit -am "Automated parsed list update"
+        git push
+    - name: Update Unbound list
+      run: |
+        python3 convert.py unbound
+    - name: Commit parsed list
+      run: |
+        git add . && git commit -am "Automated Unbound list update"
         git push

@@ -1,5 +1,5 @@
-# This blocklist helps Pi-hole's admin restrict access to Google and its domains.
-# Last updated: 13-12-2021
+# This blocklist helps to restrict access to Google and its domains. Contribute at https://github.com/nickspaargaren/no-google
+# Last updated: 2022-05-13
 # Firebase
 
 0.0.0.0 0.firebaseio.com
@@ -218,7 +218,9 @@
 0.0.0.0 findplanking3321.firebaseio.com
 0.0.0.0 firebase-dot-google-developers.appspot.com
 0.0.0.0 firebase-settings.crashlytics.com
+0.0.0.0 firebase.com
 0.0.0.0 firebase.google.com
+0.0.0.0 firebase.googleapis.com
 0.0.0.0 firebasedynamiclinks-ipv4.googleapis.com
 0.0.0.0 firebasedynamiclinks-ipv6.googleapis.com
 0.0.0.0 firebaseio.com
@@ -383,6 +385,7 @@
 0.0.0.0 newsq10.firebaseio.com
 0.0.0.0 ngominhluong1950.firebaseio.com
 0.0.0.0 nhaphoc-11722.firebaseio.com
+0.0.0.0 nmdp-b86eb-users-ko.firebaseio.com
 0.0.0.0 nnnotificatieapp01.firebaseio.com
 0.0.0.0 nodemcuserver.firebaseio.com
 0.0.0.0 norse-period-149211.firebaseio.com
@@ -508,6 +511,7 @@
 0.0.0.0 s-usc1c-nss-260.firebaseio.com
 0.0.0.0 s-usc1c-nss-261.firebaseio.com
 0.0.0.0 s-usc1c-nss-268.firebaseio.com
+0.0.0.0 s-usc1c-nss-269.firebaseio.com
 0.0.0.0 s-usc1c-nss-301.firebaseio.com
 0.0.0.0 s-usc1c-nss-511.firebaseio.com
 0.0.0.0 s-usc1c-nss-512.firebaseio.com
