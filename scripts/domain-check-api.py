@@ -1,29 +1,22 @@
 import json
-import requests
 
-import os
-from dotenv import load_dotenv
-load_dotenv()
+import whois # pip install python-whois
+import time
 
-with open('../check-domains.txt', 'r') as main:
+def is_registered(domain):
+    """
+    A function that checks whether a `domain` is can get whois info
+    """
+    time.sleep(1)
+    try:
+        w = whois.whois(domain, flags=whois.NICClient.WHOIS_QUICK)
+    except Exception:
+        return False
+    else:
+        return [w.domain_name, w.org, w.name_servers]
 
-  for line in main:
-    response = requests.get("https://www.whoisxmlapi.com/whoisserver/WhoisService",
-      {
-        'domainName' : line,
-        'outputFormat': 'json',
-        'apiKey' : os.getenv('whoisxmlapikey'),
-        'thinWhois' : 'true'
-      }
-    )
+domains = open("../check-domains.txt", "r")
 
-    data=response.json()
-
-    print(
-      json.dumps(
-        {
-          'domain': line.rstrip("\n"),
-          'hostNames': data['WhoisRecord']['registryData']['nameServers']['hostNames']
-        }, indent=4
-      )
-    )
+# iterate over domains
+for domain in domains.readlines():
+    print(domain, is_registered(domain.rstrip("\n")))
