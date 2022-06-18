@@ -5482,6 +5482,8 @@ goo.gl
 goog.le
 images.app.goo.gl
 m.youtu.be
+maps.app.goo.gl
+preview.app.goo.gl
 surf.youtu.be
 www.yt.be
 youtu.be
