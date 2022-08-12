@@ -1,30 +1,43 @@
 ! This blocklist helps to restrict access to Google and its domains. Contribute at https://github.com/nickspaargaren/no-google
-! Last updated: 2022-08-07
+! Last updated: 2022-08-12
 ! Analytics
+||18.afs.googleadservices.com^
+||2.afs.googleadservices.com^
 ||ad-creatives-public.commondatastorage.googleapis.com^
 ||adgoogle.net^
 ||adsettings.google.com^
 ||adssettings.google.com^
+||alt2.googleanalytics.com^
+||alt4.googleanalytics.com^
 ||analytic-google.com^
 ||analytics.withgoogle.com^
 ||android-safebrowsing.googleapis.com^
+||android.googlesource.com^
 ||androidauto-pa.googleapis.com^
 ||androidpay-users-pa.googleapis.com^
 ||androidsuggesthub-pa.googleapis.com^
 ||androidtvchannels-pa.googleapis.com^
 ||androidtvwatsonfe-pa.googleapis.com^
+||anthos.googleapis.com^
 ||api.crashlytics.com^
 ||apis.googletagmanager.com^
 ||autofill.googleapis.com^
 ||chart.googleapis.com^
 ||chromedriver.storage.googleapis.com^
 ||click.google-analytics.com^
+||clickserver.googleads.com^
 ||clouderrorreporting.googleapis.com^
+||cloudresourcemanager.googleapis.com^
 ||cloudsearch.googleapis.com^
+||cloudtrace.googleapis.com^
 ||cm.crashlytics.com^
 ||commondatastorage.googleapis.com^
+||compute.googleapis.com^
+||container.googleapis.com^
+||content.googleapis.com^
 ||crashlytics.com^
 ||crashlyticsreports-pa.googleapis.com^
+||cs.android.com^
 ||cse.google.com^
 ||csp.withgoogle.com^
 ||cstlqrgnqmjztbxjmkp.storage.googleapis.com^
@@ -32,6 +45,7 @@
 ||dataprep.googleapis.com^
 ||deydgyehwsptekn.storage.googleapis.com^
 ||discover-pa.googleapis.com^
+||dns-admin.google.com^
 ||dr-mobiweb.googleoptimize.com^
 ||e.crashlytics.com^
 ||fcm-xmpp.googleapis.com^
@@ -44,6 +58,8 @@
 ||gcm-xmpp.googleapis.com^
 ||ghs.google.com^
 ||ghs.googlehosted.com^
+||gkeconnect.googleapis.com^
+||gkehub.googleapis.com^
 ||gmbmobile-pa.googleapis.com^
 ||google-analytics-cn.com^
 ||google-analytics.com^
@@ -57,12 +73,17 @@
 ||googletagservices.com^
 ||htps.googletagmanager.com^
 ||httpswww.googletagmanager.com^
+||iamcredentials.googleapis.com^
 ||ibpodtjfrfkwkjm.storage.googleapis.com^
 ||khm0.googleapis.com^
 ||khm1.googleapis.com^
 ||khms0.googleapis.com^
 ||khms1.googleapis.com^
 ||kits.crashlytics.com^
+||logging.googleapis.com^
+||meshca.googleapis.com^
+||meshconfig.googleapis.com^
+||meshtelemetry.googleapis.com^
 ||mimageads.googleadservices.com^
 ||mimageads1.googleadservices.com^
 ||mimageads2.googleadservices.com^
@@ -73,10 +94,15 @@
 ||mimageads7.googleadservices.com^
 ||mimageads8.googleadservices.com^
 ||mimageads9.googleadservices.com^
+||mobiledataplansharing.googleapis.com^
+||monitoring.googleapis.com^
 ||newssuite-sony-net.storage.googleapis.com^
+||optimizationguide-pa.googleapis.com^
 ||pagead2.googleadservices.com^
 ||partner.googleadservices.com^
+||passwordsleakcheck-pa.googleapis.com^
 ||pay-users-pa.googleapis.com^
+||peoplestackwebexperiments-pa.clients6.google.com^
 ||personalsafety-pa.googleapis.com^
 ||phonemasking-stage.googleoptimize.com^
 ||photos.googleapis.com^
@@ -89,16 +115,20 @@
 ||safe-browsing.googleapis.com^
 ||sandbox.google-analytics.com^
 ||script.google.com^
+||serviceusage.googleapis.com^
 ||settings.crashlytics.com^
 ||ssl.google-analytics.com^
 ||ssl.googleanalytics.com^
+||stackdriver.googleapis.com^
 ||statsgoogle.appsflyer.com^
+||streetviewpixels-pa.googleapis.com^
 ||suggestqueries.googleapis.com^
 ||sxone-pa.googleapis.com^
 ||tagmanager.google.com^
 ||test-web.googletagmanager.com^
 ||themes.googleusercontent.com^
 ||try.crashlytics.com^
+||versionhistory.googleapis.com^
 ||wp.googletagmanager.com^
 ||www.adgoogle.net^
 ||www.fonts.googleapis.com^
@@ -144,13 +174,14 @@
 ||dev.android.com^
 ||developer.android.com^
 ||developers.android.com^
-||google.com.onion^
 ||deviceintegritytokens-pa.googleapis.com^
 ||digitalassetlinks.googleapis.com^
 ||firebaseremoteconfig.googleapis.com^
 ||footprints-pa.googleapis.com^
 ||geller-pa.googleapis.com^
 ||gmscompliance-pa.googleapis.com^
+||google.com.onion^
+||googlehosted.l.googleusercontent.com^
 ||growth-pa.googleapis.com^
 ||infinitedata-pa.googleapis.com^
 ||instantmessaging-pa.googleapis.com^
@@ -171,6 +202,7 @@
 ||people-pa.googleapis.com^
 ||performanceparameters.googleapis.com^
 ||phonedeviceverification-pa.googleapis.com^
+||photos-ugc.l.googleusercontent.com^
 ||play-lh.googleusercontent.com^
 ||r.android.com^
 ||regioinfo-pa.googleapis.com^
@@ -200,7 +232,9 @@
 ||tools.android.com^
 ||ulp1p-pa.googleapis.com^
 ||userlocation.googleapis.com^
+||vrassets-pa.googleusercontent.com^
 ||wear.android.com^
+||webcache.googleusercontent.com^
 ||www.android.com^
 ! Area120
 ||kormo.com^
@@ -236,6 +270,7 @@
 ||2ae2cd8b-dnsotls-ds.metric.gstatic.com^
 ||2bmhql-dnsotls-ds.metric.gstatic.com^
 ||2c0aabe9-dnsotls-ds.metric.gstatic.com^
+||300zlf-dnsotls-ds.metric.gstatic.com^
 ||34624fd4-dnsotls-ds.metric.gstatic.com^
 ||3671c395-dnsotls-ds.metric.gstatic.com^
 ||38b87554-dnsotls-ds.metric.gstatic.com^
@@ -367,6 +402,7 @@
 ||fvluc8-dnsotls-ds.metric.gstatic.com^
 ||fwnuy2-dnsotls-ds.metric.gstatic.com^
 ||gstatic.com^
+||gstatic.net^
 ||gz.gstatic.com^
 ||hdfsex-dnsotls-ds.metric.gstatic.com^
 ||hlsllf-dnsotls-ds.metric.gstatic.com^
@@ -378,6 +414,7 @@
 ||j9tqjo-dnsotls-ds.metric.gstatic.com^
 ||k0fxmr-dnsotls-ds.metric.gstatic.com^
 ||kemedp-dnsotls-ds.metric.gstatic.com^
+||KQu0cL-dnsotls-ds.metric.gstatic.com^
 ||kzkwqp-dnsotls-ds.metric.gstatic.com^
 ||lud771-dnsotls-ds.metric.gstatic.com^
 ||lvhpve-dnsotls-ds.metric.gstatic.com^
@@ -419,6 +456,7 @@
 ||wk3ucl-dnsotls-ds.metric.gstatic.com^
 ||wshjsm-dnsotls-ds.metric.gstatic.com^
 ||www.gstatic.com^
+||www.gstatic.net^
 ||xcebnc-dnsotls-ds.metric.gstatic.com^
 ||xcrl0u-dnsotls-ds.metric.gstatic.com^
 ||xrfn-dnsotls-ds.metric.gstatic.com^
@@ -2600,6 +2638,9 @@
 ||blogger.com^
 ||blogsearch.google.com^
 ||blogspot.com^
+||blogspot.l.googleusercontent.co^
+||blogspot.l.googleusercontent.com^
+||blogspot.ru^
 ||blxhg9ozow.com^
 ||bmb0.com^
 ||bpui0.google.com^
@@ -2607,6 +2648,7 @@
 ||broadcast.admob.com^
 ||bt7gxxpmaf.com^
 ||buganizer.corp.google.com^
+||bugs.chromium.org^
 ||bx3nibkay2.com^
 ||by.svc-1.google.com^
 ||bylda126kb.com^
@@ -2655,6 +2697,8 @@
 ||chromestatus.com^
 ||chromium.git.corp.google.com^
 ||chromium.org^
+||chromiumdash.appspot.com^
+||ci.chromium.org^
 ||ci3.googleusercontent.com^
 ||ci4.googleusercontent.com^
 ||ci5.googleusercontent.com^
@@ -2796,6 +2840,7 @@
 ||earthengine.google.com^
 ||earthview.withgoogle.com^
 ||economicimpact.google.com^
+||edgedl.me.gvt1.com^
 ||ediscovery.google.com^
 ||eg8q13vdlp.com^
 ||ekytu95c1u.com^
@@ -2883,6 +2928,7 @@
 ||ge-0-0-43-crs1.sc9.admob.com^
 ||gears.google.com^
 ||geh7lu6d0k.com^
+||geo0.ggpht.com^
 ||geoauth.google.com^
 ||geomobileservices-pa.googleapis.com^
 ||getmdl.io^
@@ -3002,6 +3048,7 @@
 ||images-partners.google.com^
 ||IMAGEs.google.com^
 ||imap.google.com^
+||img1.blogblog.com^
 ||inputtools.google.com^
 ||instaplot.corp.google.com^
 ||io.google^
@@ -3124,6 +3171,7 @@
 ||mbmxgxxq1a.com^
 ||mclients.googleapis.com^
 ||mdf91.com^
+||me.gvt1.com^
 ||measurementpartners.google.com^
 ||media.admob.com^
 ||mes-x-dev.corp.google.com^
@@ -3141,6 +3189,9 @@
 ||mmv.admob.com^
 ||mn0e.com^
 ||mobiledataplan-pa.googleapis.com^
+||monorail-prod-default-v011-dot-monorail-prod.appspot.com^
+||monorail-prod-default-v049-dot-monorail-prod.appspot.com^
+||monorail-prod-default-v129-dot-monorail-prod.appspot.com^
 ||motlvm5wqs.com^
 ||mpk01.com^
 ||mpv5.com^
@@ -3217,8 +3268,8 @@
 ||oncall.corp.google.com^
 ||onetoday.google.com^
 ||onka64mqbc.com^
-||opensource.google.com^
 ||opensource.google^
+||opensource.google.com^
 ||optimize.google.com^
 ||orderfood.google.com^
 ||orkut.google.com^
@@ -3238,6 +3289,7 @@
 ||passwordgoogle.com^
 ||payments.developers.google.com^
 ||peoplestack-pa.googleapis.com^
+||pf-in-f188.1e100.net^
 ||photosdata-pa.googleapis.com^
 ||phpjo3qe79.com^
 ||picasa.com^
@@ -3249,6 +3301,7 @@
 ||pl.advertisercommunity.com^
 ||play-fe.googleapis.com^
 ||play-next-dogfood.corp.google.com^
+||play.app.goo.gl^
 ||play.google.es^
 ||playbooks-pa.googleapis.com^
 ||playgateway-pa.googleapis.com^
@@ -4005,6 +4058,7 @@
 ||s8.googleusercontent.com^
 ||s8h1t7ifgd.com^
 ||s9.googleusercontent.com^
+||sa-in-f188.1e100.net^
 ||sa7n5ejpxu.com^
 ||sabuaq3xef.com^
 ||safe-browsing.google.com^
@@ -4052,6 +4106,7 @@
 ||snz9otyg8z.com^
 ||socialgraph.apis.google.com^
 ||soif55q623.com^
+||source.chromium.org^
 ||source.cloud.google.com^
 ||source.corp.google.com^
 ||source.developers.google.com^
@@ -4111,6 +4166,7 @@
 ||testmysite.withgoogle.com^
 ||tez.google.com^
 ||tezkyhazrq.com^
+||tg-in-f188.1e100.net^
 ||th.advertisercommunity.com^
 ||thinkwithgoogle.com^
 ||time1.google.com^
@@ -4202,6 +4258,7 @@
 ||w6uur1tfma.com^
 ||w89qyk.feedproxy.ghs.google.com^
 ||w8kq31rrw2.com^
+||wa-in-f188.1e100.net^
 ||wap.admob.com^
 ||waps.admob.com^
 ||wearos.google.com^
@@ -4219,8 +4276,10 @@
 ||wintricksbanner.googlepages.com^
 ||winxtang.apis.google.com^
 ||withgoogle.com^
+||wl-in-f188.1e100.net^
 ||workspace.google.com^
 ||wpgp9m68yu.com^
+||wq-in-f188.1e100.net^
 ||wq4bmoaedv.com^
 ||writely.corp.google.com^
 ||wv1xpwzpk2.com^
@@ -4233,6 +4292,8 @@
 ||www.appspot.com^
 ||www.autodraw.com^
 ||www.blog.google^
+||www.blogspot.com^
+||www.blogspot.ru^
 ||www.botgart.docs.google.com^
 ||www.capitalg.com^
 ||www.chromeexperiments.com^
@@ -4246,9 +4307,11 @@
 ||www.en.advertisercommunity.com^
 ||www.es.advertisercommunity.com^
 ||www.flutter.io^
+||www.forms.gle^
 ||www.fr.advertisercommunity.com^
 ||www.froogle.google.com^
 ||www.getmdl.io^
+||www.goo.gl^
 ||www.google-docs.org^
 ||www.googlesciencefair.com^
 ||www.googlew.com^
