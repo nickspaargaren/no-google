@@ -7691,7 +7691,6 @@ www.watermelon.jibemobile.com
 yellowstone.jibemobile.com
 # More
 300zlf-dnsotls-ds.metric.gstatic.com
-gstaticadssl.l.google.com
 KQu0cL-dnsotls-ds.metric.gstatic.com
 optimizationguide-pa.googleapis.com
 passwordsleakcheck-pa.googleapis.com
