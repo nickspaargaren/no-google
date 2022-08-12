@@ -7689,15 +7689,6 @@ yellowstone.jibemobile.com
 # More
 geo0.ggpht.com
 vrassets-pa.googleusercontent.com
-loc.map.baidu.com
-init.startappservice.com
-imp.startappservice.com
-ofloc.map.baidu.com
-api.map.baidu.com
-st-n.ads1-adnow.com
-api.vitamio.org
-api3.vitamio.org
-in.appcenter.ms
 cloudresourcemanager.googleapis.com
 container.googleapis.com
 gkeconnect.googleapis.com
