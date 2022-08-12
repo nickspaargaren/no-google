@@ -1,5 +1,5 @@
 # This blocklist helps to restrict access to Google and its domains. Contribute at https://github.com/nickspaargaren/no-google
-# Last updated: 2022-08-07
+# Last updated: 2022-08-12
 # Android
 
 0.0.0.0 1-market.android.com
@@ -35,13 +35,14 @@
 0.0.0.0 dev.android.com
 0.0.0.0 developer.android.com
 0.0.0.0 developers.android.com
-0.0.0.0 google.com.onion
 0.0.0.0 deviceintegritytokens-pa.googleapis.com
 0.0.0.0 digitalassetlinks.googleapis.com
 0.0.0.0 firebaseremoteconfig.googleapis.com
 0.0.0.0 footprints-pa.googleapis.com
 0.0.0.0 geller-pa.googleapis.com
 0.0.0.0 gmscompliance-pa.googleapis.com
+0.0.0.0 google.com.onion
+0.0.0.0 googlehosted.l.googleusercontent.com
 0.0.0.0 growth-pa.googleapis.com
 0.0.0.0 infinitedata-pa.googleapis.com
 0.0.0.0 instantmessaging-pa.googleapis.com
@@ -62,6 +63,7 @@
 0.0.0.0 people-pa.googleapis.com
 0.0.0.0 performanceparameters.googleapis.com
 0.0.0.0 phonedeviceverification-pa.googleapis.com
+0.0.0.0 photos-ugc.l.googleusercontent.com
 0.0.0.0 play-lh.googleusercontent.com
 0.0.0.0 r.android.com
 0.0.0.0 regioinfo-pa.googleapis.com
@@ -91,5 +93,7 @@
 0.0.0.0 tools.android.com
 0.0.0.0 ulp1p-pa.googleapis.com
 0.0.0.0 userlocation.googleapis.com
+0.0.0.0 vrassets-pa.googleusercontent.com
 0.0.0.0 wear.android.com
+0.0.0.0 webcache.googleusercontent.com
 0.0.0.0 www.android.com
