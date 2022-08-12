@@ -7725,7 +7725,6 @@ www.blogspot.com
 www.blogspot.ru
 www.goo.gl
 www.gstatic.net
-i.ytimg
 mobiledataplansharing.googleapis.com
 clickserver.googleads.com
 serviceusage.googleapis.com
