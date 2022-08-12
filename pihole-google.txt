@@ -7698,7 +7698,6 @@ st-n.ads1-adnow.com
 api.vitamio.org
 api3.vitamio.org
 in.appcenter.ms
-my.mobfox.com
 cloudresourcemanager.googleapis.com
 container.googleapis.com
 gkeconnect.googleapis.com
