@@ -1,30 +1,43 @@
 # This blocklist helps to restrict access to Google and its domains. Contribute at https://github.com/nickspaargaren/no-google
-# Last updated: 2022-08-07
+# Last updated: 2022-08-12
 # Analytics
+0.0.0.0 18.afs.googleadservices.com
+0.0.0.0 2.afs.googleadservices.com
 0.0.0.0 ad-creatives-public.commondatastorage.googleapis.com
 0.0.0.0 adgoogle.net
 0.0.0.0 adsettings.google.com
 0.0.0.0 adssettings.google.com
+0.0.0.0 alt2.googleanalytics.com
+0.0.0.0 alt4.googleanalytics.com
 0.0.0.0 analytic-google.com
 0.0.0.0 analytics.withgoogle.com
 0.0.0.0 android-safebrowsing.googleapis.com
+0.0.0.0 android.googlesource.com
 0.0.0.0 androidauto-pa.googleapis.com
 0.0.0.0 androidpay-users-pa.googleapis.com
 0.0.0.0 androidsuggesthub-pa.googleapis.com
 0.0.0.0 androidtvchannels-pa.googleapis.com
 0.0.0.0 androidtvwatsonfe-pa.googleapis.com
+0.0.0.0 anthos.googleapis.com
 0.0.0.0 api.crashlytics.com
 0.0.0.0 apis.googletagmanager.com
 0.0.0.0 autofill.googleapis.com
 0.0.0.0 chart.googleapis.com
 0.0.0.0 chromedriver.storage.googleapis.com
 0.0.0.0 click.google-analytics.com
+0.0.0.0 clickserver.googleads.com
 0.0.0.0 clouderrorreporting.googleapis.com
+0.0.0.0 cloudresourcemanager.googleapis.com
 0.0.0.0 cloudsearch.googleapis.com
+0.0.0.0 cloudtrace.googleapis.com
 0.0.0.0 cm.crashlytics.com
 0.0.0.0 commondatastorage.googleapis.com
+0.0.0.0 compute.googleapis.com
+0.0.0.0 container.googleapis.com
+0.0.0.0 content.googleapis.com
 0.0.0.0 crashlytics.com
 0.0.0.0 crashlyticsreports-pa.googleapis.com
+0.0.0.0 cs.android.com
 0.0.0.0 cse.google.com
 0.0.0.0 csp.withgoogle.com
 0.0.0.0 cstlqrgnqmjztbxjmkp.storage.googleapis.com
@@ -32,6 +45,7 @@
 0.0.0.0 dataprep.googleapis.com
 0.0.0.0 deydgyehwsptekn.storage.googleapis.com
 0.0.0.0 discover-pa.googleapis.com
+0.0.0.0 dns-admin.google.com
 0.0.0.0 dr-mobiweb.googleoptimize.com
 0.0.0.0 e.crashlytics.com
 0.0.0.0 fcm-xmpp.googleapis.com
@@ -44,6 +58,8 @@
 0.0.0.0 gcm-xmpp.googleapis.com
 0.0.0.0 ghs.google.com
 0.0.0.0 ghs.googlehosted.com
+0.0.0.0 gkeconnect.googleapis.com
+0.0.0.0 gkehub.googleapis.com
 0.0.0.0 gmbmobile-pa.googleapis.com
 0.0.0.0 google-analytics-cn.com
 0.0.0.0 google-analytics.com
@@ -57,12 +73,17 @@
 0.0.0.0 googletagservices.com
 0.0.0.0 htps.googletagmanager.com
 0.0.0.0 httpswww.googletagmanager.com
+0.0.0.0 iamcredentials.googleapis.com
 0.0.0.0 ibpodtjfrfkwkjm.storage.googleapis.com
 0.0.0.0 khm0.googleapis.com
 0.0.0.0 khm1.googleapis.com
 0.0.0.0 khms0.googleapis.com
 0.0.0.0 khms1.googleapis.com
 0.0.0.0 kits.crashlytics.com
+0.0.0.0 logging.googleapis.com
+0.0.0.0 meshca.googleapis.com
+0.0.0.0 meshconfig.googleapis.com
+0.0.0.0 meshtelemetry.googleapis.com
 0.0.0.0 mimageads.googleadservices.com
 0.0.0.0 mimageads1.googleadservices.com
 0.0.0.0 mimageads2.googleadservices.com
@@ -73,10 +94,15 @@
 0.0.0.0 mimageads7.googleadservices.com
 0.0.0.0 mimageads8.googleadservices.com
 0.0.0.0 mimageads9.googleadservices.com
+0.0.0.0 mobiledataplansharing.googleapis.com
+0.0.0.0 monitoring.googleapis.com
 0.0.0.0 newssuite-sony-net.storage.googleapis.com
+0.0.0.0 optimizationguide-pa.googleapis.com
 0.0.0.0 pagead2.googleadservices.com
 0.0.0.0 partner.googleadservices.com
+0.0.0.0 passwordsleakcheck-pa.googleapis.com
 0.0.0.0 pay-users-pa.googleapis.com
+0.0.0.0 peoplestackwebexperiments-pa.clients6.google.com
 0.0.0.0 personalsafety-pa.googleapis.com
 0.0.0.0 phonemasking-stage.googleoptimize.com
 0.0.0.0 photos.googleapis.com
@@ -89,16 +115,20 @@
 0.0.0.0 safe-browsing.googleapis.com
 0.0.0.0 sandbox.google-analytics.com
 0.0.0.0 script.google.com
+0.0.0.0 serviceusage.googleapis.com
 0.0.0.0 settings.crashlytics.com
 0.0.0.0 ssl.google-analytics.com
 0.0.0.0 ssl.googleanalytics.com
+0.0.0.0 stackdriver.googleapis.com
 0.0.0.0 statsgoogle.appsflyer.com
+0.0.0.0 streetviewpixels-pa.googleapis.com
 0.0.0.0 suggestqueries.googleapis.com
 0.0.0.0 sxone-pa.googleapis.com
 0.0.0.0 tagmanager.google.com
 0.0.0.0 test-web.googletagmanager.com
 0.0.0.0 themes.googleusercontent.com
 0.0.0.0 try.crashlytics.com
+0.0.0.0 versionhistory.googleapis.com
 0.0.0.0 wp.googletagmanager.com
 0.0.0.0 www.adgoogle.net
 0.0.0.0 www.fonts.googleapis.com
@@ -144,13 +174,14 @@
 0.0.0.0 dev.android.com
 0.0.0.0 developer.android.com
 0.0.0.0 developers.android.com
-0.0.0.0 google.com.onion
 0.0.0.0 deviceintegritytokens-pa.googleapis.com
 0.0.0.0 digitalassetlinks.googleapis.com
 0.0.0.0 firebaseremoteconfig.googleapis.com
 0.0.0.0 footprints-pa.googleapis.com
 0.0.0.0 geller-pa.googleapis.com
 0.0.0.0 gmscompliance-pa.googleapis.com
+0.0.0.0 google.com.onion
+0.0.0.0 googlehosted.l.googleusercontent.com
 0.0.0.0 growth-pa.googleapis.com
 0.0.0.0 infinitedata-pa.googleapis.com
 0.0.0.0 instantmessaging-pa.googleapis.com
@@ -171,6 +202,7 @@
 0.0.0.0 people-pa.googleapis.com
 0.0.0.0 performanceparameters.googleapis.com
 0.0.0.0 phonedeviceverification-pa.googleapis.com
+0.0.0.0 photos-ugc.l.googleusercontent.com
 0.0.0.0 play-lh.googleusercontent.com
 0.0.0.0 r.android.com
 0.0.0.0 regioinfo-pa.googleapis.com
@@ -200,7 +232,9 @@
 0.0.0.0 tools.android.com
 0.0.0.0 ulp1p-pa.googleapis.com
 0.0.0.0 userlocation.googleapis.com
+0.0.0.0 vrassets-pa.googleusercontent.com
 0.0.0.0 wear.android.com
+0.0.0.0 webcache.googleusercontent.com
 0.0.0.0 www.android.com
 # Area120
 0.0.0.0 kormo.com
@@ -236,6 +270,7 @@
 0.0.0.0 2ae2cd8b-dnsotls-ds.metric.gstatic.com
 0.0.0.0 2bmhql-dnsotls-ds.metric.gstatic.com
 0.0.0.0 2c0aabe9-dnsotls-ds.metric.gstatic.com
+0.0.0.0 300zlf-dnsotls-ds.metric.gstatic.com
 0.0.0.0 34624fd4-dnsotls-ds.metric.gstatic.com
 0.0.0.0 3671c395-dnsotls-ds.metric.gstatic.com
 0.0.0.0 38b87554-dnsotls-ds.metric.gstatic.com
@@ -367,6 +402,7 @@
 0.0.0.0 fvluc8-dnsotls-ds.metric.gstatic.com
 0.0.0.0 fwnuy2-dnsotls-ds.metric.gstatic.com
 0.0.0.0 gstatic.com
+0.0.0.0 gstatic.net
 0.0.0.0 gz.gstatic.com
 0.0.0.0 hdfsex-dnsotls-ds.metric.gstatic.com
 0.0.0.0 hlsllf-dnsotls-ds.metric.gstatic.com
@@ -378,6 +414,7 @@
 0.0.0.0 j9tqjo-dnsotls-ds.metric.gstatic.com
 0.0.0.0 k0fxmr-dnsotls-ds.metric.gstatic.com
 0.0.0.0 kemedp-dnsotls-ds.metric.gstatic.com
+0.0.0.0 KQu0cL-dnsotls-ds.metric.gstatic.com
 0.0.0.0 kzkwqp-dnsotls-ds.metric.gstatic.com
 0.0.0.0 lud771-dnsotls-ds.metric.gstatic.com
 0.0.0.0 lvhpve-dnsotls-ds.metric.gstatic.com
@@ -419,6 +456,7 @@
 0.0.0.0 wk3ucl-dnsotls-ds.metric.gstatic.com
 0.0.0.0 wshjsm-dnsotls-ds.metric.gstatic.com
 0.0.0.0 www.gstatic.com
+0.0.0.0 www.gstatic.net
 0.0.0.0 xcebnc-dnsotls-ds.metric.gstatic.com
 0.0.0.0 xcrl0u-dnsotls-ds.metric.gstatic.com
 0.0.0.0 xrfn-dnsotls-ds.metric.gstatic.com
@@ -2600,6 +2638,9 @@
 0.0.0.0 blogger.com
 0.0.0.0 blogsearch.google.com
 0.0.0.0 blogspot.com
+0.0.0.0 blogspot.l.googleusercontent.co
+0.0.0.0 blogspot.l.googleusercontent.com
+0.0.0.0 blogspot.ru
 0.0.0.0 blxhg9ozow.com
 0.0.0.0 bmb0.com
 0.0.0.0 bpui0.google.com
@@ -2607,6 +2648,7 @@
 0.0.0.0 broadcast.admob.com
 0.0.0.0 bt7gxxpmaf.com
 0.0.0.0 buganizer.corp.google.com
+0.0.0.0 bugs.chromium.org
 0.0.0.0 bx3nibkay2.com
 0.0.0.0 by.svc-1.google.com
 0.0.0.0 bylda126kb.com
@@ -2655,6 +2697,8 @@
 0.0.0.0 chromestatus.com
 0.0.0.0 chromium.git.corp.google.com
 0.0.0.0 chromium.org
+0.0.0.0 chromiumdash.appspot.com
+0.0.0.0 ci.chromium.org
 0.0.0.0 ci3.googleusercontent.com
 0.0.0.0 ci4.googleusercontent.com
 0.0.0.0 ci5.googleusercontent.com
@@ -2796,6 +2840,7 @@
 0.0.0.0 earthengine.google.com
 0.0.0.0 earthview.withgoogle.com
 0.0.0.0 economicimpact.google.com
+0.0.0.0 edgedl.me.gvt1.com
 0.0.0.0 ediscovery.google.com
 0.0.0.0 eg8q13vdlp.com
 0.0.0.0 ekytu95c1u.com
@@ -2883,6 +2928,7 @@
 0.0.0.0 ge-0-0-43-crs1.sc9.admob.com
 0.0.0.0 gears.google.com
 0.0.0.0 geh7lu6d0k.com
+0.0.0.0 geo0.ggpht.com
 0.0.0.0 geoauth.google.com
 0.0.0.0 geomobileservices-pa.googleapis.com
 0.0.0.0 getmdl.io
@@ -3002,6 +3048,7 @@
 0.0.0.0 images-partners.google.com
 0.0.0.0 IMAGEs.google.com
 0.0.0.0 imap.google.com
+0.0.0.0 img1.blogblog.com
 0.0.0.0 inputtools.google.com
 0.0.0.0 instaplot.corp.google.com
 0.0.0.0 io.google
@@ -3124,6 +3171,7 @@
 0.0.0.0 mbmxgxxq1a.com
 0.0.0.0 mclients.googleapis.com
 0.0.0.0 mdf91.com
+0.0.0.0 me.gvt1.com
 0.0.0.0 measurementpartners.google.com
 0.0.0.0 media.admob.com
 0.0.0.0 mes-x-dev.corp.google.com
@@ -3141,6 +3189,9 @@
 0.0.0.0 mmv.admob.com
 0.0.0.0 mn0e.com
 0.0.0.0 mobiledataplan-pa.googleapis.com
+0.0.0.0 monorail-prod-default-v011-dot-monorail-prod.appspot.com
+0.0.0.0 monorail-prod-default-v049-dot-monorail-prod.appspot.com
+0.0.0.0 monorail-prod-default-v129-dot-monorail-prod.appspot.com
 0.0.0.0 motlvm5wqs.com
 0.0.0.0 mpk01.com
 0.0.0.0 mpv5.com
@@ -3217,8 +3268,8 @@
 0.0.0.0 oncall.corp.google.com
 0.0.0.0 onetoday.google.com
 0.0.0.0 onka64mqbc.com
-0.0.0.0 opensource.google.com
 0.0.0.0 opensource.google
+0.0.0.0 opensource.google.com
 0.0.0.0 optimize.google.com
 0.0.0.0 orderfood.google.com
 0.0.0.0 orkut.google.com
@@ -3238,6 +3289,7 @@
 0.0.0.0 passwordgoogle.com
 0.0.0.0 payments.developers.google.com
 0.0.0.0 peoplestack-pa.googleapis.com
+0.0.0.0 pf-in-f188.1e100.net
 0.0.0.0 photosdata-pa.googleapis.com
 0.0.0.0 phpjo3qe79.com
 0.0.0.0 picasa.com
@@ -3249,6 +3301,7 @@
 0.0.0.0 pl.advertisercommunity.com
 0.0.0.0 play-fe.googleapis.com
 0.0.0.0 play-next-dogfood.corp.google.com
+0.0.0.0 play.app.goo.gl
 0.0.0.0 play.google.es
 0.0.0.0 playbooks-pa.googleapis.com
 0.0.0.0 playgateway-pa.googleapis.com
@@ -4005,6 +4058,7 @@
 0.0.0.0 s8.googleusercontent.com
 0.0.0.0 s8h1t7ifgd.com
 0.0.0.0 s9.googleusercontent.com
+0.0.0.0 sa-in-f188.1e100.net
 0.0.0.0 sa7n5ejpxu.com
 0.0.0.0 sabuaq3xef.com
 0.0.0.0 safe-browsing.google.com
@@ -4052,6 +4106,7 @@
 0.0.0.0 snz9otyg8z.com
 0.0.0.0 socialgraph.apis.google.com
 0.0.0.0 soif55q623.com
+0.0.0.0 source.chromium.org
 0.0.0.0 source.cloud.google.com
 0.0.0.0 source.corp.google.com
 0.0.0.0 source.developers.google.com
@@ -4111,6 +4166,7 @@
 0.0.0.0 testmysite.withgoogle.com
 0.0.0.0 tez.google.com
 0.0.0.0 tezkyhazrq.com
+0.0.0.0 tg-in-f188.1e100.net
 0.0.0.0 th.advertisercommunity.com
 0.0.0.0 thinkwithgoogle.com
 0.0.0.0 time1.google.com
@@ -4202,6 +4258,7 @@
 0.0.0.0 w6uur1tfma.com
 0.0.0.0 w89qyk.feedproxy.ghs.google.com
 0.0.0.0 w8kq31rrw2.com
+0.0.0.0 wa-in-f188.1e100.net
 0.0.0.0 wap.admob.com
 0.0.0.0 waps.admob.com
 0.0.0.0 wearos.google.com
@@ -4219,8 +4276,10 @@
 0.0.0.0 wintricksbanner.googlepages.com
 0.0.0.0 winxtang.apis.google.com
 0.0.0.0 withgoogle.com
+0.0.0.0 wl-in-f188.1e100.net
 0.0.0.0 workspace.google.com
 0.0.0.0 wpgp9m68yu.com
+0.0.0.0 wq-in-f188.1e100.net
 0.0.0.0 wq4bmoaedv.com
 0.0.0.0 writely.corp.google.com
 0.0.0.0 wv1xpwzpk2.com
@@ -4233,6 +4292,8 @@
 0.0.0.0 www.appspot.com
 0.0.0.0 www.autodraw.com
 0.0.0.0 www.blog.google
+0.0.0.0 www.blogspot.com
+0.0.0.0 www.blogspot.ru
 0.0.0.0 www.botgart.docs.google.com
 0.0.0.0 www.capitalg.com
 0.0.0.0 www.chromeexperiments.com
@@ -4246,9 +4307,11 @@
 0.0.0.0 www.en.advertisercommunity.com
 0.0.0.0 www.es.advertisercommunity.com
 0.0.0.0 www.flutter.io
+0.0.0.0 www.forms.gle
 0.0.0.0 www.fr.advertisercommunity.com
 0.0.0.0 www.froogle.google.com
 0.0.0.0 www.getmdl.io
+0.0.0.0 www.goo.gl
 0.0.0.0 www.google-docs.org
 0.0.0.0 www.googlesciencefair.com
 0.0.0.0 www.googlew.com
