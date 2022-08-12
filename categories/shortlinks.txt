@@ -1,5 +1,5 @@
 # This blocklist helps to restrict access to Google and its domains. Contribute at https://github.com/nickspaargaren/no-google
-# Last updated: 2022-05-13
+# Last updated: 2022-08-07
 # Short Links
 
 0.0.0.0 app.goo.gl
@@ -10,6 +10,8 @@
 0.0.0.0 goog.le
 0.0.0.0 images.app.goo.gl
 0.0.0.0 m.youtu.be
+0.0.0.0 maps.app.goo.gl
+0.0.0.0 preview.app.goo.gl
 0.0.0.0 surf.youtu.be
 0.0.0.0 www.yt.be
 0.0.0.0 youtu.be

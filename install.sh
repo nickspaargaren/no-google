@@ -5,8 +5,8 @@
 db_gravity='/etc/pihole/gravity.db'
 file_pihole_regex='/etc/pihole/regex.list'
 file_mmotti_regex='/etc/pihole/mmotti-regex.list'
-file_mmotti_remote_regex='https://github.com/nickspaargaren/pihole-google/blob/master/regex.list'
-installer_comment='github.com/nickspaargaren/pihole-google'
+file_mmotti_remote_regex='https://github.com/nickspaargaren/no-google/blob/master/regex.list'
+installer_comment='github.com/nickspaargaren/no-google'
 
 # Determine whether we are using Pi-hole DB
 if [[ -s "${db_gravity}" ]]; then

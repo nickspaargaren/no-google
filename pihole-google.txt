@@ -72,9 +72,12 @@ mimageads7.googleadservices.com
 mimageads8.googleadservices.com
 mimageads9.googleadservices.com
 newssuite-sony-net.storage.googleapis.com
+optimizationguide-pa.googleapis.com
 pagead2.googleadservices.com
 partner.googleadservices.com
+passwordsleakcheck-pa.googleapis.com
 pay-users-pa.googleapis.com
+peoplestackwebexperiments-pa.clients6.google.com
 personalsafety-pa.googleapis.com
 phonemasking-stage.googleoptimize.com
 photos.googleapis.com
@@ -234,6 +237,7 @@ www.tangi.co
 2ae2cd8b-dnsotls-ds.metric.gstatic.com
 2bmhql-dnsotls-ds.metric.gstatic.com
 2c0aabe9-dnsotls-ds.metric.gstatic.com
+300zlf-dnsotls-ds.metric.gstatic.com
 34624fd4-dnsotls-ds.metric.gstatic.com
 3671c395-dnsotls-ds.metric.gstatic.com
 38b87554-dnsotls-ds.metric.gstatic.com
@@ -376,6 +380,7 @@ isbv-dnsotls-ds.metric.gstatic.com
 j9tqjo-dnsotls-ds.metric.gstatic.com
 k0fxmr-dnsotls-ds.metric.gstatic.com
 kemedp-dnsotls-ds.metric.gstatic.com
+KQu0cL-dnsotls-ds.metric.gstatic.com
 kzkwqp-dnsotls-ds.metric.gstatic.com
 lud771-dnsotls-ds.metric.gstatic.com
 lvhpve-dnsotls-ds.metric.gstatic.com
@@ -3236,6 +3241,7 @@ partnerpage.google.com
 passwordgoogle.com
 payments.developers.google.com
 peoplestack-pa.googleapis.com
+pf-in-f188.1e100.net
 photosdata-pa.googleapis.com
 phpjo3qe79.com
 picasa.com
@@ -4003,6 +4009,7 @@ s7.googleusercontent.com
 s8.googleusercontent.com
 s8h1t7ifgd.com
 s9.googleusercontent.com
+sa-in-f188.1e100.net
 sa7n5ejpxu.com
 sabuaq3xef.com
 safe-browsing.google.com
@@ -4109,6 +4116,7 @@ test.gvt2.com
 testmysite.withgoogle.com
 tez.google.com
 tezkyhazrq.com
+tg-in-f188.1e100.net
 th.advertisercommunity.com
 thinkwithgoogle.com
 time1.google.com
@@ -4200,6 +4208,7 @@ w2u1sp7yf5.com
 w6uur1tfma.com
 w89qyk.feedproxy.ghs.google.com
 w8kq31rrw2.com
+wa-in-f188.1e100.net
 wap.admob.com
 waps.admob.com
 wearos.google.com
@@ -4217,8 +4226,10 @@ wing.corp.google.com
 wintricksbanner.googlepages.com
 winxtang.apis.google.com
 withgoogle.com
+wl-in-f188.1e100.net
 workspace.google.com
 wpgp9m68yu.com
+wq-in-f188.1e100.net
 wq4bmoaedv.com
 writely.corp.google.com
 wv1xpwzpk2.com
@@ -4324,6 +4335,7 @@ ybg0i1gid7.com
 ycnmonkwvk.com
 ye76ae6sv8.com
 yf2vjne4wn.com
+youtube-tarot.appspot.com
 yprlsa6i2l.com
 yt5hpdttf2.com
 ytimg.googleusercontent.com
@@ -5482,6 +5494,8 @@ goo.gl
 goog.le
 images.app.goo.gl
 m.youtu.be
+maps.app.goo.gl
+preview.app.goo.gl
 surf.youtu.be
 www.yt.be
 youtu.be

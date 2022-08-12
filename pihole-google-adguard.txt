@@ -1,5 +1,5 @@
 ! This blocklist helps to restrict access to Google and its domains. Contribute at https://github.com/nickspaargaren/no-google
-! Last updated: 2022-05-13
+! Last updated: 2022-08-07
 ! Analytics
 ||ad-creatives-public.commondatastorage.googleapis.com^
 ||adgoogle.net^
@@ -4326,6 +4326,7 @@
 ||ycnmonkwvk.com^
 ||ye76ae6sv8.com^
 ||yf2vjne4wn.com^
+||youtube-tarot.appspot.com^
 ||yprlsa6i2l.com^
 ||yt5hpdttf2.com^
 ||ytimg.googleusercontent.com^
@@ -5484,6 +5485,8 @@
 ||goog.le^
 ||images.app.goo.gl^
 ||m.youtu.be^
+||maps.app.goo.gl^
+||preview.app.goo.gl^
 ||surf.youtu.be^
 ||www.yt.be^
 ||youtu.be^
