@@ -1,5 +1,5 @@
 # This blocklist helps to restrict access to Google and its domains. Contribute at https://github.com/nickspaargaren/no-google
-# Last updated: 2022-08-07
+# Last updated: 2022-08-12
 # DNS
 
 014dcb18-dnsotls-ds.metric.gstatic.com
@@ -25,6 +25,7 @@
 2ae2cd8b-dnsotls-ds.metric.gstatic.com
 2bmhql-dnsotls-ds.metric.gstatic.com
 2c0aabe9-dnsotls-ds.metric.gstatic.com
+300zlf-dnsotls-ds.metric.gstatic.com
 34624fd4-dnsotls-ds.metric.gstatic.com
 3671c395-dnsotls-ds.metric.gstatic.com
 38b87554-dnsotls-ds.metric.gstatic.com
@@ -156,6 +157,7 @@ fonts.gstatic.com
 fvluc8-dnsotls-ds.metric.gstatic.com
 fwnuy2-dnsotls-ds.metric.gstatic.com
 gstatic.com
+gstatic.net
 gz.gstatic.com
 hdfsex-dnsotls-ds.metric.gstatic.com
 hlsllf-dnsotls-ds.metric.gstatic.com
@@ -167,6 +169,7 @@ isbv-dnsotls-ds.metric.gstatic.com
 j9tqjo-dnsotls-ds.metric.gstatic.com
 k0fxmr-dnsotls-ds.metric.gstatic.com
 kemedp-dnsotls-ds.metric.gstatic.com
+KQu0cL-dnsotls-ds.metric.gstatic.com
 kzkwqp-dnsotls-ds.metric.gstatic.com
 lud771-dnsotls-ds.metric.gstatic.com
 lvhpve-dnsotls-ds.metric.gstatic.com
@@ -208,6 +211,7 @@ vxvimy-dnsotls-ds.metric.gstatic.com
 wk3ucl-dnsotls-ds.metric.gstatic.com
 wshjsm-dnsotls-ds.metric.gstatic.com
 www.gstatic.com
+www.gstatic.net
 xcebnc-dnsotls-ds.metric.gstatic.com
 xcrl0u-dnsotls-ds.metric.gstatic.com
 xrfn-dnsotls-ds.metric.gstatic.com

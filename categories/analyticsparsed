@@ -1,31 +1,44 @@
 # This blocklist helps to restrict access to Google and its domains. Contribute at https://github.com/nickspaargaren/no-google
-# Last updated: 2022-08-07
+# Last updated: 2022-08-12
 # Analytics
 
+18.afs.googleadservices.com
+2.afs.googleadservices.com
 ad-creatives-public.commondatastorage.googleapis.com
 adgoogle.net
 adsettings.google.com
 adssettings.google.com
+alt2.googleanalytics.com
+alt4.googleanalytics.com
 analytic-google.com
 analytics.withgoogle.com
 android-safebrowsing.googleapis.com
+android.googlesource.com
 androidauto-pa.googleapis.com
 androidpay-users-pa.googleapis.com
 androidsuggesthub-pa.googleapis.com
 androidtvchannels-pa.googleapis.com
 androidtvwatsonfe-pa.googleapis.com
+anthos.googleapis.com
 api.crashlytics.com
 apis.googletagmanager.com
 autofill.googleapis.com
 chart.googleapis.com
 chromedriver.storage.googleapis.com
 click.google-analytics.com
+clickserver.googleads.com
 clouderrorreporting.googleapis.com
+cloudresourcemanager.googleapis.com
 cloudsearch.googleapis.com
+cloudtrace.googleapis.com
 cm.crashlytics.com
 commondatastorage.googleapis.com
+compute.googleapis.com
+container.googleapis.com
+content.googleapis.com
 crashlytics.com
 crashlyticsreports-pa.googleapis.com
+cs.android.com
 cse.google.com
 csp.withgoogle.com
 cstlqrgnqmjztbxjmkp.storage.googleapis.com
@@ -33,6 +46,7 @@ datamixer.pa.googleapis.com
 dataprep.googleapis.com
 deydgyehwsptekn.storage.googleapis.com
 discover-pa.googleapis.com
+dns-admin.google.com
 dr-mobiweb.googleoptimize.com
 e.crashlytics.com
 fcm-xmpp.googleapis.com
@@ -45,6 +59,8 @@ gcm-http.googleapis.com
 gcm-xmpp.googleapis.com
 ghs.google.com
 ghs.googlehosted.com
+gkeconnect.googleapis.com
+gkehub.googleapis.com
 gmbmobile-pa.googleapis.com
 google-analytics-cn.com
 google-analytics.com
@@ -58,12 +74,17 @@ googletagmanager.com
 googletagservices.com
 htps.googletagmanager.com
 httpswww.googletagmanager.com
+iamcredentials.googleapis.com
 ibpodtjfrfkwkjm.storage.googleapis.com
 khm0.googleapis.com
 khm1.googleapis.com
 khms0.googleapis.com
 khms1.googleapis.com
 kits.crashlytics.com
+logging.googleapis.com
+meshca.googleapis.com
+meshconfig.googleapis.com
+meshtelemetry.googleapis.com
 mimageads.googleadservices.com
 mimageads1.googleadservices.com
 mimageads2.googleadservices.com
@@ -74,10 +95,15 @@ mimageads6.googleadservices.com
 mimageads7.googleadservices.com
 mimageads8.googleadservices.com
 mimageads9.googleadservices.com
+mobiledataplansharing.googleapis.com
+monitoring.googleapis.com
 newssuite-sony-net.storage.googleapis.com
+optimizationguide-pa.googleapis.com
 pagead2.googleadservices.com
 partner.googleadservices.com
+passwordsleakcheck-pa.googleapis.com
 pay-users-pa.googleapis.com
+peoplestackwebexperiments-pa.clients6.google.com
 personalsafety-pa.googleapis.com
 phonemasking-stage.googleoptimize.com
 photos.googleapis.com
@@ -90,16 +116,20 @@ reports.crashlytics.com
 safe-browsing.googleapis.com
 sandbox.google-analytics.com
 script.google.com
+serviceusage.googleapis.com
 settings.crashlytics.com
 ssl.google-analytics.com
 ssl.googleanalytics.com
+stackdriver.googleapis.com
 statsgoogle.appsflyer.com
+streetviewpixels-pa.googleapis.com
 suggestqueries.googleapis.com
 sxone-pa.googleapis.com
 tagmanager.google.com
 test-web.googletagmanager.com
 themes.googleusercontent.com
 try.crashlytics.com
+versionhistory.googleapis.com
 wp.googletagmanager.com
 www.adgoogle.net
 www.fonts.googleapis.com

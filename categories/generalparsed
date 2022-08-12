@@ -1,5 +1,5 @@
 # This blocklist helps to restrict access to Google and its domains. Contribute at https://github.com/nickspaargaren/no-google
-# Last updated: 2022-08-07
+# Last updated: 2022-08-12
 # General
 
 0.chart.apis.google.com
@@ -389,6 +389,9 @@ blog.google
 blogger.com
 blogsearch.google.com
 blogspot.com
+blogspot.l.googleusercontent.co
+blogspot.l.googleusercontent.com
+blogspot.ru
 blxhg9ozow.com
 bmb0.com
 bpui0.google.com
@@ -396,6 +399,7 @@ bq14tacgy9.com
 broadcast.admob.com
 bt7gxxpmaf.com
 buganizer.corp.google.com
+bugs.chromium.org
 bx3nibkay2.com
 by.svc-1.google.com
 bylda126kb.com
@@ -444,6 +448,8 @@ chromegw.corp.google.com
 chromestatus.com
 chromium.git.corp.google.com
 chromium.org
+chromiumdash.appspot.com
+ci.chromium.org
 ci3.googleusercontent.com
 ci4.googleusercontent.com
 ci5.googleusercontent.com
@@ -585,6 +591,7 @@ earthbuilder.google.com
 earthengine.google.com
 earthview.withgoogle.com
 economicimpact.google.com
+edgedl.me.gvt1.com
 ediscovery.google.com
 eg8q13vdlp.com
 ekytu95c1u.com
@@ -672,6 +679,7 @@ ge-0-0-1-edge1.sc9.admob.com
 ge-0-0-43-crs1.sc9.admob.com
 gears.google.com
 geh7lu6d0k.com
+geo0.ggpht.com
 geoauth.google.com
 geomobileservices-pa.googleapis.com
 getmdl.io
@@ -791,6 +799,7 @@ images-partners-tbn.google.com
 images-partners.google.com
 IMAGEs.google.com
 imap.google.com
+img1.blogblog.com
 inputtools.google.com
 instaplot.corp.google.com
 io.google
@@ -913,6 +922,7 @@ materibelajarinside.docs.google.com
 mbmxgxxq1a.com
 mclients.googleapis.com
 mdf91.com
+me.gvt1.com
 measurementpartners.google.com
 media.admob.com
 mes-x-dev.corp.google.com
@@ -930,6 +940,9 @@ mm8ceqslai.com
 mmv.admob.com
 mn0e.com
 mobiledataplan-pa.googleapis.com
+monorail-prod-default-v011-dot-monorail-prod.appspot.com
+monorail-prod-default-v049-dot-monorail-prod.appspot.com
+monorail-prod-default-v129-dot-monorail-prod.appspot.com
 motlvm5wqs.com
 mpk01.com
 mpv5.com
@@ -1006,8 +1019,8 @@ omaharelease.corp.google.com
 oncall.corp.google.com
 onetoday.google.com
 onka64mqbc.com
-opensource.google.com
 opensource.google
+opensource.google.com
 optimize.google.com
 orderfood.google.com
 orkut.google.com
@@ -1027,6 +1040,7 @@ partnerpage.google.com
 passwordgoogle.com
 payments.developers.google.com
 peoplestack-pa.googleapis.com
+pf-in-f188.1e100.net
 photosdata-pa.googleapis.com
 phpjo3qe79.com
 picasa.com
@@ -1038,6 +1052,7 @@ pkn7e9us0y.com
 pl.advertisercommunity.com
 play-fe.googleapis.com
 play-next-dogfood.corp.google.com
+play.app.goo.gl
 play.google.es
 playbooks-pa.googleapis.com
 playgateway-pa.googleapis.com
@@ -1794,6 +1809,7 @@ s7.googleusercontent.com
 s8.googleusercontent.com
 s8h1t7ifgd.com
 s9.googleusercontent.com
+sa-in-f188.1e100.net
 sa7n5ejpxu.com
 sabuaq3xef.com
 safe-browsing.google.com
@@ -1841,6 +1857,7 @@ smtp2.admob.com
 snz9otyg8z.com
 socialgraph.apis.google.com
 soif55q623.com
+source.chromium.org
 source.cloud.google.com
 source.corp.google.com
 source.developers.google.com
@@ -1900,6 +1917,7 @@ test.gvt2.com
 testmysite.withgoogle.com
 tez.google.com
 tezkyhazrq.com
+tg-in-f188.1e100.net
 th.advertisercommunity.com
 thinkwithgoogle.com
 time1.google.com
@@ -1991,6 +2009,7 @@ w2u1sp7yf5.com
 w6uur1tfma.com
 w89qyk.feedproxy.ghs.google.com
 w8kq31rrw2.com
+wa-in-f188.1e100.net
 wap.admob.com
 waps.admob.com
 wearos.google.com
@@ -2008,8 +2027,10 @@ wing.corp.google.com
 wintricksbanner.googlepages.com
 winxtang.apis.google.com
 withgoogle.com
+wl-in-f188.1e100.net
 workspace.google.com
 wpgp9m68yu.com
+wq-in-f188.1e100.net
 wq4bmoaedv.com
 writely.corp.google.com
 wv1xpwzpk2.com
@@ -2022,6 +2043,8 @@ www.ampproject.org
 www.appspot.com
 www.autodraw.com
 www.blog.google
+www.blogspot.com
+www.blogspot.ru
 www.botgart.docs.google.com
 www.capitalg.com
 www.chromeexperiments.com
@@ -2035,9 +2058,11 @@ www.drive.google.com
 www.en.advertisercommunity.com
 www.es.advertisercommunity.com
 www.flutter.io
+www.forms.gle
 www.fr.advertisercommunity.com
 www.froogle.google.com
 www.getmdl.io
+www.goo.gl
 www.google-docs.org
 www.googlesciencefair.com
 www.googlew.com
