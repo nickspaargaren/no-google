@@ -109,6 +109,7 @@ plus.googleapis.com
 public.commondatastorage.googleapis.com
 qs11.googletagmanager.com
 recommender.googleapis.com
+region1.google-analytics.com
 reports.crashlytics.com
 safe-browsing.googleapis.com
 sandbox.google-analytics.com
