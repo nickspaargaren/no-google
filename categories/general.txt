@@ -723,6 +723,7 @@
 0.0.0.0 googleplex-android-review.git.corp.google.com
 0.0.0.0 googlesciencefair.com
 0.0.0.0 googlesource.com
+0.0.0.0 googlesucks.com
 0.0.0.0 googletagservice.com
 0.0.0.0 googletraveladservices.com
 0.0.0.0 googleusercontent.com
