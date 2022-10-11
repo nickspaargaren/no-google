@@ -183,6 +183,7 @@ google.com.onion
 googlehosted.l.googleusercontent.com
 growth-pa.googleapis.com
 infinitedata-pa.googleapis.com
+instantmessaging-pa-us.clients6.google.com
 instantmessaging-pa.googleapis.com
 lamssettings-pa.googleapis.com
 m.android.com
