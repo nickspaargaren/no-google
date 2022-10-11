@@ -28,6 +28,7 @@
 0.0.0.0 payments.google.com
 0.0.0.0 scholar.google.be
 0.0.0.0 scholar.google.co.uk
+0.0.0.0 scholar.google.com
 0.0.0.0 scholar.google.de
 0.0.0.0 scholar.google.fr
 0.0.0.0 scholar.google.nl
