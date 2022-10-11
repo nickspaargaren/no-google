@@ -1052,7 +1052,6 @@ safeframe.googlesyndication.com
 safety.google.com
 sandbox.google.com
 sb.google.com
-scholar.google.com
 search.google.com
 secterfisherman.google.com
 security.google.com
@@ -5289,6 +5288,7 @@ patents.google.com
 payments.google.com
 scholar.google.be
 scholar.google.co.uk
+scholar.google.com
 scholar.google.de
 scholar.google.fr
 scholar.google.nl
