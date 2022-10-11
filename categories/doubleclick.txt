@@ -185,7 +185,6 @@
 0.0.0.0 gan.doubleclick.net
 0.0.0.0 googleads.g.doubleclick.com
 0.0.0.0 googleads.g.doubleclick.net
-0.0.0.0 googleads.g.doubleclick.net.iberostar.com
 0.0.0.0 googleads2.g.doubleclick.net
 0.0.0.0 googleads3.g.doubleclick.net
 0.0.0.0 googleads4.g.doubleclick.net
