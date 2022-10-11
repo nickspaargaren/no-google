@@ -2647,6 +2647,7 @@ bq14tacgy9.com
 broadcast.admob.com
 bt7gxxpmaf.com
 buganizer.corp.google.com
+bughunters.google.com
 bugs.chromium.org
 bx3nibkay2.com
 by.svc-1.google.com
