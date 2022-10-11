@@ -591,7 +591,6 @@
 0.0.0.0 safety.google.com
 0.0.0.0 sandbox.google.com
 0.0.0.0 sb.google.com
-0.0.0.0 scholar.google.com
 0.0.0.0 search.google.com
 0.0.0.0 secterfisherman.google.com
 0.0.0.0 security.google.com
