@@ -1513,7 +1513,6 @@ g3.doubleclick.net
 gan.doubleclick.net
 googleads.g.doubleclick.com
 googleads.g.doubleclick.net
-googleads.g.doubleclick.net.iberostar.com
 googleads2.g.doubleclick.net
 googleads3.g.doubleclick.net
 googleads4.g.doubleclick.net
