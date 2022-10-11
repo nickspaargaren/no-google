@@ -1,5 +1,5 @@
 # This blocklist helps to restrict access to Google and its domains. Contribute at https://github.com/nickspaargaren/no-google
-# Last updated: 2022-08-23
+# Last updated: 2022-10-11
 # General
 
 0.0.0.0 0.chart.apis.google.com
@@ -1941,6 +1941,7 @@
 0.0.0.0 trakksocial.googlecode.com
 0.0.0.0 translate.google.es
 0.0.0.0 translate.googleapis.com
+0.0.0.0 translate.googleusercontent.com
 0.0.0.0 translatorgoogle.com
 0.0.0.0 transparencyreport.google.com
 0.0.0.0 tv576.drive.google.com
