@@ -52,7 +52,8 @@ class DomainBlocklistConverter:
             for category, entries in self.data.items():
                 f.write(f"# {category}\n")
                 for entry in entries:
-                    f.write(f"0.0.0.0 {entry}\n")
+                    if entry != "":
+                        f.write(f"0.0.0.0 {entry}\n")
 
     def unbound(self):
         """
@@ -66,7 +67,8 @@ class DomainBlocklistConverter:
             for category, entries in self.data.items():
                 f.write(f"\n# Category: {category}\n")
                 for entry in entries:
-                    f.write(f'local-zone: "{entry}" always_refuse\n')
+                    if entry != "":
+                        f.write(f'local-zone: "{entry}" always_refuse\n')
 
     def adguard(self):
         """
@@ -78,7 +80,8 @@ class DomainBlocklistConverter:
             for category, entries in self.data.items():
                 f.write(f"! {category}\n")
                 for entry in entries:
-                    f.write(f"||{entry}^\n")
+                    if entry != "":
+                        f.write(f"||{entry}^\n")
 
     def categories(self):
         """
@@ -95,7 +98,8 @@ class DomainBlocklistConverter:
                 f.write(f"# {category}\n")
                 f.write(f"\n")
                 for entry in entries:
-                    f.write(f"{line_prefix}{entry}\n")
+                    if entry != "":
+                        f.write(f"{line_prefix}{entry}\n")
 
         for category, entries in self.data.items():
 
