@@ -1,5 +1,5 @@
 # This blocklist helps to restrict access to Google and its domains. Contribute at https://github.com/nickspaargaren/no-google
-# Last updated: 2022-10-11
+# Last updated: 2022-10-12
 # Analytics
 0.0.0.0 18.afs.googleadservices.com
 0.0.0.0 2.afs.googleadservices.com
@@ -143,7 +143,6 @@
 0.0.0.0 zfgbxkotjxujhmpo.storage.googleapis.com
 # Android
 0.0.0.0 1-market.android.com
-0.0.0.0 9098b63249ee4522c5d8677059fe22e4.safeframe.google.syndication.com
 0.0.0.0 a.android.com
 0.0.0.0 a17-250-248-101.android.com
 0.0.0.0 acceleratedmobilepageurl.googleapis.com
@@ -7760,5 +7759,3 @@
 0.0.0.0 www.viper.jibemobile.com
 0.0.0.0 www.watermelon.jibemobile.com
 0.0.0.0 yellowstone.jibemobile.com
-0.0.0.0 
-0.0.0.0 
