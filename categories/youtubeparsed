@@ -1,5 +1,5 @@
 # This blocklist helps to restrict access to Google and its domains. Contribute at https://github.com/nickspaargaren/no-google
-# Last updated: 2022-10-12
+# Last updated: 2022-10-16
 # Youtube
 
 _domainkey.youtube.com
@@ -546,7 +546,6 @@ partner.youtube.com
 payments.youtube.com
 pl.youtube.com
 play-ti.ytimg.com
-r1---sn-4g5e6nsy.googlevideo.com
 r1---sn-5goeen7r.c.youtube.com
 r1---sn-ab5l6ndr.c.youtube.com
 r1---sn-ab5szn7s.c.youtube.com
@@ -581,8 +580,6 @@ r2---sn-x1x7snse.c.youtube.com
 r2.sn-4g5edne7.c.youtube.com
 r2.sn-hgn7rne7.c.youtube.com
 r3---sn-25glenez.c.youtube.com
-r3---sn-4g5e6nsy.googlevideo.com
-r3---sn-4g5ednld.googlevideo.com
 r3---sn-n4v7knlz.c.youtube.com
 r3---sn-p5qlsndz.c.youtube.com
 r3.sn-4g5ednsd.c.youtube.com
