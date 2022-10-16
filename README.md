@@ -59,7 +59,8 @@ NOTE: Youtube advertisements are pretty difficult to block trough DNS, as they m
 
 You can also easily use the modified [pihole regex installer script](https://github.com/mmotti/pihole-regex) by [@mmoti](https://github.com/mmotti) by executing this terminal command from your raspberry Pi Pi-hole server.
 ```
-curl -sSl https://raw.githubusercontent.com/nickspaargaren/no-google/master/install.sh | bash
+curl -sSl https://raw.githubusercontent.com/nickspaargaren/no-google/master/install.py | sudo python3
+
 ```
 and then, executing it. It should add all of the above regex automatically.
 
