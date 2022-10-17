@@ -7766,7 +7766,6 @@ appsgrowthpromo-pa.clients3.google.com
 appsgrowthpromo-pa.clients4.google.com
 appsgrowthpromo-pa.clients5.google.com
 appsgrowthpromo-pa.clients6.google.com
-accounts-cctld.l.google.com
 doc-0g-48-docstext.googleusercontent.com
 maps.google.com.mm
 aswpsdkeu.com
@@ -7789,7 +7788,6 @@ android.apis.google.com
 android-developers.googleblog.com
 android.pool.ntp.org
 androidenterprisepartners.withgoogle.com
-*.safeframe.googlesyndication.com
 3cbc684bb9f2dcdd3a3794de9de52f63.safeframe.googlesyndication.com
 addons-pa.clients1.google.com
 addons-pa.clients2.google.com
@@ -7862,7 +7860,7 @@ peoplestackwebexperiments-pa.clients4.google.com
 peoplestackwebexperiments-pa.clients5.google.com
 pki-goog.l.google.com
 plus.l.google.com
-policies.google.com Will prevent access to privacy policy, terms of use, etc
+policies.google.com
 pop.gmail.com
 redirector.googlevideo.com
 scone-pa.clients1.google.com
