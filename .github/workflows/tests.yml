@@ -24,4 +24,19 @@ jobs:
     - name: Check for duplicate lines
       run: |
         cd scripts
-        pytest
+        python3 test_duplicates.py --type duplicates
+  regex:
+    runs-on: ubuntu-latest
+    continue-on-error: true
+    steps:
+    - uses: actions/checkout@v2
+      name: Python setup
+    - uses: actions/setup-python@v2
+      with:
+        python-version: 3.8
+    - name: Install pytest
+      run: pip install pytest
+    - name: Check if list includes regex domains
+      run: |
+        cd scripts
+        python3 test_duplicates.py --type regex
