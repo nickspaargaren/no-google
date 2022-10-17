@@ -1,0 +1,38 @@
+name: Tests
+on:
+  push:
+    paths:
+      - 'pihole-google.txt'
+jobs:
+  duplicates:
+    name: No duplicate domains in list
+    runs-on: ubuntu-latest
+    continue-on-error: true
+    steps:
+    - uses: actions/checkout@v2
+      name: Python setup
+    - uses: actions/setup-python@v2
+      with:
+        python-version: 3.8
+    - name: Install pytest
+      run: pip install pytest
+    - name: Check for duplicate lines
+      run: |
+        cd scripts
+        python3 tests.py --type duplicates
+  regex:
+    name: No regex domains in list
+    runs-on: ubuntu-latest
+    continue-on-error: true
+    steps:
+    - uses: actions/checkout@v2
+      name: Python setup
+    - uses: actions/setup-python@v2
+      with:
+        python-version: 3.8
+    - name: Install pytest
+      run: pip install pytest
+    - name: Check if list includes regex domains
+      run: |
+        cd scripts
+        python3 tests.py --type regex
