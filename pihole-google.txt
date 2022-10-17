@@ -1041,6 +1041,7 @@ purchase.google.com
 reader.google.com
 realtime.google.com
 redirector.c.googlesyndication.com
+region1.app-measurement.com
 registry.google.com
 relay.google.com
 research.google
