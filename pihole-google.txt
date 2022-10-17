@@ -7862,7 +7862,6 @@ pki-goog.l.google.com
 plus.l.google.com
 policies.google.com
 pop.gmail.com
-redirector.googlevideo.com
 scone-pa.clients1.google.com
 scone-pa.clients2.google.com
 scone-pa.clients3.google.com
