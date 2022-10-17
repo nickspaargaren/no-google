@@ -1,4 +1,4 @@
-name: Duplicate checker
+name: Tests
 on:
   push:
     branches:
@@ -11,6 +11,7 @@ on:
       - develop
 jobs:
   duplicates:
+    name: No duplicate domains in list
     runs-on: ubuntu-latest
     continue-on-error: true
     steps:
@@ -26,6 +27,7 @@ jobs:
         cd scripts
         python3 test_duplicates.py --type duplicates
   regex:
+    name: No regex domains in list
     runs-on: ubuntu-latest
     continue-on-error: true
     steps:
