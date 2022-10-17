@@ -1,6 +1,13 @@
 name: Tests
 on:
   push:
+    branches:
+      - master
+    paths:
+      - 'pihole-google.txt'
+  pull_request:
+    branches:
+    - master
     paths:
       - 'pihole-google.txt'
 jobs:
