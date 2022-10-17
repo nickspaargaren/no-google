@@ -7861,7 +7861,6 @@ peoplestackwebexperiments-pa.clients4.google.com
 peoplestackwebexperiments-pa.clients5.google.com
 pki-goog.l.google.com
 plus.l.google.com
-policies.google.com
 pop.gmail.com
 scone-pa.clients1.google.com
 scone-pa.clients2.google.com
@@ -7903,7 +7902,6 @@ cdn.fastclick.net
 media.fastclick.net
 youtube-ui.l.google.com
 yt4.ggpht.com
-*.googlevideo.com
 biz.waze.com
 waze-app.com
 wazeopedia.waze.com
