@@ -23,7 +23,6 @@
 0.0.0.0 0e553a7644b6bd72ea6234ae678e3d07.safeframe.googlesyndication.com
 0.0.0.0 17c11764c8e58ffd607e9f6442c3f7d8.safeframe.googlesyndication.com
 0.0.0.0 1d622518c13a7c01baccc5c3724b91be.safeframe.googlesyndication.com
-0.0.0.0 204-44-66-78.googlehosts.org
 0.0.0.0 2mdn.net
 0.0.0.0 30925359bd39272f220718667e27775e.safeframe.googlesyndication.com
 0.0.0.0 3ded44bd838404a6a3f3d7333aa65498.safeframe.googlesyndication.com
@@ -606,7 +605,6 @@
 0.0.0.0 spaces.google.com
 0.0.0.0 speech.google.com
 0.0.0.0 sprint.google.com
-0.0.0.0 ss-3.googlehosts.org
 0.0.0.0 static.2mdn.net
 0.0.0.0 station.google.com
 0.0.0.0 store.google.com
@@ -617,7 +615,6 @@
 0.0.0.0 surveys.google.com
 0.0.0.0 talk.google.com
 0.0.0.0 tanaceto.google.com
-0.0.0.0 tg-1.googlehosts.org
 0.0.0.0 tic.googlesyndication.com
 0.0.0.0 time.google.com
 0.0.0.0 toolbar.google.com
