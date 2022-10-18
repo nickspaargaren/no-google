@@ -621,7 +621,6 @@
 0.0.0.0 toolbox.google.com
 0.0.0.0 tools.google.com
 0.0.0.0 tpc.googlesyndication.com
-0.0.0.0 tpc.googlesyndication.com.proxy.c9w.net
 0.0.0.0 tpc.googlesyndicytion.com
 0.0.0.0 tpcnc.googlesyndication.com
 0.0.0.0 transit.google.com

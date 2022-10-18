@@ -2040,7 +2040,6 @@
 0.0.0.0 wq4bmoaedv.com
 0.0.0.0 writely.corp.google.com
 0.0.0.0 wv1xpwzpk2.com
-0.0.0.0 www-google.nl
 0.0.0.0 www.admob.com
 0.0.0.0 www.advertisercommunity.com
 0.0.0.0 www.adwords.google.com
