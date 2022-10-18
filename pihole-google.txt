@@ -7817,7 +7817,6 @@ blobcomments-pa.clients5.google.com
 carrers.google.com
 ci1.googleusercontent.com
 ci2.googleusercontent.com
-clients.l.google.com
 content-firebaseappcheck.googleapis.com
 datacompute.google.com
 encrypted-vtbn0.gstatic.com
@@ -7834,11 +7833,9 @@ feedback-pa.clients3.google.com
 feedback-pa.clients4.google.com
 feedback-pa.clients5.google.com
 feedback-pa.clients6.google.com
-gstaticadssl.l.google.com
 instantmessaging-pa-eu.googleapis.com
 jnn-pa.googleapis.com
 mail-attachment.googleusercontent.com
-mobile-gtalk.l.google.com
 newsstand.googleusercontent.com
 opensource.googleblog.com
 opensourcelive.withgoogle.com
@@ -7859,8 +7856,6 @@ peoplestackwebexperiments-pa.clients2.google.com
 peoplestackwebexperiments-pa.clients3.google.com
 peoplestackwebexperiments-pa.clients4.google.com
 peoplestackwebexperiments-pa.clients5.google.com
-pki-goog.l.google.com
-plus.l.google.com
 pop.gmail.com
 scone-pa.clients1.google.com
 scone-pa.clients2.google.com
@@ -7875,7 +7870,6 @@ signaler-pa.clients4.google.com
 signaler-pa.clients5.google.com
 smtp.gmail.com
 streetviewpixels-ga.googleapis.com
-stun.l.google.com
 suggestqueries-clients1.youtube.com
 suggestqueries-clients2.youtube.com
 suggestqueries-clients3.youtube.com
@@ -7891,16 +7885,11 @@ taskassist-pa.clients4.google.com
 taskassist-pa.clients5.google.com
 taskassist-pa.clients6.google.com
 webdesigner.withgoogle.com
-www.google-analytics.l.google.com
 www.googlee.com
 www.googlemaps.com
-www1.l.google.com
-www2.l.google.com
-www3.l.google.com
 d3e54v103j8qbb.cloudfront.net
 cdn.fastclick.net
 media.fastclick.net
-youtube-ui.l.google.com
 yt4.ggpht.com
 biz.waze.com
 waze-app.com
@@ -8112,4 +8101,3 @@ maps.google.co.za
 maps.google.co.zm
 maps.google.co.zw
 fcmconnection.googleapis.com
-redirector.googlevideo.com
