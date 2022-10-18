@@ -7787,7 +7787,6 @@ www.tiltbrush.com
 9.android.pool.ntp.org
 android.apis.google.com
 android-developers.googleblog.com
-android.pool.ntp.org
 androidenterprisepartners.withgoogle.com
 3cbc684bb9f2dcdd3a3794de9de52f63.safeframe.googlesyndication.com
 addons-pa.clients1.google.com
@@ -7808,7 +7807,7 @@ appswaldo.clients3.google.com
 appswaldo.clients4.google.com
 appswaldo.clients5.google.com
 appswaldo.clients6.google.com
-aswpsdkeu.com see whois record
+aswpsdkeu.com
 blobcomments-pa.clients1.google.com
 blobcomments-pa.clients2.google.com
 blobcomments-pa.clients3.google.com
@@ -7887,7 +7886,6 @@ taskassist-pa.clients6.google.com
 webdesigner.withgoogle.com
 www.googlee.com
 www.googlemaps.com
-d3e54v103j8qbb.cloudfront.net
 cdn.fastclick.net
 media.fastclick.net
 yt4.ggpht.com
