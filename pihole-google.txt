@@ -20,6 +20,7 @@ anthos.googleapis.com
 api.crashlytics.com
 apis.googletagmanager.com
 autofill.googleapis.com
+cbks0.googleapis.com
 chart.googleapis.com
 chromedriver.storage.googleapis.com
 click.google-analytics.com
