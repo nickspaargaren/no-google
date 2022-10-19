@@ -37,6 +37,7 @@ crashlytics.com
 crashlyticsreports-pa.googleapis.com
 cs.android.com
 cse.google.com
+csp-evaluator.withgoogle.com
 csp.withgoogle.com
 cstlqrgnqmjztbxjmkp.storage.googleapis.com
 datamixer.pa.googleapis.com
