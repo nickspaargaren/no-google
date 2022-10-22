@@ -7807,7 +7807,6 @@ appswaldo.clients3.google.com
 appswaldo.clients4.google.com
 appswaldo.clients5.google.com
 appswaldo.clients6.google.com
-aswpsdkeu.com
 blobcomments-pa.clients1.google.com
 blobcomments-pa.clients2.google.com
 blobcomments-pa.clients3.google.com
