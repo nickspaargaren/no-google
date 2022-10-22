@@ -150,6 +150,7 @@
 0.0.0.0 encrypted-tbn1.gstatic.com
 0.0.0.0 encrypted-tbn2.gstatic.com
 0.0.0.0 encrypted-tbn3.gstatic.com
+0.0.0.0 encrypted-vtbn0.gstatic.com
 0.0.0.0 f1stuc-dnsotls-ds.metric.gstatic.com
 0.0.0.0 f643d84d-dnsotls-ds.metric.gstatic.com
 0.0.0.0 fkcb6i-dnsotls-ds.metric.gstatic.com
@@ -201,6 +202,7 @@
 0.0.0.0 slaorh-dnsotls-ds.metric.gstatic.com
 0.0.0.0 ssl.gstatic.com
 0.0.0.0 subsqs-dnsotls-ds.metric.gstatic.com
+0.0.0.0 t0.gstatic.com
 0.0.0.0 t83uxv-dnsotls-ds.metric.gstatic.com
 0.0.0.0 ttq8oa-dnsotls-ds.metric.gstatic.com
 0.0.0.0 uouyc2-dnsotls-ds.metric.gstatic.com

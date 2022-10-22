@@ -366,6 +366,8 @@
 0.0.0.0 an5ywmva51.com
 0.0.0.0 analytics-api-samples.googlecode.com
 0.0.0.0 analytics.admob.com
+0.0.0.0 android-developers.googleblog.com
+0.0.0.0 android.apis.google.com
 0.0.0.0 android.devsite.corp.google.com
 0.0.0.0 androidpay.developers.google.com
 0.0.0.0 anime.corp.google.com
@@ -440,6 +442,7 @@
 0.0.0.0 buganizer.corp.google.com
 0.0.0.0 bughunters.google.com
 0.0.0.0 bugs.chromium.org
+0.0.0.0 businessmessages.google
 0.0.0.0 bx3nibkay2.com
 0.0.0.0 by.svc-1.google.com
 0.0.0.0 bylda126kb.com
@@ -458,6 +461,7 @@
 0.0.0.0 canadianpress.google.com
 0.0.0.0 capitalg.com
 0.0.0.0 captive.redirector.gvt1.com
+0.0.0.0 carrers.google.com
 0.0.0.0 cases2-uat.corp.google.com
 0.0.0.0 cases2.corp.google.com
 0.0.0.0 catatanianamyzar.www.docs.google.com
@@ -580,6 +584,7 @@
 0.0.0.0 crr0kvp1vv.com
 0.0.0.0 crvkqnmovj.com
 0.0.0.0 cs.corp.google.com
+0.0.0.0 cs.opensource.google
 0.0.0.0 cse.google.es
 0.0.0.0 ctp.googletagmanager.com
 0.0.0.0 currents.google.com
@@ -589,6 +594,7 @@
 0.0.0.0 cyy25u6lo1.com
 0.0.0.0 d6noxwrgdg.com
 0.0.0.0 d77thhk8qm.com
+0.0.0.0 datacompute.google.com
 0.0.0.0 datally.google.com
 0.0.0.0 datasaver.googleapis.com
 0.0.0.0 datasetsearch.research.google.com
@@ -1070,6 +1076,7 @@
 0.0.0.0 onka64mqbc.com
 0.0.0.0 opensource.google
 0.0.0.0 opensource.google.com
+0.0.0.0 opensource.googleblog.com
 0.0.0.0 optimize.google.com
 0.0.0.0 orderfood.google.com
 0.0.0.0 orkut.google.com
@@ -1951,6 +1958,7 @@
 0.0.0.0 svc-1.google.com
 0.0.0.0 t0wu1fqv4l.com
 0.0.0.0 t6g9bjnn5i.com
+0.0.0.0 tables.area120.google.com
 0.0.0.0 takeout.google.com
 0.0.0.0 talkgadget.google.com
 0.0.0.0 tasks-pa.googleapis.com
@@ -2114,6 +2122,7 @@
 0.0.0.0 www.getmdl.io
 0.0.0.0 www.goo.gl
 0.0.0.0 www.google-docs.org
+0.0.0.0 www.googlee.com
 0.0.0.0 www.googlesciencefair.com
 0.0.0.0 www.googlew.com
 0.0.0.0 www.googlezip.net

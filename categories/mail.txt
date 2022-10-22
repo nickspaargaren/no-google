@@ -332,6 +332,7 @@
 0.0.0.0 mail-yw1-f62.google.com
 0.0.0.0 mail-yw1-f72.google.com
 0.0.0.0 mail.googleoptimize.com
+0.0.0.0 pop.gmail.com
 0.0.0.0 r1---sn-i3b7knl6.c.mail.google.com
 0.0.0.0 r1.sn-cvh7knez.c.mail.google.com
 0.0.0.0 r2.sn-i3belnel.c.mail.google.com
@@ -339,4 +340,5 @@
 0.0.0.0 r4---sn-n4v7sn7l.c.mail.google.com
 0.0.0.0 r5---sn-oguesnz7.c.mail.google.com
 0.0.0.0 r6---sn-i3b7kn7k.c.mail.google.com
+0.0.0.0 smtp.gmail.com
 0.0.0.0 www.gmail.com
