@@ -476,6 +476,7 @@
 0.0.0.0 roll20-22.firebaseio.com
 0.0.0.0 roya-tv-app.firebaseio.com
 0.0.0.0 royal-earn-2.firebaseio.com
+0.0.0.0 s-usc1a-nss-2023.firebase.io
 0.0.0.0 s-usc1c-nss-100.firebaseio.com
 0.0.0.0 s-usc1c-nss-101.firebaseio.com
 0.0.0.0 s-usc1c-nss-102.firebaseio.com
