@@ -1,5 +1,5 @@
 # This blocklist helps to restrict access to Google and its domains. Contribute at https://github.com/nickspaargaren/no-google
-# Last updated: 2022-10-19
+# Last updated: 2022-10-22
 # General
 
 0.chart.apis.google.com
@@ -542,7 +542,14 @@ comunicacionestrategicarosario.sites.google.com
 connect.corp.google.com
 connectivitycheck.google.com
 consent.google.com
+consent.google.com.af
+consent.google.com.ag
+consent.google.com.ai
+consent.google.com.ar
+consent.google.com.au
+consent.google.com.bd
 consent.google.com.mm
+consent.google.com.pk
 console.actions.google.com
 console.cloud.google.com
 console.developer.google.com
