@@ -1,5 +1,5 @@
 # This blocklist helps to restrict access to Google and its domains. Contribute at https://github.com/nickspaargaren/no-google
-# Last updated: 2022-10-22
+# Last updated: 2022-11-22
 # General
 
 0.chart.apis.google.com
@@ -1086,6 +1086,7 @@ p1xjhr2ipa.com
 p698ke6uwk.com
 p98vobrqwd.com
 packages.cloud.google.com
+pai.googlezip.net
 paix1.sc1.admob.com
 panoramio.com
 pantheon.corp.google.com
