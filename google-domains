@@ -1,5 +1,5 @@
 # This blocklist helps to restrict access to Google and its domains. Contribute at https://github.com/nickspaargaren/no-google
-# Last updated: 2022-11-22
+# Last updated: 2022-11-24
 # Analytics
 0.0.0.0 18.afs.googleadservices.com
 0.0.0.0 2.afs.googleadservices.com
@@ -1713,6 +1713,7 @@
 0.0.0.0 10074809.fls.doubleclick.net
 0.0.0.0 10077000.fls.doubleclick.net
 0.0.0.0 10082405.fls.doubleclick.net
+0.0.0.0 10094515.fls.doubleclick.net
 0.0.0.0 10117223.fls.doubleclick.net
 0.0.0.0 10160350.fls.doubleclick.net
 0.0.0.0 1016557.fls.doubleclick.net
@@ -3675,6 +3676,7 @@
 0.0.0.0 o3qa061rry.com
 0.0.0.0 o7afh004vh.com
 0.0.0.0 oa9lvjhuw3.com
+0.0.0.0 oauth2.googleapis.com
 0.0.0.0 oauthaccountmanager.googleapis.com
 0.0.0.0 oazuwk6830.com
 0.0.0.0 obqlaw84jg.com
