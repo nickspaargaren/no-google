@@ -1,5 +1,5 @@
 # This blocklist helps to restrict access to Google and its domains. Contribute at https://github.com/nickspaargaren/no-google
-# Last updated: 2022-11-22
+# Last updated: 2022-11-24
 # General
 
 0.0.0.0 0.chart.apis.google.com
@@ -1061,6 +1061,7 @@
 0.0.0.0 o3qa061rry.com
 0.0.0.0 o7afh004vh.com
 0.0.0.0 oa9lvjhuw3.com
+0.0.0.0 oauth2.googleapis.com
 0.0.0.0 oauthaccountmanager.googleapis.com
 0.0.0.0 oazuwk6830.com
 0.0.0.0 obqlaw84jg.com
