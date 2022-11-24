@@ -3674,6 +3674,7 @@ o.admob.com
 o3qa061rry.com
 o7afh004vh.com
 oa9lvjhuw3.com
+oauth2.googleapis.com
 oauthaccountmanager.googleapis.com
 oazuwk6830.com
 obqlaw84jg.com
