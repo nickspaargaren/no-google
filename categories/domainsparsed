@@ -1,5 +1,5 @@
 # This blocklist helps to restrict access to Google and its domains. Contribute at https://github.com/nickspaargaren/no-google
-# Last updated: 2022-11-24
+# Last updated: 2022-12-13
 # Domains
 
 _caldav._tcp.google.com
@@ -868,6 +868,7 @@ peoplestackwebexperiments-pa.clients3.google.com
 peoplestackwebexperiments-pa.clients4.google.com
 peoplestackwebexperiments-pa.clients5.google.com
 photo.google.com
+photos.app.goo.gl
 photos.google.com
 pixel.google.com
 pki.google.com

@@ -1,5 +1,5 @@
 # This blocklist helps to restrict access to Google and its domains. Contribute at https://github.com/nickspaargaren/no-google
-# Last updated: 2022-11-24
+# Last updated: 2022-12-13
 # Area120
 
 0.0.0.0 kormo.com
