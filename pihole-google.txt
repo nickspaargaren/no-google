@@ -1352,6 +1352,7 @@ peoplestackwebexperiments-pa.clients3.google.com
 peoplestackwebexperiments-pa.clients4.google.com
 peoplestackwebexperiments-pa.clients5.google.com
 photo.google.com
+photos.app.goo.gl
 photos.google.com
 pixel.google.com
 pki.google.com
