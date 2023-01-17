@@ -1,5 +1,5 @@
 # This blocklist helps to restrict access to Google and its domains. Contribute at https://github.com/nickspaargaren/no-google
-# Last updated: 2022-12-13
+# Last updated: 2023-01-17
 # General
 
 0.chart.apis.google.com
@@ -539,6 +539,7 @@ codetheroad.developers.google.com
 colab.research.google.com
 colab.sandbox.google.com
 com-google.site
+community.stadia.com
 companydoc.corp.google.com
 compress.googlezip.net
 compsci.ca.svc-1.google.com
@@ -2090,6 +2091,7 @@ winxtang.apis.google.com
 withgoogle.com
 wl-in-f188.1e100.net
 workspace.google.com
+workspaceupdates.googleblog.com
 wpgp9m68yu.com
 wq-in-f188.1e100.net
 wq4bmoaedv.com
