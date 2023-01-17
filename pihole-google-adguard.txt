@@ -1444,6 +1444,7 @@
 ||tpc.googlesyndicytion.com^
 ||tpcnc.googlesyndication.com^
 ||transit.google.com^
+||translate.goog^
 ||translate.google.com^
 ||travel.google.com^
 ||tv.google^
