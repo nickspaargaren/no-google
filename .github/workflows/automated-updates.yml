@@ -11,7 +11,9 @@ jobs:
     continue-on-error: true
     steps:
     - uses: actions/checkout@v2
-      name: Python setup
+    - run: |
+        git config --global user.name 'github-actions[bot]'
+        git config --global user.email '41898282+github-actions[bot]@users.noreply.github.com'
     - uses: actions/setup-python@v2
       with:
         python-version: 3.8
@@ -20,8 +22,6 @@ jobs:
         python3 convert.py categories
     - name: Commit categories
       run: |
-        git config --global user.name 'Nick Spaargaren'
-        git config --global user.email 'nickspaargaren@users.noreply.github.com'
         git add . && git commit -am "Automated categories update"
         git push
     - name: Update AdGuard list
