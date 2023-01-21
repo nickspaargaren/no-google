@@ -6699,6 +6699,7 @@ youtubegaming.com
 youtubei.googleapis.com
 youtubei.youtube.com
 yt3.ggpht.com
+yt3.googleusercontent.com
 ytimg.com
 za.youtube.com
 # Fitbit
