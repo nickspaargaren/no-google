@@ -1,5 +1,5 @@
 # This blocklist helps to restrict access to Google and its domains. Contribute at https://github.com/nickspaargaren/no-google
-# Last updated: 2023-01-21
+# Last updated: 2023-02-20
 # Analytics
 0.0.0.0 18.afs.googleadservices.com
 0.0.0.0 2.afs.googleadservices.com
@@ -3705,6 +3705,7 @@
 0.0.0.0 p698ke6uwk.com
 0.0.0.0 p98vobrqwd.com
 0.0.0.0 packages.cloud.google.com
+0.0.0.0 pagespeedmobilizer.com
 0.0.0.0 pai.googlezip.net
 0.0.0.0 paix1.sc1.admob.com
 0.0.0.0 panoramio.com
@@ -4556,7 +4557,9 @@
 0.0.0.0 ssl.googletagmanager.com
 0.0.0.0 ssl.googletagservices.com
 0.0.0.0 stackdriver.cloud.google.com
+0.0.0.0 stadia.com
 0.0.0.0 stadia.google.com
+0.0.0.0 stage-community.stadia.com
 0.0.0.0 stage.advertisercommunity.com
 0.0.0.0 status.cloud.google.com
 0.0.0.0 status.firebase.google.com
@@ -4785,6 +4788,7 @@
 0.0.0.0 www.recaptcha.net
 0.0.0.0 www.ru.advertisercommunity.com
 0.0.0.0 www.sketchup.com
+0.0.0.0 www.stadia.com
 0.0.0.0 www.thinkwithgoogle.com
 0.0.0.0 www.withgoogle.com
 0.0.0.0 www.zh.advertisercommunity.com
@@ -6671,6 +6675,7 @@
 0.0.0.0 web-green-qa.youtube.com
 0.0.0.0 web-release-qa.youtube.com
 0.0.0.0 web-trunk-qa.youtube.com
+0.0.0.0 withyoutube.com
 0.0.0.0 www.devicereport.youtube.com
 0.0.0.0 www.m.youtube.com
 0.0.0.0 www.streamingreport.youtube.com
@@ -7957,6 +7962,7 @@
 0.0.0.0 fulfillment-service.store.nest.com
 0.0.0.0 ga-api.nest.com
 0.0.0.0 google-ldap.hq.nest.com
+0.0.0.0 googlenestcommunity.com
 0.0.0.0 grpc-web.ft.nest.com
 0.0.0.0 hashsvc.hq.nest.com
 0.0.0.0 hashsvcq2.hq.nest.com
@@ -8117,6 +8123,7 @@
 0.0.0.0 www.enterprise.nest.com
 0.0.0.0 www.frontdoor.ft.nest.com
 0.0.0.0 www.ft.nest.com
+0.0.0.0 www.googlenestcommunity.com
 0.0.0.0 www.home.ft.nest.com
 0.0.0.0 www.home.nest.com
 0.0.0.0 www.home.staging.nest.com
