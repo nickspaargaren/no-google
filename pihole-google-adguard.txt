@@ -1,5 +1,5 @@
 ! This blocklist helps to restrict access to Google and its domains. Contribute at https://github.com/nickspaargaren/no-google
-! Last updated: 2023-01-21
+! Last updated: 2023-02-20
 ! Analytics
 ||18.afs.googleadservices.com^
 ||2.afs.googleadservices.com^
@@ -3705,6 +3705,7 @@
 ||p698ke6uwk.com^
 ||p98vobrqwd.com^
 ||packages.cloud.google.com^
+||pagespeedmobilizer.com^
 ||pai.googlezip.net^
 ||paix1.sc1.admob.com^
 ||panoramio.com^
@@ -4556,7 +4557,9 @@
 ||ssl.googletagmanager.com^
 ||ssl.googletagservices.com^
 ||stackdriver.cloud.google.com^
+||stadia.com^
 ||stadia.google.com^
+||stage-community.stadia.com^
 ||stage.advertisercommunity.com^
 ||status.cloud.google.com^
 ||status.firebase.google.com^
@@ -4785,6 +4788,7 @@
 ||www.recaptcha.net^
 ||www.ru.advertisercommunity.com^
 ||www.sketchup.com^
+||www.stadia.com^
 ||www.thinkwithgoogle.com^
 ||www.withgoogle.com^
 ||www.zh.advertisercommunity.com^
@@ -6671,6 +6675,7 @@
 ||web-green-qa.youtube.com^
 ||web-release-qa.youtube.com^
 ||web-trunk-qa.youtube.com^
+||withyoutube.com^
 ||www.devicereport.youtube.com^
 ||www.m.youtube.com^
 ||www.streamingreport.youtube.com^
@@ -7957,6 +7962,7 @@
 ||fulfillment-service.store.nest.com^
 ||ga-api.nest.com^
 ||google-ldap.hq.nest.com^
+||googlenestcommunity.com^
 ||grpc-web.ft.nest.com^
 ||hashsvc.hq.nest.com^
 ||hashsvcq2.hq.nest.com^
@@ -8117,6 +8123,7 @@
 ||www.enterprise.nest.com^
 ||www.frontdoor.ft.nest.com^
 ||www.ft.nest.com^
+||www.googlenestcommunity.com^
 ||www.home.ft.nest.com^
 ||www.home.nest.com^
 ||www.home.staging.nest.com^
