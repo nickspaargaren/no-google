@@ -4554,7 +4554,9 @@ ssh.cloud.google.com
 ssl.googletagmanager.com
 ssl.googletagservices.com
 stackdriver.cloud.google.com
+stadia.com
 stadia.google.com
+stage-community.stadia.com
 stage.advertisercommunity.com
 status.cloud.google.com
 status.firebase.google.com
@@ -4783,6 +4785,7 @@ www.r6---sn-npoe7n76.gvt1.com
 www.recaptcha.net
 www.ru.advertisercommunity.com
 www.sketchup.com
+www.stadia.com
 www.thinkwithgoogle.com
 www.withgoogle.com
 www.zh.advertisercommunity.com
