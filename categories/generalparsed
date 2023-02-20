@@ -1,5 +1,5 @@
 # This blocklist helps to restrict access to Google and its domains. Contribute at https://github.com/nickspaargaren/no-google
-# Last updated: 2023-01-21
+# Last updated: 2023-02-20
 # General
 
 0.chart.apis.google.com
@@ -1088,6 +1088,7 @@ p1xjhr2ipa.com
 p698ke6uwk.com
 p98vobrqwd.com
 packages.cloud.google.com
+pagespeedmobilizer.com
 pai.googlezip.net
 paix1.sc1.admob.com
 panoramio.com
@@ -1939,7 +1940,9 @@ ssh.cloud.google.com
 ssl.googletagmanager.com
 ssl.googletagservices.com
 stackdriver.cloud.google.com
+stadia.com
 stadia.google.com
+stage-community.stadia.com
 stage.advertisercommunity.com
 status.cloud.google.com
 status.firebase.google.com
@@ -2168,6 +2171,7 @@ www.r6---sn-npoe7n76.gvt1.com
 www.recaptcha.net
 www.ru.advertisercommunity.com
 www.sketchup.com
+www.stadia.com
 www.thinkwithgoogle.com
 www.withgoogle.com
 www.zh.advertisercommunity.com

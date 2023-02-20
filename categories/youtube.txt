@@ -1,5 +1,5 @@
 # This blocklist helps to restrict access to Google and its domains. Contribute at https://github.com/nickspaargaren/no-google
-# Last updated: 2023-01-21
+# Last updated: 2023-02-20
 # Youtube
 
 0.0.0.0 _domainkey.youtube.com
@@ -679,6 +679,7 @@
 0.0.0.0 web-green-qa.youtube.com
 0.0.0.0 web-release-qa.youtube.com
 0.0.0.0 web-trunk-qa.youtube.com
+0.0.0.0 withyoutube.com
 0.0.0.0 www.devicereport.youtube.com
 0.0.0.0 www.m.youtube.com
 0.0.0.0 www.streamingreport.youtube.com

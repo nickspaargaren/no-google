@@ -1,5 +1,5 @@
 # This blocklist helps to restrict access to Google and its domains. Contribute at https://github.com/nickspaargaren/no-google
-# Last updated: 2023-01-21
+# Last updated: 2023-02-20
 # Firebase
 
 0.0.0.0 0.firebaseio.com

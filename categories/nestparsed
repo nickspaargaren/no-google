@@ -1,5 +1,5 @@
 # This blocklist helps to restrict access to Google and its domains. Contribute at https://github.com/nickspaargaren/no-google
-# Last updated: 2023-01-21
+# Last updated: 2023-02-20
 # Nest
 
 accounts.ft.nest.com
@@ -125,6 +125,7 @@ fulfillment-service.store.ft.nest.com
 fulfillment-service.store.nest.com
 ga-api.nest.com
 google-ldap.hq.nest.com
+googlenestcommunity.com
 grpc-web.ft.nest.com
 hashsvc.hq.nest.com
 hashsvcq2.hq.nest.com
@@ -285,6 +286,7 @@ www.enterprise.api.nest.com
 www.enterprise.nest.com
 www.frontdoor.ft.nest.com
 www.ft.nest.com
+www.googlenestcommunity.com
 www.home.ft.nest.com
 www.home.nest.com
 www.home.staging.nest.com
