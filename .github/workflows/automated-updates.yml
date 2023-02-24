@@ -20,28 +20,20 @@ jobs:
     - name: Update categories
       run: |
         python3 convert.py categories
-    - name: Commit categories
-      run: |
-        git add . && git commit -am "Automated categories update"
-        git push
     - name: Update AdGuard list
       run: |
         python3 convert.py adguard
-    - name: Commit AdGuard list
-      run: |
-        git add . && git commit -am "Automated AdGuard list update"
-        git push
     - name: Update parsed list
       run: |
         python3 convert.py pihole
-    - name: Commit parsed list
-      run: |
-        git add . && git commit -am "Automated parsed list update"
-        git push
     - name: Update Unbound list
       run: |
         python3 convert.py unbound
-    - name: Commit parsed list
+    - name: Commit automated updates
       run: |
-        git add . && git commit -am "Automated Unbound list update"
+        git add . && git commit -am "Automated update
+        - Categories lists update
+        - AdGuard list update
+        - Parsed list update
+        - Unbound list update"
         git push
