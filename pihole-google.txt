@@ -2178,6 +2178,7 @@ firebase.google.com
 firebase.googleapis.com
 firebasedynamiclinks-ipv4.googleapis.com
 firebasedynamiclinks-ipv6.googleapis.com
+firebasedynamiclinks.googleapis.com
 firebaseio.com
 firebaselogging.googleapis.com
 firetest-a1d61.firebaseio.com
