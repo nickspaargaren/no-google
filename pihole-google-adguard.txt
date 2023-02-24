@@ -1,5 +1,5 @@
 ! This blocklist helps to restrict access to Google and its domains. Contribute at https://github.com/nickspaargaren/no-google
-! Last updated: 2023-02-20
+! Last updated: 2023-02-24
 ! Analytics
 ||18.afs.googleadservices.com^
 ||2.afs.googleadservices.com^
@@ -2180,6 +2180,7 @@
 ||firebase.googleapis.com^
 ||firebasedynamiclinks-ipv4.googleapis.com^
 ||firebasedynamiclinks-ipv6.googleapis.com^
+||firebasedynamiclinks.googleapis.com^
 ||firebaseio.com^
 ||firebaselogging.googleapis.com^
 ||firetest-a1d61.firebaseio.com^
