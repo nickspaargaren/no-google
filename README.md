@@ -73,7 +73,7 @@ and then, executing it. It should add all of the above regex automatically.
 
 <details>
   <summary>Can I use it with my other ads/domains blocker program ?</summary>
-  <p>Surely! If it does indeed support the host or domains type of filters. Import it manually, or [click on this link](https://subscribe.adblockplus.org/?location=https://raw.githubusercontent.com/nickspaargaren/no-google/master/google-domains&title=no-google) if you are using a web browser extension.</p>
+  <p>Surely! If it does indeed support the host or domains type of filters. Import it manually, or <a href="https://subscribe.adblockplus.org/?location=https://raw.githubusercontent.com/nickspaargaren/no-google/master/google-domains&title=no-google">click on this link</a> if you are using a web browser extension.</p>
 </details>
 
 <details>
