@@ -1,5 +1,5 @@
 # This blocklist helps to restrict access to Google and its domains. Contribute at https://github.com/nickspaargaren/no-google
-# Last updated: 2023-02-24
+# Last updated: 2023-03-10
 # Analytics
 0.0.0.0 18.afs.googleadservices.com
 0.0.0.0 2.afs.googleadservices.com
@@ -140,11 +140,13 @@
 0.0.0.0 ssl.googleanalytics.com
 0.0.0.0 stackdriver.googleapis.com
 0.0.0.0 statsgoogle.appsflyer.com
+0.0.0.0 sticker-pa.googleapis.com
 0.0.0.0 streetviewpixels-ga.googleapis.com
 0.0.0.0 streetviewpixels-pa.googleapis.com
 0.0.0.0 suggestqueries.googleapis.com
 0.0.0.0 sxone-pa.googleapis.com
 0.0.0.0 tagmanager.google.com
+0.0.0.0 tenor.googleapis.com
 0.0.0.0 test-web.googletagmanager.com
 0.0.0.0 themes.googleusercontent.com
 0.0.0.0 try.crashlytics.com
