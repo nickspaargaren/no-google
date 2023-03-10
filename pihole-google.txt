@@ -138,11 +138,13 @@ ssl.google-analytics.com
 ssl.googleanalytics.com
 stackdriver.googleapis.com
 statsgoogle.appsflyer.com
+sticker-pa.googleapis.com
 streetviewpixels-ga.googleapis.com
 streetviewpixels-pa.googleapis.com
 suggestqueries.googleapis.com
 sxone-pa.googleapis.com
 tagmanager.google.com
+tenor.googleapis.com
 test-web.googletagmanager.com
 themes.googleusercontent.com
 try.crashlytics.com
