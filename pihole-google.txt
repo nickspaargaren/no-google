@@ -8215,4 +8215,3 @@ mobilecrashreporting.googleapis.com
 android.pool.ntp.org
 9.android.pool.ntp.org
 media.fastclick.net
-mediavisor.doubleclick.net
