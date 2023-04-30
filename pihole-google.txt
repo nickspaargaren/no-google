@@ -8199,3 +8199,20 @@ www.tokyo.jibemobile.com
 www.viper.jibemobile.com
 www.watermelon.jibemobile.com
 yellowstone.jibemobile.com
+# More
+google.co1.qualtrics.com
+googlefibersurveys.qualtrics.com
+mobilecrashreporting.googleapis.com
+3.android.pool.ntp.org
+0.android.pool.ntp.org
+1.android.pool.ntp.org
+2.android.pool.ntp.org
+4.android.pool.ntp.org
+5.android.pool.ntp.org
+6.android.pool.ntp.org
+7.android.pool.ntp.org
+8.android.pool.ntp.org
+android.pool.ntp.org
+9.android.pool.ntp.org
+media.fastclick.net
+mediavisor.doubleclick.net
