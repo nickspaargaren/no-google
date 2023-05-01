@@ -24,7 +24,6 @@ ci.android.com
 clientmetrics-pa.googleapis.com
 clientservices.googleapis.com
 cloudconfig.googleapis.com
-com.google.android.maps
 connectivitycheck.android.com
 content-autofill.googleapis.com
 cryptauthdevicesync.googleapis.com

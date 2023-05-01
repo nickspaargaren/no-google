@@ -10,7 +10,6 @@
 0.0.0.0 adssettings.google.com
 0.0.0.0 alt2.googleanalytics.com
 0.0.0.0 alt4.googleanalytics.com
-0.0.0.0 analytic-google.com
 0.0.0.0 analytics.withgoogle.com
 0.0.0.0 android-context-data.googleapis.com
 0.0.0.0 android-safebrowsing.googleapis.com
@@ -76,7 +75,6 @@
 0.0.0.0 gnpfesdk-pa.googleapis.com
 0.0.0.0 google-analytics-cn.com
 0.0.0.0 google-analytics.com
-0.0.0.0 googleadapis-cn.com
 0.0.0.0 googleadservices-cn.com
 0.0.0.0 googlehosted.com
 0.0.0.0 googleoptimize-cn.com
