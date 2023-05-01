@@ -58,12 +58,14 @@
 0.0.0.0 adservice.google.com.ni
 0.0.0.0 adservice.google.com.np
 0.0.0.0 adservice.google.com.om
+0.0.0.0 adservice.google.com.pe
 0.0.0.0 adservice.google.com.pg
 0.0.0.0 adservice.google.com.pr
 0.0.0.0 adservice.google.com.py
 0.0.0.0 adservice.google.com.sb
 0.0.0.0 adservice.google.com.sv
 0.0.0.0 adservice.google.com.uy
+0.0.0.0 adservice.google.com.ve
 0.0.0.0 adservice.google.cv
 0.0.0.0 adservice.google.de
 0.0.0.0 adservice.google.dj
@@ -389,6 +391,7 @@
 0.0.0.0 google.com.np
 0.0.0.0 google.com.om
 0.0.0.0 google.com.pa
+0.0.0.0 google.com.pe
 0.0.0.0 google.com.pg
 0.0.0.0 google.com.ph
 0.0.0.0 google.com.pk
@@ -405,6 +408,7 @@
 0.0.0.0 google.com.tw
 0.0.0.0 google.com.ua
 0.0.0.0 google.com.uy
+0.0.0.0 google.com.ve
 0.0.0.0 google.com.vn
 0.0.0.0 google.cv
 0.0.0.0 google.cz
@@ -686,6 +690,7 @@
 0.0.0.0 maps.google.com.np
 0.0.0.0 maps.google.com.om
 0.0.0.0 maps.google.com.pa
+0.0.0.0 maps.google.com.pe
 0.0.0.0 maps.google.com.pg
 0.0.0.0 maps.google.com.ph
 0.0.0.0 maps.google.com.pk
@@ -704,6 +709,7 @@
 0.0.0.0 maps.google.com.tw
 0.0.0.0 maps.google.com.ua
 0.0.0.0 maps.google.com.uy
+0.0.0.0 maps.google.com.ve
 0.0.0.0 maps.google.com.vn
 0.0.0.0 maps.google.cv
 0.0.0.0 maps.google.cz
@@ -1074,6 +1080,7 @@
 0.0.0.0 www.google.com.np
 0.0.0.0 www.google.com.om
 0.0.0.0 www.google.com.pa
+0.0.0.0 www.google.com.pe
 0.0.0.0 www.google.com.pg
 0.0.0.0 www.google.com.ph
 0.0.0.0 www.google.com.pk
@@ -1092,6 +1099,7 @@
 0.0.0.0 www.google.com.tw
 0.0.0.0 www.google.com.ua
 0.0.0.0 www.google.com.uy
+0.0.0.0 www.google.com.ve
 0.0.0.0 www.google.com.vn
 0.0.0.0 www.google.cv
 0.0.0.0 www.google.cz
