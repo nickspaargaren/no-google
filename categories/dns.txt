@@ -58,8 +58,6 @@
 0.0.0.0 7e0e19d9-dnsotls-ds.metric.gstatic.com
 0.0.0.0 7ecbd5d8-dnsotls-ds.metric.gstatic.com
 0.0.0.0 7u3cfo-dnsotls-ds.metric.gstatic.com
-0.0.0.0 8.8.4.4
-0.0.0.0 8.8.8.8
 0.0.0.0 851f8b26-dnsotls-ds.metric.gstatic.com
 0.0.0.0 872edec3-dnsotls-ds.metric.gstatic.com
 0.0.0.0 895238a3-dnsotls-ds.metric.gstatic.com

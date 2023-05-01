@@ -24,7 +24,6 @@
 0.0.0.0 clientmetrics-pa.googleapis.com
 0.0.0.0 clientservices.googleapis.com
 0.0.0.0 cloudconfig.googleapis.com
-0.0.0.0 com.google.android.maps
 0.0.0.0 connectivitycheck.android.com
 0.0.0.0 content-autofill.googleapis.com
 0.0.0.0 cryptauthdevicesync.googleapis.com
