@@ -542,12 +542,14 @@
 ||adservice.google.com.ni^$important
 ||adservice.google.com.np^$important
 ||adservice.google.com.om^$important
+||adservice.google.com.pe^$important
 ||adservice.google.com.pg^$important
 ||adservice.google.com.pr^$important
 ||adservice.google.com.py^$important
 ||adservice.google.com.sb^$important
 ||adservice.google.com.sv^$important
 ||adservice.google.com.uy^$important
+||adservice.google.com.ve^$important
 ||adservice.google.cv^$important
 ||adservice.google.de^$important
 ||adservice.google.dj^$important
@@ -873,6 +875,7 @@
 ||google.com.np^$important
 ||google.com.om^$important
 ||google.com.pa^$important
+||google.com.pe^$important
 ||google.com.pg^$important
 ||google.com.ph^$important
 ||google.com.pk^$important
@@ -889,6 +892,7 @@
 ||google.com.tw^$important
 ||google.com.ua^$important
 ||google.com.uy^$important
+||google.com.ve^$important
 ||google.com.vn^$important
 ||google.cv^$important
 ||google.cz^$important
@@ -1170,6 +1174,7 @@
 ||maps.google.com.np^$important
 ||maps.google.com.om^$important
 ||maps.google.com.pa^$important
+||maps.google.com.pe^$important
 ||maps.google.com.pg^$important
 ||maps.google.com.ph^$important
 ||maps.google.com.pk^$important
@@ -1188,6 +1193,7 @@
 ||maps.google.com.tw^$important
 ||maps.google.com.ua^$important
 ||maps.google.com.uy^$important
+||maps.google.com.ve^$important
 ||maps.google.com.vn^$important
 ||maps.google.cv^$important
 ||maps.google.cz^$important
@@ -1558,6 +1564,7 @@
 ||www.google.com.np^$important
 ||www.google.com.om^$important
 ||www.google.com.pa^$important
+||www.google.com.pe^$important
 ||www.google.com.pg^$important
 ||www.google.com.ph^$important
 ||www.google.com.pk^$important
@@ -1576,6 +1583,7 @@
 ||www.google.com.tw^$important
 ||www.google.com.ua^$important
 ||www.google.com.uy^$important
+||www.google.com.ve^$important
 ||www.google.com.vn^$important
 ||www.google.cv^$important
 ||www.google.cz^$important
