@@ -108,6 +108,7 @@ mimageads6.googleadservices.com
 mimageads7.googleadservices.com
 mimageads8.googleadservices.com
 mimageads9.googleadservices.com
+mobilecrashreporting.googleapis.com
 mobiledataplansharing.googleapis.com
 monitoring.googleapis.com
 newsstand.googleusercontent.com
@@ -8199,5 +8200,3 @@ www.tokyo.jibemobile.com
 www.viper.jibemobile.com
 www.watermelon.jibemobile.com
 yellowstone.jibemobile.com
-# More
-mobilecrashreporting.googleapis.com
