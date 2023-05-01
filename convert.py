@@ -12,6 +12,7 @@ class DomainBlocklistConverter:
     PIHOLE_FILE = "google-domains"
     UNBOUND_FILE = "pihole-google-unbound.conf"
     ADGUARD_FILE = "pihole-google-adguard.txt"
+    ADGUARD_IMPORTANT_FILE = "pihole-google-adguard-important.txt"
     CATEGORIES_PATH = "categories"
 
     BLOCKLIST_ABOUT = "This blocklist helps to restrict access to Google and its domains. Contribute at https://github.com/nickspaargaren/no-google"
@@ -82,6 +83,19 @@ class DomainBlocklistConverter:
                 for entry in entries:
                     if entry != "":
                         f.write(f"||{entry}^\n")
+
+    def adguard_important(self):
+        """
+        Produce blocklist for AdGuard including important syntax.
+        """
+        with open(self.ADGUARD_IMPORTANT_FILE, "w") as f:
+            f.write(f"! {self.BLOCKLIST_ABOUT}\n")
+            f.write(f"! Last updated: {self.timestamp}\n")
+            for category, entries in self.data.items():
+                f.write(f"! {category}\n")
+                for entry in entries:
+                    if entry != "":
+                        f.write(f"||{entry}^$important\n")
 
     def categories(self):
         """
@@ -163,7 +177,7 @@ def run(action: str):
 if __name__ == "__main__":
 
     # Read subcommand from command line, with error handling.
-    action_candidates = ["pihole", "unbound", "adguard", "categories"]
+    action_candidates = ["pihole", "unbound", "adguard", "adguard_important", "categories"]
     special_candidates = ["all", "duplicates", "json"]
     subcommand = None
     try:

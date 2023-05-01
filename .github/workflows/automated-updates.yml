@@ -20,9 +20,10 @@ jobs:
     - name: Update categories
       run: |
         python3 convert.py categories
-    - name: Update AdGuard list
+    - name: Update AdGuard lists
       run: |
         python3 convert.py adguard
+        python3 convert.py adguard-important
     - name: Update parsed list
       run: |
         python3 convert.py pihole
