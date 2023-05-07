@@ -1,5 +1,5 @@
 # This blocklist helps to restrict access to Google and its domains. Contribute at https://github.com/nickspaargaren/no-google
-# Last updated: 2023-05-01
+# Last updated: 2023-05-07
 # Domains
 
 _caldav._tcp.google.com
@@ -231,7 +231,6 @@ doc.google.com
 docs.google.com
 domains.google.com
 domains.googlesyndication.com
-domains4google.com
 download.google.com
 downloads.google.com
 drive.google.com
@@ -515,7 +514,6 @@ googledrive.com
 googlee.com
 googleearth.com
 googlegroups.com
-googlehosts.org
 googlemaps.com
 googlemerchandisestore.com
 googlepagecreator.com

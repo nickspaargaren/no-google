@@ -1,5 +1,5 @@
 # This blocklist helps to restrict access to Google and its domains. Contribute at https://github.com/nickspaargaren/no-google
-# Last updated: 2023-05-01
+# Last updated: 2023-05-07
 # General
 
 0.chart.apis.google.com
@@ -218,8 +218,6 @@ admob.sg
 admob.tk
 admob.tw
 admob.vn
-admobclick.com
-admobsphere.com
 ads.admob.com
 ads.cc
 ads.cc-dt.com
@@ -752,7 +750,6 @@ google-analytics.bi.owox.com
 google-code-prettify.googlecode.com
 google-deckoffice.ml
 google-docs.org
-google-en.collectyourprize.club
 google-proxy-64-233-172-144.google.com
 google-proxy-64-233-172-148.google.com
 google-proxy-64-233-173-104.google.com
@@ -778,7 +775,6 @@ googleplex-android-review.git.corp.google.com
 googlesciencefair.com
 googlesource.com
 googlesucks.com
-googletagservice.com
 googletraveladservices.com
 googleusercontent.com
 googlevideo.com
@@ -1097,7 +1093,6 @@ partnerdash-nightly.corp.google.com
 partnerdash.google.com
 partnerissuetracker.corp.google.com
 partnerpage.google.com
-passwordgoogle.com
 payments.developers.google.com
 peoplestack-pa.googleapis.com
 pf-in-f188.1e100.net
@@ -1106,7 +1101,6 @@ phpjo3qe79.com
 picasa.com
 picasa.google.com
 picasaweb.google.com
-pixel.admobclick.com
 pki.google
 pkn7e9us0y.com
 pl.advertisercommunity.com
@@ -1126,7 +1120,6 @@ podcasts.google.com
 podcastsmanager.google.com
 podcastsservice-pa.googleapis.com
 policies.google.com
-popads.net
 portus-28443170.gvt2.com
 portus-31804820.gvt2.com
 portus.gvt2.com
@@ -1999,7 +1992,6 @@ toolbarqueries.google.com
 topcontributor.withgoogle.com
 tq970h0typ.com
 tr3xa9sjlu.com
-tracking.admobsphere.com
 trakksocial.googlecode.com
 translate.google.es
 translate.googleapis.com

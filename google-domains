@@ -1,5 +1,5 @@
 # This blocklist helps to restrict access to Google and its domains. Contribute at https://github.com/nickspaargaren/no-google
-# Last updated: 2023-05-01
+# Last updated: 2023-05-07
 # Analytics
 0.0.0.0 18.afs.googleadservices.com
 0.0.0.0 2.afs.googleadservices.com
@@ -138,7 +138,6 @@
 0.0.0.0 ssl.google-analytics.com
 0.0.0.0 ssl.googleanalytics.com
 0.0.0.0 stackdriver.googleapis.com
-0.0.0.0 statsgoogle.appsflyer.com
 0.0.0.0 sticker-pa.googleapis.com
 0.0.0.0 streetviewpixels-ga.googleapis.com
 0.0.0.0 streetviewpixels-pa.googleapis.com
@@ -715,7 +714,6 @@
 0.0.0.0 docs.google.com
 0.0.0.0 domains.google.com
 0.0.0.0 domains.googlesyndication.com
-0.0.0.0 domains4google.com
 0.0.0.0 download.google.com
 0.0.0.0 downloads.google.com
 0.0.0.0 drive.google.com
@@ -999,7 +997,6 @@
 0.0.0.0 googlee.com
 0.0.0.0 googleearth.com
 0.0.0.0 googlegroups.com
-0.0.0.0 googlehosts.org
 0.0.0.0 googlemaps.com
 0.0.0.0 googlemerchandisestore.com
 0.0.0.0 googlepagecreator.com
@@ -1795,7 +1792,6 @@
 0.0.0.0 ad.dk.doubleclick.net
 0.0.0.0 ad.doubleclick.com
 0.0.0.0 ad.doubleclick.net
-0.0.0.0 ad.doubleclick.net.iberostar.com
 0.0.0.0 ad.ee.doubleclick.net
 0.0.0.0 ad.eg.doubleclick.net
 0.0.0.0 ad.es.doubleclick.net
@@ -1838,13 +1834,11 @@
 0.0.0.0 ad.ve.doubleclick.net
 0.0.0.0 ad.za.doubleclick.net
 0.0.0.0 ad2.doubleclick.net
-0.0.0.0 adclick.g.doublecklick.net
 0.0.0.0 adclick.g.doubleclick.net
 0.0.0.0 ads-bid.l.doubleclick.net
 0.0.0.0 advertisers.doubleclick.com
 0.0.0.0 advertisersapitest.doubleclick.com
 0.0.0.0 adx.g.doubleclick.net
-0.0.0.0 anon.doubleclick.speedera.net
 0.0.0.0 betareportcentral.doubleclick.com
 0.0.0.0 bid.g.doubleclick.net
 0.0.0.0 big.g.doubleclick.net
@@ -1854,8 +1848,6 @@
 0.0.0.0 dart-ad.l.doubleclick.net
 0.0.0.0 dart.l.doubleclick.net
 0.0.0.0 dfp.doubleclick.net
-0.0.0.0 doublecklick.net
-0.0.0.0 doubleclick-net.com
 0.0.0.0 doubleclick.com
 0.0.0.0 doubleclick.de
 0.0.0.0 doubleclick.ne.jp
@@ -2831,8 +2823,6 @@
 0.0.0.0 admob.tk
 0.0.0.0 admob.tw
 0.0.0.0 admob.vn
-0.0.0.0 admobclick.com
-0.0.0.0 admobsphere.com
 0.0.0.0 ads.admob.com
 0.0.0.0 ads.cc
 0.0.0.0 ads.cc-dt.com
@@ -3365,7 +3355,6 @@
 0.0.0.0 google-code-prettify.googlecode.com
 0.0.0.0 google-deckoffice.ml
 0.0.0.0 google-docs.org
-0.0.0.0 google-en.collectyourprize.club
 0.0.0.0 google-proxy-64-233-172-144.google.com
 0.0.0.0 google-proxy-64-233-172-148.google.com
 0.0.0.0 google-proxy-64-233-173-104.google.com
@@ -3391,7 +3380,6 @@
 0.0.0.0 googlesciencefair.com
 0.0.0.0 googlesource.com
 0.0.0.0 googlesucks.com
-0.0.0.0 googletagservice.com
 0.0.0.0 googletraveladservices.com
 0.0.0.0 googleusercontent.com
 0.0.0.0 googlevideo.com
@@ -3710,7 +3698,6 @@
 0.0.0.0 partnerdash.google.com
 0.0.0.0 partnerissuetracker.corp.google.com
 0.0.0.0 partnerpage.google.com
-0.0.0.0 passwordgoogle.com
 0.0.0.0 payments.developers.google.com
 0.0.0.0 peoplestack-pa.googleapis.com
 0.0.0.0 pf-in-f188.1e100.net
@@ -3719,7 +3706,6 @@
 0.0.0.0 picasa.com
 0.0.0.0 picasa.google.com
 0.0.0.0 picasaweb.google.com
-0.0.0.0 pixel.admobclick.com
 0.0.0.0 pki.google
 0.0.0.0 pkn7e9us0y.com
 0.0.0.0 pl.advertisercommunity.com
@@ -3739,7 +3725,6 @@
 0.0.0.0 podcastsmanager.google.com
 0.0.0.0 podcastsservice-pa.googleapis.com
 0.0.0.0 policies.google.com
-0.0.0.0 popads.net
 0.0.0.0 portus-28443170.gvt2.com
 0.0.0.0 portus-31804820.gvt2.com
 0.0.0.0 portus.gvt2.com
@@ -4612,7 +4597,6 @@
 0.0.0.0 topcontributor.withgoogle.com
 0.0.0.0 tq970h0typ.com
 0.0.0.0 tr3xa9sjlu.com
-0.0.0.0 tracking.admobsphere.com
 0.0.0.0 trakksocial.googlecode.com
 0.0.0.0 translate.google.es
 0.0.0.0 translate.googleapis.com

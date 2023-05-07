@@ -1,5 +1,5 @@
 ! This blocklist helps to restrict access to Google and its domains. Contribute at https://github.com/nickspaargaren/no-google
-! Last updated: 2023-05-01
+! Last updated: 2023-05-07
 ! Analytics
 ||18.afs.googleadservices.com^$important
 ||2.afs.googleadservices.com^$important
@@ -138,7 +138,6 @@
 ||ssl.google-analytics.com^$important
 ||ssl.googleanalytics.com^$important
 ||stackdriver.googleapis.com^$important
-||statsgoogle.appsflyer.com^$important
 ||sticker-pa.googleapis.com^$important
 ||streetviewpixels-ga.googleapis.com^$important
 ||streetviewpixels-pa.googleapis.com^$important
@@ -715,7 +714,6 @@
 ||docs.google.com^$important
 ||domains.google.com^$important
 ||domains.googlesyndication.com^$important
-||domains4google.com^$important
 ||download.google.com^$important
 ||downloads.google.com^$important
 ||drive.google.com^$important
@@ -999,7 +997,6 @@
 ||googlee.com^$important
 ||googleearth.com^$important
 ||googlegroups.com^$important
-||googlehosts.org^$important
 ||googlemaps.com^$important
 ||googlemerchandisestore.com^$important
 ||googlepagecreator.com^$important
@@ -1795,7 +1792,6 @@
 ||ad.dk.doubleclick.net^$important
 ||ad.doubleclick.com^$important
 ||ad.doubleclick.net^$important
-||ad.doubleclick.net.iberostar.com^$important
 ||ad.ee.doubleclick.net^$important
 ||ad.eg.doubleclick.net^$important
 ||ad.es.doubleclick.net^$important
@@ -1838,13 +1834,11 @@
 ||ad.ve.doubleclick.net^$important
 ||ad.za.doubleclick.net^$important
 ||ad2.doubleclick.net^$important
-||adclick.g.doublecklick.net^$important
 ||adclick.g.doubleclick.net^$important
 ||ads-bid.l.doubleclick.net^$important
 ||advertisers.doubleclick.com^$important
 ||advertisersapitest.doubleclick.com^$important
 ||adx.g.doubleclick.net^$important
-||anon.doubleclick.speedera.net^$important
 ||betareportcentral.doubleclick.com^$important
 ||bid.g.doubleclick.net^$important
 ||big.g.doubleclick.net^$important
@@ -1854,8 +1848,6 @@
 ||dart-ad.l.doubleclick.net^$important
 ||dart.l.doubleclick.net^$important
 ||dfp.doubleclick.net^$important
-||doublecklick.net^$important
-||doubleclick-net.com^$important
 ||doubleclick.com^$important
 ||doubleclick.de^$important
 ||doubleclick.ne.jp^$important
@@ -2831,8 +2823,6 @@
 ||admob.tk^$important
 ||admob.tw^$important
 ||admob.vn^$important
-||admobclick.com^$important
-||admobsphere.com^$important
 ||ads.admob.com^$important
 ||ads.cc^$important
 ||ads.cc-dt.com^$important
@@ -3365,7 +3355,6 @@
 ||google-code-prettify.googlecode.com^$important
 ||google-deckoffice.ml^$important
 ||google-docs.org^$important
-||google-en.collectyourprize.club^$important
 ||google-proxy-64-233-172-144.google.com^$important
 ||google-proxy-64-233-172-148.google.com^$important
 ||google-proxy-64-233-173-104.google.com^$important
@@ -3391,7 +3380,6 @@
 ||googlesciencefair.com^$important
 ||googlesource.com^$important
 ||googlesucks.com^$important
-||googletagservice.com^$important
 ||googletraveladservices.com^$important
 ||googleusercontent.com^$important
 ||googlevideo.com^$important
@@ -3710,7 +3698,6 @@
 ||partnerdash.google.com^$important
 ||partnerissuetracker.corp.google.com^$important
 ||partnerpage.google.com^$important
-||passwordgoogle.com^$important
 ||payments.developers.google.com^$important
 ||peoplestack-pa.googleapis.com^$important
 ||pf-in-f188.1e100.net^$important
@@ -3719,7 +3706,6 @@
 ||picasa.com^$important
 ||picasa.google.com^$important
 ||picasaweb.google.com^$important
-||pixel.admobclick.com^$important
 ||pki.google^$important
 ||pkn7e9us0y.com^$important
 ||pl.advertisercommunity.com^$important
@@ -3739,7 +3725,6 @@
 ||podcastsmanager.google.com^$important
 ||podcastsservice-pa.googleapis.com^$important
 ||policies.google.com^$important
-||popads.net^$important
 ||portus-28443170.gvt2.com^$important
 ||portus-31804820.gvt2.com^$important
 ||portus.gvt2.com^$important
@@ -4612,7 +4597,6 @@
 ||topcontributor.withgoogle.com^$important
 ||tq970h0typ.com^$important
 ||tr3xa9sjlu.com^$important
-||tracking.admobsphere.com^$important
 ||trakksocial.googlecode.com^$important
 ||translate.google.es^$important
 ||translate.googleapis.com^$important
