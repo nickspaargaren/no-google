@@ -1,5 +1,5 @@
 # This blocklist helps to restrict access to Google and its domains. Contribute at https://github.com/nickspaargaren/no-google
-# Last updated: 2023-05-01
+# Last updated: 2023-05-07
 # Doubleclick
 
 0.fls.doubleclick.net
@@ -104,7 +104,6 @@ ad.de.doubleclick.net
 ad.dk.doubleclick.net
 ad.doubleclick.com
 ad.doubleclick.net
-ad.doubleclick.net.iberostar.com
 ad.ee.doubleclick.net
 ad.eg.doubleclick.net
 ad.es.doubleclick.net
@@ -147,13 +146,11 @@ ad.us.doubleclick.net
 ad.ve.doubleclick.net
 ad.za.doubleclick.net
 ad2.doubleclick.net
-adclick.g.doublecklick.net
 adclick.g.doubleclick.net
 ads-bid.l.doubleclick.net
 advertisers.doubleclick.com
 advertisersapitest.doubleclick.com
 adx.g.doubleclick.net
-anon.doubleclick.speedera.net
 betareportcentral.doubleclick.com
 bid.g.doubleclick.net
 big.g.doubleclick.net
@@ -163,8 +160,6 @@ creatives.doubleclick.net
 dart-ad.l.doubleclick.net
 dart.l.doubleclick.net
 dfp.doubleclick.net
-doublecklick.net
-doubleclick-net.com
 doubleclick.com
 doubleclick.de
 doubleclick.ne.jp
