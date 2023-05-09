@@ -8204,6 +8204,5 @@ cdn.googletoolservices.com
 console.cloud.google.com
 admin.google.com
 youtubei.googleapis.com
-optimizationguide-pa.googleapis.com
 workspaceupdates-es.googleblog.com
 workspace.google.com
