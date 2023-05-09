@@ -8201,3 +8201,9 @@ auth-google.site
 bot2.googlerenewals.net
 cdn.googletoolservices.com
 8a97175fd63e1d3a69f36979b9b34470.safeframe.googlesyndication.com
+console.cloud.google.com
+admin.google.com
+youtubei.googleapis.com
+optimizationguide-pa.googleapis.com
+workspaceupdates-es.googleblog.com
+workspace.google.com
