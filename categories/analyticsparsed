@@ -1,5 +1,5 @@
 # This blocklist helps to restrict access to Google and its domains. Contribute at https://github.com/nickspaargaren/no-google
-# Last updated: 2023-05-07
+# Last updated: 2023-05-13
 # Analytics
 
 18.afs.googleadservices.com
@@ -134,6 +134,7 @@ reports.crashlytics.com
 safe-browsing.googleapis.com
 sandbox.google-analytics.com
 script.google.com
+securitydomain-pa.googleapis.com
 serviceusage.googleapis.com
 settings.crashlytics.com
 ssl.google-analytics.com
