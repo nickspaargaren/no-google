@@ -82,6 +82,7 @@
 0.0.0.0 googletagmanager-cn.com
 0.0.0.0 googletagmanager.com
 0.0.0.0 googletagservices.com
+0.0.0.0 googlevads-cn.com
 0.0.0.0 gz0.googleusercontent.com
 0.0.0.0 htps.googletagmanager.com
 0.0.0.0 httpswww.googletagmanager.com
