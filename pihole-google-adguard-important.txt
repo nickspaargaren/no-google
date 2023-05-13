@@ -81,6 +81,7 @@
 ||googletagmanager-cn.com^$important
 ||googletagmanager.com^$important
 ||googletagservices.com^$important
+||googlevads-cn.com^$important
 ||gz0.googleusercontent.com^$important
 ||htps.googletagmanager.com^$important
 ||httpswww.googletagmanager.com^$important
@@ -511,6 +512,7 @@
 ||30925359bd39272f220718667e27775e.safeframe.googlesyndication.com^$important
 ||3cbc684bb9f2dcdd3a3794de9de52f63.safeframe.googlesyndication.com^$important
 ||3ded44bd838404a6a3f3d7333aa65498.safeframe.googlesyndication.com^$important
+||8a97175fd63e1d3a69f36979b9b34470.safeframe.googlesyndication.com^$important
 ||9098b63249ee4522c5d8677059fe22e4.safeframe.googlesyndication.com^$important
 ||96d80cafb2cc6ad351ea76aea0f55d37.safeframe.googlesyndication.com^$important
 ||98715c0e7c194aa5ccc496a7eb766613.safeframe.googlesyndication.com^$important
@@ -4692,6 +4694,7 @@
 ||withgoogle.com^$important
 ||wl-in-f188.1e100.net^$important
 ||workspace.google.com^$important
+||workspaceupdates-es.googleblog.com^$important
 ||workspaceupdates.googleblog.com^$important
 ||wpgp9m68yu.com^$important
 ||wq-in-f188.1e100.net^$important
