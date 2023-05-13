@@ -2086,6 +2086,7 @@
 0.0.0.0 withgoogle.com
 0.0.0.0 wl-in-f188.1e100.net
 0.0.0.0 workspace.google.com
+0.0.0.0 workspaceupdates-es.googleblog.com
 0.0.0.0 workspaceupdates.googleblog.com
 0.0.0.0 wpgp9m68yu.com
 0.0.0.0 wq-in-f188.1e100.net
