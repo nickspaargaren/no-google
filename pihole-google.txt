@@ -131,6 +131,7 @@ reports.crashlytics.com
 safe-browsing.googleapis.com
 sandbox.google-analytics.com
 script.google.com
+securitydomain-pa.googleapis.com
 serviceusage.googleapis.com
 settings.crashlytics.com
 ssl.google-analytics.com
