@@ -8193,8 +8193,6 @@ www.viper.jibemobile.com
 www.watermelon.jibemobile.com
 yellowstone.jibemobile.com
 # More
-google-shopping-v2.sapoapps.vn
-google-shopping.sapoapps.vn
 gooogleupdatee.info
 googlevads-cn.com
 auth-google.site
