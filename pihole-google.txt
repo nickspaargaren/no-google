@@ -8191,3 +8191,14 @@ aspmx2.googlemail.com
 aspmx3.googlemail.com
 aspmx4.googlemail.com
 aspmx5.googlemail.com
+smtp.google.com
+a.gtld-servers.net
+api-googlemaps.net
+digital-google.com
+doodle4google.com
+googleacquisitionmigration.com
+googleaccountservices.com
+googleartproject.com
+googlesites.net
+googleweather.info
+googlewifi.com
