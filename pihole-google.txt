@@ -8193,6 +8193,9 @@ doodle4google.com
 googleacquisitionmigration.com
 googleaccountservices.com
 googleartproject.com
+ota-cache1.googlezip.net
+khmdb.google.com
 googlesites.net
 googleweather.info
 googlewifi.com
+op-d.storage.googleapis.com
