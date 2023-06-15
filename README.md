@@ -129,10 +129,10 @@ Of course, here’s some filterlists that should help you accomplish that.
 
 **A**pple : https://github.com/c-edw/ios-telemetry , https://github.com/1r2/iosparanoid or https://raw.githubusercontent.com/hagezi/dns-blocklists/main/hosts/native.apple.txt
 
-**F**acebook : https://raw.githubusercontent.com/jmdugan/blocklists/master/corporations/facebook/all , https://raw.githubusercontent.com/anudeepND/blacklist/master/facebook.txt , https://www.github.developerdan.com/hosts/lists/facebook-extended.txt , 
+**F**acebook : https://raw.githubusercontent.com/jmdugan/blocklists/master/corporations/facebook/all , https://raw.githubusercontent.com/anudeepND/blacklist/master/facebook.txt or https://www.github.developerdan.com/hosts/lists/facebook-extended.txt
 
 **A**mazon : https://github.com/nickspaargaren/no-amazon
 
-**M**icrosoft : https://raw.githubusercontent.com/jmdugan/blocklists/master/corporations/microsoft/all or https://git.nixnet.services/Narsil/hosts/raw/branch/master/Microsoft/Microsoft and https://git.nixnet.services/Narsil/hosts/raw/branch/master/Microsoft/SpyMicrosoft , https://codeberg.org/Cyanic76/Hosts/src/branch/pages/corporations/Microsoft
+**M**icrosoft : https://raw.githubusercontent.com/jmdugan/blocklists/master/corporations/microsoft/all , https://git.nixnet.services/Narsil/hosts/raw/branch/master/Microsoft/Microsoft and https://git.nixnet.services/Narsil/hosts/raw/branch/master/Microsoft/SpyMicrosoft or https://codeberg.org/Cyanic76/Hosts/src/branch/pages/corporations/Microsoft
 
 [![https://gafam.info](https://raw.githubusercontent.com/nickspaargaren/no-google/master/images/gafam-poster-en-color.png)](https://gafam.info)
