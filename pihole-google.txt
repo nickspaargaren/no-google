@@ -8199,7 +8199,6 @@ googlesites.net
 googleweather.info
 googlewifi.com
 op-d.storage.googleapis.com
-api-googlemaps.net
 digital-google.com
 doodle4google.com
 ota-cache1.googlezip.net
