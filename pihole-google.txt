@@ -8199,8 +8199,5 @@ googlesites.net
 googleweather.info
 googlewifi.com
 op-d.storage.googleapis.com
-doodle4google.com
-op-d.storage.googleapis.com
-doodle4google.com
 googleweather.infogooglewifi.com
 googleartproject.com
