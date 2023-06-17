@@ -8208,5 +8208,4 @@ digital-google.com
 doodle4google.com
 googleweather.infogooglewifi.com
 op-d.storage.googleapis.com
-colab.research.google.com
 googleartproject.com
