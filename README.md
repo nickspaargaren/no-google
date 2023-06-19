@@ -127,8 +127,7 @@ python3 convert.py json | jq -r '(.Analytics,.Doubleclick) | .[]'
 ## Can I block the other letters of GAFAM ?
 Of course, here’s some filterlists that should help you accomplish that.
 
-**A**pple : 
-https://github.com/c-edw/ios-telemetry, https://github.com/1r2/iosparanoid or https://raw.githubusercontent.com/hagezi/dns-blocklists/main/hosts/native.apple.txt
+**A**pple : https://github.com/c-edw/ios-telemetry, https://github.com/1r2/iosparanoid or https://raw.githubusercontent.com/hagezi/dns-blocklists/main/hosts/native.apple.txt
 
 **F**acebook : https://raw.githubusercontent.com/jmdugan/blocklists/master/corporations/facebook/all, https://raw.githubusercontent.com/anudeepND/blacklist/master/facebook.txt or https://raw.githubusercontent.com/lightswitch05/hosts/master/docs/lists/facebook-extended.txt
 
