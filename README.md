@@ -145,14 +145,10 @@ README.md
 ## Can I block the other letters of GAFAM ?
 Of course, here’s some filterlists that should help you accomplish that.
 
-**A**pple : https://github.com/c-edw/ios-telemetry or https://github.com/1r2/iosparanoid
-**A**pple : https://github.com/c-edw/ios-telemetry , https://github.com/1r2/iosparanoid or https://raw.githubusercontent.com/hagezi/dns-blocklists/main/hosts/native.apple.txt
-@nickspaargaren nickspaargaren 1 hour ago
-Suggested change
-**A**pple : https://github.com/c-edw/ios-telemetry , https://github.com/1r2/iosparanoid or https://raw.githubusercontent.com/hagezi/dns-blocklists/main/hosts/native.apple.txt
-**A**pple : https://github.com/c-edw/ios-telemetry, https://github.com/1r2/iosparanoid or https://raw.githubusercontent.com/hagezi/dns-blocklists/main/hosts/native.apple.txt
-@gallegonovato	Reply...
-README.md
+**A**pple : 
+https://github.com/c-edw/ios-telemetry , https://github.com/1r2/iosparanoid or https://raw.githubusercontent.com/hagezi/dns-blocklists/main/hosts/native.apple.txt
+
+**F**acebook : https://raw.githubusercontent.com/jmdugan/blocklists/master/corporations/facebook/all, https://raw.githubusercontent.com/anudeepND/blacklist/master/facebook.txt or https://raw.githubusercontent.com/lightswitch05/hosts/master/docs/lists/facebook-extended.txt
 
 **A**mazon : https://github.com/nickspaargaren/no-amazon
 
