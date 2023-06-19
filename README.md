@@ -134,24 +134,6 @@ https://github.com/c-edw/ios-telemetry, https://github.com/1r2/iosparanoid or ht
 
 **A**mazon : https://github.com/nickspaargaren/no-amazon
 
-**M**icrosoft : Reference in new issue
-@nickspaargaren nickspaargaren 2 hours ago
-Suggested change
-**F**acebook : https://raw.githubusercontent.com/jmdugan/blocklists/master/corporations/facebook/all , https://raw.githubusercontent.com/anudeepND/blacklist/master/facebook.txt or https://www.github.developerdan.com/hosts/lists/facebook-extended.txt
-**F**acebook : https://raw.githubusercontent.com/jmdugan/blocklists/master/corporations/facebook/all, https://raw.githubusercontent.com/anudeepND/blacklist/master/facebook.txt or https://raw.githubusercontent.com/lightswitch05/hosts/master/docs/lists/facebook-extended.txt
-@gallegonovato	Reply...
-README.md
-@@ -127,12 +127,12 @@ python3 convert.py json | jq -r '(.Analytics,.Doubleclick) | .[]'
-## Can I block the other letters of GAFAM ?
-Of course, here’s some filterlists that should help you accomplish that.
-
-**A**pple : 
-https://github.com/c-edw/ios-telemetry , https://github.com/1r2/iosparanoid or https://raw.githubusercontent.com/hagezi/dns-blocklists/main/hosts/native.apple.txt
-
-**F**acebook : https://raw.githubusercontent.com/jmdugan/blocklists/master/corporations/facebook/all, https://raw.githubusercontent.com/anudeepND/blacklist/master/facebook.txt or https://raw.githubusercontent.com/lightswitch05/hosts/master/docs/lists/facebook-extended.txt
-
-**A**mazon : https://github.com/nickspaargaren/no-amazon
-
-**M**icrosoft : /https://raw.githubusercontent.com/jmdugan/blocklists/master/corporations/microsoft/all
+**M**icrosoft : https://raw.githubusercontent.com/jmdugan/blocklists/master/corporations/microsoft/all
 
 [![https://gafam.info](https://raw.githubusercontent.com/nickspaargaren/no-google/master/images/gafam-poster-en-color.png)](https://gafam.info)
