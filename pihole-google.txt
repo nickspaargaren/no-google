@@ -8200,3 +8200,6 @@ googleweather.info
 googlewifi.com
 op-d.storage.googleapis.com
 googleweather.infogooglewifi.com
+crl.pki.goog
+pki-goog.l.google.com
+privatestats.whatsapp.alt2-mtalk.google.com
