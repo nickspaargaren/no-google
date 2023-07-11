@@ -8202,9 +8202,7 @@ op-d.storage.googleapis.com
 googleweather.infogooglewifi.com
 crl.pki.goog
 privatestats.whatsapp.alt2-mtalk.google.com
-crashlytics2.l.google.com
 5290727.fls.doubleclick.net
 8168974.fls.doubleclick.net
 8397396.fls.doubleclick.net
-video-stats.l.google.com
 manifest.googlevideo.com
