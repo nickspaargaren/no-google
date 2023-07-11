@@ -8205,4 +8205,3 @@ privatestats.whatsapp.alt2-mtalk.google.com
 5290727.fls.doubleclick.net
 8168974.fls.doubleclick.net
 8397396.fls.doubleclick.net
-manifest.googlevideo.com
