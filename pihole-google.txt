@@ -8206,3 +8206,4 @@ privatestats.whatsapp.alt2-mtalk.google.com
 8168974.fls.doubleclick.net
 8397396.fls.doubleclick.net
 analytics-alv.google.com
+api-verify.recaptcha.net
