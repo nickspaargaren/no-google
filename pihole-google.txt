@@ -8270,3 +8270,5 @@ partner.googletagservices.com
 sub.www.googletagservices.com
 console.googletagservices.com
 wj-in-f101.1e100.net
+content-analytics.googleapis.com
+auth-google.site
