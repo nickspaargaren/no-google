@@ -8293,3 +8293,13 @@ oliverlux.com.googletagmanager.com
 com.googletagmanager.com
 wordpress.googletagmanager.com
 sub.www.googletagmanager.com
+jara.area120.com
+stack.area120.com
+avera.area120.com
+fundo.area120.com
+tailor.area120.com
+stats.english.doubleclick.com
+stats.g.doubleclick.com
+bid.g.doubleclick.com
+securepubads.g.doubleclick.com
+g.doubleclick.com
