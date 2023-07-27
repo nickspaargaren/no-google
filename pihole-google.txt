@@ -8303,3 +8303,7 @@ stats.g.doubleclick.com
 bid.g.doubleclick.com
 securepubads.g.doubleclick.com
 g.doubleclick.com
+rr1---sn-8vq54voxn25po-h5qee.gvt1.com
+rr3---sn-8vq54voxn25po-h5qee.gvt1.com
+rr6---sn-8vq54voxn25po-h5qz.gvt1.com
+rr8---sn-8vq54voxn25po-h5qz.gvt1.com
