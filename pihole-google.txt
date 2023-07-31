@@ -8391,7 +8391,6 @@ eu-gb.e2e.certificate-manager.test.cloud.android.com
 haze.android.com
 ir2.android.com
 cluster.robo.android.com
-tma.android.com
 sp1.android.com
 releasetracker.partner.android.com
 ns.android.com
