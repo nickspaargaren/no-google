@@ -1,5 +1,5 @@
 ! This blocklist helps to restrict access to Google and its domains. Contribute at https://github.com/nickspaargaren/no-google
-! Last updated: 2023-09-09
+! Last updated: 2023-10-08
 ! Analytics
 ||18.afs.googleadservices.com^$important
 ||2.afs.googleadservices.com^$important
@@ -3316,6 +3316,7 @@
 ||fx7qw7ufhs.com^$important
 ||fxtfq4nhaw.com^$important
 ||g.admob.com^$important
+||g.page^$important
 ||g0tgpatzo2.com^$important
 ||g3doc.corp.google.com^$important
 ||g5dy0ime6h.com^$important
@@ -3686,6 +3687,7 @@
 ||opensource.googleblog.com^$important
 ||optimize.google.com^$important
 ||orderfood.google.com^$important
+||ordering.page^$important
 ||orkut.google.com^$important
 ||p.admob.com^$important
 ||p1.vip.sc9.admob.com^$important
@@ -4728,6 +4730,7 @@
 ||www.forms.gle^$important
 ||www.fr.advertisercommunity.com^$important
 ||www.froogle.google.com^$important
+||www.g.page^$important
 ||www.getmdl.io^$important
 ||www.goo.gl^$important
 ||www.google-docs.org^$important

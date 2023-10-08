@@ -1,5 +1,5 @@
 # This blocklist helps to restrict access to Google and its domains. Contribute at https://github.com/nickspaargaren/no-google
-# Last updated: 2023-09-09
+# Last updated: 2023-10-08
 # General
 
 0.0.0.0 0.chart.apis.google.com
@@ -708,6 +708,7 @@
 0.0.0.0 fx7qw7ufhs.com
 0.0.0.0 fxtfq4nhaw.com
 0.0.0.0 g.admob.com
+0.0.0.0 g.page
 0.0.0.0 g0tgpatzo2.com
 0.0.0.0 g3doc.corp.google.com
 0.0.0.0 g5dy0ime6h.com
@@ -1078,6 +1079,7 @@
 0.0.0.0 opensource.googleblog.com
 0.0.0.0 optimize.google.com
 0.0.0.0 orderfood.google.com
+0.0.0.0 ordering.page
 0.0.0.0 orkut.google.com
 0.0.0.0 p.admob.com
 0.0.0.0 p1.vip.sc9.admob.com
@@ -2120,6 +2122,7 @@
 0.0.0.0 www.forms.gle
 0.0.0.0 www.fr.advertisercommunity.com
 0.0.0.0 www.froogle.google.com
+0.0.0.0 www.g.page
 0.0.0.0 www.getmdl.io
 0.0.0.0 www.goo.gl
 0.0.0.0 www.google-docs.org
