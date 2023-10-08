@@ -3314,6 +3314,7 @@ fw8vvxfvoe.com
 fx7qw7ufhs.com
 fxtfq4nhaw.com
 g.admob.com
+g.page
 g0tgpatzo2.com
 g3doc.corp.google.com
 g5dy0ime6h.com
@@ -3684,6 +3685,7 @@ opensource.google.com
 opensource.googleblog.com
 optimize.google.com
 orderfood.google.com
+ordering.page
 orkut.google.com
 p.admob.com
 p1.vip.sc9.admob.com
@@ -4726,6 +4728,7 @@ www.flutter.io
 www.forms.gle
 www.fr.advertisercommunity.com
 www.froogle.google.com
+www.g.page
 www.getmdl.io
 www.goo.gl
 www.google-docs.org
