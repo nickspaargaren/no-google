@@ -39,7 +39,6 @@
 0.0.0.0 compute.googleapis.com
 0.0.0.0 container.googleapis.com
 0.0.0.0 content-firebaseappcheck.googleapis.com
-0.0.0.0 content.googleapis.com
 0.0.0.0 crashlytics.com
 0.0.0.0 crashlyticsreports-pa.googleapis.com
 0.0.0.0 cs.android.com
@@ -123,7 +122,6 @@
 0.0.0.0 peoplestackwebexperiments-pa.clients6.google.com
 0.0.0.0 personalsafety-pa.googleapis.com
 0.0.0.0 phonemasking-stage.googleoptimize.com
-0.0.0.0 photos.googleapis.com
 0.0.0.0 pki.googleapis.com
 0.0.0.0 plus.googleapis.com
 0.0.0.0 public.commondatastorage.googleapis.com
@@ -131,7 +129,6 @@
 0.0.0.0 recommender.googleapis.com
 0.0.0.0 region1.google-analytics.com
 0.0.0.0 reports.crashlytics.com
-0.0.0.0 safe-browsing.googleapis.com
 0.0.0.0 sandbox.google-analytics.com
 0.0.0.0 script.google.com
 0.0.0.0 securitydomain-pa.googleapis.com
@@ -651,7 +648,6 @@
 0.0.0.0 blogging.google.com
 0.0.0.0 bmt.google.com
 0.0.0.0 book.google.com
-0.0.0.0 bookmarks.google.com
 0.0.0.0 books.google.com
 0.0.0.0 booksearch.google.com
 0.0.0.0 bulletin.google.com
@@ -674,7 +670,6 @@
 0.0.0.0 ccacc69a0d7467ebaac293677146be75.safeframe.googlesyndication.com
 0.0.0.0 cdff40dad0a98d6b641bfca1a05423a8.safeframe.googlesyndication.com
 0.0.0.0 chat.google.com
-0.0.0.0 chrome.google.com
 0.0.0.0 chromeenterprise.google
 0.0.0.0 cimsun.google.com
 0.0.0.0 classroom.google.com
@@ -728,7 +723,6 @@
 0.0.0.0 ejabat.google.com
 0.0.0.0 elections.google.com
 0.0.0.0 elements.google.com
-0.0.0.0 email.google.com
 0.0.0.0 enterprise.google.com
 0.0.0.0 esc.google.com
 0.0.0.0 espresso-pa.clients1.google.com
@@ -777,8 +771,6 @@
 0.0.0.0 ggpht.com
 0.0.0.0 ghs-svc-https-c46.ghs-ssl.googlehosted.com
 0.0.0.0 glass.google.com
-0.0.0.0 gmail.com
-0.0.0.0 gmail.google.com
 0.0.0.0 gmodules.com
 0.0.0.0 gogle.com
 0.0.0.0 gogole.com
@@ -2601,8 +2593,6 @@
 0.0.0.0 yocash-c7d02.firebaseio.com
 0.0.0.0 yotatravel.firebaseio.com
 0.0.0.0 yourdiarypush.firebaseio.com
-0.0.0.0 youtubeplayer-179212.firebaseio.com
-0.0.0.0 ys-tactics-5a050.firebaseio.com
 0.0.0.0 zeta-period-845-typing-feedback-001.firebaseio.com
 0.0.0.0 zizounihalldev.firebaseio.com
 0.0.0.0 zoomtorino.firebaseio.com
