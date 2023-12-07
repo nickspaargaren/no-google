@@ -3209,6 +3209,7 @@ datastudio.google.com
 db408yef6a.com
 de.advertisercommunity.com
 deepmind.com
+deepmind.google
 defloration.ns1.google.com
 dep.admob.com
 design.google
