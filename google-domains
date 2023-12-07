@@ -1,5 +1,5 @@
 # This blocklist helps to restrict access to Google and its domains. Contribute at https://github.com/nickspaargaren/no-google
-# Last updated: 2023-11-09
+# Last updated: 2023-12-07
 # Analytics
 0.0.0.0 18.afs.googleadservices.com
 0.0.0.0 2.afs.googleadservices.com
@@ -3211,6 +3211,7 @@
 0.0.0.0 db408yef6a.com
 0.0.0.0 de.advertisercommunity.com
 0.0.0.0 deepmind.com
+0.0.0.0 deepmind.google
 0.0.0.0 defloration.ns1.google.com
 0.0.0.0 dep.admob.com
 0.0.0.0 design.google

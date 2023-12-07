@@ -1,5 +1,5 @@
 # This blocklist helps to restrict access to Google and its domains. Contribute at https://github.com/nickspaargaren/no-google
-# Last updated: 2023-11-09
+# Last updated: 2023-12-07
 # General
 
 0.chart.apis.google.com
@@ -602,6 +602,7 @@ datastudio.google.com
 db408yef6a.com
 de.advertisercommunity.com
 deepmind.com
+deepmind.google
 defloration.ns1.google.com
 dep.admob.com
 design.google
