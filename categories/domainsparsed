@@ -1,5 +1,5 @@
 # This blocklist helps to restrict access to Google and its domains. Contribute at https://github.com/nickspaargaren/no-google
-# Last updated: 2023-12-07
+# Last updated: 2023-12-14
 # Domains
 
 _caldav._tcp.google.com
@@ -812,6 +812,7 @@ mt.google.com
 mtalk.google.com
 mts.google.com
 music.google.com
+near.by
 nec.google.com
 news.google.com
 newsfeed.google.com
