@@ -1,5 +1,5 @@
 ! This blocklist helps to restrict access to Google and its domains. Contribute at https://github.com/nickspaargaren/no-google
-! Last updated: 2023-12-07
+! Last updated: 2023-12-14
 ! Analytics
 ||18.afs.googleadservices.com^$important
 ||2.afs.googleadservices.com^$important
@@ -140,6 +140,7 @@
 ||ssl.google-analytics.com^$important
 ||ssl.googleanalytics.com^$important
 ||stackdriver.googleapis.com^$important
+||staging-walletshare.sandbox.googleapis.com^$important
 ||sticker-pa.googleapis.com^$important
 ||streetviewpixels-ga.googleapis.com^$important
 ||streetviewpixels-pa.googleapis.com^$important
@@ -152,6 +153,7 @@
 ||try.crashlytics.com^$important
 ||versionhistory.googleapis.com^$important
 ||voilatile-pa.googleapis.com^$important
+||walletshare.googleapis.com^$important
 ||webdesigner.withgoogle.com^$important
 ||wp.googletagmanager.com^$important
 ||www.adgoogle.net^$important
@@ -1298,6 +1300,7 @@
 ||mtalk.google.com^$important
 ||mts.google.com^$important
 ||music.google.com^$important
+||near.by^$important
 ||nec.google.com^$important
 ||news.google.com^$important
 ||newsfeed.google.com^$important
@@ -3706,6 +3709,7 @@
 ||partnerdash.google.com^$important
 ||partnerissuetracker.corp.google.com^$important
 ||partnerpage.google.com^$important
+||pay.sandbox.google.com^$important
 ||payments.developers.google.com^$important
 ||peoplestack-pa.googleapis.com^$important
 ||pf-in-f188.1e100.net^$important

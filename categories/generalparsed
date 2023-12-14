@@ -1,5 +1,5 @@
 # This blocklist helps to restrict access to Google and its domains. Contribute at https://github.com/nickspaargaren/no-google
-# Last updated: 2023-12-07
+# Last updated: 2023-12-14
 # General
 
 0.chart.apis.google.com
@@ -1097,6 +1097,7 @@ partnerdash-nightly.corp.google.com
 partnerdash.google.com
 partnerissuetracker.corp.google.com
 partnerpage.google.com
+pay.sandbox.google.com
 payments.developers.google.com
 peoplestack-pa.googleapis.com
 pf-in-f188.1e100.net
