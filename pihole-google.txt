@@ -138,6 +138,7 @@ settings.crashlytics.com
 ssl.google-analytics.com
 ssl.googleanalytics.com
 stackdriver.googleapis.com
+staging-walletshare.sandbox.googleapis.com
 sticker-pa.googleapis.com
 streetviewpixels-ga.googleapis.com
 streetviewpixels-pa.googleapis.com
@@ -150,6 +151,7 @@ themes.googleusercontent.com
 try.crashlytics.com
 versionhistory.googleapis.com
 voilatile-pa.googleapis.com
+walletshare.googleapis.com
 webdesigner.withgoogle.com
 wp.googletagmanager.com
 www.adgoogle.net
@@ -1296,6 +1298,7 @@ mt.google.com
 mtalk.google.com
 mts.google.com
 music.google.com
+near.by
 nec.google.com
 news.google.com
 newsfeed.google.com
@@ -3704,6 +3707,7 @@ partnerdash-nightly.corp.google.com
 partnerdash.google.com
 partnerissuetracker.corp.google.com
 partnerpage.google.com
+pay.sandbox.google.com
 payments.developers.google.com
 peoplestack-pa.googleapis.com
 pf-in-f188.1e100.net
