@@ -1,0 +1,19 @@
+name: DNS
+on: [push]
+jobs:
+  dns-check:
+    name: Checking dns response for domains
+    runs-on: ubuntu-latest
+    continue-on-error: true
+    steps:
+      - uses: actions/checkout@v2
+        name: Python setup
+      - uses: actions/setup-python@v2
+        with:
+          python-version: 3.8
+      - name: Install dnspython
+        run: pip install dnspython
+      - name: Check if list includes domains without dns response
+        run: |
+          cd scripts
+          python3 dnscheck.py
