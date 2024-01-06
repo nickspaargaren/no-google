@@ -1,5 +1,5 @@
 # This blocklist helps to restrict access to Google and its domains. Contribute at https://github.com/nickspaargaren/no-google
-# Last updated: 2023-12-14
+# Last updated: 2024-01-06
 # Domains
 
 0.0.0.0 _caldav._tcp.google.com
@@ -254,6 +254,7 @@
 0.0.0.0 espresso-pa.clients6.google.com
 0.0.0.0 europe.google.com
 0.0.0.0 events.google.com
+0.0.0.0 explorer.apis.google.com
 0.0.0.0 express.google.com
 0.0.0.0 ext.google.com
 0.0.0.0 fb50436e04f648465c9ba6a8892caa86.safeframe.googlesyndication.com
