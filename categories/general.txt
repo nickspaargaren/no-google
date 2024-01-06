@@ -1,5 +1,5 @@
 # This blocklist helps to restrict access to Google and its domains. Contribute at https://github.com/nickspaargaren/no-google
-# Last updated: 2023-12-14
+# Last updated: 2024-01-06
 # General
 
 0.0.0.0 0.chart.apis.google.com
@@ -393,6 +393,7 @@
 0.0.0.0 b.admob.com
 0.0.0.0 b.corp.google.com
 0.0.0.0 b42mt0jrxf.com
+0.0.0.0 bard.google.com
 0.0.0.0 baseline.google.com
 0.0.0.0 beacon.gpc.gvt2.com
 0.0.0.0 beacons-blackholed.gcp.gvt2.com
@@ -1994,6 +1995,7 @@
 0.0.0.0 tkzzb68bgu.com
 0.0.0.0 tmqds12u18.com
 0.0.0.0 toolbarqueries.google.com
+0.0.0.0 toolbox.googleapps.com
 0.0.0.0 topcontributor.withgoogle.com
 0.0.0.0 tq970h0typ.com
 0.0.0.0 tr3xa9sjlu.com

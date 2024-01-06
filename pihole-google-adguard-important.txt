@@ -1,5 +1,5 @@
 ! This blocklist helps to restrict access to Google and its domains. Contribute at https://github.com/nickspaargaren/no-google
-! Last updated: 2023-12-14
+! Last updated: 2024-01-06
 ! Analytics
 ||18.afs.googleadservices.com^$important
 ||2.afs.googleadservices.com^$important
@@ -742,6 +742,7 @@
 ||espresso-pa.clients6.google.com^$important
 ||europe.google.com^$important
 ||events.google.com^$important
+||explorer.apis.google.com^$important
 ||express.google.com^$important
 ||ext.google.com^$important
 ||fb50436e04f648465c9ba6a8892caa86.safeframe.googlesyndication.com^$important
@@ -3005,6 +3006,7 @@
 ||b.admob.com^$important
 ||b.corp.google.com^$important
 ||b42mt0jrxf.com^$important
+||bard.google.com^$important
 ||baseline.google.com^$important
 ||beacon.gpc.gvt2.com^$important
 ||beacons-blackholed.gcp.gvt2.com^$important
@@ -4606,6 +4608,7 @@
 ||tkzzb68bgu.com^$important
 ||tmqds12u18.com^$important
 ||toolbarqueries.google.com^$important
+||toolbox.googleapps.com^$important
 ||topcontributor.withgoogle.com^$important
 ||tq970h0typ.com^$important
 ||tr3xa9sjlu.com^$important
