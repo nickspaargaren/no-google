@@ -3003,6 +3003,7 @@ ayz0l8b0ew.com
 b.admob.com
 b.corp.google.com
 b42mt0jrxf.com
+bard.google.com
 baseline.google.com
 beacon.gpc.gvt2.com
 beacons-blackholed.gcp.gvt2.com
