@@ -1,5 +1,5 @@
 # This blocklist helps to restrict access to Google and its domains. Contribute at https://github.com/nickspaargaren/no-google
-# Last updated: 2024-01-06
+# Last updated: 2024-01-22
 # General
 
 0.chart.apis.google.com
@@ -2078,6 +2078,7 @@ wap.admob.com
 waps.admob.com
 wearos.google.com
 web.dev
+webanywhere.googlecode.com
 webcache-googleusercontent-com.recaptcha.ampproject.net
 wellbeing.google.com
 wendy.admob.com
