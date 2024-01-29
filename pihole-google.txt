@@ -5713,6 +5713,7 @@ flights.google.com
 hangout.google.com
 hangouts.google.com
 hire.google.com
+idx.dev
 meetings.googleapis.com
 merchants.google.com
 passwords.google.com
@@ -5738,6 +5739,7 @@ www.chromium.org
 www.code.google.com
 www.coral.ai
 www.groups.google.com
+www.idx.dev
 www.images.google.com
 www.maps.google.com
 www.plus.google.com
