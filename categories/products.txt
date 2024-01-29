@@ -1,5 +1,5 @@
 # This blocklist helps to restrict access to Google and its domains. Contribute at https://github.com/nickspaargaren/no-google
-# Last updated: 2024-01-22
+# Last updated: 2024-01-29
 # Products
 
 0.0.0.0 actions.google.com
@@ -8,6 +8,7 @@
 0.0.0.0 appmaker.google.com
 0.0.0.0 biz.waze.com
 0.0.0.0 chrome.com
+0.0.0.0 coral.ai
 0.0.0.0 docs0.google.com
 0.0.0.0 docs1.google.com
 0.0.0.0 docs2.google.com
@@ -22,6 +23,7 @@
 0.0.0.0 hangout.google.com
 0.0.0.0 hangouts.google.com
 0.0.0.0 hire.google.com
+0.0.0.0 idx.dev
 0.0.0.0 meetings.googleapis.com
 0.0.0.0 merchants.google.com
 0.0.0.0 passwords.google.com
@@ -45,7 +47,9 @@
 0.0.0.0 www.chrome.com
 0.0.0.0 www.chromium.org
 0.0.0.0 www.code.google.com
+0.0.0.0 www.coral.ai
 0.0.0.0 www.groups.google.com
+0.0.0.0 www.idx.dev
 0.0.0.0 www.images.google.com
 0.0.0.0 www.maps.google.com
 0.0.0.0 www.plus.google.com
