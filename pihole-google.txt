@@ -5698,6 +5698,7 @@ appengine.google.com
 appmaker.google.com
 biz.waze.com
 chrome.com
+coral.ai
 docs0.google.com
 docs1.google.com
 docs2.google.com
@@ -5735,6 +5736,7 @@ www.assistant.google.com
 www.chrome.com
 www.chromium.org
 www.code.google.com
+www.coral.ai
 www.groups.google.com
 www.images.google.com
 www.maps.google.com
