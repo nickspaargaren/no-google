@@ -1,5 +1,5 @@
 ! This blocklist helps to restrict access to Google and its domains. Contribute at https://github.com/nickspaargaren/no-google
-! Last updated: 2024-01-22
+! Last updated: 2024-01-29
 ! Analytics
 ||18.afs.googleadservices.com^$important
 ||2.afs.googleadservices.com^$important
@@ -5700,6 +5700,7 @@
 ||appmaker.google.com^$important
 ||biz.waze.com^$important
 ||chrome.com^$important
+||coral.ai^$important
 ||docs0.google.com^$important
 ||docs1.google.com^$important
 ||docs2.google.com^$important
@@ -5714,6 +5715,7 @@
 ||hangout.google.com^$important
 ||hangouts.google.com^$important
 ||hire.google.com^$important
+||idx.dev^$important
 ||meetings.googleapis.com^$important
 ||merchants.google.com^$important
 ||passwords.google.com^$important
@@ -5737,7 +5739,9 @@
 ||www.chrome.com^$important
 ||www.chromium.org^$important
 ||www.code.google.com^$important
+||www.coral.ai^$important
 ||www.groups.google.com^$important
+||www.idx.dev^$important
 ||www.images.google.com^$important
 ||www.maps.google.com^$important
 ||www.plus.google.com^$important
