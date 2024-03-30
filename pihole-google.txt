@@ -3239,6 +3239,7 @@ dlut31p12z.com
 dmtry.com
 dns.google
 dns64.dns.google
+docs.flutter.dev
 docs3.google.com
 download.mlcc.google.com
 dp1msx93o1.com
@@ -3304,6 +3305,7 @@ firebasestorage.googleapis.com
 firehunt.com
 firestore.googleapis.com
 fl04oiwlyp.com
+flutter.dev
 flutter.io
 followed.by.svc-1.google.com
 fonts.sandbox.google.com
