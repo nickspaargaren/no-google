@@ -1,5 +1,5 @@
 # This blocklist helps to restrict access to Google and its domains. Contribute at https://github.com/nickspaargaren/no-google
-# Last updated: 2024-01-29
+# Last updated: 2024-03-30
 # Android
 
 0.0.0.0 1-market.android.com
@@ -65,6 +65,7 @@
 0.0.0.0 photos-ugc.l.googleusercontent.com
 0.0.0.0 play-lh.googleusercontent.com
 0.0.0.0 playstoregatewayadapter-pa.googleapis.com
+0.0.0.0 prod-lt-playstoregatewayadapter-pa.googleapis.com
 0.0.0.0 r.android.com
 0.0.0.0 regioinfo-pa.googleapis.com
 0.0.0.0 regioninfo-pa.googleapis.com
