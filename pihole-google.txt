@@ -228,6 +228,7 @@ phonedeviceverification-pa.googleapis.com
 photos-ugc.l.googleusercontent.com
 play-lh.googleusercontent.com
 playstoregatewayadapter-pa.googleapis.com
+prod-lt-playstoregatewayadapter-pa.googleapis.com
 r.android.com
 regioinfo-pa.googleapis.com
 regioninfo-pa.googleapis.com
