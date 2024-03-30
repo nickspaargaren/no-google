@@ -3241,6 +3241,7 @@
 0.0.0.0 dmtry.com
 0.0.0.0 dns.google
 0.0.0.0 dns64.dns.google
+0.0.0.0 docs.flutter.dev
 0.0.0.0 docs3.google.com
 0.0.0.0 download.mlcc.google.com
 0.0.0.0 dp1msx93o1.com
@@ -3306,6 +3307,7 @@
 0.0.0.0 firehunt.com
 0.0.0.0 firestore.googleapis.com
 0.0.0.0 fl04oiwlyp.com
+0.0.0.0 flutter.dev
 0.0.0.0 flutter.io
 0.0.0.0 followed.by.svc-1.google.com
 0.0.0.0 fonts.sandbox.google.com
