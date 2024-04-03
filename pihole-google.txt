@@ -591,6 +591,8 @@ adwords.google.com
 afp.google.com
 afs.googlesyndication.com
 ai.google.com
+ai.google.dev
+aistudio.google.com
 alerts.google.com
 allo.google.com
 almez.google.com
@@ -1375,6 +1377,7 @@ profiles.google.com
 protocol.google.com
 pubserv.google.com
 purchase.google.com
+quantumai.google
 reader.google.com
 realtime.google.com
 redirector.c.googlesyndication.com
