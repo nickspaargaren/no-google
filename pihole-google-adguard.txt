@@ -1,5 +1,5 @@
 ! This blocklist helps to restrict access to Google and its domains. Contribute at https://github.com/nickspaargaren/no-google
-! Last updated: 2024-04-03
+! Last updated: 2024-04-09
 ! Analytics
 ||18.afs.googleadservices.com^
 ||2.afs.googleadservices.com^
@@ -1463,6 +1463,7 @@
 ||video-ad-stats.googlesyndication.com^
 ||video.google.com^
 ||videos.google.com^
+||vids.google.com^
 ||virgin.google.com^
 ||voice.google.com^
 ||vpn.google.com^
