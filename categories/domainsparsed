@@ -1,5 +1,5 @@
 # This blocklist helps to restrict access to Google and its domains. Contribute at https://github.com/nickspaargaren/no-google
-# Last updated: 2024-04-09
+# Last updated: 2024-06-04
 # Domains
 
 _caldav._tcp.google.com
@@ -288,6 +288,7 @@ games.google.com
 gcdn.2mdn.net
 gd.google.com
 gds.google.com
+gemini.google.com
 geo3.ggpht.com
 get.google.com
 gg.google.com
