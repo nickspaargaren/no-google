@@ -775,6 +775,7 @@ games.google.com
 gcdn.2mdn.net
 gd.google.com
 gds.google.com
+gemini.google.com
 geo3.ggpht.com
 get.google.com
 gg.google.com
