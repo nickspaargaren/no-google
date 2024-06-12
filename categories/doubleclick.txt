@@ -73,6 +73,7 @@
 0.0.0.0 4942839.fls.doubleclick.net
 0.0.0.0 5362399.fls.doubleclick.net
 0.0.0.0 5582200.fls.doubleclick.net
+0.0.0.0 6541116.fls.doubleclick.net
 0.0.0.0 8210643.fls.doubleclick.net
 0.0.0.0 8272590.fls.doubleclick.net
 0.0.0.0 8482194.fls.doubleclick.net
@@ -154,6 +155,7 @@
 0.0.0.0 betareportcentral.doubleclick.com
 0.0.0.0 bid.g.doubleclick.net
 0.0.0.0 big.g.doubleclick.net
+0.0.0.0 c.amazon-adsystem.combid.g.doubleclick.com
 0.0.0.0 click.comms.doubleclick.com
 0.0.0.0 cm.g.doubleclick.net
 0.0.0.0 creatives.doubleclick.net
@@ -209,6 +211,8 @@
 0.0.0.0 n479ad.doubleclick.net
 0.0.0.0 ns2.doubleclick.com
 0.0.0.0 pagead.l.doubleclick.net
+0.0.0.0 pagead2.l.doubleclick.net
+0.0.0.0 pagead3.l.doubleclick.net
 0.0.0.0 pagead46.i.doubleclick.net
 0.0.0.0 pagead46.l.doubleclick.net
 0.0.0.0 partnerad.l.doubleclick.net
@@ -223,6 +227,7 @@
 0.0.0.0 search.doubleclick.com
 0.0.0.0 secureframe.doubleclick.net
 0.0.0.0 securepubads.g.doubleclick.net
+0.0.0.0 securepubads46.g.doubleclick.net
 0.0.0.0 ssl.doubleclick.com
 0.0.0.0 static.doubleclick.com
 0.0.0.0 static.doubleclick.net
@@ -237,6 +242,7 @@
 0.0.0.0 undefined.fls.doubleclick.net
 0.0.0.0 view.comms.doubleclick.com
 0.0.0.0 vodads.g.doubleclick.net
+0.0.0.0 www.ad.doubleclick.ne
 0.0.0.0 www.doubleclick.com
 0.0.0.0 www.doubleclick.ne.jp
 0.0.0.0 www.doubleclick.net
