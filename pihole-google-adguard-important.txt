@@ -1,5 +1,5 @@
 ! This blocklist helps to restrict access to Google and its domains. Contribute at https://github.com/nickspaargaren/no-google
-! Last updated: 2024-06-04
+! Last updated: 2024-06-12
 ! Analytics
 ||18.afs.googleadservices.com^$important
 ||2.afs.googleadservices.com^$important
@@ -2716,7 +2716,6 @@
 ||44xmt.drive.google.com^$important
 ||465rpnjo4oepaqz6giqu5ci6rp24kyamdxe4yzll7tsze5x4bcga.mx-verification.google.com^$important
 ||466453.com^$important
-||4666.ch^$important
 ||48whxkj6t2.com^$important
 ||4a6fvpiffz.com^$important
 ||4bbr524fvh.com^$important
@@ -3157,7 +3156,6 @@
 ||codetheroad.developers.google.com^$important
 ||colab.research.google.com^$important
 ||colab.sandbox.google.com^$important
-||com-google.site^$important
 ||community.stadia.com^$important
 ||companydoc.corp.google.com^$important
 ||compress.googlezip.net^$important
@@ -3373,8 +3371,6 @@
 ||goldtradnew5.docs.google.com^$important
 ||google-analytics.bi.owox.com^$important
 ||google-code-prettify.googlecode.com^$important
-||google-deckoffice.ml^$important
-||google-docs.org^$important
 ||google-proxy-64-233-172-144.google.com^$important
 ||google-proxy-64-233-172-148.google.com^$important
 ||google-proxy-64-233-173-104.google.com^$important
@@ -3385,7 +3381,6 @@
 ||google-proxy-66-249-93-110.google.com^$important
 ||google-proxy-66-249-93-206.google.com^$important
 ||google-public-dns-a.google.com^$important
-||google.analytics.com^$important
 ||google.cx^$important
 ||google.eu^$important
 ||google.nf^$important
@@ -3728,7 +3723,6 @@
 ||picasa.com^$important
 ||picasa.google.com^$important
 ||picasaweb.google.com^$important
-||pki.google^$important
 ||pkn7e9us0y.com^$important
 ||pl.advertisercommunity.com^$important
 ||play-fe.googleapis.com^$important
@@ -4081,7 +4075,6 @@
 ||r3---sn-cn3tc-ac56.gvt1.com^$important
 ||r3---sn-cxaaj5o5q5-tt16.gvt1.com^$important
 ||r3---sn-gvhuxax-cc06.gvt1.com^$important
-||r3---sn-h0jeln7l.gvt.com^$important
 ||r3---sn-ipoxu-un56.gvt1.com^$important
 ||r3---sn-jtu5jt2g0n-aj56.gvt1.com^$important
 ||r3---sn-n4v7sn7l.c.video.google.com^$important
@@ -4109,7 +4102,6 @@
 ||r3.sn-4g5e6n76.gvt1.com^$important
 ||r3.sn-5n3-n1qe.gvt1.com^$important
 ||r3.sn-aigl6n76.gvt1.com^$important
-||r3.sn-h0jeln7l.gvt.com^$important
 ||r3.sn-h5576n7k.c.drive.google.com^$important
 ||r3.sn-hp57yn7r.c.drive.google.com^$important
 ||r3.sn-hufvjvgx-coxe.gvt1.com^$important
@@ -4251,7 +4243,6 @@
 ||r5---sn-cxab5jvh-cg06.gvt1.com^$important
 ||r5---sn-gvhuxax-cc06.gvt1.com^$important
 ||r5---sn-gwpa-h556.gvt1.com^$important
-||r5---sn-h0jeen7d.gvt.com^$important
 ||r5---sn-h5q7dn76.gvt1.com^$important
 ||r5---sn-hp57kn7s.c.docs.google.com^$important
 ||r5---sn-i3b7kn7r.c.pack.google.com^$important
@@ -4280,7 +4271,6 @@
 ||r5.sn-4g57km76.gvt1.com^$important
 ||r5.sn-8pxuuxa-8j56.gvt1.com^$important
 ||r5.sn-aigl6n76.gvt1.com^$important
-||r5.sn-h0jeen7d.gvt.com^$important
 ||r5.sn-hju7en7k.c.docs.google.com^$important
 ||r5.sn-npoe7n76.gvt1.com^$important
 ||r5.sn-npoe7n7s.c.offline.maps.google.com^$important
@@ -4453,7 +4443,6 @@
 ||redirector.gvt1.com^$important
 ||redirector.gvt2.com^$important
 ||redirector.gvt3.com^$important
-||redirector.gvt4.com^$important
 ||redirector.gvt5.com^$important
 ||redwood.corp.google.com^$important
 ||redwood2.corp.google.com^$important
@@ -4469,7 +4458,6 @@
 ||rpts.org^$important
 ||rqivwhxgjq.com^$important
 ||rsbkf27yrw.com^$important
-||rtb.pixeltracking.co^$important
 ||ru.admob.com^$important
 ||ru.advertisercommunity.com^$important
 ||rwg687yt0x.com^$important
@@ -4624,7 +4612,6 @@
 ||translate.google.es^$important
 ||translate.googleapis.com^$important
 ||translate.googleusercontent.com^$important
-||translatorgoogle.com^$important
 ||transparencyreport.google.com^$important
 ||tv576.drive.google.com^$important
 ||tw580pjggb.com^$important
@@ -4801,7 +4788,6 @@
 ||www1.google.com^$important
 ||www2.google.com^$important
 ||www2.sandbox.google.com^$important
-||wwwgoogles.com^$important
 ||wwww.google.com^$important
 ||x.admob.com^$important
 ||x20.corp.google.com^$important
@@ -5738,9 +5724,7 @@
 ||scholar.google.pl^$important
 ||smartlock.google.com^$important
 ||trends.google.com^$important
-||waze-app.com^$important
 ||waze.com^$important
-||waze.uservoice.com^$important
 ||wazeopedia.waze.com^$important
 ||worldtiles1.waze.com^$important
 ||www.assistant.google.com^$important
@@ -6690,7 +6674,6 @@
 ||www.m.youtube.com^$important
 ||www.streamingreport.youtube.com^$important
 ||www.youtube-nocookie.com^$important
-||www.youtube-noscript.com^$important
 ||www.youtube.be^$important
 ||www.youtube.co.uk^$important
 ||www.youtube.com^$important
@@ -6702,7 +6685,6 @@
 ||www.youtubeeducation.com^$important
 ||www.youtubegaming.com^$important
 ||youtube-nocookie.com^$important
-||youtube-noscript.com^$important
 ||youtube.be^$important
 ||youtube.co.uk^$important
 ||youtube.com^$important

@@ -1,5 +1,5 @@
 # This blocklist helps to restrict access to Google and its domains. Contribute at https://github.com/nickspaargaren/no-google
-# Last updated: 2024-06-04
+# Last updated: 2024-06-12
 # Analytics
 0.0.0.0 18.afs.googleadservices.com
 0.0.0.0 2.afs.googleadservices.com
@@ -2716,7 +2716,6 @@
 0.0.0.0 44xmt.drive.google.com
 0.0.0.0 465rpnjo4oepaqz6giqu5ci6rp24kyamdxe4yzll7tsze5x4bcga.mx-verification.google.com
 0.0.0.0 466453.com
-0.0.0.0 4666.ch
 0.0.0.0 48whxkj6t2.com
 0.0.0.0 4a6fvpiffz.com
 0.0.0.0 4bbr524fvh.com
@@ -3157,7 +3156,6 @@
 0.0.0.0 codetheroad.developers.google.com
 0.0.0.0 colab.research.google.com
 0.0.0.0 colab.sandbox.google.com
-0.0.0.0 com-google.site
 0.0.0.0 community.stadia.com
 0.0.0.0 companydoc.corp.google.com
 0.0.0.0 compress.googlezip.net
@@ -3373,8 +3371,6 @@
 0.0.0.0 goldtradnew5.docs.google.com
 0.0.0.0 google-analytics.bi.owox.com
 0.0.0.0 google-code-prettify.googlecode.com
-0.0.0.0 google-deckoffice.ml
-0.0.0.0 google-docs.org
 0.0.0.0 google-proxy-64-233-172-144.google.com
 0.0.0.0 google-proxy-64-233-172-148.google.com
 0.0.0.0 google-proxy-64-233-173-104.google.com
@@ -3385,7 +3381,6 @@
 0.0.0.0 google-proxy-66-249-93-110.google.com
 0.0.0.0 google-proxy-66-249-93-206.google.com
 0.0.0.0 google-public-dns-a.google.com
-0.0.0.0 google.analytics.com
 0.0.0.0 google.cx
 0.0.0.0 google.eu
 0.0.0.0 google.nf
@@ -3728,7 +3723,6 @@
 0.0.0.0 picasa.com
 0.0.0.0 picasa.google.com
 0.0.0.0 picasaweb.google.com
-0.0.0.0 pki.google
 0.0.0.0 pkn7e9us0y.com
 0.0.0.0 pl.advertisercommunity.com
 0.0.0.0 play-fe.googleapis.com
@@ -4081,7 +4075,6 @@
 0.0.0.0 r3---sn-cn3tc-ac56.gvt1.com
 0.0.0.0 r3---sn-cxaaj5o5q5-tt16.gvt1.com
 0.0.0.0 r3---sn-gvhuxax-cc06.gvt1.com
-0.0.0.0 r3---sn-h0jeln7l.gvt.com
 0.0.0.0 r3---sn-ipoxu-un56.gvt1.com
 0.0.0.0 r3---sn-jtu5jt2g0n-aj56.gvt1.com
 0.0.0.0 r3---sn-n4v7sn7l.c.video.google.com
@@ -4109,7 +4102,6 @@
 0.0.0.0 r3.sn-4g5e6n76.gvt1.com
 0.0.0.0 r3.sn-5n3-n1qe.gvt1.com
 0.0.0.0 r3.sn-aigl6n76.gvt1.com
-0.0.0.0 r3.sn-h0jeln7l.gvt.com
 0.0.0.0 r3.sn-h5576n7k.c.drive.google.com
 0.0.0.0 r3.sn-hp57yn7r.c.drive.google.com
 0.0.0.0 r3.sn-hufvjvgx-coxe.gvt1.com
@@ -4251,7 +4243,6 @@
 0.0.0.0 r5---sn-cxab5jvh-cg06.gvt1.com
 0.0.0.0 r5---sn-gvhuxax-cc06.gvt1.com
 0.0.0.0 r5---sn-gwpa-h556.gvt1.com
-0.0.0.0 r5---sn-h0jeen7d.gvt.com
 0.0.0.0 r5---sn-h5q7dn76.gvt1.com
 0.0.0.0 r5---sn-hp57kn7s.c.docs.google.com
 0.0.0.0 r5---sn-i3b7kn7r.c.pack.google.com
@@ -4280,7 +4271,6 @@
 0.0.0.0 r5.sn-4g57km76.gvt1.com
 0.0.0.0 r5.sn-8pxuuxa-8j56.gvt1.com
 0.0.0.0 r5.sn-aigl6n76.gvt1.com
-0.0.0.0 r5.sn-h0jeen7d.gvt.com
 0.0.0.0 r5.sn-hju7en7k.c.docs.google.com
 0.0.0.0 r5.sn-npoe7n76.gvt1.com
 0.0.0.0 r5.sn-npoe7n7s.c.offline.maps.google.com
@@ -4453,7 +4443,6 @@
 0.0.0.0 redirector.gvt1.com
 0.0.0.0 redirector.gvt2.com
 0.0.0.0 redirector.gvt3.com
-0.0.0.0 redirector.gvt4.com
 0.0.0.0 redirector.gvt5.com
 0.0.0.0 redwood.corp.google.com
 0.0.0.0 redwood2.corp.google.com
@@ -4469,7 +4458,6 @@
 0.0.0.0 rpts.org
 0.0.0.0 rqivwhxgjq.com
 0.0.0.0 rsbkf27yrw.com
-0.0.0.0 rtb.pixeltracking.co
 0.0.0.0 ru.admob.com
 0.0.0.0 ru.advertisercommunity.com
 0.0.0.0 rwg687yt0x.com
@@ -4624,7 +4612,6 @@
 0.0.0.0 translate.google.es
 0.0.0.0 translate.googleapis.com
 0.0.0.0 translate.googleusercontent.com
-0.0.0.0 translatorgoogle.com
 0.0.0.0 transparencyreport.google.com
 0.0.0.0 tv576.drive.google.com
 0.0.0.0 tw580pjggb.com
@@ -4801,7 +4788,6 @@
 0.0.0.0 www1.google.com
 0.0.0.0 www2.google.com
 0.0.0.0 www2.sandbox.google.com
-0.0.0.0 wwwgoogles.com
 0.0.0.0 wwww.google.com
 0.0.0.0 x.admob.com
 0.0.0.0 x20.corp.google.com
@@ -5738,9 +5724,7 @@
 0.0.0.0 scholar.google.pl
 0.0.0.0 smartlock.google.com
 0.0.0.0 trends.google.com
-0.0.0.0 waze-app.com
 0.0.0.0 waze.com
-0.0.0.0 waze.uservoice.com
 0.0.0.0 wazeopedia.waze.com
 0.0.0.0 worldtiles1.waze.com
 0.0.0.0 www.assistant.google.com
@@ -6690,7 +6674,6 @@
 0.0.0.0 www.m.youtube.com
 0.0.0.0 www.streamingreport.youtube.com
 0.0.0.0 www.youtube-nocookie.com
-0.0.0.0 www.youtube-noscript.com
 0.0.0.0 www.youtube.be
 0.0.0.0 www.youtube.co.uk
 0.0.0.0 www.youtube.com
@@ -6702,7 +6685,6 @@
 0.0.0.0 www.youtubeeducation.com
 0.0.0.0 www.youtubegaming.com
 0.0.0.0 youtube-nocookie.com
-0.0.0.0 youtube-noscript.com
 0.0.0.0 youtube.be
 0.0.0.0 youtube.co.uk
 0.0.0.0 youtube.com

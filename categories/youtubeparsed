@@ -1,5 +1,5 @@
 # This blocklist helps to restrict access to Google and its domains. Contribute at https://github.com/nickspaargaren/no-google
-# Last updated: 2024-06-04
+# Last updated: 2024-06-12
 # Youtube
 
 _domainkey.youtube.com
@@ -684,7 +684,6 @@ www.devicereport.youtube.com
 www.m.youtube.com
 www.streamingreport.youtube.com
 www.youtube-nocookie.com
-www.youtube-noscript.com
 www.youtube.be
 www.youtube.co.uk
 www.youtube.com
@@ -696,7 +695,6 @@ www.youtube.pl
 www.youtubeeducation.com
 www.youtubegaming.com
 youtube-nocookie.com
-youtube-noscript.com
 youtube.be
 youtube.co.uk
 youtube.com
