@@ -2714,7 +2714,6 @@ fonts.googleapis.com
 44xmt.drive.google.com
 465rpnjo4oepaqz6giqu5ci6rp24kyamdxe4yzll7tsze5x4bcga.mx-verification.google.com
 466453.com
-4666.ch
 48whxkj6t2.com
 4a6fvpiffz.com
 4bbr524fvh.com
@@ -3155,7 +3154,6 @@ codelabs.developers.google.com
 codetheroad.developers.google.com
 colab.research.google.com
 colab.sandbox.google.com
-com-google.site
 community.stadia.com
 companydoc.corp.google.com
 compress.googlezip.net
@@ -3371,8 +3369,6 @@ gmskiosk.corp.google.com
 goldtradnew5.docs.google.com
 google-analytics.bi.owox.com
 google-code-prettify.googlecode.com
-google-deckoffice.ml
-google-docs.org
 google-proxy-64-233-172-144.google.com
 google-proxy-64-233-172-148.google.com
 google-proxy-64-233-173-104.google.com
@@ -3383,7 +3379,6 @@ google-proxy-66-249-83-1.google.com
 google-proxy-66-249-93-110.google.com
 google-proxy-66-249-93-206.google.com
 google-public-dns-a.google.com
-google.analytics.com
 google.cx
 google.eu
 google.nf
@@ -3726,7 +3721,6 @@ phpjo3qe79.com
 picasa.com
 picasa.google.com
 picasaweb.google.com
-pki.google
 pkn7e9us0y.com
 pl.advertisercommunity.com
 play-fe.googleapis.com
@@ -4079,7 +4073,6 @@ r3---sn-ci5gup-jj06.gvt1.com
 r3---sn-cn3tc-ac56.gvt1.com
 r3---sn-cxaaj5o5q5-tt16.gvt1.com
 r3---sn-gvhuxax-cc06.gvt1.com
-r3---sn-h0jeln7l.gvt.com
 r3---sn-ipoxu-un56.gvt1.com
 r3---sn-jtu5jt2g0n-aj56.gvt1.com
 r3---sn-n4v7sn7l.c.video.google.com
@@ -4107,7 +4100,6 @@ r3.sn-4g57kn66.gvt1.com
 r3.sn-4g5e6n76.gvt1.com
 r3.sn-5n3-n1qe.gvt1.com
 r3.sn-aigl6n76.gvt1.com
-r3.sn-h0jeln7l.gvt.com
 r3.sn-h5576n7k.c.drive.google.com
 r3.sn-hp57yn7r.c.drive.google.com
 r3.sn-hufvjvgx-coxe.gvt1.com
@@ -4249,7 +4241,6 @@ r5---sn-cxaaj5o5q5-tt16.gvt1.com
 r5---sn-cxab5jvh-cg06.gvt1.com
 r5---sn-gvhuxax-cc06.gvt1.com
 r5---sn-gwpa-h556.gvt1.com
-r5---sn-h0jeen7d.gvt.com
 r5---sn-h5q7dn76.gvt1.com
 r5---sn-hp57kn7s.c.docs.google.com
 r5---sn-i3b7kn7r.c.pack.google.com
@@ -4278,7 +4269,6 @@ r5---sn-vgqsenls.c.pack.google.com
 r5.sn-4g57km76.gvt1.com
 r5.sn-8pxuuxa-8j56.gvt1.com
 r5.sn-aigl6n76.gvt1.com
-r5.sn-h0jeen7d.gvt.com
 r5.sn-hju7en7k.c.docs.google.com
 r5.sn-npoe7n76.gvt1.com
 r5.sn-npoe7n7s.c.offline.maps.google.com
@@ -4451,7 +4441,6 @@ redbull-training.corp.google.com
 redirector.gvt1.com
 redirector.gvt2.com
 redirector.gvt3.com
-redirector.gvt4.com
 redirector.gvt5.com
 redwood.corp.google.com
 redwood2.corp.google.com
@@ -4467,7 +4456,6 @@ rpife54xtv.com
 rpts.org
 rqivwhxgjq.com
 rsbkf27yrw.com
-rtb.pixeltracking.co
 ru.admob.com
 ru.advertisercommunity.com
 rwg687yt0x.com
@@ -4622,7 +4610,6 @@ trakksocial.googlecode.com
 translate.google.es
 translate.googleapis.com
 translate.googleusercontent.com
-translatorgoogle.com
 transparencyreport.google.com
 tv576.drive.google.com
 tw580pjggb.com
@@ -4799,7 +4786,6 @@ www.zh.advertisercommunity.com
 www1.google.com
 www2.google.com
 www2.sandbox.google.com
-wwwgoogles.com
 wwww.google.com
 x.admob.com
 x20.corp.google.com
@@ -5736,9 +5722,7 @@ scholar.google.nl
 scholar.google.pl
 smartlock.google.com
 trends.google.com
-waze-app.com
 waze.com
-waze.uservoice.com
 wazeopedia.waze.com
 worldtiles1.waze.com
 www.assistant.google.com
@@ -6688,7 +6672,6 @@ www.devicereport.youtube.com
 www.m.youtube.com
 www.streamingreport.youtube.com
 www.youtube-nocookie.com
-www.youtube-noscript.com
 www.youtube.be
 www.youtube.co.uk
 www.youtube.com
@@ -6700,7 +6683,6 @@ www.youtube.pl
 www.youtubeeducation.com
 www.youtubegaming.com
 youtube-nocookie.com
-youtube-noscript.com
 youtube.be
 youtube.co.uk
 youtube.com
