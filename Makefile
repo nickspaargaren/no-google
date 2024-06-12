@@ -10,4 +10,7 @@ do-create-venv:
 	@python3 -m venv .venv
 
 do-install-packages:
-	@source .venv/bin/activate; pip install -r requirements.txt
+	@. .venv/bin/activate; pip install -r requirements.txt
+
+whois: ## Check all domains with whois
+	@. .venv/bin/activate; cd scripts && python domain-check-api.py
