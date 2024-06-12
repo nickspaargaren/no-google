@@ -30,7 +30,7 @@ def get_domains():
 
 def is_registered(domain):
     """
-    A function that checks whether a `domain` is can get whois info
+    A function that checks whether a domain is registered and retrieves its whois information.
     """
     time.sleep(1)
     try:
