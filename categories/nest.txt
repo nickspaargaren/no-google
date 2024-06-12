@@ -1,5 +1,5 @@
 # This blocklist helps to restrict access to Google and its domains. Contribute at https://github.com/nickspaargaren/no-google
-# Last updated: 2024-06-04
+# Last updated: 2024-06-12
 # Nest
 
 0.0.0.0 accounts.ft.nest.com
