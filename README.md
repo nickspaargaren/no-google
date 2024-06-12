@@ -39,31 +39,39 @@ https://raw.githubusercontent.com/nickspaargaren/no-google/master/categories/fib
 
 ### :warning: Important regex filters not included in blocklist
 
-> .\*[\`^.\`]l.google.com$
+```
+.*[`^.`]l.google.com$
+```
 
 <sup>For example tygbrbooefk4.cache.l.google.com</sup>
 
-> .\*[\`^.\`]googlevideo.com$
+```
+.*[`^.`]googlevideo.com$
+```
 
 <sup>For example r14---sn-vgqs7ned.googlevideo.com</sup>
 
 ## Youtube Advertisements Regex
 
-> ^r[0123456789]+((-{3})|(\.))sn-.{8}\.googlevideo\.com$
+```
+^r[0123456789]+((-{3})|(.))sn-.{8}.googlevideo.com$
+```
 
 NOTE: Youtube advertisements are pretty difficult to block trough DNS, as they mainly use a couple of domains for delivering advertisements, but they may also use those same domains for delivering other types of contents that you might not want to block.
 
 ## Regex filters
 
-> (._\.|^)((think)?with)?google($|((adservices|apis|mail|static|syndication|tagmanager|tagservices|usercontent|zip|-analytics)($|\..+)))
-> (._\.|^)g(gpht|mail|static|v(t[12])?)($|\..+)
->(.*\.|^)chrom(e(experiments)?|ium)($|\..+)
-> (._\.|^)ampproject($|\..+)
-> (._\.|^)doubleclick($|\..+)
->(.*\.|^)firebaseio($|\..+)
-> (._\.|^)googlevideo($|\..+)
-> (._\.|^)waze($|\..+)
->(.*\.|^)y(outube|timg)($|\..+)
+```
+(.*\.|^)((think)?with)?google($|((adservices|apis|mail|static|syndication|tagmanager|tagservices|usercontent|zip|-analytics)($|\..+)))
+(.*\.|^)g(gpht|mail|static|v(t[12])?)($|\..+)
+(.*\.|^)chrom(e(experiments)?|ium)($|\..+)
+(.*\.|^)ampproject($|\..+)
+(.*\.|^)doubleclick($|\..+)
+(.*\.|^)firebaseio($|\..+)
+(.*\.|^)googlevideo($|\..+)
+(.*\.|^)waze($|\..+)
+(.*\.|^)y(outube|timg)($|\..+)
+```
 
 You can also easily use the modified [pihole regex installer script](https://github.com/mmotti/pihole-regex) by [@mmoti](https://github.com/mmotti) by executing this terminal command from your raspberry Pi Pi-hole server.
 
