@@ -2,7 +2,12 @@
 # Last updated: 2024-06-12
 # Mail
 
+0.0.0.0 aspmx2.googlemail.com
+0.0.0.0 aspmx3.googlemail.com
+0.0.0.0 aspmx4.googlemail.com
+0.0.0.0 aspmx5.googlemail.com
 0.0.0.0 chatenabled.mail.google.com
+0.0.0.0 email-insights.co.uk
 0.0.0.0 email-quarantine.google.com
 0.0.0.0 email.android.com
 0.0.0.0 filetransferenabled.mail.google.com
@@ -332,6 +337,7 @@
 0.0.0.0 mail-yw1-f62.google.com
 0.0.0.0 mail-yw1-f72.google.com
 0.0.0.0 mail.googleoptimize.com
+0.0.0.0 mail1.googlesource.com
 0.0.0.0 pop.gmail.com
 0.0.0.0 r1---sn-i3b7knl6.c.mail.google.com
 0.0.0.0 r1.sn-cvh7knez.c.mail.google.com
