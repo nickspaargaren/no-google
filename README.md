@@ -1,18 +1,23 @@
 [![No G](https://raw.githubusercontent.com/nickspaargaren/no-google/master/images/GAFAMSPLATTEXTNOGgit.png)](https://github.com/nickspaargaren/no-google)
 
 # Definition of GAFAM
-*The GAFAM is an acronym used to describe the five multinational technology companies Google, Amazon, Facebook, Apple and Microsoft, taking the first letters of all these companies. The GAFAM are sometimes referred to as the Big Five due to them being the five most profilific companies in the world. Although in some sectors some of the five companies may be in direct competition, they offer different products or services overall while presenting some common characteristics that deserve to bring them together under the same acronym: by their size, they are particularly influential on the American and European Internet both economically and politically and socially and are regularly the subject of criticism or prosecution on tax matters, abuses of dominant positions and the non-respect of Internet users' privacy.*
+
+_The GAFAM is an acronym used to describe the five multinational technology companies Google, Amazon, Facebook, Apple and Microsoft, taking the first letters of all these companies. The GAFAM are sometimes referred to as the Big Five due to them being the five most profilific companies in the world. Although in some sectors some of the five companies may be in direct competition, they offer different products or services overall while presenting some common characteristics that deserve to bring them together under the same acronym: by their size, they are particularly influential on the American and European Internet both economically and politically and socially and are regularly the subject of criticism or prosecution on tax matters, abuses of dominant positions and the non-respect of Internet users' privacy._
 
 # Purge Google from your network!
 
 Protect yourself from Google's surveillance by using this blocklist! Feel free to criticize our blocklist to make it better and better. Suggestions are welcome!
 
 ## How to use it on my Pi-hole?
+
 Simply go into to your blocklist settings to add:
+
 ```
 https://raw.githubusercontent.com/nickspaargaren/no-google/master/pihole-google.txt
 ```
+
 Or a selection of the domains :
+
 ```
 https://raw.githubusercontent.com/nickspaargaren/no-google/master/categories/youtubeparsed
 https://raw.githubusercontent.com/nickspaargaren/no-google/master/categories/shortlinksparsed
@@ -33,35 +38,40 @@ https://raw.githubusercontent.com/nickspaargaren/no-google/master/categories/fib
 (Combining those with the main whole filter is useless and not recommended, however, feel free to combine the different smaller filters)
 
 ### :warning: Important regex filters not included in blocklist
->.*[\`^.\`]l.google.com$
+
+> .\*[\`^.\`]l.google.com$
 
 <sup>For example tygbrbooefk4.cache.l.google.com</sup>
 
->.*[\`^.\`]googlevideo.com$
+> .\*[\`^.\`]googlevideo.com$
 
 <sup>For example r14---sn-vgqs7ned.googlevideo.com</sup>
 
 ## Youtube Advertisements Regex
->^r[0123456789]+((-{3})|(\.))sn-.{8}\.googlevideo\.com$
+
+> ^r[0123456789]+((-{3})|(\.))sn-.{8}\.googlevideo\.com$
 
 NOTE: Youtube advertisements are pretty difficult to block trough DNS, as they mainly use a couple of domains for delivering advertisements, but they may also use those same domains for delivering other types of contents that you might not want to block.
 
 ## Regex filters
->(.*\.|^)((think)?with)?google($|((adservices|apis|mail|static|syndication|tagmanager|tagservices|usercontent|zip|-analytics)($|\..+)))
->(.*\.|^)g(gpht|mail|static|v(t[12])?)($|\..+)
+
+> (._\.|^)((think)?with)?google($|((adservices|apis|mail|static|syndication|tagmanager|tagservices|usercontent|zip|-analytics)($|\..+)))
+> (._\.|^)g(gpht|mail|static|v(t[12])?)($|\..+)
 >(.*\.|^)chrom(e(experiments)?|ium)($|\..+)
->(.*\.|^)ampproject($|\..+)
->(.*\.|^)doubleclick($|\..+)
+> (._\.|^)ampproject($|\..+)
+> (._\.|^)doubleclick($|\..+)
 >(.*\.|^)firebaseio($|\..+)
->(.*\.|^)googlevideo($|\..+)
->(.*\.|^)waze($|\..+)
+> (._\.|^)googlevideo($|\..+)
+> (._\.|^)waze($|\..+)
 >(.*\.|^)y(outube|timg)($|\..+)
 
 You can also easily use the modified [pihole regex installer script](https://github.com/mmotti/pihole-regex) by [@mmoti](https://github.com/mmotti) by executing this terminal command from your raspberry Pi Pi-hole server.
+
 ```
 curl -sSl https://raw.githubusercontent.com/nickspaargaren/no-google/master/install.py | sudo python3
 
 ```
+
 and then, executing it. It should add all of the above regex automatically.
 
 ## FAQ
@@ -88,22 +98,31 @@ Note that the main filter is being worked here, so, updates and modifications on
 Otherwise, if you do prefer to use Gitlab, feel free to use it, and even contribute to our list there instead!</p>
 </details>
 
-## The converter program
+## Development
 
-### Data conversion
+Run `make` to list all available commands.
+
+### The converter program
+
+#### Data conversion
+
 The program `convert.py` will read `pihole-google.txt` as input file and convert its
 content into different output formats. It can be invoked like
+
 ```shell
 python3 convert.py pihole
 ```
 
 In order to produce all different output formats, run
+
 ```shell
 python3 convert.py all
 ```
 
-### JSON output
+#### JSON output
+
 It also can output the data in JSON format:
+
 ```shell
 python3 convert.py json
 ```
@@ -122,9 +141,8 @@ python3 convert.py json | jq -r '.Doubleclick | .[]'
 python3 convert.py json | jq -r '(.Analytics,.Doubleclick) | .[]'
 ```
 
-
-
 ## Can I block the other letters of GAFAM ?
+
 Of course, here’s some filterlists that should help you accomplish that.
 
 **A**pple : https://github.com/c-edw/ios-telemetry, https://github.com/1r2/iosparanoid or https://raw.githubusercontent.com/hagezi/dns-blocklists/main/hosts/native.apple.txt
