@@ -952,6 +952,7 @@ clients1.google.com
 clients3.google.com
 clients9.google.com
 cloud.google.com
+cloud.run
 code.google.com
 com.google
 com.google.com
