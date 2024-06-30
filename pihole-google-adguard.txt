@@ -1,5 +1,5 @@
 ! This blocklist helps to restrict access to Google and its domains. Contribute at https://github.com/nickspaargaren/no-google
-! Last updated: 2024-06-12
+! Last updated: 2024-06-30
 ! Analytics
 ||-chromecontentsuggestions-pa.googleapis.com^
 ||1.chromefeedcontentsuggestions-pa.googleapis.com^
@@ -954,6 +954,7 @@
 ||clients3.google.com^
 ||clients9.google.com^
 ||cloud.google.com^
+||cloud.run^
 ||code.google.com^
 ||com.google^
 ||com.google.com^
