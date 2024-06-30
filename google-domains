@@ -2510,6 +2510,7 @@
 0.0.0.0 firebasedynamiclinks.googleapis.com
 0.0.0.0 firebaseio.com
 0.0.0.0 firebaselogging.googleapis.com
+0.0.0.0 firebaseremoteconfigrealtime.googleapis.com
 0.0.0.0 firetest-a1d61.firebaseio.com
 0.0.0.0 firework-fever-2.firebaseio.com
 0.0.0.0 firisoft-44d02.firebaseio.com
