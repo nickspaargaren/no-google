@@ -2510,6 +2510,7 @@
 ||firebasedynamiclinks.googleapis.com^$important
 ||firebaseio.com^$important
 ||firebaselogging.googleapis.com^$important
+||firebaseremoteconfigrealtime.googleapis.com^$important
 ||firetest-a1d61.firebaseio.com^$important
 ||firework-fever-2.firebaseio.com^$important
 ||firisoft-44d02.firebaseio.com^$important
