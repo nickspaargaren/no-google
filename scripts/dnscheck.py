@@ -1,24 +1,22 @@
 import dns.resolver
 
-
 def check_domain(domain):
     try:
-        answer = dns.resolver.resolve(domain, "A")
-        if answer.qname:
-            return True
-        return False
-    except (
-        dns.resolver.NXDOMAIN,
-    ):
+        # Query for 'A' records
+        answers = dns.resolver.resolve(domain, 'A')
+        # If we get any answers, the domain has a response
+        return bool(answers)
+    except (dns.resolver.NoAnswer, dns.resolver.NXDOMAIN, dns.resolver.Timeout):
+        # No answer or domain does not exist or request timed out
         return False
 
-
-with open("../pihole-google.txt") as f:
-    for line in f:
-        domain = line.strip()  # strip whitespace
-        if not domain.startswith("#"):
-            if domain:
+def main():
+    with open("../pihole-google.txt") as f:
+        for line in f:
+            domain = line.strip()  # strip whitespace
+            if domain and not domain.startswith("#"):
                 if not check_domain(domain):
-                    print(domain)
+                    print(f"No DNS response for domain: {domain}")
 
-f.close()
+if __name__ == "__main__":
+    main()
