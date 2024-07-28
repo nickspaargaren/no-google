@@ -1,15 +1,5 @@
 name: Tests
-on:
-  push:
-    branches:
-      - master
-    paths:
-      - 'pihole-google.txt'
-  pull_request:
-    branches:
-    - master
-    paths:
-      - 'pihole-google.txt'
+on: push
 jobs:
   duplicates:
     name: No duplicate domains in list
@@ -43,3 +33,12 @@ jobs:
       run: |
         cd scripts
         python3 tests.py --type regex
+  unbound:
+    name: Check Unbound list
+    runs-on: ubuntu-latest
+    steps:
+    - uses: actions/checkout@v2
+    - name: Install Unbound
+      run: sudo apt-get update && sudo apt-get install -y unbound
+    - name: Check unbound list
+      run: unbound-checkconf unbound.conf
