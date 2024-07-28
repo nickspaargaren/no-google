@@ -28,6 +28,7 @@
 0.0.0.0 merchants.google.com
 0.0.0.0 passwords.google.com
 0.0.0.0 patents.google.com
+0.0.0.0 patentimages.storage.googleapis.com
 0.0.0.0 payments.google.com
 0.0.0.0 scholar.google.be
 0.0.0.0 scholar.google.co.uk
