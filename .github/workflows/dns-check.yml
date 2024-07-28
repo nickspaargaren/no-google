@@ -11,8 +11,8 @@ jobs:
       - uses: actions/setup-python@v2
         with:
           python-version: 3.8
-      - name: Install dnspython
-        run: pip install dnspython
+      - name: Install Requirements
+        run: pip install -r requirements.txt
       - name: Check if list includes domains without dns response
         run: |
           cd scripts
