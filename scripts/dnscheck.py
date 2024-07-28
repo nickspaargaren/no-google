@@ -8,10 +8,7 @@ def check_domain(domain):
             return True
         return False
     except (
-        dns.resolver.NoAnswer,
         dns.resolver.NXDOMAIN,
-        dns.resolver.NoNameservers,
-        dns.resolver.LifetimeTimeout,
     ):
         return False
 
