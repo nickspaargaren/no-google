@@ -6299,6 +6299,7 @@
 ||merchants.google.com^
 ||passwords.google.com^
 ||patents.google.com^
+||patentimages.storage.googleapis.com^
 ||payments.google.com^
 ||scholar.google.be^
 ||scholar.google.co.uk^
