@@ -1,5 +1,5 @@
 # This blocklist helps to restrict access to Google and its domains. Contribute at https://github.com/nickspaargaren/no-google
-# Last updated: 2024-06-30
+# Last updated: 2024-07-28
 # Analytics
 0.0.0.0 -chromecontentsuggestions-pa.googleapis.com
 0.0.0.0 1.chromefeedcontentsuggestions-pa.googleapis.com
@@ -3954,7 +3954,6 @@
 0.0.0.0 jinjja-chicken.apis.google.com
 0.0.0.0 jix52tbhtf.com
 0.0.0.0 jmt0.google.com
-0.0.0.0 jmt17.google.
 0.0.0.0 jmt17.google.com
 0.0.0.0 johu47i4g2.com
 0.0.0.0 jou.docs.google.com
