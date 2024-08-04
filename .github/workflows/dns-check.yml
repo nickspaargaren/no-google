@@ -2,7 +2,7 @@ name: DNS
 on: [push]
 jobs:
   dns-check:
-    name: Checking dns response for domains
+    name: Remove domains without NS records
     runs-on: ubuntu-latest
     continue-on-error: true
     steps:
