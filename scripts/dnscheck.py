@@ -3,20 +3,15 @@ import sys
 
 def check_domain(domain):
     try:
-        # Query for 'A' records
-        dns.resolver.resolve(domain, "A")
-        has_a_record = True
-    except (dns.resolver.NXDOMAIN, Exception):
-        has_a_record = False
-    
-    try:
         # Query for 'NS' records
         dns.resolver.resolve(domain, "NS")
         has_ns_record = True
-    except (dns.resolver.NXDOMAIN, Exception):
+    except dns.resolver.NXDOMAIN:
         has_ns_record = False
+    except:
+        has_ns_record = True
 
-    return not has_a_record and not has_ns_record
+    return not has_ns_record
 
 def main():
     found_domains = 0
@@ -26,7 +21,7 @@ def main():
             domain = line.strip()  # strip whitespace
             if domain and not domain.startswith("#"):
                 if check_domain(domain):
-                    print(f"Domain with no A or NS records: {domain}")
+                    print(f"Domain without NS records: {domain}")
                     found_domains += 1
                     if found_domains >= 10:  # Exit early to reduce requests
                         sys.exit(1)
