@@ -23,8 +23,6 @@ def main():
                 if check_domain(domain):
                     print(f"Domain without NS records: {domain}")
                     found_domains += 1
-                    if found_domains >= 10:  # Exit early to reduce requests
-                        sys.exit(1)
     
     if found_domains > 0:
         sys.exit(1)
