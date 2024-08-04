@@ -15,6 +15,7 @@ def check_domain(domain):
 
 def main():
     found_domains = 0
+    domains_with_ns_records = []
     
     with open("../pihole-google.txt") as f:
         for line in f:
@@ -23,6 +24,12 @@ def main():
                 if check_domain(domain):
                     print(f"Domain without NS records: {domain}")
                     found_domains += 1
+                else:
+                    domains_with_ns_records.append(line)
+
+    # Write remaining domains back to the file
+    with open("../pihole-google.txt", "w") as f:
+        f.writelines(domains_with_ns_records)
     
     if found_domains > 0:
         sys.exit(1)

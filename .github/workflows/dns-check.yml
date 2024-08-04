@@ -7,6 +7,9 @@ jobs:
     continue-on-error: true
     steps:
       - uses: actions/checkout@v2
+      - run: |
+          git config --global user.name 'github-actions[bot]'
+          git config --global user.email '41898282+github-actions[bot]@users.noreply.github.com'
         name: Python setup
       - uses: actions/setup-python@v2
         with:
@@ -17,3 +20,7 @@ jobs:
         run: |
           cd scripts
           python3 dnscheck.py
+      - name: Commit updated pihole-google.txt
+        run: |
+          git add pihole-google.txt && git commit -am "Remove domains without NS records"
+          git push
