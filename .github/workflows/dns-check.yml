@@ -20,7 +20,13 @@ jobs:
         run: |
           cd scripts
           python3 dnscheck.py
+      - name: Check for changes
+        id: git-check
+        run: |
+          git diff --exit-code || echo "Changes detected"
+        continue-on-error: true
       - name: Commit updated pihole-google.txt
+        if: steps.git-check.outcome == 'failure'
         run: |
           git add pihole-google.txt && git commit -am "Remove domains without NS records"
           git push
