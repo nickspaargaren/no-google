@@ -30,11 +30,6 @@ def main():
     # Write remaining domains back to the file
     with open("../pihole-google.txt", "w") as f:
         f.writelines(domains_with_ns_records)
-    
-    if found_domains > 0:
-        sys.exit(1)
-    else:
-        sys.exit(0)
 
 if __name__ == "__main__":
     main()
