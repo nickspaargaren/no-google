@@ -14,3 +14,6 @@ do-install-packages:
 
 whois: ## Check all domains with whois
 	@. .venv/bin/activate; cd scripts && python domain-check-api.py
+
+dnscheck: ## Check all domains if they have a response
+	@. .venv/bin/activate; cd scripts && python dnscheck.py
