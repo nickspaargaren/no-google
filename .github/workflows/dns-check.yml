@@ -1,0 +1,37 @@
+name: DNS
+on: [push]
+jobs:
+  dns-check:
+    name: Remove domains without NS records
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      - run: |
+          git config --global user.name 'github-actions[bot]'
+          git config --global user.email '41898282+github-actions[bot]@users.noreply.github.com'
+        name: Python setup
+      - uses: actions/setup-python@v2
+        with:
+          python-version: 3.8
+      - name: Install Requirements
+        run: pip install -r requirements.txt
+      - name: Check if list includes domains without NS records
+        run: |
+          cd scripts
+          python3 dnscheck.py
+      - name: Check for changes
+        id: check_changes
+        run: |
+          if [[ `git status --porcelain pihole-google.txt` ]]; then
+            echo "Domains found without NS records"
+            echo "::set-output name=changes_detected::true"
+          else
+            echo "No domains without NS records found"
+            echo "::set-output name=changes_detected::false"
+          fi
+      - name: Commit updated pihole-google.txt
+        if: steps.check_changes.outputs.changes_detected == 'true'
+        run: |
+          git add pihole-google.txt
+          git commit -am "Remove domains without NS records"
+          git push
