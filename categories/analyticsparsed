@@ -1,5 +1,5 @@
 # This blocklist helps to restrict access to Google and its domains. Contribute at https://github.com/nickspaargaren/no-google
-# Last updated: 2024-07-28
+# Last updated: 2024-08-07
 # Analytics
 
 -chromecontentsuggestions-pa.googleapis.com
@@ -12,7 +12,6 @@ adexchangebuyer-json.googleapis.com
 adexchangebuyer.googleapis.com
 adgoogle.net
 admin.googleapis.com
-adsettings.google.com
 adssettings.google.com
 aiplatform.googleapis.com
 ajax11.googleapis.com
@@ -43,10 +42,8 @@ androidtvchannels-pa.googleapis.com
 androidtvwatsonfe-pa.googleapis.com
 androidwearcloudsync-pa.googleapis.com
 anthos.googleapis.com
-api.crashlytics.com
 apigee.googleapis.com
 apihub.googleapis.com
-apis.googletagmanager.com
 appinvite-ipv4-pa.googleapis.com
 appinvite-ipv6-pa.googleapis.com
 appinvite-pa.googleapis.com
@@ -55,7 +52,6 @@ autodiscover.googleapis.com
 autofill.googleapis.com
 automate-prod.storage.googleapis.com
 baseremoteconfig.googleapis.com
-baseremoteconfig.googleapis.comadometry.com
 bigquery.asia-east1.googleapis.com
 bigquery.asia-east2.googleapis.com
 bigquery.asia-northeast1.googleapis.com
@@ -97,7 +93,6 @@ cloudprofiler.googleapis.com
 cloudresourcemanager.googleapis.com
 cloudsearch.googleapis.com
 cloudtrace.googleapis.com
-cm.crashlytics.com
 commondatastorage.googleapis.com
 compute.googleapis.com
 consent-analytics.googleapis.com
@@ -118,19 +113,15 @@ cstlqrgnqmjztbxjmkp.storage.googleapis.com
 datamixer.pa.googleapis.com
 dataprep.googleapis.com
 datastream.googleapis.com
-datastream.googleapis.complusone.google.com
 deviceenrollmentforwindows.googleapis.com
 devicemanagementforwindows.googleapis.com
 deydgyehwsptekn.storage.googleapis.com
 digitalassetlinks.mtls.googleapis.com
 discord-attachments-uploads-prd.storage.googleapis.com
 discover-pa.googleapis.com
-dns-admin.google.com
 dns1.googleapis.com
 doc-0g-48-docstext.googleusercontent.com
-dr-mobiweb.googleoptimize.com
 drive-thirdparty.googleusercontent.com
-e.crashlytics.com
 edgetp1.googleapis.com
 embeddedassistant-frontend.googleapis.com
 embeddedassistant.googleapis.com
@@ -142,7 +133,6 @@ fcm.googleapis.com
 fcmconnection.googleapis.com
 federatedcompute-pa.googleapis.com
 federatedml-pa.googleapis.com
-feedads.googleadservices.com
 feedback-pa.googleapis.com
 firebaseappdistribution.googleapis.com
 firebasedurablelinks-ipv4-pa.googleapis.com
@@ -171,7 +161,6 @@ gkeconnect.googleapis.com
 gkehub.googleapis.com
 gmbmobile-pa.googleapis.com
 gnpfesdk-pa.googleapis.com
-gnpfesdk-pa.googleapis.comclients2.google.com
 google-analytics-cn.com
 google-analytics.com
 googleads.googleapis.com
@@ -185,8 +174,6 @@ googletagservices.com
 googlevads-cn.com
 gsacollections-pa.googleapis.com
 gz0.googleusercontent.com
-htps.googletagmanager.com
-httpswww.googletagmanager.com
 iamcredentials.googleapis.com
 ibpodtjfrfkwkjm.storage.googleapis.com
 instantmessaging-pa-eu.googleapis.com
@@ -201,7 +188,6 @@ khms1.googleapis.com
 khms2.googleapis.com
 khms3.googleapis.com
 kidsmanagement-pa.googleapis.com
-kits.crashlytics.com
 kmsinventory.googleapis.com
 language.googleapis.com
 licensing.googleapis.com
@@ -218,16 +204,6 @@ merchantapi.googleapis.com
 meshca.googleapis.com
 meshconfig.googleapis.com
 meshtelemetry.googleapis.com
-mimageads.googleadservices.com
-mimageads1.googleadservices.com
-mimageads2.googleadservices.com
-mimageads3.googleadservices.com
-mimageads4.googleadservices.com
-mimageads5.googleadservices.com
-mimageads6.googleadservices.com
-mimageads7.googleadservices.com
-mimageads8.googleadservices.com
-mimageads9.googleadservices.com
 ml.googleapis.com
 mlkit.googleapis.com
 mobilecrashreporting.googleapis.com
@@ -262,7 +238,6 @@ passwordsleakcheck-pa.googleapis.com
 pay-users-pa.googleapis.com
 peoplestackwebexperiments-pa.clients6.google.com
 personalsafety-pa.googleapis.com
-phonemasking-stage.googleoptimize.com
 phosphor-pa.googleapis.com
 photos.googleapis.com
 pki.googleapis.com
@@ -273,15 +248,12 @@ plusmixer-pa.googleapis.com
 policyremediator.googleapis.com
 proactivebackend-pa.googleapis.com
 public.commondatastorage.googleapis.com
-qs11.googletagmanager.com
 readaloud.googleapis.com
 recommendationengine.googleapis.com
 recommender.googleapis.com
 region1.google-analytics.com
 remotebuildexecution.googleapis.com
 remotedesktop-pa.googleapis.com
-remotedesktop-pa.googleapis.comgcdn.2mdn.net
-reports.crashlytics.com
 reseller.googleapis.com
 retail.googleapis.com
 safe-browsing.googleapis.com
@@ -298,7 +270,6 @@ securitydomain-pa.googleapis.com
 selenium-release.storage.googleapis.com
 serviceconsumermanagement.googleapis.com
 serviceusage.googleapis.com
-settings.crashlytics.com
 sheets.googleapis.com
 shoppingcontent.googleapis.com
 smartdevicemanagement.googleapis.com
@@ -319,7 +290,6 @@ tagmanager.googleapis.com
 taskassist-pa.googleapis.com
 tenor.googleapis.com
 test-chromecontentsuggestions-pa.googleapis.com
-test-web.googletagmanager.com
 themes.googleusercontent.com
 travelpartner.googleapis.com
 try.crashlytics.com
@@ -333,20 +303,17 @@ webdesigner.withgoogle.com
 webpermissionpredictions.googleapis.com
 webrisk.googleapis.com
 wirelessdevicestats.googleapis.com
-wp.googletagmanager.com
 www.adgoogle.net
 www.analyticsinsights-pa.googleapis.com
 www.analyticssearch-pa.googleapis.com
 www.chromecontentsuggestions-pa.googleapis.com
 www.device-provisioning.googleapis.com
-www.fonts.googleapis.com
 www.google-analytics.com
 www.googleanalytics.com
 www.googleoptimize.com
 www.googletagmanager.com
 www.googletagservices.com
 www.semanticlocation-pa.googleapis.com
-wwwctp.googletagmanager.com
 xgapromomanager-pa.googleapis.com
 youtube.googleapis.com
 zerotouch.googleapis.com
