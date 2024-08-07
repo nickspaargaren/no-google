@@ -1,5 +1,5 @@
 # This blocklist helps to restrict access to Google and its domains. Contribute at https://github.com/nickspaargaren/no-google
-# Last updated: 2024-07-28
+# Last updated: 2024-08-07
 # DNS
 
 014dcb18-dnsotls-ds.metric.gstatic.com
@@ -15,8 +15,6 @@
 1883fb82-dnsotls-ds.metric.gstatic.com
 196f4d48-dnsotls-ds.metric.gstatic.com
 1jz49v-dnsotls-ds.metric.gstatic.com
-2001:4860:4860::8844
-2001:4860:4860::8888
 202c6a4a-dnsotls-ds.metric.gstatic.com
 20f51301-dnsotls-ds.metric.gstatic.com
 21368ea8-dnsotls-ds.metric.gstatic.com
@@ -211,7 +209,6 @@ vxvimy-dnsotls-ds.metric.gstatic.com
 wk3ucl-dnsotls-ds.metric.gstatic.com
 wshjsm-dnsotls-ds.metric.gstatic.com
 www.gstatic.com
-www.gstatic.net
 xcebnc-dnsotls-ds.metric.gstatic.com
 xcrl0u-dnsotls-ds.metric.gstatic.com
 xrfn-dnsotls-ds.metric.gstatic.com

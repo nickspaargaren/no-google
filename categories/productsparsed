@@ -1,5 +1,5 @@
 # This blocklist helps to restrict access to Google and its domains. Contribute at https://github.com/nickspaargaren/no-google
-# Last updated: 2024-07-28
+# Last updated: 2024-08-07
 # Products
 
 actions.google.com
@@ -42,7 +42,6 @@ trends.google.com
 waze.com
 wazeopedia.waze.com
 worldtiles1.waze.com
-www.assistant.google.com
 www.chrome.com
 www.chromium.org
 www.code.google.com
@@ -50,12 +49,10 @@ www.coral.ai
 www.groups.google.com
 www.idx.dev
 www.images.google.com
-www.maps.google.com
 www.plus.google.com
 www.safety.google
 www.scholar.google.com
 www.sites.google.com
 www.tiltbrush.com
 www.toolbar.google.com
-www.translate.google.com
 www.waze.com
