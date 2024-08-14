@@ -177,7 +177,13 @@ def run(action: str):
 if __name__ == "__main__":
 
     # Read subcommand from command line, with error handling.
-    action_candidates = ["pihole", "unbound", "adguard", "adguard_important", "categories"]
+    action_candidates = [
+        "pihole",
+        "unbound",
+        "adguard",
+        "adguard_important",
+        "categories",
+    ]
     special_candidates = ["all", "duplicates", "json"]
     subcommand = None
     try:

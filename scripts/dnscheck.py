@@ -1,5 +1,6 @@
 import dns.resolver
 
+
 def check_domain(domain):
     try:
         # Query for 'NS' records
@@ -12,10 +13,11 @@ def check_domain(domain):
 
     return not has_ns_record
 
+
 def main():
     found_domains = 0
     domains_with_ns_records = []
-    
+
     with open("../pihole-google.txt") as f:
         for line in f:
             domain = line.strip()  # strip whitespace
@@ -31,6 +33,7 @@ def main():
     # Write remaining domains back to the file
     with open("../pihole-google.txt", "w") as f:
         f.writelines(domains_with_ns_records)
+
 
 if __name__ == "__main__":
     main()

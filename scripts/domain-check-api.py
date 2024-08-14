@@ -1,4 +1,4 @@
-import whois  # pip install python-whois
+import whois
 import time
 import re
 
@@ -19,11 +19,11 @@ def remove_duplicates(mylist: list[str]):
 
 
 def get_domains():
-    with open('../pihole-google.txt', 'r') as main:
+    with open("../pihole-google.txt", "r") as main:
         for line in main:
-            if not '#' in line and not ':' in line:
+            if not "#" in line and not ":" in line:
                 line = get_domain(line)
-                if line != '\n' and line != []:
+                if line != "\n" and line != []:
                     line = re.sub(r"\n", "", line)
                     yield line
 
