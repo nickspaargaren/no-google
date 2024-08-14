@@ -1,5 +1,5 @@
 # This blocklist helps to restrict access to Google and its domains. Contribute at https://github.com/nickspaargaren/no-google
-# Last updated: 2024-08-07
+# Last updated: 2024-08-14
 # Firebase
 
 0.firebaseio.com
@@ -32,6 +32,7 @@ admob-app-id-7468132501.firebaseio.com
 admob-app-id-8559775202.firebaseio.com
 admob-app-id-9049355141.firebaseio.com
 admob-app-id-9875848161.firebaseio.com
+ads-config.firebaseapp.com
 adsclicker-2.firebaseio.com
 aibettips.firebaseio.com
 airemadrid.firebaseio.com
@@ -219,8 +220,12 @@ findplanking3321.firebaseio.com
 firebase-dot-google-developers.appspot.com
 firebase-settings.crashlytics.com
 firebase.com
+firebase.dev
 firebase.google.com
 firebase.googleapis.com
+firebase.io
+firebaseanalytics.com
+firebaseapp.com
 firebasedynamiclinks-ipv4.googleapis.com
 firebasedynamiclinks-ipv6.googleapis.com
 firebasedynamiclinks.googleapis.com
@@ -468,6 +473,7 @@ recon.firebaseio.com
 register-1c790.firebaseio.com
 registration-c3b21.firebaseio.com
 relaxation-bowl-7b6e1.firebaseio.com
+reserve-5a846.firebaseio.com
 resplendent-fire-5140.firebaseio.com
 resplendent-inferno-9530.firebaseio.com
 reviewable-k8s.firebaseio.com
