@@ -17,3 +17,9 @@ whois: ## Check all domains with whois
 
 dnscheck: ## Check all domains if they have a response
 	@. .venv/bin/activate; cd scripts && python dnscheck.py
+
+codestyle-check: ## Check all Python scripts code style
+	@. .venv/bin/activate; black . --check
+
+codestyle-fix: ## Fix all Python scripts code style
+	@. .venv/bin/activate; black .
