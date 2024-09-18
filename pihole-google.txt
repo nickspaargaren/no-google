@@ -6235,7 +6235,6 @@ v8.cache1.c.youtube.com
 video-analytics.google.com
 web-green-qa.youtube.com
 web-release-qa.youtube.com
-wide-youtube.l.google.com
 withyoutube.com
 www.m.youtube.com
 www.youtube-nocookie.com
@@ -6250,7 +6249,6 @@ www.youtube.pl
 www.youtubeeducation.com
 www.youtubegaming.com
 youtube-nocookie.com
-youtube-ui.l.google.com
 youtube.be
 youtube.co.uk
 youtube.com
@@ -6264,7 +6262,6 @@ youtubeembeddedplayer.googleapis.com
 youtubegaming.com
 youtubei.googleapis.com
 youtubei.youtube.com
-yt-video-upload.l.google.com
 yt3.ggpht.com
 yt3.googleusercontent.com
 ytimg.com
