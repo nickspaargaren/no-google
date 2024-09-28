@@ -13,7 +13,7 @@ jobs:
           git config --global user.name 'github-actions[bot]'
           git config --global user.email '41898282+github-actions[bot]@users.noreply.github.com'
         name: Python setup
-      - uses: actions/setup-python@v2
+      - uses: actions/setup-python@v5
         with:
           python-version: 3.8
           cache: 'pip'
