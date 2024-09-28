@@ -1,5 +1,8 @@
 name: DNS
-on: [push]
+on:
+  push:
+    paths:
+      - 'pihole-google.txt'
 jobs:
   dns-check:
     name: Remove domains without NS records
