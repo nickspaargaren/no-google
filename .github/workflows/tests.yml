@@ -38,7 +38,8 @@ jobs:
       with:
         python-version: 3.9
         cache: 'pip'
-    - run: pip install -r requirements.txt
+    - name: Install Requirements
+      run: pip install -r requirements.txt
     - name: Check if list includes regex domains
       run: |
         cd scripts
