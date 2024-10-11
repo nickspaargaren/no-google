@@ -6257,6 +6257,7 @@ youtube.fr
 youtube.nl
 youtube.pl
 youtubeeducation.com
+youtubeembeddedplayer.googleapis.com
 youtubegaming.com
 youtubei.googleapis.com
 youtubei.youtube.com
