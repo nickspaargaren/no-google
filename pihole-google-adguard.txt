@@ -1,5 +1,5 @@
 ! This blocklist helps to restrict access to Google and its domains. Contribute at https://github.com/nickspaargaren/no-google
-! Last updated: 2024-08-14
+! Last updated: 2024-10-11
 ! Analytics
 ||-chromecontentsuggestions-pa.googleapis.com^
 ||*-android-context-data.googleapis.com^
@@ -158,7 +158,6 @@
 ||datafusion.googleapis.com^
 ||datalabeling.googleapis.com^
 ||datalineage.googleapis.com^
-||datamixer.pa.googleapis.com^
 ||datapipelines.googleapis.com^
 ||dataplex.googleapis.com^
 ||dataprep.googleapis.com^
@@ -6260,6 +6259,7 @@
 ||youtube.nl^
 ||youtube.pl^
 ||youtubeeducation.com^
+||youtubeembeddedplayer.googleapis.com^
 ||youtubegaming.com^
 ||youtubei.googleapis.com^
 ||youtubei.youtube.com^
@@ -6586,36 +6586,6 @@
 ||img2.fitbit.com^
 ||img3.fitbit.com^
 ||in-store.fitbit.com^
-||int-android-api.fitbit.com^
-||int-android-cdn-api.fitbit.com^
-||int-android-cdn-client.fitbit.com^
-||int-android-cdn-softapi.fitbit.com^
-||int-android-cdn-softclient.fitbit.com^
-||int-android-client.fitbit.com^
-||int-android-softclient.fitbit.com^
-||int-api.fitbit.com^
-||int-client.fitbit.com^
-||int-desktop-api.fitbit.com^
-||int-desktop-cdn-api.fitbit.com^
-||int-desktop-cdn-client.fitbit.com^
-||int-desktop-client.fitbit.com^
-||int-iphone-api.fitbit.com^
-||int-iphone-cdn-api.fitbit.com^
-||int-iphone-cdn-client.fitbit.com^
-||int-iphone-cdn-softapi.fitbit.com^
-||int-iphone-cdn-softclient.fitbit.com^
-||int-iphone-client.fitbit.com^
-||int-iphone-softapi.fitbit.com^
-||int-iphone-softclient.fitbit.com^
-||int-mobile-client-static0.fitbit.com^
-||int-mobile-client-static1.fitbit.com^
-||int-windows-api.fitbit.com^
-||int-windows-cdn-api.fitbit.com^
-||int-windows-cdn-client.fitbit.com^
-||int-windows-cdn-softapi.fitbit.com^
-||int-windows-cdn-softclient.fitbit.com^
-||int-windows-client.fitbit.com^
-||int-windows-softclient.fitbit.com^
 ||investor.fitbit.com^
 ||investors.fitbit.com^
 ||iphone-api.fitbit.com^
@@ -6710,36 +6680,6 @@
 ||snapdragon-ws.fitbit.com^
 ||source.fitbit.com^
 ||src.fitbit.com^
-||stage-android-api.fitbit.com^
-||stage-android-cdn-api.fitbit.com^
-||stage-android-cdn-client.fitbit.com^
-||stage-android-cdn-softapi.fitbit.com^
-||stage-android-cdn-softclient.fitbit.com^
-||stage-android-client.fitbit.com^
-||stage-android-softclient.fitbit.com^
-||stage-api.fitbit.com^
-||stage-client.fitbit.com^
-||stage-desktop-api.fitbit.com^
-||stage-desktop-cdn-api.fitbit.com^
-||stage-desktop-cdn-client.fitbit.com^
-||stage-desktop-client.fitbit.com^
-||stage-iphone-api.fitbit.com^
-||stage-iphone-cdn-api.fitbit.com^
-||stage-iphone-cdn-client.fitbit.com^
-||stage-iphone-cdn-softapi.fitbit.com^
-||stage-iphone-cdn-softclient.fitbit.com^
-||stage-iphone-client.fitbit.com^
-||stage-iphone-softapi.fitbit.com^
-||stage-iphone-softclient.fitbit.com^
-||stage-mobile-client-static0.fitbit.com^
-||stage-mobile-client-static1.fitbit.com^
-||stage-windows-api.fitbit.com^
-||stage-windows-cdn-api.fitbit.com^
-||stage-windows-cdn-client.fitbit.com^
-||stage-windows-cdn-softapi.fitbit.com^
-||stage-windows-cdn-softclient.fitbit.com^
-||stage-windows-client.fitbit.com^
-||stage-windows-softclient.fitbit.com^
 ||stage.fitbit.com^
 ||static0.fitbit.com^
 ||static1.fitbit.com^
