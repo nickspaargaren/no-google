@@ -1,5 +1,5 @@
 # This blocklist helps to restrict access to Google and its domains. Contribute at https://github.com/nickspaargaren/no-google
-# Last updated: 2024-08-14
+# Last updated: 2024-10-11
 # Analytics
 
 0.0.0.0 -chromecontentsuggestions-pa.googleapis.com
@@ -159,7 +159,6 @@
 0.0.0.0 datafusion.googleapis.com
 0.0.0.0 datalabeling.googleapis.com
 0.0.0.0 datalineage.googleapis.com
-0.0.0.0 datamixer.pa.googleapis.com
 0.0.0.0 datapipelines.googleapis.com
 0.0.0.0 dataplex.googleapis.com
 0.0.0.0 dataprep.googleapis.com

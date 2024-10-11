@@ -1,5 +1,5 @@
 ! This blocklist helps to restrict access to Google and its domains. Contribute at https://github.com/nickspaargaren/no-google
-! Last updated: 2024-08-14
+! Last updated: 2024-10-11
 ! Analytics
 ||-chromecontentsuggestions-pa.googleapis.com^$important
 ||*-android-context-data.googleapis.com^$important
@@ -158,7 +158,6 @@
 ||datafusion.googleapis.com^$important
 ||datalabeling.googleapis.com^$important
 ||datalineage.googleapis.com^$important
-||datamixer.pa.googleapis.com^$important
 ||datapipelines.googleapis.com^$important
 ||dataplex.googleapis.com^$important
 ||dataprep.googleapis.com^$important
@@ -6260,6 +6259,7 @@
 ||youtube.nl^$important
 ||youtube.pl^$important
 ||youtubeeducation.com^$important
+||youtubeembeddedplayer.googleapis.com^$important
 ||youtubegaming.com^$important
 ||youtubei.googleapis.com^$important
 ||youtubei.youtube.com^$important
@@ -6586,36 +6586,6 @@
 ||img2.fitbit.com^$important
 ||img3.fitbit.com^$important
 ||in-store.fitbit.com^$important
-||int-android-api.fitbit.com^$important
-||int-android-cdn-api.fitbit.com^$important
-||int-android-cdn-client.fitbit.com^$important
-||int-android-cdn-softapi.fitbit.com^$important
-||int-android-cdn-softclient.fitbit.com^$important
-||int-android-client.fitbit.com^$important
-||int-android-softclient.fitbit.com^$important
-||int-api.fitbit.com^$important
-||int-client.fitbit.com^$important
-||int-desktop-api.fitbit.com^$important
-||int-desktop-cdn-api.fitbit.com^$important
-||int-desktop-cdn-client.fitbit.com^$important
-||int-desktop-client.fitbit.com^$important
-||int-iphone-api.fitbit.com^$important
-||int-iphone-cdn-api.fitbit.com^$important
-||int-iphone-cdn-client.fitbit.com^$important
-||int-iphone-cdn-softapi.fitbit.com^$important
-||int-iphone-cdn-softclient.fitbit.com^$important
-||int-iphone-client.fitbit.com^$important
-||int-iphone-softapi.fitbit.com^$important
-||int-iphone-softclient.fitbit.com^$important
-||int-mobile-client-static0.fitbit.com^$important
-||int-mobile-client-static1.fitbit.com^$important
-||int-windows-api.fitbit.com^$important
-||int-windows-cdn-api.fitbit.com^$important
-||int-windows-cdn-client.fitbit.com^$important
-||int-windows-cdn-softapi.fitbit.com^$important
-||int-windows-cdn-softclient.fitbit.com^$important
-||int-windows-client.fitbit.com^$important
-||int-windows-softclient.fitbit.com^$important
 ||investor.fitbit.com^$important
 ||investors.fitbit.com^$important
 ||iphone-api.fitbit.com^$important
@@ -6710,36 +6680,6 @@
 ||snapdragon-ws.fitbit.com^$important
 ||source.fitbit.com^$important
 ||src.fitbit.com^$important
-||stage-android-api.fitbit.com^$important
-||stage-android-cdn-api.fitbit.com^$important
-||stage-android-cdn-client.fitbit.com^$important
-||stage-android-cdn-softapi.fitbit.com^$important
-||stage-android-cdn-softclient.fitbit.com^$important
-||stage-android-client.fitbit.com^$important
-||stage-android-softclient.fitbit.com^$important
-||stage-api.fitbit.com^$important
-||stage-client.fitbit.com^$important
-||stage-desktop-api.fitbit.com^$important
-||stage-desktop-cdn-api.fitbit.com^$important
-||stage-desktop-cdn-client.fitbit.com^$important
-||stage-desktop-client.fitbit.com^$important
-||stage-iphone-api.fitbit.com^$important
-||stage-iphone-cdn-api.fitbit.com^$important
-||stage-iphone-cdn-client.fitbit.com^$important
-||stage-iphone-cdn-softapi.fitbit.com^$important
-||stage-iphone-cdn-softclient.fitbit.com^$important
-||stage-iphone-client.fitbit.com^$important
-||stage-iphone-softapi.fitbit.com^$important
-||stage-iphone-softclient.fitbit.com^$important
-||stage-mobile-client-static0.fitbit.com^$important
-||stage-mobile-client-static1.fitbit.com^$important
-||stage-windows-api.fitbit.com^$important
-||stage-windows-cdn-api.fitbit.com^$important
-||stage-windows-cdn-client.fitbit.com^$important
-||stage-windows-cdn-softapi.fitbit.com^$important
-||stage-windows-cdn-softclient.fitbit.com^$important
-||stage-windows-client.fitbit.com^$important
-||stage-windows-softclient.fitbit.com^$important
 ||stage.fitbit.com^$important
 ||static0.fitbit.com^$important
 ||static1.fitbit.com^$important

@@ -1,5 +1,5 @@
 # This blocklist helps to restrict access to Google and its domains. Contribute at https://github.com/nickspaargaren/no-google
-# Last updated: 2024-08-14
+# Last updated: 2024-10-11
 # Youtube
 
 0.0.0.0 _domainkey.youtube.com
@@ -609,6 +609,7 @@
 0.0.0.0 youtube.nl
 0.0.0.0 youtube.pl
 0.0.0.0 youtubeeducation.com
+0.0.0.0 youtubeembeddedplayer.googleapis.com
 0.0.0.0 youtubegaming.com
 0.0.0.0 youtubei.googleapis.com
 0.0.0.0 youtubei.youtube.com
