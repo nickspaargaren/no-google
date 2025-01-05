@@ -1,5 +1,5 @@
 ! This blocklist helps to restrict access to Google and its domains. Contribute at https://github.com/nickspaargaren/no-google
-! Last updated: 2024-10-11
+! Last updated: 2025-01-05
 ! Analytics
 ||-chromecontentsuggestions-pa.googleapis.com^
 ||*-android-context-data.googleapis.com^
@@ -4146,7 +4146,6 @@
 ||r1---sn-ntqe6n76.gvt1.com^
 ||r1---sn-nx5s7n76.gvt1.com^
 ||r1---sn-ogul7n76.gvt1.com^
-||r1---sn-p5h-gc56.gvt1.com^
 ||r1---sn-poqvn5u-jb36.gvt1.com^
 ||r1---sn-q5u5bgv02-3c26.gvt1.com^
 ||r1---sn-u2oxu-2v16.gvt1.com^
@@ -4195,7 +4194,6 @@
 ||r2---sn-ntqe6n76.gvt1.com^
 ||r2---sn-nx5s7n76.gvt1.com^
 ||r2---sn-ogul7n76.gvt1.com^
-||r2---sn-p5h-gc56.gvt1.com^
 ||r2---sn-poqvn5u-jb36.gvt1.com^
 ||r2---sn-upbvbu-b056.gvt1.com^
 ||r2---sn-uxa3vhnxa-2306.gvt1.com^
@@ -4226,7 +4224,6 @@
 ||r3---sn-ntqe6n76.gvt1.com^
 ||r3---sn-nx5s7n76.gvt1.com^
 ||r3---sn-ogul7n76.gvt1.com^
-||r3---sn-p5h-gc56.gvt1.com^
 ||r3---sn-poqvn5u-jb36.gvt1.com^
 ||r3---sn-pouxgn8t51-jx36.gvt1.com^
 ||r3---sn-q4flrnee.c.docs.google.com^
@@ -4259,7 +4256,6 @@
 ||r4---sn-ntqe6n76.gvt1.com^
 ||r4---sn-nx5s7n76.gvt1.com^
 ||r4---sn-ogul7n76.gvt1.com^
-||r4---sn-p5h-gc56.gvt1.com^
 ||r4---sn-poqvn5u-jb36.gvt1.com^
 ||r4---sn-q5u5bgv02-3c26.gvt1.com^
 ||r4---sn-u2oxu-2v16.gvt1.com^
@@ -6172,7 +6168,6 @@
 ||r2---sn-4g5e6nzs.c.youtube.com^
 ||r2---sn-4g5ednsl.c.youtube.com^
 ||r2---sn-aigzrn7z.c.youtube.com^
-||r2---sn-bg0ezn7z.c.youtube.com^
 ||r2---sn-hgn7rne7.c.youtube.com^
 ||r2---sn-q4flrnel.c.youtube.com^
 ||r2.sn-hgn7rne7.c.youtube.com^
