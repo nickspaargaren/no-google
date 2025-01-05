@@ -1,5 +1,5 @@
 # This blocklist helps to restrict access to Google and its domains. Contribute at https://github.com/nickspaargaren/no-google
-# Last updated: 2024-10-11
+# Last updated: 2025-01-05
 # General
 
 0.chart.apis.google.com
@@ -1358,7 +1358,6 @@ r1---sn-ni57dn76.gvt1.com
 r1---sn-ntqe6n76.gvt1.com
 r1---sn-nx5s7n76.gvt1.com
 r1---sn-ogul7n76.gvt1.com
-r1---sn-p5h-gc56.gvt1.com
 r1---sn-poqvn5u-jb36.gvt1.com
 r1---sn-q5u5bgv02-3c26.gvt1.com
 r1---sn-u2oxu-2v16.gvt1.com
@@ -1407,7 +1406,6 @@ r2---sn-ni57dn76.gvt1.com
 r2---sn-ntqe6n76.gvt1.com
 r2---sn-nx5s7n76.gvt1.com
 r2---sn-ogul7n76.gvt1.com
-r2---sn-p5h-gc56.gvt1.com
 r2---sn-poqvn5u-jb36.gvt1.com
 r2---sn-upbvbu-b056.gvt1.com
 r2---sn-uxa3vhnxa-2306.gvt1.com
@@ -1438,7 +1436,6 @@ r3---sn-npoeenek.c.drive.google.com
 r3---sn-ntqe6n76.gvt1.com
 r3---sn-nx5s7n76.gvt1.com
 r3---sn-ogul7n76.gvt1.com
-r3---sn-p5h-gc56.gvt1.com
 r3---sn-poqvn5u-jb36.gvt1.com
 r3---sn-pouxgn8t51-jx36.gvt1.com
 r3---sn-q4flrnee.c.docs.google.com
@@ -1471,7 +1468,6 @@ r4---sn-npoeenee.c.docs.google.com
 r4---sn-ntqe6n76.gvt1.com
 r4---sn-nx5s7n76.gvt1.com
 r4---sn-ogul7n76.gvt1.com
-r4---sn-p5h-gc56.gvt1.com
 r4---sn-poqvn5u-jb36.gvt1.com
 r4---sn-q5u5bgv02-3c26.gvt1.com
 r4---sn-u2oxu-2v16.gvt1.com
