@@ -7,9 +7,12 @@ jobs:
     name: Remove domains without NS records
     runs-on: ubuntu-latest
     steps:
+      - name: Set dynamic branch name
+        id: branch_name
+        run: echo "branch_name=dns-update-$(date +'%Y%m%d%H%M%S')" >> $GITHUB_ENV
       - uses: actions/checkout@v4
         with:
-          ref: dns-update-$(date +'%Y%m%d%H%M%S')
+          ref: ${{ env.branch_name }}
       - run: |
           git config --global user.name 'github-actions[bot]'
           git config --global user.email '41898282+github-actions[bot]@users.noreply.github.com'
@@ -29,27 +32,27 @@ jobs:
         run: |
           if [[ `git status --porcelain pihole-google.txt` ]]; then
             echo "Domains found without NS records"
-            echo "::set-output name=changes_detected::true"
+            echo "changes_detected=true" >> $GITHUB_ENV
           else
             echo "No domains without NS records found"
-            echo "::set-output name=changes_detected::false"
+            echo "changes_detected=false" >> $GITHUB_ENV
           fi
       - name: Commit updated pihole-google.txt
-        if: steps.check_changes.outputs.changes_detected == 'true'
+        if: env.changes_detected == 'true'
         run: |
           git add pihole-google.txt
           git commit -am "Remove domains without NS records"
-          git push
+          git push origin ${{ env.branch_name }}
       - name: Install GitHub CLI (gh)
-        if: steps.check_changes.outputs.changes_detected == 'true'
+        if: env.changes_detected == 'true'
         run: |
           sudo apt-get update
           sudo apt-get install -y gh
       - name: Create Pull Request
-        if: steps.check_changes.outputs.changes_detected == 'true'
+        if: env.changes_detected == 'true'
         run: |
           gh pr create \
             --base master \
-            --head ${{ steps.check_changes.outputs.branch_name }} \
+            --head ${{ env.branch_name }} \
             --title "Automated DNS Update: Remove domains without NS records" \
             --body "This PR contains the weekly updates to the DNS list by removing domains without NS records."
