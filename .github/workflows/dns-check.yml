@@ -11,8 +11,10 @@ jobs:
         id: branch_name
         run: echo "branch_name=dns-update-$(date +'%Y%m%d%H%M%S')" >> $GITHUB_ENV
       - uses: actions/checkout@v4
-        with:
-          ref: ${{ env.branch_name }}
+      - name: Create and switch to the new branch
+        run: |
+          git checkout -b ${{ env.branch_name }}
+          echo "Created and switched to branch ${{ env.branch_name }}"
       - run: |
           git config --global user.name 'github-actions[bot]'
           git config --global user.email '41898282+github-actions[bot]@users.noreply.github.com'
@@ -50,6 +52,8 @@ jobs:
           sudo apt-get install -y gh
       - name: Create Pull Request
         if: env.changes_detected == 'true'
+        env:
+          GH_TOKEN: ${{ secrets.GH_TOKEN }}
         run: |
           gh pr create \
             --base master \
