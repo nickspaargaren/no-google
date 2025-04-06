@@ -6528,10 +6528,6 @@ customersupport-tableau.site-ops.fitbit.com
 demisto-devel.gcp.fitbit.com
 demisto-stage.gcp.fitbit.com
 demisto.gcp.fitbit.com
-desktop-api.fitbit.com
-desktop-cdn-api.fitbit.com
-desktop-cdn-client.fitbit.com
-desktop-client.fitbit.com
 desktop-static.fitbit.com
 dev.fitbit.com
 device101.fitbit.com
@@ -6713,12 +6709,6 @@ web-api.fitbit.com
 web-metrics.fitbit.com
 wellness.fitbit.com
 wiki.fitbit.com
-windows-api.fitbit.com
-windows-cdn-api.fitbit.com
-windows-cdn-client.fitbit.com
-windows-cdn-softclient.fitbit.com
-windows-client.fitbit.com
-windows-softclient.fitbit.com
 www.fitbit.com
 www.help.fitbit.com
 www.iedc.fitbit.com
