@@ -1,5 +1,5 @@
 # This blocklist helps to restrict access to Google and its domains. Contribute at https://github.com/nickspaargaren/no-google
-# Last updated: 2025-02-24
+# Last updated: 2025-04-08
 # Analytics
 0.0.0.0 -chromecontentsuggestions-pa.googleapis.com
 0.0.0.0 *-android-context-data.googleapis.com
@@ -6530,10 +6530,6 @@
 0.0.0.0 demisto-devel.gcp.fitbit.com
 0.0.0.0 demisto-stage.gcp.fitbit.com
 0.0.0.0 demisto.gcp.fitbit.com
-0.0.0.0 desktop-api.fitbit.com
-0.0.0.0 desktop-cdn-api.fitbit.com
-0.0.0.0 desktop-cdn-client.fitbit.com
-0.0.0.0 desktop-client.fitbit.com
 0.0.0.0 desktop-static.fitbit.com
 0.0.0.0 dev.fitbit.com
 0.0.0.0 device101.fitbit.com
@@ -6715,12 +6711,6 @@
 0.0.0.0 web-metrics.fitbit.com
 0.0.0.0 wellness.fitbit.com
 0.0.0.0 wiki.fitbit.com
-0.0.0.0 windows-api.fitbit.com
-0.0.0.0 windows-cdn-api.fitbit.com
-0.0.0.0 windows-cdn-client.fitbit.com
-0.0.0.0 windows-cdn-softclient.fitbit.com
-0.0.0.0 windows-client.fitbit.com
-0.0.0.0 windows-softclient.fitbit.com
 0.0.0.0 www.fitbit.com
 0.0.0.0 www.help.fitbit.com
 0.0.0.0 www.iedc.fitbit.com

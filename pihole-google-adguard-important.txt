@@ -1,5 +1,5 @@
 ! This blocklist helps to restrict access to Google and its domains. Contribute at https://github.com/nickspaargaren/no-google
-! Last updated: 2025-02-24
+! Last updated: 2025-04-08
 ! Analytics
 ||-chromecontentsuggestions-pa.googleapis.com^$important
 ||*-android-context-data.googleapis.com^$important
@@ -6530,10 +6530,6 @@
 ||demisto-devel.gcp.fitbit.com^$important
 ||demisto-stage.gcp.fitbit.com^$important
 ||demisto.gcp.fitbit.com^$important
-||desktop-api.fitbit.com^$important
-||desktop-cdn-api.fitbit.com^$important
-||desktop-cdn-client.fitbit.com^$important
-||desktop-client.fitbit.com^$important
 ||desktop-static.fitbit.com^$important
 ||dev.fitbit.com^$important
 ||device101.fitbit.com^$important
@@ -6715,12 +6711,6 @@
 ||web-metrics.fitbit.com^$important
 ||wellness.fitbit.com^$important
 ||wiki.fitbit.com^$important
-||windows-api.fitbit.com^$important
-||windows-cdn-api.fitbit.com^$important
-||windows-cdn-client.fitbit.com^$important
-||windows-cdn-softclient.fitbit.com^$important
-||windows-client.fitbit.com^$important
-||windows-softclient.fitbit.com^$important
 ||www.fitbit.com^$important
 ||www.help.fitbit.com^$important
 ||www.iedc.fitbit.com^$important
