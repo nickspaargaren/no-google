@@ -4174,7 +4174,6 @@ r16---sn-8p8v-bg06.gvt1.com
 r16---sn-ni57dn76.gvt1.com
 r17---sn-ni57dn76.gvt1.com
 r18---sn-ni57dn76.gvt1.com
-r2---sn-03guxaxjvh-3c26.gvt1.com
 r2---sn-0opoxuui5pa5oq-c336.gvt1.com
 r2---sn-3tp8nu5g-3c26.gvt1.com
 r2---sn-5fo-c336.gvt1.com
