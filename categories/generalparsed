@@ -1,5 +1,5 @@
 # This blocklist helps to restrict access to Google and its domains. Contribute at https://github.com/nickspaargaren/no-google
-# Last updated: 2025-04-08
+# Last updated: 2025-04-14
 # General
 
 0.chart.apis.google.com
@@ -1388,7 +1388,6 @@ r16---sn-8p8v-bg06.gvt1.com
 r16---sn-ni57dn76.gvt1.com
 r17---sn-ni57dn76.gvt1.com
 r18---sn-ni57dn76.gvt1.com
-r2---sn-03guxaxjvh-3c26.gvt1.com
 r2---sn-0opoxuui5pa5oq-c336.gvt1.com
 r2---sn-3tp8nu5g-3c26.gvt1.com
 r2---sn-5fo-c336.gvt1.com
