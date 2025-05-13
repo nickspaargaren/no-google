@@ -1,5 +1,5 @@
 ! This blocklist helps to restrict access to Google and its domains. Contribute at https://github.com/nickspaargaren/no-google
-! Last updated: 2025-04-14
+! Last updated: 2025-05-13
 ! Analytics
 ||-chromecontentsuggestions-pa.googleapis.com^$important
 ||*-android-context-data.googleapis.com^$important
@@ -6579,14 +6579,6 @@
 ||iphone-client.fitbit.com^$important
 ||iphone-softapi.fitbit.com^$important
 ||iphone-softclient.fitbit.com^$important
-||jenkins-deploy-1.gcp.fitbit.com^$important
-||jenkins-deploy-2.gcp.fitbit.com^$important
-||jenkins-deploy-3.gcp.fitbit.com^$important
-||jenkins-deploy-4.gcp.fitbit.com^$important
-||jenkins-stage-deploy-2.gcp.fitbit.com^$important
-||jenkins-stage-deploy-3.gcp.fitbit.com^$important
-||jenkins-stage-deploy-4.gcp.fitbit.com^$important
-||jenkins.fitbit.com^$important
 ||jira.fitbit.com^$important
 ||jobs.fitbit.com^$important
 ||ldaps-ext.corp.fitbit.com^$important
