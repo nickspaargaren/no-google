@@ -6577,14 +6577,6 @@ iphone-cdn-softclient.fitbit.com
 iphone-client.fitbit.com
 iphone-softapi.fitbit.com
 iphone-softclient.fitbit.com
-jenkins-deploy-1.gcp.fitbit.com
-jenkins-deploy-2.gcp.fitbit.com
-jenkins-deploy-3.gcp.fitbit.com
-jenkins-deploy-4.gcp.fitbit.com
-jenkins-stage-deploy-2.gcp.fitbit.com
-jenkins-stage-deploy-3.gcp.fitbit.com
-jenkins-stage-deploy-4.gcp.fitbit.com
-jenkins.fitbit.com
 jira.fitbit.com
 jobs.fitbit.com
 ldaps-ext.corp.fitbit.com
