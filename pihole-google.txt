@@ -492,6 +492,7 @@ m.android.com
 market.android.com
 mdh-pa.googleapis.com
 messages.android.com
+mobileconfiguration-pa.googleapis.com
 mobilemaps-pa-gz.googleapis.com
 mobilemaps-pa.googleapis.com
 mobilemaps.googleapis.com
@@ -516,6 +517,7 @@ regioinfo-pa.googleapis.com
 regioninfo-pa.googleapis.com
 releasetracker.partner.android.com
 reminders-pa.googleapis.com
+restrictedapps-pa.googleapis.com
 review.source.android.com
 s.android.com
 safebrowsing.googleapis.com
@@ -525,6 +527,7 @@ securetoken.googleapis.com
 semanticlocation-pa.googleapis.com
 source.android.com
 speechs3proto2-pa.googleapis.com
+spot-pa.googleapis.com
 static.googleadsserving.cn
 stats.blogger.com
 supl.google.com
