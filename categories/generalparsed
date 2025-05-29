@@ -1,5 +1,5 @@
 # This blocklist helps to restrict access to Google and its domains. Contribute at https://github.com/nickspaargaren/no-google
-# Last updated: 2025-05-26
+# Last updated: 2025-05-29
 # General
 
 0.chart.apis.google.com
@@ -673,6 +673,7 @@ developer.chrome.com
 developer.googleplex.com
 device-provisioning.googleapis.com
 devsite.googleplex.com
+dg95h.app.goo.gl
 dh2yuuwr45.com
 dh5txcojmw.com
 dialogflow.cloud.google.com

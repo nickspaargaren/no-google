@@ -1,5 +1,5 @@
 # This blocklist helps to restrict access to Google and its domains. Contribute at https://github.com/nickspaargaren/no-google
-# Last updated: 2025-05-26
+# Last updated: 2025-05-29
 # Short Links
 
 0.0.0.0 app.goo.gl
