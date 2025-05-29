@@ -1,5 +1,5 @@
 ! This blocklist helps to restrict access to Google and its domains. Contribute at https://github.com/nickspaargaren/no-google
-! Last updated: 2025-05-26
+! Last updated: 2025-05-29
 ! Analytics
 ||-chromecontentsuggestions-pa.googleapis.com^$important
 ||*-android-context-data.googleapis.com^$important
@@ -494,6 +494,7 @@
 ||market.android.com^$important
 ||mdh-pa.googleapis.com^$important
 ||messages.android.com^$important
+||mobileconfiguration-pa.googleapis.com^$important
 ||mobilemaps-pa-gz.googleapis.com^$important
 ||mobilemaps-pa.googleapis.com^$important
 ||mobilemaps.googleapis.com^$important
@@ -518,6 +519,7 @@
 ||regioninfo-pa.googleapis.com^$important
 ||releasetracker.partner.android.com^$important
 ||reminders-pa.googleapis.com^$important
+||restrictedapps-pa.googleapis.com^$important
 ||review.source.android.com^$important
 ||s.android.com^$important
 ||safebrowsing.googleapis.com^$important
@@ -527,6 +529,7 @@
 ||semanticlocation-pa.googleapis.com^$important
 ||source.android.com^$important
 ||speechs3proto2-pa.googleapis.com^$important
+||spot-pa.googleapis.com^$important
 ||static.googleadsserving.cn^$important
 ||stats.blogger.com^$important
 ||supl.google.com^$important
