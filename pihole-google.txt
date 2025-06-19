@@ -1616,6 +1616,7 @@ search.google.com
 security.google.com
 services.google.com
 services2.google.com
+share.google
 sheets.google.com
 shopping.google.com
 simtransfer.goog
