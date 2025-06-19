@@ -1,5 +1,5 @@
 ! This blocklist helps to restrict access to Google and its domains. Contribute at https://github.com/nickspaargaren/no-google
-! Last updated: 2025-05-29
+! Last updated: 2025-06-19
 ! Analytics
 ||-chromecontentsuggestions-pa.googleapis.com^$important
 ||*-android-context-data.googleapis.com^$important
@@ -1618,6 +1618,7 @@
 ||security.google.com^$important
 ||services.google.com^$important
 ||services2.google.com^$important
+||share.google^$important
 ||sheets.google.com^$important
 ||shopping.google.com^$important
 ||simtransfer.goog^$important
