@@ -1,5 +1,5 @@
 # This blocklist helps to restrict access to Google and its domains. Contribute at https://github.com/nickspaargaren/no-google
-# Last updated: 2025-05-29
+# Last updated: 2025-06-19
 # Domains
 
 _caldav._tcp.google.com
@@ -854,6 +854,7 @@ search.google.com
 security.google.com
 services.google.com
 services2.google.com
+share.google
 sheets.google.com
 shopping.google.com
 simtransfer.goog
