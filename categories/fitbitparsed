@@ -1,5 +1,5 @@
 # This blocklist helps to restrict access to Google and its domains. Contribute at https://github.com/nickspaargaren/no-google
-# Last updated: 2025-06-19
+# Last updated: 2025-06-22
 # Fitbit
 
 000-client.fitbit.com
@@ -396,7 +396,6 @@ sitemiracrl.pkiv3.fitbit.com
 siteocsp.pkiv3.fitbit.com
 snapdragon-ws.fitbit.com
 source.fitbit.com
-src.fitbit.com
 stage.fitbit.com
 static0.fitbit.com
 static1.fitbit.com
