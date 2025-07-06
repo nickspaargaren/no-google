@@ -2347,7 +2347,6 @@ firebase.dev
 firebase.google.com
 firebase.googleapis.com
 firebase.io
-firebaseanalytics.com
 firebaseapp.com
 firebasedynamiclinks-ipv4.googleapis.com
 firebasedynamiclinks-ipv6.googleapis.com
