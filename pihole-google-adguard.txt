@@ -1,5 +1,5 @@
 ! This blocklist helps to restrict access to Google and its domains. Contribute at https://github.com/nickspaargaren/no-google
-! Last updated: 2025-06-22
+! Last updated: 2025-07-06
 ! Analytics
 ||-chromecontentsuggestions-pa.googleapis.com^
 ||*-android-context-data.googleapis.com^
@@ -2349,7 +2349,6 @@
 ||firebase.google.com^
 ||firebase.googleapis.com^
 ||firebase.io^
-||firebaseanalytics.com^
 ||firebaseapp.com^
 ||firebasedynamiclinks-ipv4.googleapis.com^
 ||firebasedynamiclinks-ipv6.googleapis.com^
