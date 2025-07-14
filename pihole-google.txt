@@ -6545,7 +6545,6 @@ gam.fitbit.com
 games-platform.fitbit.com
 GCP02-NF-01.corp.fitbit.com
 gcs-assets.fitbit.com
-GlobalVPN.corp.fitbit.com
 gradle-enterprise-devel-gcp.site-ops.fitbit.com
 groups.fitbit.com
 gslink.fitbit.com
