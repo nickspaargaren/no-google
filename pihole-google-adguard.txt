@@ -1,5 +1,5 @@
 ! This blocklist helps to restrict access to Google and its domains. Contribute at https://github.com/nickspaargaren/no-google
-! Last updated: 2025-09-16
+! Last updated: 2025-09-28
 ! Analytics
 ||-chromecontentsuggestions-pa.googleapis.com^
 ||*-android-context-data.googleapis.com^
@@ -3246,7 +3246,6 @@
 ||b42mt0jrxf.com^
 ||badad.googleplex.com^
 ||bard.google.com^
-||baseline.google.com^
 ||bc-in-f129.1e100.net^
 ||beacons-handoff.gcp.gvt2.com^
 ||beacons.gcp.gvt2.com^
