@@ -763,6 +763,7 @@
 0.0.0.0 nexus.google.com
 0.0.0.0 nol.google.com
 0.0.0.0 notebook.google.com
+0.0.0.0 notebooklm.google.com
 0.0.0.0 ns-cloud-a1.googledomains.com
 0.0.0.0 ns-cloud-a2.googledomains.com
 0.0.0.0 ns-cloud-a3.googledomains.com
