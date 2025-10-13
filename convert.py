@@ -11,6 +11,7 @@ class DomainBlocklistConverter:
     INPUT_FILE = "pihole-google.txt"
     PIHOLE_FILE = "google-domains"
     UNBOUND_FILE = "pihole-google-unbound.conf"
+    DNSMASQ_FILE = "pihole-google-dnsmasq.conf"
     ADGUARD_FILE = "pihole-google-adguard.txt"
     ADGUARD_IMPORTANT_FILE = "pihole-google-adguard-important.txt"
     CATEGORIES_PATH = "categories"
@@ -70,6 +71,24 @@ class DomainBlocklistConverter:
                 for entry in entries:
                     if entry != "":
                         f.write(f'local-zone: "{entry}" always_refuse\n')
+
+    def dnsmasq(self):
+        """
+        Produce blocklist for DNSMasq v2.86+.
+
+        Uses the local=/domain/ syntax which is supported in DNSMasq v2.86+.
+        This format is used by OpenWrt and other systems.
+        https://github.com/nickspaargaren/no-google/issues/196
+        """
+        with open(self.DNSMASQ_FILE, "w") as f:
+            f.write(f"# {self.BLOCKLIST_ABOUT}\n")
+            f.write(f"# Last updated: {self.timestamp}\n")
+            f.write(f"# DNSMasq v2.86+ format\n")
+            for category, entries in self.data.items():
+                f.write(f"\n# Category: {category}\n")
+                for entry in entries:
+                    if entry != "":
+                        f.write(f"local=/{entry}/\n")
 
     def _filter_redundant_subdomains(self, entries: List[str]) -> List[str]:
         """
@@ -209,6 +228,7 @@ if __name__ == "__main__":
     action_candidates = [
         "pihole",
         "unbound",
+        "dnsmasq",
         "adguard",
         "adguard_important",
         "categories",
