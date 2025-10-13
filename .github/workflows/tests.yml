@@ -5,52 +5,70 @@ jobs:
     name: Code style
     runs-on: ubuntu-latest
     steps:
-    - uses: actions/checkout@v5
-    - uses: actions/setup-python@v6
-      with:
-        python-version: 3.9
-        cache: 'pip'
-    - run: pip install -r requirements.txt
-    - name: Check
-      run: black . --check
+      - uses: actions/checkout@v5
+      - uses: actions/setup-python@v6
+        with:
+          python-version: 3.9
+          cache: "pip"
+      - run: pip install -r requirements.txt
+      - name: Check
+        run: black . --check
 
   duplicates:
     name: No duplicate domains in list
     runs-on: ubuntu-latest
     steps:
-    - uses: actions/checkout@v5
-    - uses: actions/setup-python@v6
-      with:
-        python-version: 3.9
-        cache: 'pip'
-    - run: pip install -r requirements.txt
-    - name: Check for duplicate lines
-      run: |
-        cd scripts
-        python3 tests.py --type duplicates
+      - uses: actions/checkout@v5
+      - uses: actions/setup-python@v6
+        with:
+          python-version: 3.9
+          cache: "pip"
+      - run: pip install -r requirements.txt
+      - name: Check for duplicate lines
+        run: |
+          cd scripts
+          python3 tests.py --type duplicates
 
   regex:
     name: No regex domains in list
     runs-on: ubuntu-latest
     steps:
-    - uses: actions/checkout@v5
-    - uses: actions/setup-python@v6
-      with:
-        python-version: 3.9
-        cache: 'pip'
-    - name: Install Requirements
-      run: pip install -r requirements.txt
-    - name: Check if list includes regex domains
-      run: |
-        cd scripts
-        python3 tests.py --type regex
+      - uses: actions/checkout@v5
+      - uses: actions/setup-python@v6
+        with:
+          python-version: 3.9
+          cache: "pip"
+      - name: Install Requirements
+        run: pip install -r requirements.txt
+      - name: Check if list includes regex domains
+        run: |
+          cd scripts
+          python3 tests.py --type regex
 
   unbound:
     name: Check Unbound list
     runs-on: ubuntu-latest
     steps:
-    - uses: actions/checkout@v5
-    - name: Install Unbound
-      run: sudo apt-get update && sudo apt-get install -y unbound
-    - name: Check unbound list
-      run: unbound-checkconf unbound.conf
+      - uses: actions/checkout@v5
+      - name: Install Unbound
+        run: sudo apt-get update && sudo apt-get install -y unbound
+      - name: Generate Unbound config
+        run: python3 convert.py unbound
+      - name: Check unbound list
+        run: unbound-checkconf unbound.conf
+
+  dnsmasq:
+    name: Check DNSMasq list
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v5
+      - uses: actions/setup-python@v6
+        with:
+          python-version: 3.9
+          cache: "pip"
+      - name: Generate DNSMasq config
+        run: python3 convert.py dnsmasq
+      - name: Install DNSMasq
+        run: sudo apt-get update && sudo apt-get install -y dnsmasq
+      - name: Check DNSMasq config
+        run: sudo dnsmasq --test --conf-file=pihole-google-dnsmasq.conf
