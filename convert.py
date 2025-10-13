@@ -3,7 +3,7 @@ import sys
 from collections import OrderedDict, defaultdict
 from datetime import date
 from pathlib import Path
-from typing import Dict, List
+from typing import Dict, List, Set
 
 
 class DomainBlocklistConverter:
@@ -71,29 +71,58 @@ class DomainBlocklistConverter:
                     if entry != "":
                         f.write(f'local-zone: "{entry}" always_refuse\n')
 
+    def _filter_redundant_subdomains(self, entries: List[str]) -> List[str]:
+        """
+        Remove redundant subdomain entries where parent domain already exists.
+
+        In AdGuard syntax, ||domain.com^ blocks domain.com and all subdomains.
+        This method removes entries like ||sub.domain.com^ when ||domain.com^ exists.
+        """
+        # Filter out empty entries and wildcards
+        valid_entries = [e for e in entries if e and not e.startswith("*")]
+
+        # Build set of all domains (lowercase for comparison)
+        all_domains: Set[str] = {domain.lower() for domain in valid_entries}
+
+        # Identify redundant subdomains
+        redundant: Set[str] = set()
+        for subdomain in all_domains:
+            # Check if any parent domain exists
+            for parent in all_domains:
+                if subdomain != parent and subdomain.endswith("." + parent):
+                    redundant.add(subdomain)
+                    break
+
+        # Return filtered list preserving original case and order
+        return [e for e in valid_entries if e.lower() not in redundant]
+
     def adguard(self):
         """
         Produce blocklist for AdGuard.
+        Automatically removes redundant subdomain rules.
         """
         with open(self.ADGUARD_FILE, "w") as f:
             f.write(f"! {self.BLOCKLIST_ABOUT}\n")
             f.write(f"! Last updated: {self.timestamp}\n")
             for category, entries in self.data.items():
                 f.write(f"! {category}\n")
-                for entry in entries:
+                filtered_entries = self._filter_redundant_subdomains(entries)
+                for entry in filtered_entries:
                     if entry != "":
                         f.write(f"||{entry}^\n")
 
     def adguard_important(self):
         """
         Produce blocklist for AdGuard including important syntax.
+        Automatically removes redundant subdomain rules.
         """
         with open(self.ADGUARD_IMPORTANT_FILE, "w") as f:
             f.write(f"! {self.BLOCKLIST_ABOUT}\n")
             f.write(f"! Last updated: {self.timestamp}\n")
             for category, entries in self.data.items():
                 f.write(f"! {category}\n")
-                for entry in entries:
+                filtered_entries = self._filter_redundant_subdomains(entries)
+                for entry in filtered_entries:
                     if entry != "":
                         f.write(f"||{entry}^$important\n")
 
