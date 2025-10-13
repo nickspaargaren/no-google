@@ -1,5 +1,5 @@
 # This blocklist helps to restrict access to Google and its domains. Contribute at https://github.com/nickspaargaren/no-google
-# Last updated: 2025-09-28
+# Last updated: 2025-10-13
 # Analytics
 0.0.0.0 -chromecontentsuggestions-pa.googleapis.com
 0.0.0.0 *-android-context-data.googleapis.com
@@ -4530,6 +4530,7 @@
 0.0.0.0 urchin.com
 0.0.0.0 urkkqhhehq.com
 0.0.0.0 us-central1-events-d07ac.cloudfunctions.net
+0.0.0.0 us-central1-ipgeolocation-414906.cloudfunctions.net
 0.0.0.0 userresearch.google.com
 0.0.0.0 usgov.google.com
 0.0.0.0 uv9l56g4e9.com
