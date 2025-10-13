@@ -31,11 +31,15 @@ jobs:
     - name: Update Unbound list
       run: |
         python3 convert.py unbound
+    - name: Update DNSMasq list
+      run: |
+        python3 convert.py dnsmasq
     - name: Commit automated updates
       run: |
         git add . && git commit -am "Automated update
         - Categories lists update
         - AdGuard list update
         - Parsed list update
-        - Unbound list update"
+        - Unbound list update
+        - DNSMasq list update"
         git push
