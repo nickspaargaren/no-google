@@ -936,6 +936,7 @@ catalog.google.com
 ccacc69a0d7467ebaac293677146be75.safeframe.googlesyndication.com
 cdff40dad0a98d6b641bfca1a05423a8.safeframe.googlesyndication.com
 chat.google.com
+chronicle.security
 chrome.google.com
 chromecastexperiments.com
 chromeenterprise.google
