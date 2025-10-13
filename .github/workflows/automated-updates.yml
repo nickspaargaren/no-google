@@ -16,7 +16,7 @@ jobs:
         git config --global user.email '41898282+github-actions[bot]@users.noreply.github.com'
     - uses: actions/setup-python@v6
       with:
-        python-version: 3.9
+        python-version: 3.14
         cache: 'pip'
     - name: Update categories
       run: |
