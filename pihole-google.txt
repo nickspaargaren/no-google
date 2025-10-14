@@ -1334,6 +1334,7 @@ ldap.google.com
 lens.google.com
 local.google.com
 looker.com
+loon.com
 lp.google.com
 m-bild-de.cdn.ampproject.org
 m.2mdn.net
