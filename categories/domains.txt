@@ -1,5 +1,5 @@
 # This blocklist helps to restrict access to Google and its domains. Contribute at https://github.com/nickspaargaren/no-google
-# Last updated: 2025-10-13
+# Last updated: 2025-10-14
 # Domains
 
 0.0.0.0 _caldav._tcp.google.com
@@ -572,6 +572,7 @@
 0.0.0.0 lens.google.com
 0.0.0.0 local.google.com
 0.0.0.0 looker.com
+0.0.0.0 loon.com
 0.0.0.0 lp.google.com
 0.0.0.0 m-bild-de.cdn.ampproject.org
 0.0.0.0 m.2mdn.net
