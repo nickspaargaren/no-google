@@ -1,5 +1,5 @@
 # This blocklist helps to restrict access to Google and its domains. Contribute at https://github.com/nickspaargaren/no-google
-# Last updated: 2025-10-14
+# Last updated: 2025-11-13
 # Analytics
 
 0.0.0.0 -chromecontentsuggestions-pa.googleapis.com
@@ -146,7 +146,6 @@
 0.0.0.0 content-partnersbadge-pa.googleapis.com
 0.0.0.0 content.googleapis.com
 0.0.0.0 contentwarehouse.googleapis.com
-0.0.0.0 cookiepro.commicrosoft.com/es-es/microsoft-365/outlookadmin.googleapis.com
 0.0.0.0 copresence.googleapis.com
 0.0.0.0 crashlytics.com
 0.0.0.0 crashlyticsreports-pa.googleapis.com
