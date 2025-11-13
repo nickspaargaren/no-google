@@ -143,7 +143,6 @@ content-mybusinesslodging.googleapis.com
 content-partnersbadge-pa.googleapis.com
 content.googleapis.com
 contentwarehouse.googleapis.com
-cookiepro.commicrosoft.com/es-es/microsoft-365/outlookadmin.googleapis.com
 copresence.googleapis.com
 crashlytics.com
 crashlyticsreports-pa.googleapis.com
