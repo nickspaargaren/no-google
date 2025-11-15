@@ -1,0 +1,10 @@
+# This blocklist helps to restrict access to Google and its domains. Contribute at https://github.com/nickspaargaren/no-google
+# Last updated: 2025-11-15
+# Tenor
+
+0.0.0.0 c.tenor.com
+0.0.0.0 g.tenor.com
+0.0.0.0 media.tenor.co
+0.0.0.0 media.tenor.com
+0.0.0.0 media1.tenor.co
+0.0.0.0 media1.tenor.com

@@ -3161,3 +3161,10 @@
 ! Jibemobile
 ||jibe.google.com^$important
 ||jibemobile.com^$important
+! Tenor
+||c.tenor.com^$important
+||g.tenor.com^$important
+||media.tenor.co^$important
+||media.tenor.com^$important
+||media1.tenor.co^$important
+||media1.tenor.com^$important
