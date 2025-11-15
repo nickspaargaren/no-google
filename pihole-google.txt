@@ -6814,3 +6814,10 @@ jibe.google.com
 jibemobile.com
 rcs-acs-virgin-mobile-uk.jibe.google.com
 www.jibemobile.com
+# Tenor
+c.tenor.com
+g.tenor.com
+media.tenor.co
+media.tenor.com
+media1.tenor.co
+media1.tenor.com
