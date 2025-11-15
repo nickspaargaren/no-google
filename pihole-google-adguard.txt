@@ -1,5 +1,5 @@
 ! This blocklist helps to restrict access to Google and its domains. Contribute at https://github.com/nickspaargaren/no-google
-! Last updated: 2025-11-13
+! Last updated: 2025-11-15
 ! Analytics
 ||-chromecontentsuggestions-pa.googleapis.com^
 ||1.chromefeedcontentsuggestions-pa.googleapis.com^
@@ -371,7 +371,6 @@
 ||shoppingcontent.googleapis.com^
 ||smartdevicemanagement.googleapis.com^
 ||speech.googleapis.com^
-||speechs3proto*-pa.googleapis.com^
 ||ssl.googleanalytics.com^
 ||stackdriver.googleapis.com^
 ||staging-chromecontentsuggestions-pa.googleapis.com^
