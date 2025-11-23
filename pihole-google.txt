@@ -6483,7 +6483,6 @@ android-cdn-client.fitbit.com
 android-cdn-softclient.fitbit.com
 android-client.fitbit.com
 android-softclient.fitbit.com
-api-lb.fitbit.com
 api-pro.fitbit.com
 api.fitbit.com
 app.plus.fitbit.com
