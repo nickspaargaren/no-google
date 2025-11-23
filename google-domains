@@ -1,5 +1,5 @@
 # This blocklist helps to restrict access to Google and its domains. Contribute at https://github.com/nickspaargaren/no-google
-# Last updated: 2025-11-15
+# Last updated: 2025-11-23
 # Analytics
 0.0.0.0 -chromecontentsuggestions-pa.googleapis.com
 0.0.0.0 1.chromefeedcontentsuggestions-pa.googleapis.com
@@ -6485,7 +6485,6 @@
 0.0.0.0 android-cdn-softclient.fitbit.com
 0.0.0.0 android-client.fitbit.com
 0.0.0.0 android-softclient.fitbit.com
-0.0.0.0 api-lb.fitbit.com
 0.0.0.0 api-pro.fitbit.com
 0.0.0.0 api.fitbit.com
 0.0.0.0 app.plus.fitbit.com
