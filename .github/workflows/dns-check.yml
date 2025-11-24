@@ -10,7 +10,7 @@ jobs:
       - name: Set dynamic branch name
         id: branch_name
         run: echo "branch_name=dns-update-$(date +'%Y%m%d%H%M%S')" >> $GITHUB_ENV
-      - uses: actions/checkout@v5
+      - uses: actions/checkout@v6
       - name: Create and switch to the new branch
         run: |
           git checkout -b ${{ env.branch_name }}
