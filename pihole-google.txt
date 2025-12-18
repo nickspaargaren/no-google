@@ -1043,6 +1043,7 @@ googl.com
 google.ac
 google.ad
 google.ae
+google.ai
 google.al
 google.am
 google.as
@@ -1682,6 +1683,7 @@ www.blogger.com
 www.google.ac
 www.google.ad
 www.google.ae
+www.google.ai
 www.google.al
 www.google.am
 www.google.as
