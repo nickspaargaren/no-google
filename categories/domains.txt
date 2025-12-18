@@ -1,5 +1,5 @@
 # This blocklist helps to restrict access to Google and its domains. Contribute at https://github.com/nickspaargaren/no-google
-# Last updated: 2025-12-14
+# Last updated: 2025-12-18
 # Domains
 
 0.0.0.0 _caldav._tcp.google.com
@@ -115,6 +115,7 @@
 0.0.0.0 analytics.firebaseapp.com
 0.0.0.0 analytics.google.com
 0.0.0.0 answer.google.com
+0.0.0.0 antigravity.google
 0.0.0.0 answers.google.com
 0.0.0.0 ap.google.com
 0.0.0.0 api.google.com
