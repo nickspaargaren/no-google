@@ -873,6 +873,7 @@ amp.google.com
 analytics.firebaseapp.com
 analytics.google.com
 answer.google.com
+antigravity.google
 answers.google.com
 ap.google.com
 api.google.com
