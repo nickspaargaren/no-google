@@ -1,5 +1,5 @@
 # This blocklist helps to restrict access to Google and its domains. Contribute at https://github.com/nickspaargaren/no-google
-# Last updated: 2025-12-14
+# Last updated: 2025-12-18
 # Fiber
 
 0.0.0.0 atlanta.speed.googlefiber.net
