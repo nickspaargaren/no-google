@@ -1,5 +1,5 @@
 # This blocklist helps to restrict access to Google and its domains. Contribute at https://github.com/nickspaargaren/no-google
-# Last updated: 2025-12-18
+# Last updated: 2025-12-23
 # General
 
 0.chart.apis.google.com
@@ -1774,6 +1774,7 @@ w89qyk.feedproxy.ghs.google.com
 w8kq31rrw2.com
 wa-in-f188.1e100.net
 waa-pa.clients6.google.com
+waymo.com
 wearos.google.com
 web.dev
 webanywhere.googlecode.com
