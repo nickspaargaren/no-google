@@ -28,6 +28,9 @@ jobs:
     - name: Update parsed list
       run: |
         python3 convert.py pihole
+    - name: Update wildcards-domains list
+      run: |
+        python3 convert.py wildcards
     - name: Update Unbound list
       run: |
         python3 convert.py unbound
@@ -40,6 +43,7 @@ jobs:
         - Categories lists update
         - AdGuard list update
         - Parsed list update
+        - Wildcards-domains list update
         - Unbound list update
         - DNSMasq list update"
         git push
