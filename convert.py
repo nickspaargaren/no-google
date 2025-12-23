@@ -14,6 +14,7 @@ class DomainBlocklistConverter:
     DNSMASQ_FILE = "pihole-google-dnsmasq.conf"
     ADGUARD_FILE = "pihole-google-adguard.txt"
     ADGUARD_IMPORTANT_FILE = "pihole-google-adguard-important.txt"
+    WILDCARDS_FILE = "wildcards-domains"
     CATEGORIES_PATH = "categories"
 
     BLOCKLIST_ABOUT = "This blocklist helps to restrict access to Google and its domains. Contribute at https://github.com/nickspaargaren/no-google"
@@ -145,6 +146,39 @@ class DomainBlocklistConverter:
                     if entry != "":
                         f.write(f"||{entry}^$important\n")
 
+    def _get_wildcard_domains(self, entries: List[str]) -> List[str]:
+        """
+        Extract base domains (e.g., 'example.com' from 'sub.example.com').
+        """
+        base_domains: Set[str] = set()
+        for entry in entries:
+            if entry:
+                parts = entry.lower().split(".")
+                if len(parts) >= 2:
+                    base_domains.add(".".join(parts[-2:]))
+        return sorted(base_domains)
+
+    def wildcards(self):
+        """
+        Produce wildcards-domains file with only base domains for wildcard blocking.
+        """
+        with open(self.WILDCARDS_FILE, "w") as f:
+            f.write(
+                f"#This blocklist tries to shorten down the original pihole-google list by keepin only the main domains in the list, making all the linked other domains hosted on those, be blocked as well.\n"
+            )
+            f.write(f"#Last updated: {self.timestamp}\n")
+
+            for category, entries in self.data.items():
+                # Filter to get only parent domains (remove all subdomains)
+                filtered_entries = self._get_wildcard_domains(entries)
+
+                # Only write category if it has entries
+                if filtered_entries:
+                    f.write(f"\n# {category}\n")
+                    for entry in filtered_entries:
+                        if entry != "":
+                            f.write(f"{entry}\n")
+
     def categories(self):
         """
         Produce individual per-category blocklist files.
@@ -231,6 +265,7 @@ if __name__ == "__main__":
         "dnsmasq",
         "adguard",
         "adguard_important",
+        "wildcards",
         "categories",
     ]
     special_candidates = ["all", "duplicates", "json"]
