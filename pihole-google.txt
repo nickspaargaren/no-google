@@ -1546,7 +1546,6 @@ opt.google.com
 pack.google.com
 pagead2.googlesyndication.com
 pagead46.googlesyndication.com
-papy.co.jp
 partnerplustoolkit.com
 partners-aunz.com
 partners.google.com
