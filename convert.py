@@ -150,12 +150,21 @@ class DomainBlocklistConverter:
         """
         Extract base domains (e.g., 'example.com' from 'sub.example.com').
         """
+        # Common second-level domain prefixes used in multi-part top-level domains
+        second_level_prefixes = {"co", "com", "net", "org", "gov", "ac", "sch", "edu"}
+
         base_domains: Set[str] = set()
         for entry in entries:
             if entry:
                 parts = entry.lower().split(".")
                 if len(parts) >= 2:
-                    base_domains.add(".".join(parts[-2:]))
+                    # Check if it uses a multi-part top-level domain
+                    if len(parts) >= 3 and parts[-2] in second_level_prefixes:
+                        # For multi-part top-level domains, take last 3 parts (e.g., google.co.uk)
+                        base_domains.add(".".join(parts[-3:]))
+                    else:
+                        # For regular top-level domains, take last 2 parts (e.g., google.com)
+                        base_domains.add(".".join(parts[-2:]))
         return sorted(base_domains)
 
     def wildcards(self):
