@@ -1,5 +1,5 @@
 # This blocklist helps to restrict access to Google and its domains. Contribute at https://github.com/nickspaargaren/no-google
-# Last updated: 2025-12-29
+# Last updated: 2026-01-17
 # General
 
 0.0.0.0 0.chart.apis.google.com
@@ -1113,6 +1113,7 @@
 0.0.0.0 m9dpopwtfu.com
 0.0.0.0 madeby.google.com
 0.0.0.0 madewithcode.com
+0.0.0.0 mandiant.com
 0.0.0.0 mannequin.storage.googleapis.com
 0.0.0.0 manufacturers.google.com
 0.0.0.0 map.googleplex.com

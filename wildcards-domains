@@ -1,5 +1,5 @@
 #This blocklist tries to shorten down the original pihole-google list by keepin only the main domains in the list, making all the linked other domains hosted on those, be blocked as well.
-#Last updated: 2025-12-29
+#Last updated: 2026-01-17
 
 # Analytics
 adgoogle.net
@@ -1008,6 +1008,7 @@ m5qn1sk10t.com
 m80fg.com
 m9dpopwtfu.com
 madewithcode.com
+mandiant.com
 material.io
 mbmxgxxq1a.com
 mdf91.com
