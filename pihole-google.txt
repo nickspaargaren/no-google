@@ -4223,7 +4223,6 @@ r3---sn-pouxgn8t51-jx36.gvt1.com
 r3---sn-q4flrnee.c.docs.google.com
 r3---sn-q5u5bgv02-3c26.gvt1.com
 r3.sn-h5576n7k.c.drive.google.com
-r3.sn-hp57yn7r.c.drive.google.com
 r3.sn-hufvjvgx-coxe.gvt1.com
 r3.sn-ntqe6n76.gvt1.com
 r3.sn-oxupm-nv4l.gvt1.com
@@ -4233,7 +4232,6 @@ r3.sn-vgqsrned.gvt1.com
 r3.sn-vgqsrnek.gvt1.com
 r3.sn-vgqsrnes.gvt1.com
 r3.sn-vgqsrnll.gvt1.com
-r3.sn-x0n35auxa-cpve.gvt1.com
 r4---sn-0opoxuui5pa5oq-c336.gvt1.com
 r4---sn-5fo-c336.gvt1.com
 r4---sn-8p8v-bg06.gvt1.com
