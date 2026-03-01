@@ -1525,6 +1525,7 @@ nexus.google.com
 nol.google.com
 notebook.google.com
 notebooklm.google.com
+notebooklm.google
 ns-cloud-a1.googledomains.com
 ns-cloud-a2.googledomains.com
 ns-cloud-a3.googledomains.com
