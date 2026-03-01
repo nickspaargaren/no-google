@@ -1,5 +1,5 @@
 ! This blocklist helps to restrict access to Google and its domains. Contribute at https://github.com/nickspaargaren/no-google
-! Last updated: 2026-02-08
+! Last updated: 2026-03-01
 ! Analytics
 ||-chromecontentsuggestions-pa.googleapis.com^
 ||1.chromefeedcontentsuggestions-pa.googleapis.com^
@@ -781,6 +781,7 @@
 ||loon.com^
 ||m-bild-de.cdn.ampproject.org^
 ||near.by^
+||notebooklm.google^
 ||ns-tld1.charlestonroadregistry.com^
 ||partnerplustoolkit.com^
 ||partners-aunz.com^

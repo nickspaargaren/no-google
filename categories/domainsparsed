@@ -1,5 +1,5 @@
 # This blocklist helps to restrict access to Google and its domains. Contribute at https://github.com/nickspaargaren/no-google
-# Last updated: 2026-02-08
+# Last updated: 2026-03-01
 # Domains
 
 _caldav._tcp.google.com
@@ -767,6 +767,7 @@ nexus.google.com
 nol.google.com
 notebook.google.com
 notebooklm.google.com
+notebooklm.google
 ns-cloud-a1.googledomains.com
 ns-cloud-a2.googledomains.com
 ns-cloud-a3.googledomains.com
