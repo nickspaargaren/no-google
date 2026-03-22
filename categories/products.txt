@@ -6,6 +6,7 @@
 0.0.0.0 admanager.google.com
 0.0.0.0 appengine.google.com
 0.0.0.0 appmaker.google.com
+0.0.0.0 beta.waze.com
 0.0.0.0 biz.waze.com
 0.0.0.0 blog.x.company
 0.0.0.0 chrome.com
@@ -21,6 +22,7 @@
 0.0.0.0 encrypted.google.com
 0.0.0.0 families.google.com
 0.0.0.0 flights.google.com
+0.0.0.0 group-assets.waze.com
 0.0.0.0 hangout.google.com
 0.0.0.0 hangouts.google.com
 0.0.0.0 hire.google.com
@@ -42,6 +44,7 @@
 0.0.0.0 trends.google.com
 0.0.0.0 waze.com
 0.0.0.0 wazeopedia.waze.com
+0.0.0.0 web-assets.waze.com
 0.0.0.0 worldtiles1.waze.com
 0.0.0.0 www.blog.x.company
 0.0.0.0 www.chrome.com
