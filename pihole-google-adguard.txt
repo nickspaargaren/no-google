@@ -1,5 +1,5 @@
 ! This blocklist helps to restrict access to Google and its domains. Contribute at https://github.com/nickspaargaren/no-google
-! Last updated: 2026-03-16
+! Last updated: 2026-03-22
 ! Analytics
 ||-chromecontentsuggestions-pa.googleapis.com^
 ||1.chromefeedcontentsuggestions-pa.googleapis.com^
@@ -2847,6 +2847,7 @@
 ||www.sites.google.com^
 ||www.tiltbrush.com^
 ||www.toolbar.google.com^
+||x.company^
 ! Proxies
 ||google-proxy-64-233-172-0.google.com^
 ||google-proxy-64-233-172-100.google.com^

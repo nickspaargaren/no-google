@@ -1,5 +1,5 @@
 # This blocklist helps to restrict access to Google and its domains. Contribute at https://github.com/nickspaargaren/no-google
-# Last updated: 2026-03-16
+# Last updated: 2026-03-22
 # Analytics
 0.0.0.0 -chromecontentsuggestions-pa.googleapis.com
 0.0.0.0 1.chromefeedcontentsuggestions-pa.googleapis.com
@@ -5345,6 +5345,7 @@
 0.0.0.0 appengine.google.com
 0.0.0.0 appmaker.google.com
 0.0.0.0 biz.waze.com
+0.0.0.0 blog.x.company
 0.0.0.0 chrome.com
 0.0.0.0 coral.ai
 0.0.0.0 docs0.google.com
@@ -5380,6 +5381,7 @@
 0.0.0.0 waze.com
 0.0.0.0 wazeopedia.waze.com
 0.0.0.0 worldtiles1.waze.com
+0.0.0.0 www.blog.x.company
 0.0.0.0 www.chrome.com
 0.0.0.0 www.chromium.org
 0.0.0.0 www.code.google.com
@@ -5394,6 +5396,8 @@
 0.0.0.0 www.tiltbrush.com
 0.0.0.0 www.toolbar.google.com
 0.0.0.0 www.waze.com
+0.0.0.0 www.x.company
+0.0.0.0 x.company
 # Proxies
 0.0.0.0 google-proxy-64-233-172-0.google.com
 0.0.0.0 google-proxy-64-233-172-100.google.com
