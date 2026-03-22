@@ -5343,6 +5343,7 @@ admanager.google.com
 appengine.google.com
 appmaker.google.com
 biz.waze.com
+blog.x.company
 chrome.com
 coral.ai
 docs0.google.com
@@ -5378,6 +5379,7 @@ trends.google.com
 waze.com
 wazeopedia.waze.com
 worldtiles1.waze.com
+www.blog.x.company
 www.chrome.com
 www.chromium.org
 www.code.google.com
@@ -5392,6 +5394,8 @@ www.sites.google.com
 www.tiltbrush.com
 www.toolbar.google.com
 www.waze.com
+www.x.company
+x.company
 # Proxies
 google-proxy-64-233-172-0.google.com
 google-proxy-64-233-172-100.google.com
