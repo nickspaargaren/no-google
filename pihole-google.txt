@@ -5382,7 +5382,6 @@ waze.com
 wazeopedia.waze.com
 web-assets.waze.com
 worldtiles1.waze.com
-www.blog.x.company
 www.chrome.com
 www.chromium.org
 www.code.google.com
