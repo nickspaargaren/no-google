@@ -1,5 +1,5 @@
 # This blocklist helps to restrict access to Google and its domains. Contribute at https://github.com/nickspaargaren/no-google
-# Last updated: 2026-03-31
+# Last updated: 2026-04-05
 # General
 
 0.0.0.0 0.chart.apis.google.com
@@ -1061,7 +1061,6 @@
 0.0.0.0 landing.google.com
 0.0.0.0 landspeeder.corp.google.com
 0.0.0.0 latitude.google.com
-0.0.0.0 lax31s01-in-f8.1e100.net
 0.0.0.0 learndigital.withgoogle.com
 0.0.0.0 lens-pa.googleapis.com
 0.0.0.0 lens-storage.storage.googleapis.com
