@@ -1,5 +1,5 @@
 # This blocklist helps to restrict access to Google and its domains. Contribute at https://github.com/nickspaargaren/no-google
-# Last updated: 2026-04-05
+# Last updated: 2026-04-12
 # Fitbit
 
 0.0.0.0 000-client.fitbit.com
@@ -370,7 +370,6 @@
 0.0.0.0 outbound-proxy-webhooks-usc1-2-glob.fitbit.com
 0.0.0.0 pages.e.fitbit.com
 0.0.0.0 pages.fitbit.com
-0.0.0.0 partners.fitbit.com
 0.0.0.0 pkiv3.fitbit.com
 0.0.0.0 plus.fitbit.com
 0.0.0.0 proxy-webhooks-usc1-0-glob.fitbit.com
