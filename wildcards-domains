@@ -1,5 +1,5 @@
 #This blocklist tries to shorten down the original pihole-google list by keepin only the main domains in the list, making all the linked other domains hosted on those, be blocked as well.
-#Last updated: 2026-04-12
+#Last updated: 2026-04-14
 
 # Analytics
 adgoogle.net
@@ -1285,6 +1285,7 @@ youtube.nl
 youtube.pl
 youtubeeducation.com
 youtubegaming.com
+youtubekids.com
 ytimg.com
 
 # Fitbit
