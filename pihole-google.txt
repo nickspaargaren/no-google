@@ -6234,6 +6234,7 @@ www.youtube.nl
 www.youtube.pl
 www.youtubeeducation.com
 www.youtubegaming.com
+www.youtubekids.com
 youtube-nocookie.com
 youtube.be
 youtube.co.uk
@@ -6248,6 +6249,7 @@ youtubeembeddedplayer.googleapis.com
 youtubegaming.com
 youtubei.googleapis.com
 youtubei.youtube.com
+youtubekids.com
 yt3.ggpht.com
 yt3.googleusercontent.com
 ytimg.com
