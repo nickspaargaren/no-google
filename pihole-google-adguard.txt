@@ -1,5 +1,5 @@
 ! This blocklist helps to restrict access to Google and its domains. Contribute at https://github.com/nickspaargaren/no-google
-! Last updated: 2026-04-12
+! Last updated: 2026-04-14
 ! Analytics
 ||-chromecontentsuggestions-pa.googleapis.com^
 ||1.chromefeedcontentsuggestions-pa.googleapis.com^
@@ -3101,6 +3101,7 @@
 ||youtubeembeddedplayer.googleapis.com^
 ||youtubegaming.com^
 ||youtubei.googleapis.com^
+||youtubekids.com^
 ||yt3.ggpht.com^
 ||yt3.googleusercontent.com^
 ||ytimg.com^
