@@ -15,6 +15,7 @@ class DomainBlocklistConverter:
     ADGUARD_FILE = "pihole-google-adguard.txt"
     ADGUARD_IMPORTANT_FILE = "pihole-google-adguard-important.txt"
     WILDCARDS_FILE = "wildcards-domains"
+    RPZ_FILE = "pihole-google-rpz.txt"
     CATEGORIES_PATH = "categories"
 
     BLOCKLIST_ABOUT = "This blocklist helps to restrict access to Google and its domains. Contribute at https://github.com/nickspaargaren/no-google"
@@ -90,6 +91,41 @@ class DomainBlocklistConverter:
                 for entry in entries:
                     if entry != "":
                         f.write(f"local=/{entry}/\n")
+
+    def rpz(self):
+        """
+        Produce blocklist in RPZ (Response Policy Zone) format.
+
+        RPZ is a DNS zone file format used by BIND, Knot, Unbound and other DNS servers
+        for implementing DNS firewalls and blocking policies.
+        https://github.com/nickspaargaren/no-google/issues/256
+        """
+        # Generate serial number in YYYYMMDD01 format
+        serial = date.today().strftime("%Y%m%d") + "01"
+
+        with open(self.RPZ_FILE, "w") as f:
+            # Write RPZ zone file header
+            f.write("$TTL 18000\n")
+            f.write(
+                f"@ IN SOA localhost. root.localhost. {serial} 25200 3600 2592000 18000\n"
+            )
+            f.write("  IN NS  localhost.\n")
+            f.write(";\n")
+            f.write("; Title: No Google RPZ\n")
+            f.write(f"; Description: {self.BLOCKLIST_ABOUT}\n")
+            f.write("; Homepage: https://github.com/nickspaargaren/no-google\n")
+            f.write(f"; Last modified: {self.timestamp}\n")
+            f.write(";\n")
+
+            # Write domain blocking entries
+            for category, entries in self.data.items():
+                f.write(f"\n; {category}\n")
+                for entry in entries:
+                    if entry != "":
+                        # QNAME trigger with NXDOMAIN action
+                        # Both apex and wildcard entries are required to block domain and all subdomains
+                        f.write(f"{entry} CNAME .\n")
+                        f.write(f"*.{entry} CNAME .\n")
 
     def _filter_redundant_subdomains(self, entries: List[str]) -> List[str]:
         """
@@ -272,6 +308,7 @@ if __name__ == "__main__":
         "pihole",
         "unbound",
         "dnsmasq",
+        "rpz",
         "adguard",
         "adguard_important",
         "wildcards",

@@ -72,3 +72,19 @@ jobs:
         run: sudo apt-get update && sudo apt-get install -y dnsmasq
       - name: Check DNSMasq config
         run: sudo dnsmasq --test --conf-file=pihole-google-dnsmasq.conf
+
+  rpz:
+    name: Check RPZ zone file
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v6
+      - uses: actions/setup-python@v6
+        with:
+          python-version: 3.14
+          cache: "pip"
+      - name: Generate RPZ zone file
+        run: python3 convert.py rpz
+      - name: Install BIND tools
+        run: sudo apt-get update && sudo apt-get install -y bind9-utils
+      - name: Check RPZ zone file
+        run: named-checkzone rpz.no-google.local pihole-google-rpz.txt
