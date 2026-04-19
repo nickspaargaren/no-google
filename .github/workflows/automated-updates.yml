@@ -37,6 +37,9 @@ jobs:
     - name: Update DNSMasq list
       run: |
         python3 convert.py dnsmasq
+    - name: Update RPZ list
+      run: |
+        python3 convert.py rpz
     - name: Commit automated updates
       run: |
         git add . && git commit -am "Automated update
@@ -45,5 +48,6 @@ jobs:
         - Parsed list update
         - Wildcards-domains list update
         - Unbound list update
-        - DNSMasq list update"
+        - DNSMasq list update
+        - RPZ list update"
         git push

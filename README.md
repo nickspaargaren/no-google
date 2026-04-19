@@ -100,6 +100,13 @@ and then, executing it. It should add all of the above regex automatically.
 </details>
 
 <details>
+  <summary>Can I use it with DNS servers that support RPZ (Response Policy Zones)?</summary>
+  <p>Yes! We provide an RPZ format that works with BIND, Knot, Unbound, and other DNS servers supporting Response Policy Zones. Simply use:</p>
+  <pre>https://raw.githubusercontent.com/nickspaargaren/no-google/master/pihole-google-rpz.txt</pre>
+  <p>Configure your DNS server to load this as an RPZ zone file. The format uses QNAME triggers with NXDOMAIN actions to block Google domains and all their subdomains.</p>
+</details>
+
+<details>
   <summary>Hum, do you got any mirrors of the list ?</summary>
   <p>Yes indeed, We have a GitLab host mirror of the repo available at this address : https://framagit.org/PoorPocketsMcNewHold/no-google
 Note that the main filter is being worked here, so, updates and modifications on the Gitlab source will have to be updated manually.
@@ -119,6 +126,9 @@ content into different output formats. It can be invoked like
 
 ```shell
 python3 convert.py pihole
+python3 convert.py rpz
+python3 convert.py unbound
+python3 convert.py dnsmasq
 ```
 
 In order to produce all different output formats, run
