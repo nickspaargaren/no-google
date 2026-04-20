@@ -745,6 +745,8 @@ sheets.googleapis.com CNAME .
 *.sheets.googleapis.com CNAME .
 shoppingcontent.googleapis.com CNAME .
 *.shoppingcontent.googleapis.com CNAME .
+skillshop.withgoogle.com CNAME .
+*.skillshop.withgoogle.com CNAME .
 smartdevicemanagement.googleapis.com CNAME .
 *.smartdevicemanagement.googleapis.com CNAME .
 speech.googleapis.com CNAME .
