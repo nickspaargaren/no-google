@@ -373,6 +373,7 @@ servicenetworking.googleapis.com
 serviceusage.googleapis.com
 sheets.googleapis.com
 shoppingcontent.googleapis.com
+skillshop.withgoogle.com
 smartdevicemanagement.googleapis.com
 speech.googleapis.com
 ssl.google-analytics.com
