@@ -375,6 +375,7 @@
 0.0.0.0 serviceusage.googleapis.com
 0.0.0.0 sheets.googleapis.com
 0.0.0.0 shoppingcontent.googleapis.com
+0.0.0.0 skillshop.withgoogle.com
 0.0.0.0 smartdevicemanagement.googleapis.com
 0.0.0.0 speech.googleapis.com
 0.0.0.0 ssl.google-analytics.com

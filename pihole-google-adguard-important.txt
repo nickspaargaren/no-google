@@ -369,6 +369,7 @@
 ||serviceusage.googleapis.com^$important
 ||sheets.googleapis.com^$important
 ||shoppingcontent.googleapis.com^$important
+||skillshop.withgoogle.com^$important
 ||smartdevicemanagement.googleapis.com^$important
 ||speech.googleapis.com^$important
 ||ssl.googleanalytics.com^$important
