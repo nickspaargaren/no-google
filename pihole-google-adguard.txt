@@ -1,5 +1,5 @@
 ! This blocklist helps to restrict access to Google and its domains. Contribute at https://github.com/nickspaargaren/no-google
-! Last updated: 2026-04-19
+! Last updated: 2026-04-20
 ! Analytics
 ||-chromecontentsuggestions-pa.googleapis.com^
 ||1.chromefeedcontentsuggestions-pa.googleapis.com^
@@ -2835,6 +2835,7 @@
 ||scholar.google.fr^
 ||scholar.google.nl^
 ||scholar.google.pl^
+||skills.google^
 ||smartlock.google.com^
 ||trends.google.com^
 ||waze.com^

@@ -1,5 +1,5 @@
 # This blocklist helps to restrict access to Google and its domains. Contribute at https://github.com/nickspaargaren/no-google
-# Last updated: 2026-04-19
+# Last updated: 2026-04-20
 # Products
 
 actions.google.com
@@ -9,6 +9,8 @@ appmaker.google.com
 beta.waze.com
 biz.waze.com
 blog.x.company
+career.skills.google
+careers.skills.google
 chrome.com
 coral.ai
 docs0.google.com
@@ -29,6 +31,8 @@ hire.google.com
 idx.dev
 meetings.googleapis.com
 merchants.google.com
+partner.skills.google
+partners.skills.google
 passwords.google.com
 patents.google.com
 patentimages.storage.googleapis.com
@@ -40,6 +44,7 @@ scholar.google.de
 scholar.google.fr
 scholar.google.nl
 scholar.google.pl
+skills.google
 smartlock.google.com
 trends.google.com
 waze.com
@@ -57,6 +62,7 @@ www.plus.google.com
 www.safety.google
 www.scholar.google.com
 www.sites.google.com
+www.skills.google
 www.tiltbrush.com
 www.toolbar.google.com
 www.waze.com

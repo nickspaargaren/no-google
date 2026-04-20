@@ -1,5 +1,5 @@
 #This blocklist tries to shorten down the original pihole-google list by keepin only the main domains in the list, making all the linked other domains hosted on those, be blocked as well.
-#Last updated: 2026-04-19
+#Last updated: 2026-04-20
 
 # Analytics
 adgoogle.net
@@ -1255,6 +1255,7 @@ google.pl
 googleapis.com
 idx.dev
 safety.google
+skills.google
 tiltbrush.com
 waze.com
 x.company

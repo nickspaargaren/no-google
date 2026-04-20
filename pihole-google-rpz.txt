@@ -5677,6 +5677,8 @@ scholar.google.nl CNAME .
 *.scholar.google.nl CNAME .
 scholar.google.pl CNAME .
 *.scholar.google.pl CNAME .
+skills.google CNAME .
+*.skills.google CNAME .
 smartlock.google.com CNAME .
 *.smartlock.google.com CNAME .
 trends.google.com CNAME .
