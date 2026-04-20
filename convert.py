@@ -120,7 +120,8 @@ class DomainBlocklistConverter:
             # Write domain blocking entries
             for category, entries in self.data.items():
                 f.write(f"\n; {category}\n")
-                for entry in entries:
+                filtered_entries = self._filter_redundant_subdomains(entries)
+                for entry in filtered_entries:
                     if entry != "":
                         # QNAME trigger with NXDOMAIN action
                         # Both apex and wildcard entries are required to block domain and all subdomains
