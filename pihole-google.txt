@@ -711,7 +711,7 @@ isbv-dnsotls-ds.metric.gstatic.com
 j9tqjo-dnsotls-ds.metric.gstatic.com
 k0fxmr-dnsotls-ds.metric.gstatic.com
 kemedp-dnsotls-ds.metric.gstatic.com
-KQu0cL-dnsotls-ds.metric.gstatic.com
+kqu0cl-dnsotls-ds.metric.gstatic.com
 kzkwqp-dnsotls-ds.metric.gstatic.com
 lud771-dnsotls-ds.metric.gstatic.com
 lvhpve-dnsotls-ds.metric.gstatic.com
@@ -967,7 +967,6 @@ d99bbe6e75000180ef8b624cc2a58289.safeframe.googlesyndication.com
 dai.google.com
 ddm.google.com
 design.google.com
-desktop.google.com
 developer.google.com
 developers.google.com
 digitalkeypairing.org
@@ -1307,7 +1306,6 @@ id.google.se
 ig.google.com
 igoogle.com
 image.google.com
-images.google.com
 imasdk.googleapis.com
 ime.google.com
 inbox.google.com
@@ -3457,7 +3455,7 @@ deliver-peak-performance.co.uk
 deliverpeakperformance.co.uk
 design.google
 designguidelines.withgoogle.com
-DeSKtoP.google.com
+desktop.google.com
 desktop1.google.com
 desktop2.google.com
 desktop3.google.com
@@ -3778,7 +3776,7 @@ iid.googleapis.com
 ikknil4o42.com
 images-partners-tbn.google.com
 images-partners.google.com
-IMAGEs.google.com
+images.google.com
 img1.blogblog.com
 imgpop.googlecode.com
 incentelligence.com
@@ -6577,9 +6575,7 @@ gallery.fitbit.com
 gam.fitbit.com
 games-platform.fitbit.com
 gcp02-nf-01.corp.fitbit.com
-GCP02-NF-01.corp.fitbit.com
 gcp02-nf-02.corp.fitbit.com
-GCP02-NF-02.corp.fitbit.com
 gcs-assets.fitbit.com
 google2fitbit.site-ops.fitbit.com
 gradle-enterprise-devel-gcp.site-ops.fitbit.com
@@ -6729,11 +6725,7 @@ tableau-apps-qa.corp.fitbit.com
 tf-cloudbuild.site-ops.fitbit.com
 user-data-export.fitbit.com
 usvpneast.corp.fitbit.com
-USVPNEast.corp.fitbit.com
-USVPNEAST.corp.fitbit.com
 usvpnwest.corp.fitbit.com
-USVPNWest.corp.fitbit.com
-USVPNWEST.corp.fitbit.com
 view.e.fitbit.com
 web-api.fitbit.com
 web-metrics.fitbit.com
