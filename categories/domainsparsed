@@ -1,5 +1,5 @@
 # This blocklist helps to restrict access to Google and its domains. Contribute at https://github.com/nickspaargaren/no-google
-# Last updated: 2026-04-26
+# Last updated: 2026-05-21
 # Domains
 
 _caldav._tcp.google.com
@@ -208,7 +208,6 @@ d99bbe6e75000180ef8b624cc2a58289.safeframe.googlesyndication.com
 dai.google.com
 ddm.google.com
 design.google.com
-desktop.google.com
 developer.google.com
 developers.google.com
 digitalkeypairing.org
@@ -548,7 +547,6 @@ id.google.se
 ig.google.com
 igoogle.com
 image.google.com
-images.google.com
 imasdk.googleapis.com
 ime.google.com
 inbox.google.com

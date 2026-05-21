@@ -1,5 +1,5 @@
 ! This blocklist helps to restrict access to Google and its domains. Contribute at https://github.com/nickspaargaren/no-google
-! Last updated: 2026-04-26
+! Last updated: 2026-05-21
 ! Analytics
 ||-chromecontentsuggestions-pa.googleapis.com^$important
 ||1.chromefeedcontentsuggestions-pa.googleapis.com^$important
@@ -1388,7 +1388,7 @@
 ||deliver-peak-performance.co.uk^$important
 ||deliverpeakperformance.co.uk^$important
 ||design.google^$important
-||DeSKtoP.google.com^$important
+||desktop.google.com^$important
 ||desktop1.google.com^$important
 ||desktop2.google.com^$important
 ||desktop3.google.com^$important
@@ -1613,7 +1613,7 @@
 ||ikknil4o42.com^$important
 ||images-partners-tbn.google.com^$important
 ||images-partners.google.com^$important
-||IMAGEs.google.com^$important
+||images.google.com^$important
 ||img1.blogblog.com^$important
 ||imgpop.googlecode.com^$important
 ||incentelligence.com^$important

@@ -1,5 +1,5 @@
 # This blocklist helps to restrict access to Google and its domains. Contribute at https://github.com/nickspaargaren/no-google
-# Last updated: 2026-04-26
+# Last updated: 2026-05-21
 # General
 
 0.0.0.0 0.chart.apis.google.com
@@ -665,7 +665,7 @@
 0.0.0.0 deliverpeakperformance.co.uk
 0.0.0.0 design.google
 0.0.0.0 designguidelines.withgoogle.com
-0.0.0.0 DeSKtoP.google.com
+0.0.0.0 desktop.google.com
 0.0.0.0 desktop1.google.com
 0.0.0.0 desktop2.google.com
 0.0.0.0 desktop3.google.com
@@ -986,7 +986,7 @@
 0.0.0.0 ikknil4o42.com
 0.0.0.0 images-partners-tbn.google.com
 0.0.0.0 images-partners.google.com
-0.0.0.0 IMAGEs.google.com
+0.0.0.0 images.google.com
 0.0.0.0 img1.blogblog.com
 0.0.0.0 imgpop.googlecode.com
 0.0.0.0 incentelligence.com
