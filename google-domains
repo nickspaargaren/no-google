@@ -1,5 +1,5 @@
 # This blocklist helps to restrict access to Google and its domains. Contribute at https://github.com/nickspaargaren/no-google
-# Last updated: 2026-04-26
+# Last updated: 2026-05-21
 # Analytics
 0.0.0.0 -chromecontentsuggestions-pa.googleapis.com
 0.0.0.0 1.chromefeedcontentsuggestions-pa.googleapis.com
@@ -713,7 +713,7 @@
 0.0.0.0 j9tqjo-dnsotls-ds.metric.gstatic.com
 0.0.0.0 k0fxmr-dnsotls-ds.metric.gstatic.com
 0.0.0.0 kemedp-dnsotls-ds.metric.gstatic.com
-0.0.0.0 KQu0cL-dnsotls-ds.metric.gstatic.com
+0.0.0.0 kqu0cl-dnsotls-ds.metric.gstatic.com
 0.0.0.0 kzkwqp-dnsotls-ds.metric.gstatic.com
 0.0.0.0 lud771-dnsotls-ds.metric.gstatic.com
 0.0.0.0 lvhpve-dnsotls-ds.metric.gstatic.com
@@ -969,7 +969,6 @@
 0.0.0.0 dai.google.com
 0.0.0.0 ddm.google.com
 0.0.0.0 design.google.com
-0.0.0.0 desktop.google.com
 0.0.0.0 developer.google.com
 0.0.0.0 developers.google.com
 0.0.0.0 digitalkeypairing.org
@@ -1309,7 +1308,6 @@
 0.0.0.0 ig.google.com
 0.0.0.0 igoogle.com
 0.0.0.0 image.google.com
-0.0.0.0 images.google.com
 0.0.0.0 imasdk.googleapis.com
 0.0.0.0 ime.google.com
 0.0.0.0 inbox.google.com
@@ -3459,7 +3457,7 @@
 0.0.0.0 deliverpeakperformance.co.uk
 0.0.0.0 design.google
 0.0.0.0 designguidelines.withgoogle.com
-0.0.0.0 DeSKtoP.google.com
+0.0.0.0 desktop.google.com
 0.0.0.0 desktop1.google.com
 0.0.0.0 desktop2.google.com
 0.0.0.0 desktop3.google.com
@@ -3780,7 +3778,7 @@
 0.0.0.0 ikknil4o42.com
 0.0.0.0 images-partners-tbn.google.com
 0.0.0.0 images-partners.google.com
-0.0.0.0 IMAGEs.google.com
+0.0.0.0 images.google.com
 0.0.0.0 img1.blogblog.com
 0.0.0.0 imgpop.googlecode.com
 0.0.0.0 incentelligence.com
@@ -6579,9 +6577,7 @@
 0.0.0.0 gam.fitbit.com
 0.0.0.0 games-platform.fitbit.com
 0.0.0.0 gcp02-nf-01.corp.fitbit.com
-0.0.0.0 GCP02-NF-01.corp.fitbit.com
 0.0.0.0 gcp02-nf-02.corp.fitbit.com
-0.0.0.0 GCP02-NF-02.corp.fitbit.com
 0.0.0.0 gcs-assets.fitbit.com
 0.0.0.0 google2fitbit.site-ops.fitbit.com
 0.0.0.0 gradle-enterprise-devel-gcp.site-ops.fitbit.com
@@ -6731,11 +6727,7 @@
 0.0.0.0 tf-cloudbuild.site-ops.fitbit.com
 0.0.0.0 user-data-export.fitbit.com
 0.0.0.0 usvpneast.corp.fitbit.com
-0.0.0.0 USVPNEast.corp.fitbit.com
-0.0.0.0 USVPNEAST.corp.fitbit.com
 0.0.0.0 usvpnwest.corp.fitbit.com
-0.0.0.0 USVPNWest.corp.fitbit.com
-0.0.0.0 USVPNWEST.corp.fitbit.com
 0.0.0.0 view.e.fitbit.com
 0.0.0.0 web-api.fitbit.com
 0.0.0.0 web-metrics.fitbit.com
