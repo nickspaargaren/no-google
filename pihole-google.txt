@@ -1279,6 +1279,7 @@ gw2.google.com
 gw3.google.com
 gwt.google.com
 health.google.com
+healthapp.google
 hedwig.google.com
 help.google.com
 history.google.com
