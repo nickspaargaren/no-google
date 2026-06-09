@@ -1,11 +1,11 @@
 $TTL 18000
-@ IN SOA localhost. root.localhost. 2026052201 25200 3600 2592000 18000
+@ IN SOA localhost. root.localhost. 2026060901 25200 3600 2592000 18000
   IN NS  localhost.
 ;
 ; Title: No Google RPZ
 ; Description: This blocklist helps to restrict access to Google and its domains. Contribute at https://github.com/nickspaargaren/no-google
 ; Homepage: https://github.com/nickspaargaren/no-google
-; Last modified: 2026-05-22
+; Last modified: 2026-06-09
 ;
 
 ; Analytics
