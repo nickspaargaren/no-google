@@ -1,5 +1,5 @@
 # This blocklist helps to restrict access to Google and its domains. Contribute at https://github.com/nickspaargaren/no-google
-# Last updated: 2026-06-09
+# Last updated: 2026-07-07
 # General
 
 0.chart.apis.google.com
@@ -820,7 +820,6 @@ gae-nel-asia-northeast1.gcp.gvt2.com
 gae-nel-eu-west.gcp.gvt2.com
 gae-nel-us-central.gcp.gvt2.com
 gae-nel-us-east1.gcp.gvt2.com
-gallery.flutter.dev
 gallery.googleplex.com
 gameoftheyear.withgoogle.com
 ganpati.corp.google.com
@@ -1279,7 +1278,6 @@ phpjo3qe79.com
 picasa.com
 picasa.google.com
 picasaweb.google.com
-pinball.flutter.dev
 pkn7e9us0y.com
 pl.advertisercommunity.com
 play-fe.googleapis.com
