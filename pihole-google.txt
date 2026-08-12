@@ -6713,7 +6713,6 @@ stories.fitbit.com
 strava.fitbit.com
 studio-assets.fitbit.com
 studio.fitbit.com
-support-tools.fitbit.com
 support.fitbit.com
 support.plus.fitbit.com
 tableau-apps-qa.corp.fitbit.com
