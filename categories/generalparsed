@@ -1,5 +1,5 @@
 # This blocklist helps to restrict access to Google and its domains. Contribute at https://github.com/nickspaargaren/no-google
-# Last updated: 2026-08-16
+# Last updated: 2026-08-31
 # General
 
 0.chart.apis.google.com
@@ -882,7 +882,6 @@ googleads-cn.com
 googleads.com
 googleadsserving.cn
 googleadwords.com
-googleailesi.com
 googleapis.com
 googleartproject.com
 googlehomefoyer-pa.googleapis.com
