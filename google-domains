@@ -1,5 +1,5 @@
 # This blocklist helps to restrict access to Google and its domains. Contribute at https://github.com/nickspaargaren/no-google
-# Last updated: 2026-08-31
+# Last updated: 2026-09-06
 # Analytics
 0.0.0.0 -chromecontentsuggestions-pa.googleapis.com
 0.0.0.0 1.chromefeedcontentsuggestions-pa.googleapis.com
@@ -4144,7 +4144,6 @@
 0.0.0.0 r1---sn-hxb54vo-3046.gvt1.com
 0.0.0.0 r1---sn-ipoxu-un56.gvt1.com
 0.0.0.0 r1---sn-jou-5u46.gvt1.com
-0.0.0.0 r1---sn-ni57dn76.gvt1.com
 0.0.0.0 r1---sn-ogul7n76.gvt1.com
 0.0.0.0 r1---sn-poqvn5u-jb36.gvt1.com
 0.0.0.0 r1---sn-q5u5bgv02-3c26.gvt1.com
@@ -4159,21 +4158,10 @@
 0.0.0.0 r1.sn-vgqsrned.gvt1.com
 0.0.0.0 r1.sn-vgqsrnek.gvt1.com
 0.0.0.0 r1.sn-vgqsrnes.gvt1.com
-0.0.0.0 r10---sn-ni57dn76.gvt1.com
 0.0.0.0 r10.sn-axq7sn7l.c.docs.google.com
-0.0.0.0 r11---sn-ni57dn76.gvt1.com
-0.0.0.0 r11.sn-ni57dn76.gvt1.com
 0.0.0.0 r12---sn-8p8v-bg06.gvt1.com
-0.0.0.0 r12---sn-ni57dn76.gvt1.com
-0.0.0.0 r13---sn-ni57dn76.gvt1.com
-0.0.0.0 r14---sn-ni57dn76.gvt1.com
 0.0.0.0 r15---sn-8p8v-bg06.gvt1.com
-0.0.0.0 r15---sn-ni57dn76.gvt1.com
-0.0.0.0 r15.sn-ni57dn76.gvt1.com
 0.0.0.0 r16---sn-8p8v-bg06.gvt1.com
-0.0.0.0 r16---sn-ni57dn76.gvt1.com
-0.0.0.0 r17---sn-ni57dn76.gvt1.com
-0.0.0.0 r18---sn-ni57dn76.gvt1.com
 0.0.0.0 r2---sn-0opoxuui5pa5oq-c336.gvt1.com
 0.0.0.0 r2---sn-3tp8nu5g-3c26.gvt1.com
 0.0.0.0 r2---sn-5fo-c336.gvt1.com
@@ -4186,7 +4174,6 @@
 0.0.0.0 r2---sn-ipoxu-un56.gvt1.com
 0.0.0.0 r2---sn-jou-5u46.gvt1.com
 0.0.0.0 r2---sn-jtu5jt2g0n-aj56.gvt1.com
-0.0.0.0 r2---sn-ni57dn76.gvt1.com
 0.0.0.0 r2---sn-ogul7n76.gvt1.com
 0.0.0.0 r2---sn-poqvn5u-jb36.gvt1.com
 0.0.0.0 r2---sn-upbvbu-b056.gvt1.com
@@ -4210,7 +4197,6 @@
 0.0.0.0 r3---sn-ci5gup-jj06.gvt1.com
 0.0.0.0 r3---sn-ipoxu-un56.gvt1.com
 0.0.0.0 r3---sn-jtu5jt2g0n-aj56.gvt1.com
-0.0.0.0 r3---sn-ni57dn76.gvt1.com
 0.0.0.0 r3---sn-npoeenek.c.drive.google.com
 0.0.0.0 r3---sn-ogul7n76.gvt1.com
 0.0.0.0 r3---sn-poqvn5u-jb36.gvt1.com
@@ -4234,7 +4220,6 @@
 0.0.0.0 r4---sn-i3belnls.c.docs.google.com
 0.0.0.0 r4---sn-ipoxu-un56.gvt1.com
 0.0.0.0 r4---sn-n4v7snee.c.drive.google.com
-0.0.0.0 r4---sn-ni57dn76.gvt1.com
 0.0.0.0 r4---sn-npoeenee.c.docs.google.com
 0.0.0.0 r4---sn-ogul7n76.gvt1.com
 0.0.0.0 r4---sn-poqvn5u-jb36.gvt1.com
@@ -4242,7 +4227,6 @@
 0.0.0.0 r4---sn-u2oxu-2v16.gvt1.com
 0.0.0.0 r4.sn-b0a4cgpqbx-qvie.gvt1.com
 0.0.0.0 r4.sn-n3cgv5qc5oq-nf06.gvt1.com
-0.0.0.0 r4.sn-ni57dn76.gvt1.com
 0.0.0.0 r4.sn-npoeened.c.docs.google.com
 0.0.0.0 r4.sn-uxa3vhnxa-2306.gvt1.com
 0.0.0.0 r4.sn-vgqsrned.gvt1.com
@@ -4254,7 +4238,6 @@
 0.0.0.0 r5---sn-bpb5oxu-3c26.gvt1.com
 0.0.0.0 r5---sn-ci5gup-h556.gvt1.com
 0.0.0.0 r5---sn-ipoxu-un56.gvt1.com
-0.0.0.0 r5---sn-ni57dn76.gvt1.com
 0.0.0.0 r5---sn-npoeenle.c.docs.google.com
 0.0.0.0 r5---sn-ogul7n76.gvt1.com
 0.0.0.0 r5---sn-poqvn5u-jb36.gvt1.com
@@ -4274,7 +4257,6 @@
 0.0.0.0 r6---sn-bpb5oxu-3c26.gvt1.com
 0.0.0.0 r6---sn-ci5gup-h556.gvt1.com
 0.0.0.0 r6---sn-ipoxu-un56.gvt1.com
-0.0.0.0 r6---sn-ni57dn76.gvt1.com
 0.0.0.0 r6---sn-poqvn5u-jb36.gvt1.com
 0.0.0.0 r6---sn-q5u5bgv02-3c26.gvt1.com
 0.0.0.0 r6.sn-qxau5-btql.gvt1.com
@@ -4284,18 +4266,14 @@
 0.0.0.0 r7---sn-bpb5oxu-3c26.gvt1.com
 0.0.0.0 r7---sn-ci5gup-h556.gvt1.com
 0.0.0.0 r7---sn-ipoxu-un56.gvt1.com
-0.0.0.0 r7---sn-ni57dn76.gvt1.com
 0.0.0.0 r7---sn-poqvn5u-jb36.gvt1.com
 0.0.0.0 r8---sn-5fo-c336.gvt1.com
 0.0.0.0 r8---sn-bpb5oxu-3c26.gvt1.com
 0.0.0.0 r8---sn-ci5gup-h556.gvt1.com
 0.0.0.0 r8---sn-ipoxu-un56.gvt1.com
-0.0.0.0 r8---sn-ni57dn76.gvt1.com
 0.0.0.0 r8---sn-poqvn5u-jb36.gvt1.com
 0.0.0.0 r8.googlesource.com
 0.0.0.0 r8.sn-qxau5-btqs.gvt1.com
-0.0.0.0 r9---sn-ni57dn76.gvt1.com
-0.0.0.0 r9.sn-ni57dn76.gvt1.com
 0.0.0.0 randomstring-dnsotls-ds.metric.gstatic.com
 0.0.0.0 randy-phishingbotnet-maugans.you.like.here.follo.by.svc-1.google.com
 0.0.0.0 rapture-test.corp.google.com
