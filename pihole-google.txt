@@ -4294,6 +4294,7 @@ redirector.gvt1.com
 redwood.corp.google.com
 redwood2.corp.google.com
 refergoogleworkspace.withgoogle.com
+referworkspace.app.goo.gl
 region1.analytics.google.com
 registry.google
 remotedesktop.corp.google.com
