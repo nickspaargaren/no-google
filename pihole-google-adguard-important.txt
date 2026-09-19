@@ -1,5 +1,5 @@
 ! This blocklist helps to restrict access to Google and its domains. Contribute at https://github.com/nickspaargaren/no-google
-! Last updated: 2026-09-17
+! Last updated: 2026-09-19
 ! Analytics
 ||-chromecontentsuggestions-pa.googleapis.com^$important
 ||1.chromefeedcontentsuggestions-pa.googleapis.com^$important
@@ -1913,6 +1913,7 @@
 ||redbull-training.corp.google.com^$important
 ||redwood.corp.google.com^$important
 ||redwood2.corp.google.com^$important
+||referworkspace.app.goo.gl^$important
 ||region1.analytics.google.com^$important
 ||registry.google^$important
 ||remotedesktop.corp.google.com^$important
