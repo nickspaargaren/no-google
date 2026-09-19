@@ -1,5 +1,5 @@
 # This blocklist helps to restrict access to Google and its domains. Contribute at https://github.com/nickspaargaren/no-google
-# Last updated: 2026-09-17
+# Last updated: 2026-09-19
 # General
 
 0.chart.apis.google.com
@@ -1503,6 +1503,7 @@ redirector.gvt1.com
 redwood.corp.google.com
 redwood2.corp.google.com
 refergoogleworkspace.withgoogle.com
+referworkspace.app.goo.gl
 region1.analytics.google.com
 registry.google
 remotedesktop.corp.google.com
