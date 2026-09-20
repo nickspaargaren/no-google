@@ -1,5 +1,5 @@
 ! This blocklist helps to restrict access to Google and its domains. Contribute at https://github.com/nickspaargaren/no-google
-! Last updated: 2026-09-19
+! Last updated: 2026-09-20
 ! Analytics
 ||-chromecontentsuggestions-pa.googleapis.com^
 ||1.chromefeedcontentsuggestions-pa.googleapis.com^
@@ -521,7 +521,6 @@
 ||chromexperiments.com^
 ||cloud.run^
 ||com.google^
-||content-signature-chains.prod.webservices.mozgcp.net^
 ||digitalkeypairing.org^
 ||face-indexing.com^
 ||face-mining.com^
@@ -3122,8 +3121,6 @@
 ||cellular-coverage.nest.com^
 ||certified.nest.com^
 ||community.nest.com^
-||developer.nest.com^
-||developers.nest.com^
 ||downloads.nest.com^
 ||email1.nest.com^
 ||energy.api.nest.com^
