@@ -953,7 +953,6 @@ cloud.run
 code.google.com
 com.google
 compare.google.com
-content-signature-chains.prod.webservices.mozgcp.net
 contributor.google.com
 corp.google.com
 d.google.com
@@ -6734,8 +6733,6 @@ community.nest.com
 coredata.ft.nest.com
 data-export-api.store.ft.nest.com
 data-export-api.store.nest.com
-developer.nest.com
-developers.nest.com
 downloads.nest.com
 email1.nest.com
 energy-history.ft.nest.com
