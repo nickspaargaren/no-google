@@ -1,11 +1,11 @@
 $TTL 18000
-@ IN SOA localhost. root.localhost. 2026091901 25200 3600 2592000 18000
+@ IN SOA localhost. root.localhost. 2026092001 25200 3600 2592000 18000
   IN NS  localhost.
 ;
 ; Title: No Google RPZ
 ; Description: This blocklist helps to restrict access to Google and its domains. Contribute at https://github.com/nickspaargaren/no-google
 ; Homepage: https://github.com/nickspaargaren/no-google
-; Last modified: 2026-09-19
+; Last modified: 2026-09-20
 ;
 
 ; Analytics
@@ -1049,8 +1049,6 @@ cloud.run CNAME .
 *.cloud.run CNAME .
 com.google CNAME .
 *.com.google CNAME .
-content-signature-chains.prod.webservices.mozgcp.net CNAME .
-*.content-signature-chains.prod.webservices.mozgcp.net CNAME .
 digitalkeypairing.org CNAME .
 *.digitalkeypairing.org CNAME .
 face-indexing.com CNAME .
@@ -6251,10 +6249,6 @@ certified.nest.com CNAME .
 *.certified.nest.com CNAME .
 community.nest.com CNAME .
 *.community.nest.com CNAME .
-developer.nest.com CNAME .
-*.developer.nest.com CNAME .
-developers.nest.com CNAME .
-*.developers.nest.com CNAME .
 downloads.nest.com CNAME .
 *.downloads.nest.com CNAME .
 email1.nest.com CNAME .

@@ -1,5 +1,5 @@
 # This blocklist helps to restrict access to Google and its domains. Contribute at https://github.com/nickspaargaren/no-google
-# Last updated: 2026-09-19
+# Last updated: 2026-09-20
 # Domains
 
 _caldav._tcp.google.com
@@ -194,7 +194,6 @@ cloud.run
 code.google.com
 com.google
 compare.google.com
-content-signature-chains.prod.webservices.mozgcp.net
 contributor.google.com
 corp.google.com
 d.google.com

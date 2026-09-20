@@ -1,5 +1,5 @@
 # This blocklist helps to restrict access to Google and its domains. Contribute at https://github.com/nickspaargaren/no-google
-# Last updated: 2026-09-19
+# Last updated: 2026-09-20
 # Nest
 
 accounts.ft.nest.com
@@ -33,8 +33,6 @@ community.nest.com
 coredata.ft.nest.com
 data-export-api.store.ft.nest.com
 data-export-api.store.nest.com
-developer.nest.com
-developers.nest.com
 downloads.nest.com
 email1.nest.com
 energy-history.ft.nest.com
