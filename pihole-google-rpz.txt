@@ -1,11 +1,11 @@
 $TTL 18000
-@ IN SOA localhost. root.localhost. 2026092001 25200 3600 2592000 18000
+@ IN SOA localhost. root.localhost. 2026101801 25200 3600 2592000 18000
   IN NS  localhost.
 ;
 ; Title: No Google RPZ
 ; Description: This blocklist helps to restrict access to Google and its domains. Contribute at https://github.com/nickspaargaren/no-google
 ; Homepage: https://github.com/nickspaargaren/no-google
-; Last modified: 2026-09-20
+; Last modified: 2026-10-18
 ;
 
 ; Analytics
@@ -3769,10 +3769,6 @@ r1---sn-a5mlrnek.c.drive.google.com CNAME .
 *.r1---sn-a5mlrnek.c.drive.google.com CNAME .
 r1---sn-vgqsrnez.c.docs.google.com CNAME .
 *.r1---sn-vgqsrnez.c.docs.google.com CNAME .
-r10.sn-axq7sn7l.c.docs.google.com CNAME .
-*.r10.sn-axq7sn7l.c.docs.google.com CNAME .
-r2.sn-hc57en7d.c.drive.google.com CNAME .
-*.r2.sn-hc57en7d.c.drive.google.com CNAME .
 r2.sn-npoe7nek.c.drive.google.com CNAME .
 *.r2.sn-npoe7nek.c.drive.google.com CNAME .
 r2.sn-npoe7nl6.c.docs.google.com CNAME .
