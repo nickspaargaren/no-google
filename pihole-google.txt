@@ -4155,7 +4155,6 @@ r1.sn-vgqskne6.gvt1.com
 r1.sn-vgqsrned.gvt1.com
 r1.sn-vgqsrnek.gvt1.com
 r1.sn-vgqsrnes.gvt1.com
-r10.sn-axq7sn7l.c.docs.google.com
 r12---sn-8p8v-bg06.gvt1.com
 r15---sn-8p8v-bg06.gvt1.com
 r16---sn-8p8v-bg06.gvt1.com
@@ -4176,7 +4175,6 @@ r2---sn-poqvn5u-jb36.gvt1.com
 r2---sn-upbvbu-b056.gvt1.com
 r2---sn-uxa3vhnxa-2306.gvt1.com
 r2.sn-b0a4cgpqbx-qvie.gvt1.com
-r2.sn-hc57en7d.c.drive.google.com
 r2.sn-n3cgv5qc5oq-nf06.gvt1.com
 r2.sn-npoe7nek.c.drive.google.com
 r2.sn-npoe7nl6.c.docs.google.com
