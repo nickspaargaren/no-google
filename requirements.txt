@@ -1,4 +1,4 @@
-black==26.10.0
+black==26.10.1
 python-whois==0.9.6
 dnspython==2.9.0
 pytest==9.1.1
