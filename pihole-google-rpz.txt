@@ -1,11 +1,11 @@
 $TTL 18000
-@ IN SOA localhost. root.localhost. 2026101801 25200 3600 2592000 18000
+@ IN SOA localhost. root.localhost. 2026112401 25200 3600 2592000 18000
   IN NS  localhost.
 ;
 ; Title: No Google RPZ
 ; Description: This blocklist helps to restrict access to Google and its domains. Contribute at https://github.com/nickspaargaren/no-google
 ; Homepage: https://github.com/nickspaargaren/no-google
-; Last modified: 2026-10-18
+; Last modified: 2026-11-24
 ;
 
 ; Analytics
@@ -6265,8 +6265,6 @@ home.nest.com CNAME .
 *.home.nest.com CNAME .
 hvac-diag.nest.com CNAME .
 *.hvac-diag.nest.com CNAME .
-images.mail.nest.com CNAME .
-*.images.mail.nest.com CNAME .
 logsink.devices.nest.com CNAME .
 *.logsink.devices.nest.com CNAME .
 marketing-assets.nest.com CNAME .
@@ -6279,10 +6277,6 @@ nestservices.google.com CNAME .
 *.nestservices.google.com CNAME .
 nssbridge.nest.com CNAME .
 *.nssbridge.nest.com CNAME .
-pdb-mysql-proxy01.data01.iad01.hq.nest.com CNAME .
-*.pdb-mysql-proxy01.data01.iad01.hq.nest.com CNAME .
-pdb-mysql-proxy02.data01.iad01.hq.nest.com CNAME .
-*.pdb-mysql-proxy02.data01.iad01.hq.nest.com CNAME .
 pro.nest.com CNAME .
 *.pro.nest.com CNAME .
 resource-gateway.api.nest.com CNAME .

@@ -1,5 +1,5 @@
 ! This blocklist helps to restrict access to Google and its domains. Contribute at https://github.com/nickspaargaren/no-google
-! Last updated: 2026-10-18
+! Last updated: 2026-11-24
 ! Analytics
 ||-chromecontentsuggestions-pa.googleapis.com^
 ||1.chromefeedcontentsuggestions-pa.googleapis.com^
@@ -3129,15 +3129,12 @@
 ||home-assistant.nest.com^
 ||home.nest.com^
 ||hvac-diag.nest.com^
-||images.mail.nest.com^
 ||logsink.devices.nest.com^
 ||marketing-assets.nest.com^
 ||myaccount.nest.com^
 ||nestapi.google.com^
 ||nestservices.google.com^
 ||nssbridge.nest.com^
-||pdb-mysql-proxy01.data01.iad01.hq.nest.com^
-||pdb-mysql-proxy02.data01.iad01.hq.nest.com^
 ||pro.nest.com^
 ||resource-gateway.api.nest.com^
 ||shield-home.nest.com^

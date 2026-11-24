@@ -1,5 +1,5 @@
 # This blocklist helps to restrict access to Google and its domains. Contribute at https://github.com/nickspaargaren/no-google
-# Last updated: 2026-10-18
+# Last updated: 2026-11-24
 # Nest
 
 accounts.ft.nest.com
@@ -52,7 +52,6 @@ home-assistant.nest.com
 home.ft.nest.com
 home.nest.com
 hvac-diag.nest.com
-images.mail.nest.com
 integration.store.ft.nest.com
 integration.store.nest.com
 logsink.devices.nest.com
@@ -67,8 +66,6 @@ nexusapi-eu1.camera.home.nest.com
 nexusapi-us1.camera.home.nest.com
 nssbridge.nest.com
 o1.email1.nest.com
-pdb-mysql-proxy01.data01.iad01.hq.nest.com
-pdb-mysql-proxy02.data01.iad01.hq.nest.com
 phoenixhttp.exporters.ft.nest.com
 pro.nest.com
 resource-gateway.api.ft.nest.com
